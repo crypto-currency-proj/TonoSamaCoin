@@ -3,39 +3,39 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>編集するためにアドレスもしくはラベルを右クリックします</translation>
+        <translation>編雁E��るためにアドレスもしく�Eラベルを右クリチE��しまぁE/translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>新しいアドレスを作成します</translation>
+        <translation>新しいアドレスを作�EしまぁE/translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新規</translation>
+        <translation>新要E/translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>クリップボードに現在選択されているアドレスをコピーします</translation>
+        <translation>クリチE�Eボ�Eドに現在選択されてぁE��アドレスをコピ�EしまぁE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;コピー</translation>
+        <translation>&amp;コピ�E</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>C&amp;失敗</translation>
+        <translation>C&amp;失敁E/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>リストから現在選択中のアドレスを削除します</translation>
+        <translation>リストから現在選択中のアドレスを削除しまぁE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>ファイルの現在のタブを出力します</translation>
+        <translation>ファイルの現在のタブを出力しまぁE/translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;出力</translation>
+        <translation>&amp;出劁E/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -43,15 +43,15 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>送付するコインのアドレスを選択</translation>
+        <translation>送付するコインのアドレスを選抁E/translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>受け取るコインのアドレスを選択</translation>
+        <translation>受け取るコインのアドレスを選抁E/translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>C&amp;選択</translation>
+        <translation>C&amp;選抁E/translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -63,39 +63,39 @@
     </message>
     <message>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>支払送信するためのビットコインアドレスです。コインを送付する前に、いつも残高と受信アドレスの確認をしてください。</translation>
+        <translation>支払送信するためのビットコインアドレスです。コインを送付する前に、いつも残高と受信アドレスの確認をしてください、E/translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>支払の受信をするためのビットコインアドレスです。それぞれの処理に新規に受信アドレスを使用することを推奨します。</translation>
+        <translation>支払�E受信をするため�Eビットコインアドレスです。それぞれ�E処琁E��新規に受信アドレスを使用することを推奨します、E/translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>&amp;アドレスのコピー</translation>
+        <translation>&amp;アドレスのコピ�E</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>コピー&amp;ラベル</translation>
+        <translation>コピ�E&amp;ラベル</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;編集</translation>
+        <translation>&amp;編雁E/translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>アドレス一覧の出力</translation>
+        <translation>アドレス一覧の出劁E/translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>カンマ区切りのファイル(*.csv)</translation>
+        <translation>カンマ区刁E��のファイル(*.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>出力の失敗</translation>
+        <translation>出力�E失敁E/translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>%1のため、アドレス一覧の保存中のエラーが発生しました。もう一度、実行してください。</translation>
+        <translation>%1のため、アドレス一覧の保存中のエラーが発生しました。もぁE��度、実行してください、E/translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ラベルなし)</translation>
+        <translation>(ラベルなぁE</translation>
     </message>
 </context>
 <context>
@@ -121,11 +121,11 @@
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>パスフレーズの入力</translation>
+        <translation>パスフレーズの入劁E/translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>新規のパスフレーズ</translation>
+        <translation>新規�Eパスフレーズ</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
@@ -133,27 +133,27 @@
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>財布に新規パスフレーズの入力をします。&lt;br/&gt;パスフレーズを使ってください &lt;b&gt;10以上のランダム文字列&lt;/b&gt;もしくは &lt;b&gt;8以上の単語&lt;/b&gt;.</translation>
+        <translation>財币E��新規パスフレーズの入力をします、Elt;br/&gt;パスフレーズを使ってください &lt;b&gt;10以上�Eランダム斁E���E&lt;/b&gt;もしく�E &lt;b&gt;8以上�E単誁Elt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>財布を暗号化します</translation>
+        <translation>財币E��暗号化しまぁE/translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>この操作は、財布のロックを解除するために財布のパスフレーズが必要です。</translation>
+        <translation>こ�E操作�E、財币E�EロチE��を解除するために財币E�Eパスフレーズが忁E��です、E/translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>財布のロック解除</translation>
+        <translation>財币E�EロチE��解除</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>この操作は、財布を複合化するために財布のパスフレーズが必要です。</translation>
+        <translation>こ�E操作�E、財币E��褁E��化するために財币E�Eパスフレーズが忁E��です、E/translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>財布の復号化</translation>
+        <translation>財币E�E復号匁E/translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -161,70 +161,70 @@
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>財布に古いパスフレーズと新規パスフレーズを入力します。</translation>
+        <translation>財币E��古ぁE��スフレーズと新規パスフレーズを�E力します、E/translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>財布の暗号化を確認します</translation>
+        <translation>財币E�E暗号化を確認しまぁE/translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>注意: 財布の暗号化やパスフレーズを忘れた場合、 &lt;b&gt;あなたのビットコインはすべて失われます。&lt;/b&gt;!</translation>
+        <translation>注愁E 財币E�E暗号化やパスフレーズを忘れた場合、E&lt;b&gt;あなた�Eビットコインはすべて失われます、Elt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>財布を暗号化してもよろしいですか？</translation>
+        <translation>財币E��暗号化してもよろしぁE��すか�E�E/translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>暗号化された財布</translation>
+        <translation>暗号化された財币E/translation>
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>暗号化処理を終了させるために、すぐに%1を閉じるでしょう。あなたのコンピュータに感染したマルウェアによって、盗まれたビットコインは暗号化をしていても完全に守ることができないことを覚えておいてください。</translation>
+        <translation>暗号化�E琁E��終亁E��せるために、すぐに%1を閉じるでしょぁE��あなた�Eコンピュータに感染したマルウェアによって、盗まれたビットコインは暗号化をしてぁE��も完�Eに守ることができなぁE��とを覚えておいてください、E/translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>重要: 以前の財布ファイルのバックアップは、新しく作成された暗号化された財布ファイルに置き換えられるべきです。セキュリティの観点から、暗号化されていない以前の財布ファイルは、新しく暗号化された財布が利用開始になり次第、間もなく使用できなくなります。</translation>
+        <translation>重要E 以前�E財币E��ァイルのバックアチE�Eは、新しく作�Eされた暗号化された財币E��ァイルに置き換えられるべきです。セキュリチE��の観点から、暗号化されてぁE��ぁE��前�E財币E��ァイルは、新しく暗号化された財币E��利用開始になり次第、E��もなく使用できなくなります、E/translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>財布の暗号化に失敗しました。</translation>
+        <translation>財币E�E暗号化に失敗しました、E/translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>内部エラーにより財布の暗号化に失敗しました。財布は暗号化されていません。</translation>
+        <translation>冁E��エラーにより財币E�E暗号化に失敗しました。財币E�E暗号化されてぁE��せん、E/translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>提供されたパスフレーズは一致しません。</translation>
+        <translation>提供されたパスフレーズは一致しません、E/translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>財布のロック解除に失敗しました。</translation>
+        <translation>財币E�EロチE��解除に失敗しました、E/translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>財布の復号化のために入力されたパスフレーズが間違っています。</translation>
+        <translation>財币E�E復号化�Eために入力されたパスフレーズが間違ってぁE��す、E/translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>財布の復号化に失敗しました。</translation>
+        <translation>財币E�E復号化に失敗しました、E/translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>財布パスフレーズの変更に成功しました。</translation>
+        <translation>財币E��スフレーズの変更に成功しました、E/translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>注意: CapsLockキーが有効になっています!</translation>
+        <translation>注愁E CapsLockキーが有効になってぁE��ぁE</translation>
     </message>
 </context>
 <context>
     <name>BanTableModel</name>
     <message>
         <source>IP/Netmask</source>
-        <translation>IPアドレス/ネットマスク</translation>
+        <translation>IPアドレス/ネット�Eスク</translation>
     </message>
     <message>
         <source>Banned Until</source>
@@ -235,7 +235,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>サイン &amp;メッセージ...</translation>
+        <translation>サイン &amp;メチE��ージ...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -243,23 +243,23 @@
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>&amp;概要</translation>
+        <translation>&amp;概要E/translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>ノード</translation>
+        <translation>ノ�EチE/translation>
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>財布の一般概要を表示</translation>
+        <translation>財币E�E一般概要を表示</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;処理</translation>
+        <translation>&amp;処琁E/translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>処理の履歴を見る</translation>
+        <translation>処琁E�E履歴を見る</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -267,23 +267,23 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>アプリケーションを終了</translation>
+        <translation>アプリケーションを終亁E/translation>
     </message>
     <message>
         <source>&amp;About %1</source>
-        <translation>&amp;%1について</translation>
+        <translation>&amp;%1につぁE��</translation>
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>%1についての情報を見る</translation>
+        <translation>%1につぁE��の惁E��を見る</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>&amp;Qtについて</translation>
+        <translation>&amp;QtにつぁE��</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Qtについての情報を見る</translation>
+        <translation>QtにつぁE��の惁E��を見る</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -295,11 +295,11 @@
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;財布の暗号化...</translation>
+        <translation>&amp;財币E�E暗号匁E..</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;財布のバックアップ...</translation>
+        <translation>&amp;財币E�EバックアチE�E...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Click to disable network activity.</source>
-        <translation>ネットワーク処理を無効にするためにクリックする</translation>
+        <translation>ネットワーク処琁E��無効にするためにクリチE��する</translation>
     </message>
     <message>
         <source>Network activity disabled.</source>
@@ -327,7 +327,7 @@
     </message>
     <message>
         <source>Click to enable network activity again.</source>
-        <translation>再度、ネットワーク処理を有効化するために、クリック</translation>
+        <translation>再度、ネチE��ワーク処琁E��有効化するために、クリチE��</translation>
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>ディスクのブロックの再インデックス中...</translation>
+        <translation>チE��スクのブロチE��の再インチE��クス中...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
@@ -343,23 +343,23 @@
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>他の場所に財布をバックアップ</translation>
+        <translation>他�E場所に財币E��バックアチE�E</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>財布の暗号化に使用するパスフレーズを変更</translation>
+        <translation>財币E�E暗号化に使用するパスフレーズを変更</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>&amp;デバッグ用ウィンドウ</translation>
+        <translation>&amp;チE��チE��用ウィンドウ</translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>デバッグと診断のコンソールを開く</translation>
+        <translation>チE��チE��と診断のコンソールを開ぁE/translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;メッセージの確認...</translation>
+        <translation>&amp;メチE��ージの確誁E..</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>財布</translation>
+        <translation>財币E/translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -383,19 +383,19 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>メインウィンドウの表示もしくは非表示</translation>
+        <translation>メインウィンドウの表示もしく�E非表示</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>財布に属するプライベートキーの暗号化</translation>
+        <translation>財币E��属する�Eライベ�Eトキーの暗号匁E/translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>所有者であることを証明するためにビットコインアドレスのメッセージにサイン</translation>
+        <translation>所有老E��あることを証明するためにビットコインアドレスのメチE��ージにサイン</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>署名された特定のビットコインアドレスを確認するために、メッセージを確認</translation>
+        <translation>署名された特定�Eビットコインアドレスを確認するために、メチE��ージを確誁E/translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -403,19 +403,19 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;設定</translation>
+        <translation>&amp;設宁E/translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;ヘルプ</translation>
+        <translation>&amp;ヘルチE/translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>ツールバータブ</translation>
+        <translation>チE�Eルバ�EタチE/translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>支払の要求 (QRコードとビットコインのURIを作成)</translation>
+        <translation>支払�E要汁E(QRコードとビットコインのURIを作�E)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>ビットコインのURIまたは支払要求を開く</translation>
+        <translation>ビットコインのURIまた�E支払要求を開く</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -435,11 +435,11 @@
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>ディスクのブロックのインデックス化中...</translation>
+        <translation>チE��スクのブロチE��のインチE��クス化中...</translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
-        <translation>ディスクのブロックの処理中...</translation>
+        <translation>チE��スクのブロチE��の処琁E��...</translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -447,11 +447,11 @@
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>最後の受信ブロックは%1前に生成されました。</translation>
+        <translation>最後�E受信ブロチE��は%1前に生�Eされました、E/translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>トランザクション後も、これらは見えることはありません。</translation>
+        <translation>トランザクション後も、これらは見えることはありません、E/translation>
     </message>
     <message>
         <source>Error</source>
@@ -459,11 +459,11 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>警呁E/translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>情報</translation>
+        <translation>惁E��</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -471,11 +471,11 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>ビットコインのコマンドラインオプションとして可能なリストの取得の%1ヘルプメッセージを表示</translation>
+        <translation>ビットコインのコマンドラインオプションとして可能なリスト�E取得�E%1ヘルプメチE��ージを表示</translation>
     </message>
     <message>
         <source>%1 client</source>
-        <translation>クライアント%1</translation>
+        <translation>クライアンチE1</translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
@@ -483,24 +483,24 @@
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>追いつき中...</translation>
+        <translation>追ぁE��き中...</translation>
     </message>
     <message>
         <source>Date: %1
 </source>
-        <translation>日付: %1
+        <translation>日仁E %1
 </translation>
     </message>
     <message>
         <source>Amount: %1
 </source>
-        <translation>残高: %1
+        <translation>残髁E %1
 </translation>
     </message>
     <message>
         <source>Type: %1
 </source>
-        <translation>タイプ: %1
+        <translation>タイチE %1
 </translation>
     </message>
     <message>
@@ -517,54 +517,54 @@
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>処理送信</translation>
+        <translation>処琁E��信</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>処理受信</translation>
+        <translation>処琁E��信</translation>
     </message>
     <message>
         <source>HD key generation is &lt;b&gt;enabled&lt;/b&gt;</source>
-        <translation>HDキー世代は&lt;b&gt;有効化&lt;/b&gt;</translation>
+        <translation>HDキー世代は&lt;b&gt;有効匁Elt;/b&gt;</translation>
     </message>
     <message>
         <source>HD key generation is &lt;b&gt;disabled&lt;/b&gt;</source>
-        <translation>HDキー世代は&lt;b&gt;無効化&lt;/b&gt;</translation>
+        <translation>HDキー世代は&lt;b&gt;無効匁Elt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>財布は&lt;b&gt;暗号化された&lt;/b&gt; そして現在 &lt;b&gt;ロック解除されています&lt;/b&gt;</translation>
+        <translation>財币E�E&lt;b&gt;暗号化された&lt;/b&gt; そして現在 &lt;b&gt;ロチE��解除されてぁE��ぁElt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>財布は &lt;b&gt;暗号化され&lt;/b&gt; そして現在 &lt;b&gt;ロックされています&lt;/b&gt;</translation>
+        <translation>財币E�E &lt;b&gt;暗号化さめElt;/b&gt; そして現在 &lt;b&gt;ロチE��されてぁE��ぁElt;/b&gt;</translation>
     </message>
     <message>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>致命的なエラーが発生しました。ビットコインは安全に終了することができません。</translation>
+        <translation>致命皁E��エラーが発生しました。ビチE��コインは安�Eに終亁E��ることができません、E/translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>コイン選択</translation>
+        <translation>コイン選抁E/translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>量:</translation>
+        <translation>釁E</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>バイト:</translation>
+        <translation>バイチE</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>残高:</translation>
+        <translation>残髁E</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>手数料:</translation>
+        <translation>手数斁E</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>後の料金:</translation>
+        <translation>後�E料��:</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -580,19 +580,19 @@
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>全て選択する（しない）</translation>
+        <translation>全て選択する（しなぁE��E/translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>ツリー型</translation>
+        <translation>チE��ー垁E/translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>リストモード</translation>
+        <translation>リストモーチE/translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>残高</translation>
+        <translation>残髁E/translation>
     </message>
     <message>
         <source>Received with label</source>
@@ -604,11 +604,11 @@
     </message>
     <message>
         <source>Date</source>
-        <translation>日付</translation>
+        <translation>日仁E/translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>確認</translation>
+        <translation>確誁E/translation>
     </message>
     <message>
         <source>Confirmed</source>
@@ -616,75 +616,75 @@
     </message>
     <message>
         <source>Copy address</source>
-        <translation>アドレスのコピー</translation>
+        <translation>アドレスのコピ�E</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>ラベルのコピー</translation>
+        <translation>ラベルのコピ�E</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>残高のコピー</translation>
+        <translation>残高�Eコピ�E</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>トランザクションIDのコピー</translation>
+        <translation>トランザクションIDのコピ�E</translation>
     </message>
     <message>
         <source>Lock unspent</source>
-        <translation>未消費のロック</translation>
+        <translation>未消費のロチE��</translation>
     </message>
     <message>
         <source>Unlock unspent</source>
-        <translation>未消費のロック解除</translation>
+        <translation>未消費のロチE��解除</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>量をコピー</translation>
+        <translation>量をコピ�E</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>料金をコピー</translation>
+        <translation>料��をコピ�E</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>後料金をこぴー</translation>
+        <translation>後料金をこ�Eー</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>バイトをコピー</translation>
+        <translation>バイトをコピ�E</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>ゴミをコピー</translation>
+        <translation>ゴミをコピ�E</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>変更をコピー</translation>
+        <translation>変更をコピ�E</translation>
     </message>
     <message>
         <source>(%1 locked)</source>
-        <translation>(%1 ロック済み)</translation>
+        <translation>(%1 ロチE��済み)</translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>はい</translation>
+        <translation>はぁE/translation>
     </message>
     <message>
         <source>no</source>
-        <translation>いいえ</translation>
+        <translation>ぁE��ぁE/translation>
     </message>
     <message>
         <source>This label turns red if any recipient receives an amount smaller than the current dust threshold.</source>
-        <translation>受信したレシピが現在のダスト閾値よりも残高が少ない場合、ラベルは赤になります。</translation>
+        <translation>受信したレシピが現在のダスト閾値よりも残高が少なぁE��合、ラベルは赤になります、E/translation>
     </message>
     <message>
         <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>入力ごとにsatoshiの+/- %1に変更できます。</translation>
+        <translation>入力ごとにsatoshiの+/- %1に変更できます、E/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ラベルなし)</translation>
+        <translation>(ラベルなぁE</translation>
     </message>
     <message>
         <source>change from %1 (%2)</source>
@@ -699,7 +699,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>アドレス編集</translation>
+        <translation>アドレス編雁E/translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -711,7 +711,7 @@
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>アドレスに結合されたアドレスリストのエントリーです。これは送信アドレスのみによって変更されます。</translation>
+        <translation>アドレスに結合されたアドレスリスト�Eエントリーです。これ�E送信アドレスのみによって変更されます、E/translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -719,42 +719,42 @@
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>新規の受信アドレス</translation>
+        <translation>新規�E受信アドレス</translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>新規の送信アドレス</translation>
+        <translation>新規�E送信アドレス</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>受信アドレスを編集</translation>
+        <translation>受信アドレスを編雁E/translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>送信アドレスの編集</translation>
+        <translation>送信アドレスの編雁E/translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>入寮されたアドレス "%1" は正当なビットコインアドレスではありません。</translation>
+        <translation>入寮されたアドレス "%1" は正当なビットコインアドレスではありません、E/translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>入浴されたアドレス "%1" はすでにアドレス帳にあります。</translation>
+        <translation>入浴されたアドレス "%1" はすでにアドレス帳にあります、E/translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>財布をロック解除できませんでした。</translation>
+        <translation>財币E��ロチE��解除できませんでした、E/translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>新規のキー生成に失敗しました。</translation>
+        <translation>新規�Eキー生�Eに失敗しました、E/translation>
     </message>
 </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>新しい日付の辞書が作成されるでしょう。</translation>
+        <translation>新しい日付�E辞書が作�EされるでしょぁE��E/translation>
     </message>
     <message>
         <source>name</source>
@@ -762,30 +762,30 @@
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>辞書はすでに存在しています。新しい辞書を作成する場合は、%1を追加してください。</translation>
+        <translation>辞書はすでに存在してぁE��す。新しい辞書を作�Eする場合�E、E1を追加してください、E/translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>パスはすでに存在しており、辞書ではありません。</translation>
+        <translation>パスはすでに存在しており、辞書ではありません、E/translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>ここに日付辞書を作成することはできません。</translation>
+        <translation>ここに日付辞書を作�Eすることはできません、E/translation>
     </message>
 </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>バージョン</translation>
+        <translation>バ�Eジョン</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
-        <translation>(%1-ビット)</translation>
+        <translation>(%1-ビッチE</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>%1について</translation>
+        <translation>%1につぁE��</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -793,7 +793,7 @@
     </message>
     <message>
         <source>Usage:</source>
-        <translation>使用方法:</translation>
+        <translation>使用方況E</translation>
     </message>
     <message>
         <source>command-line options</source>
@@ -805,27 +805,27 @@
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>起動の日付辞書の選択 (デフォルト: %u)</translation>
+        <translation>起動�E日付辞書の選抁E(チE��ォルチE %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>言語設定, 例 "de_DE" (デフォルト: システムロケール)</translation>
+        <translation>言語設宁E 侁E"de_DE" (チE��ォルチE シスチE��ロケール)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>最小化起動</translation>
+        <translation>最小化起勁E/translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>支払要求のSSLルート証明の設定 (デフォルト: -システム-)</translation>
+        <translation>支払要求�ESSLルート証明�E設宁E(チE��ォルチE -シスチE��-)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>起動スクリーンを表示 (デフォルト: %u)</translation>
+        <translation>起動スクリーンを表示 (チE��ォルチE %u)</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
-        <translation>GUIのすべての設定をリセット</translation>
+        <translation>GUIのすべての設定をリセチE��</translation>
     </message>
 </context>
 <context>
@@ -840,19 +840,19 @@
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>プログラムの初回起動時なので、データの保存場所 %1を選択してください。</translation>
+        <translation>プログラムの初回起動時なので、データの保存場所 %1を選択してください、E/translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>デフォルトデータ辞書を使用</translation>
+        <translation>チE��ォルトデータ辞書を使用</translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
-        <translation>カスタムデータ辞書を使用</translation>
+        <translation>カスタムチE�Eタ辞書を使用</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>エラー: 特定の辞書%1の作成に失敗しました。</translation>
+        <translation>エラー: 特定�E辞書%1の作�Eに失敗しました、E/translation>
     </message>
     <message>
         <source>Error</source>
@@ -867,27 +867,27 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>最近のトランザクションが表示できない可能性があります。従って、ウォレットの残高が正しくない可能性があります。この情報はビットコインネットワークに接続し、同期処理を完了させると正しくなります。詳細は以下になります。</translation>
+        <translation>最近�Eトランザクションが表示できなぁE��能性があります。従って、ウォレチE��の残高が正しくなぁE��能性があります。この惁E��はビットコインネットワークに接続し、同期�E琁E��完亁E��せると正しくなります。詳細は以下になります、E/translation>
     </message>
     <message>
         <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>使用したビットコインで、未処理となっているものは、ネットワークによって受領されません。</translation>
+        <translation>使用したビットコインで、未処琁E��なってぁE��も�Eは、ネチE��ワークによって受領されません、E/translation>
     </message>
     <message>
         <source>Number of blocks left</source>
-        <translation>残りのブロック数</translation>
+        <translation>残りのブロチE��数</translation>
     </message>
     <message>
         <source>Unknown...</source>
-        <translation>不明...</translation>
+        <translation>不�E...</translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>最後のブロック時間</translation>
+        <translation>最後�EブロチE��時間</translation>
     </message>
     <message>
         <source>Progress</source>
-        <translation>実行</translation>
+        <translation>実衁E/translation>
     </message>
     <message>
         <source>Progress increase per hour</source>
@@ -899,15 +899,15 @@
     </message>
     <message>
         <source>Estimated time left until synced</source>
-        <translation>同期化完了までの予測時間</translation>
+        <translation>同期化完亁E��での予測時間</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>隠す</translation>
+        <translation>隠ぁE/translation>
     </message>
     <message>
         <source>Unknown. Syncing Headers (%1)...</source>
-        <translation>不明. ヘッダーの同期中 (%1)...</translation>
+        <translation>不�E. ヘッダーの同期中 (%1)...</translation>
     </message>
 </context>
 <context>
@@ -918,7 +918,7 @@
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>URLもしくはファイルからの支払い要求を開く</translation>
+        <translation>URLもしく�Eファイルからの支払い要求を開く</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -926,11 +926,11 @@
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>支払い要求ファイルの選択</translation>
+        <translation>支払い要求ファイルの選抁E/translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>開く支払い要求ファイルを選択</translation>
+        <translation>開く支払い要求ファイルを選抁E/translation>
     </message>
 </context>
 <context>
@@ -945,59 +945,59 @@
     </message>
     <message>
         <source>Automatically start %1 after logging in to the system.</source>
-        <translation>システムログイン時に%1を自動的に開始</translation>
+        <translation>シスチE��ログイン時に%1を�E動的に開姁E/translation>
     </message>
     <message>
         <source>&amp;Start %1 on system login</source>
-        <translation>&amp;システムログインで%1を開始</translation>
+        <translation>&amp;シスチE��ログインで%1を開姁E/translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>&amp;データベース喝取のサイズ</translation>
+        <translation>&amp;チE�Eタベ�Eス喝取のサイズ</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>メガバイト</translation>
+        <translation>メガバイチE/translation>
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>&amp;認証スレッドスクリプトの数</translation>
+        <translation>&amp;認証スレチE��スクリプトの数</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>外部からの接続承認</translation>
+        <translation>外部からの接続承誁E/translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>内部接続の許可</translation>
+        <translation>冁E��接続�E許可</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>IP プロキシのアドレス (例 IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>IP プロキシのアドレス (侁EIPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
-        <translation>ウィンドウが閉じられた時、アプリケーションを終了せずに最小化します。オプションボタンが有効な時は、アプリケーションはメニューの終了が選択されら時のみ、終了します。</translation>
+        <translation>ウィンドウが閉じられた時、アプリケーションを終亁E��ずに最小化します。オプションボタンが有効な時�E、アプリケーションはメニューの終亁E��選択されら時�Eみ、終亁E��ます、E/translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>サードパーティのURL(例 a block explorer)はコンテキストメニューアイテムの処理タブに表示されます。YRLの%sは処理ハッシュによって置き換えられます。複数URLは水平バー | によって区切られます。</translation>
+        <translation>サードパーチE��のURL(侁Ea block explorer)はコンチE��ストメニューアイチE��の処琁E��ブに表示されます、ERLの%sは処琁E��チE��ュによって置き換えられます。褁E��URLは水平バ�E | によって区刁E��れます、E/translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>サードパティ処理URL</translation>
+        <translation>サードパチE��処琁ERL</translation>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>オプション上書きのコマンドラインオプションの有効化</translation>
+        <translation>オプション上書き�Eコマンドラインオプションの有効匁E/translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>全てのクライアントオプションをデフォルトにリセット</translation>
+        <translation>全てのクライアントオプションをデフォルトにリセチE��</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>&amp;リセットオプション</translation>
+        <translation>&amp;リセチE��オプション</translation>
     </message>
     <message>
         <source>&amp;Network</source>
@@ -1005,11 +1005,11 @@
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = 自動, &lt;0 = 使用しないコア数)</translation>
+        <translation>(0 = 自勁E &lt;0 = 使用しなぁE��ア数)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>ウォレット</translation>
+        <translation>ウォレチE��</translation>
     </message>
     <message>
         <source>Expert</source>
@@ -1017,31 +1017,31 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>コインと制御機能の有効化</translation>
+        <translation>コインと制御機�Eの有効匁E/translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>認証されていない変更の支出を無効化した場合、その変更を含む処理はすべての認証が完了するまで、使用することはできません。また、これは残高の計算にも影響します。</translation>
+        <translation>認証されてぁE��ぁE��更の支出を無効化した場合、その変更を含む処琁E�Eすべての認証が完亁E��るまで、使用することはできません。また、これ�E残高�E計算にも影響します、E/translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>&amp;認証されていない変更の支払い</translation>
+        <translation>&amp;認証されてぁE��ぁE��更の支払い</translation>
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動絵的にルータのビットコインのクライアントポートが開きます。この機能はルータがUPnPをサポートし、有効であるときに動作します。</translation>
+        <translation>自動絵皁E��ルータのビットコインのクライアント�Eートが開きます。この機�EはルータがUPnPをサポ�Eトし、有効であるときに動作します、E/translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>&amp;UPnPを使用してポート配置します。</translation>
+        <translation>&amp;UPnPを使用してポ�Eト�E置します、E/translation>
     </message>
     <message>
         <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>SOCKS5プロキシを使用してビットコインネットワークへ接続</translation>
+        <translation>SOCKS5プロキシを使用してビットコインネットワークへ接綁E/translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>&amp;SOCKS5プロキシを使用して接続 (デフォルト プロキシ):</translation>
+        <translation>&amp;SOCKS5プロキシを使用して接綁E(チE��ォルチEプロキシ):</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1049,11 +1049,11 @@
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;ポート:</translation>
+        <translation>&amp;ポ�EチE</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>プロキシのポート (例 9050)</translation>
+        <translation>プロキシのポ�EチE(侁E9050)</translation>
     </message>
     <message>
         <source>Used for reaching peers via:</source>
@@ -1073,11 +1073,11 @@
     </message>
     <message>
         <source>Connect to the Litecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Tor秘匿ネットワークのための区切られたSOCKS5を経由して、ビットコインネットワークに接続</translation>
+        <translation>Tor秘匿ネットワークのための区刁E��れたSOCKS5を経由して、ビチE��コインネットワークに接綁E/translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
-        <translation>Tor匿名サービスを経由して到達ピアへ、区切られたSOCKS5 プロキシを使用:</translation>
+        <translation>Tor匿名サービスを経由して到達ピアへ、区刁E��れたSOCKS5 プロキシを使用:</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1085,7 +1085,7 @@
     </message>
     <message>
         <source>&amp;Hide the icon from the system tray.</source>
-        <translation>&amp;システムトレイのアイコンを非表示.</translation>
+        <translation>&amp;シスチE��トレイのアイコンを非表示.</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
@@ -1093,11 +1093,11 @@
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>画面最小化時にトレイアイコンを表示する。</translation>
+        <translation>画面最小化時にトレイアイコンを表示する、E/translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;ツールバーの代わりにトレイへ最小化</translation>
+        <translation>&amp;チE�Eルバ�Eの代わりにトレイへ最小化</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
@@ -1109,23 +1109,23 @@
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>ユーザインターフェース &amp;言語:</translation>
+        <translation>ユーザインターフェース &amp;言誁E</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting %1.</source>
-        <translation>ユーザインタフェースの言語はここで設定されます。設定は%1を再起動後、有効になります。</translation>
+        <translation>ユーザインタフェースの言語�Eここで設定されます。設定�E%1を�E起動後、有効になります、E/translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;残高表示の単位:</translation>
+        <translation>&amp;残高表示の単佁E</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>コイン送付時のインターフェースに表示するデフォルトの除算単位の選択</translation>
+        <translation>コイン送付時のインターフェースに表示するチE��ォルト�E除算単位�E選抁E/translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>コイン制御機能を表示するかどうか。</translation>
+        <translation>コイン制御機�Eを表示するかどぁE��、E/translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1137,31 +1137,31 @@
     </message>
     <message>
         <source>default</source>
-        <translation>デフォルト</translation>
+        <translation>チE��ォルチE/translation>
     </message>
     <message>
         <source>none</source>
-        <translation>なし</translation>
+        <translation>なぁE/translation>
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>オプションリセットの確認</translation>
+        <translation>オプションリセチE��の確誁E/translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>変更を有効にするため、クライアントの再起動が必要です。</translation>
+        <translation>変更を有効にするため、クライアント�E再起動が忁E��です、E/translation>
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>クライアントは停止します。継続してもよろしいでしょうか？</translation>
+        <translation>クライアント�E停止します。継続してもよろしぁE��しょぁE���E�E/translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>変更は、クライアントの再起動が必要になる場合があります。</translation>
+        <translation>変更は、クライアント�E再起動が忁E��になる場合があります、E/translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>提供されたプロキシアドレスは無効です。</translation>
+        <translation>提供されたプロキシアドレスは無効です、E/translation>
     </message>
 </context>
 <context>
@@ -1172,7 +1172,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示されている情報は、期限切れの可能性があります。ウォレットは自動的にビットコインネットワークへの接続が確立した後に同期化されます。しかし、処理はまだ、完了していません。</translation>
+        <translation>表示されてぁE��惁E��は、期限�Eれ�E可能性があります。ウォレチE��は自動的にビットコインネットワークへの接続が確立した後に同期化されます。しかし、�E琁E�Eまだ、完亁E��てぁE��せん、E/translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1184,39 +1184,39 @@
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>現在の支払い可能な残高</translation>
+        <translation>現在の支払い可能な残髁E/translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>未決定:</translation>
+        <translation>未決宁E</translation>
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>全てのトランザクションはまだ、確認されておらず、支払い可能な残高も数えられていません。</translation>
+        <translation>全てのトランザクションはまだ、確認されておらず、支払い可能な残高も数えられてぁE��せん、E/translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>未完成:</translation>
+        <translation>未完�E:</translation>
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>まだ、完成していない、採掘された残高</translation>
+        <translation>まだ、完�EしてぁE��ぁE��採掘された残髁E/translation>
     </message>
     <message>
         <source>Balances</source>
-        <translation>残高</translation>
+        <translation>残髁E/translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>合計:</translation>
+        <translation>合訁E</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>現在の合計残高</translation>
+        <translation>現在の合計残髁E/translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>読み取り専用アドレス内の現在の残高</translation>
+        <translation>読み取り専用アドレス冁E�E現在の残髁E/translation>
     </message>
     <message>
         <source>Spendable:</source>
@@ -1224,19 +1224,19 @@
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>最近の処理</translation>
+        <translation>最近�E処琁E/translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>読み取り専用アドレスへの未確認の処理</translation>
+        <translation>読み取り専用アドレスへの未確認�E処琁E/translation>
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>まだ、完成していない、読み取り専用アドレスの中の発掘された残高</translation>
+        <translation>まだ、完�EしてぁE��ぁE��読み取り専用アドレスの中の発掘された残髁E/translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>読み取り専用アドレス内の現在の合計残高</translation>
+        <translation>読み取り専用アドレス冁E�E現在の合計残髁E/translation>
     </message>
 </context>
 <context>
@@ -1255,7 +1255,7 @@
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
-        <translation>取得した支払要求は無効です: %1</translation>
+        <translation>取得した支払要求�E無効でぁE %1</translation>
     </message>
     <message>
         <source>Invalid payment address %1</source>
@@ -1263,51 +1263,51 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>URLはパースできませんでした! 原因はビットコインアドレスが無効であるか、URIパラメータの形式が間違っている可能性があります。</translation>
+        <translation>URLはパ�Eスできませんでした! 原因はビットコインアドレスが無効であるか、URIパラメータの形式が間違ってぁE��可能性があります、E/translation>
     </message>
     <message>
         <source>Payment request file handling</source>
-        <translation>支払要求ファイル操作</translation>
+        <translation>支払要求ファイル操佁E/translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>支払要求ファイルが読み込めませんでした! 支払要求ファイルが無効である可能性があります。</translation>
+        <translation>支払要求ファイルが読み込めませんでした! 支払要求ファイルが無効である可能性があります、E/translation>
     </message>
     <message>
         <source>Payment request rejected</source>
-        <translation>支払要求却下</translation>
+        <translation>支払要求却丁E/translation>
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
-        <translation>支払要求ネットワークはクライアントネットワークと一致しませんでした。</translation>
+        <translation>支払要求ネチE��ワークはクライアントネチE��ワークと一致しませんでした、E/translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>支払要求期限切れ</translation>
+        <translation>支払要求期限�EめE/translation>
     </message>
     <message>
         <source>Payment request is not initialized.</source>
-        <translation>支払要求は初期化されていません。</translation>
+        <translation>支払要求�E初期化されてぁE��せん、E/translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-        <translation>カスタム支払スクリプトへの未検証の支払要求は、サポートされていません。</translation>
+        <translation>カスタム支払スクリプトへの未検証の支払要求�E、サポ�EトされてぁE��せん、E/translation>
     </message>
     <message>
         <source>Invalid payment request.</source>
-        <translation>無効な支払要求:</translation>
+        <translation>無効な支払要汁E</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
-        <translation>要求支払額%1は小さすぎます (ダストを検討してください).</translation>
+        <translation>要求支払顁E1は小さすぎまぁE(ダストを検討してください).</translation>
     </message>
     <message>
         <source>Refund from %1</source>
-        <translation>%1からの払い戻し</translation>
+        <translation>%1からの払い戻ぁE/translation>
     </message>
     <message>
         <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
-        <translation>支払要求 %1 は大きすぎます (%2 バイト, %3 バイトまで許可).</translation>
+        <translation>支払要汁E%1 は大きすぎまぁE(%2 バイチE %3 バイトまで許可).</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
@@ -1315,11 +1315,11 @@
     </message>
     <message>
         <source>Payment request cannot be parsed!</source>
-        <translation>支払要求は解析できませんでした!</translation>
+        <translation>支払要求�E解析できませんでした!</translation>
     </message>
     <message>
         <source>Bad response from server %1</source>
-        <translation>サーバ%1からの不正なレスポンス</translation>
+        <translation>サーチE1からの不正なレスポンス</translation>
     </message>
     <message>
         <source>Network request error</source>
@@ -1327,22 +1327,22 @@
     </message>
     <message>
         <source>Payment acknowledged</source>
-        <translation>認証済み支払</translation>
+        <translation>認証済み支扁E/translation>
     </message>
 </context>
 <context>
     <name>PeerTableModel</name>
     <message>
         <source>User Agent</source>
-        <translation>ユーザエージェント</translation>
+        <translation>ユーザエージェンチE/translation>
     </message>
     <message>
         <source>Node/Service</source>
-        <translation>ノード/サービス</translation>
+        <translation>ノ�EチEサービス</translation>
     </message>
     <message>
         <source>NodeId</source>
-        <translation>ノードID</translation>
+        <translation>ノ�EドID</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -1353,11 +1353,11 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>残高</translation>
+        <translation>残髁E/translation>
     </message>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>ビットコインアドレスの入力 (例 %1)</translation>
+        <translation>ビットコインアドレスの入劁E(侁E%1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1377,11 +1377,11 @@
     </message>
     <message>
         <source>None</source>
-        <translation>なし</translation>
+        <translation>なぁE/translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation>該当なし</translation>
+        <translation>該当なぁE/translation>
     </message>
     <message>
         <source>%1 ms</source>
@@ -1393,18 +1393,18 @@
     </message>
     <message>
         <source>%1 didn't yet exit safely...</source>
-        <translation>%1 は安全に終了できませんでした...</translation>
+        <translation>%1 は安�Eに終亁E��きませんでした...</translation>
     </message>
 </context>
 <context>
     <name>QObject::QObject</name>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
-        <translation>エラー: 特定の日付辞書 "%1" は存在しません。</translation>
+        <translation>エラー: 特定�E日付辞書 "%1" は存在しません、E/translation>
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1. Only use key=value syntax.</source>
-        <translation>エラー: 構成ファイルが解析できませんでした: %1. キー=値の構文のみが使用できます。</translation>
+        <translation>エラー: 構�Eファイルが解析できませんでした: %1. キー=値の構文のみが使用できます、E/translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -1415,15 +1415,15 @@
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;イメージ保存...</translation>
+        <translation>&amp;イメージ保孁E..</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;イメージコピー</translation>
+        <translation>&amp;イメージコピ�E</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>QRコード保存</translation>
+        <translation>QRコード保孁E/translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
@@ -1434,7 +1434,7 @@
     <name>RPCConsole</name>
     <message>
         <source>N/A</source>
-        <translation>該当なし</translation>
+        <translation>該当なぁE/translation>
     </message>
     <message>
         <source>Client version</source>
@@ -1442,11 +1442,11 @@
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;情報</translation>
+        <translation>&amp;惁E��</translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>デバッグ画面</translation>
+        <translation>チE��チE��画面</translation>
     </message>
     <message>
         <source>General</source>
@@ -1454,15 +1454,15 @@
     </message>
     <message>
         <source>Using BerkeleyDB version</source>
-        <translation>BerkeleyDBバージョンの使用</translation>
+        <translation>BerkeleyDBバ�Eジョンの使用</translation>
     </message>
     <message>
         <source>Datadir</source>
-        <translation>データディレクトリ</translation>
+        <translation>チE�EタチE��レクトリ</translation>
     </message>
     <message>
         <source>Startup time</source>
-        <translation>開始時間</translation>
+        <translation>開始時閁E/translation>
     </message>
     <message>
         <source>Network</source>
@@ -1478,23 +1478,23 @@
     </message>
     <message>
         <source>Block chain</source>
-        <translation>ブロックチェーン</translation>
+        <translation>ブロチE��チェーン</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>現在のブロック数</translation>
+        <translation>現在のブロチE��数</translation>
     </message>
     <message>
         <source>Memory Pool</source>
-        <translation>メモリプール</translation>
+        <translation>メモリプ�Eル</translation>
     </message>
     <message>
         <source>Current number of transactions</source>
-        <translation>現在の処理数</translation>
+        <translation>現在の処琁E��</translation>
     </message>
     <message>
         <source>Memory usage</source>
-        <translation>メモリ使用量</translation>
+        <translation>メモリ使用釁E/translation>
     </message>
     <message>
         <source>Received</source>
@@ -1514,7 +1514,7 @@
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>詳細情報を表示するピアの選択</translation>
+        <translation>詳細惁E��を表示するピアの選抁E/translation>
     </message>
     <message>
         <source>Whitelisted</source>
@@ -1522,15 +1522,15 @@
     </message>
     <message>
         <source>Direction</source>
-        <translation>方向</translation>
+        <translation>方吁E/translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>バージョン</translation>
+        <translation>バ�Eジョン</translation>
     </message>
     <message>
         <source>Starting Block</source>
-        <translation>ブロック開始中</translation>
+        <translation>ブロチE��開始中</translation>
     </message>
     <message>
         <source>Synced Headers</source>
@@ -1538,19 +1538,19 @@
     </message>
     <message>
         <source>Synced Blocks</source>
-        <translation>同期化されたブロック</translation>
+        <translation>同期化されたブロチE��</translation>
     </message>
     <message>
         <source>User Agent</source>
-        <translation>ユーザエージェント</translation>
+        <translation>ユーザエージェンチE/translation>
     </message>
     <message>
         <source>Open the %1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>現在のデータ辞書から%1デバッグログファイルを開きます。ログファイルが大きいため、数秒かかります。</translation>
+        <translation>現在のチE�Eタ辞書から%1チE��チE��ログファイルを開きます。ログファイルが大きいため、数秒かかります、E/translation>
     </message>
     <message>
         <source>Decrease font size</source>
-        <translation>フォントサイズの縮小</translation>
+        <translation>フォントサイズの縮封E/translation>
     </message>
     <message>
         <source>Increase font size</source>
@@ -1566,11 +1566,11 @@
     </message>
     <message>
         <source>Connection Time</source>
-        <translation>接続時間</translation>
+        <translation>接続時閁E/translation>
     </message>
     <message>
         <source>Last Send</source>
-        <translation>最後の送信</translation>
+        <translation>最後�E送信</translation>
     </message>
     <message>
         <source>Last Receive</source>
@@ -1586,19 +1586,19 @@
     </message>
     <message>
         <source>Ping Wait</source>
-        <translation>ping待ち</translation>
+        <translation>ping征E��</translation>
     </message>
     <message>
         <source>Min Ping</source>
-        <translation>ping最小時間</translation>
+        <translation>ping最小時閁E/translation>
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>時間オフセット</translation>
+        <translation>時間オフセチE��</translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>最後のブロック時間</translation>
+        <translation>最後�EブロチE��時間</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1614,19 +1614,19 @@
     </message>
     <message>
         <source>Totals</source>
-        <translation>合計</translation>
+        <translation>合訁E/translation>
     </message>
     <message>
         <source>In:</source>
-        <translation>入力:</translation>
+        <translation>入劁E</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation>出力:</translation>
+        <translation>出劁E</translation>
     </message>
     <message>
         <source>Debug log file</source>
-        <translation>デバッグログファイル</translation>
+        <translation>チE��チE��ログファイル</translation>
     </message>
     <message>
         <source>Clear console</source>
@@ -1634,7 +1634,7 @@
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1 &amp;時</translation>
+        <translation>1 &amp;晁E/translation>
     </message>
     <message>
         <source>1 &amp;day</source>
@@ -1650,7 +1650,7 @@
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation>&amp;切断</translation>
+        <translation>&amp;刁E��</translation>
     </message>
     <message>
         <source>Ban for</source>
@@ -1658,7 +1658,7 @@
     </message>
     <message>
         <source>&amp;Unban</source>
-        <translation>&amp;禁止しない</translation>
+        <translation>&amp;禁止しなぁE/translation>
     </message>
     <message>
         <source>Welcome to the %1 RPC console.</source>
@@ -1666,7 +1666,7 @@
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>&lt;b&gt;help&lt;/b&gt; と入力すると有効なコマンドが表示されます。</translation>
+        <translation>&lt;b&gt;help&lt;/b&gt; と入力すると有効なコマンドが表示されます、E/translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -1674,23 +1674,23 @@
     </message>
     <message>
         <source>%1 B</source>
-        <translation>%1 バイト</translation>
+        <translation>%1 バイチE/translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 キロバイト</translation>
+        <translation>%1 キロバイチE/translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 メガバイト</translation>
+        <translation>%1 メガバイチE/translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 Gギガバイト</translation>
+        <translation>%1 GギガバイチE/translation>
     </message>
     <message>
         <source>(node id: %1)</source>
-        <translation>(ノードid: %1)</translation>
+        <translation>(ノ�Eドid: %1)</translation>
     </message>
     <message>
         <source>via %1</source>
@@ -1698,23 +1698,23 @@
     </message>
     <message>
         <source>never</source>
-        <translation>いままでない</translation>
+        <translation>ぁE��までなぁE/translation>
     </message>
     <message>
         <source>Inbound</source>
-        <translation>流入</translation>
+        <translation>流�E</translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>流出</translation>
+        <translation>流�E</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>はい</translation>
+        <translation>はぁE/translation>
     </message>
     <message>
         <source>No</source>
-        <translation>いいえ</translation>
+        <translation>ぁE��ぁE/translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1725,7 +1725,7 @@
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>&amp;残高:</translation>
+        <translation>&amp;残髁E</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1733,19 +1733,19 @@
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;メッセージ:</translation>
+        <translation>&amp;メチE��ージ:</translation>
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>前回使用された受信アドレスを再利用します。再度アドレスを使用することは、セキュリティとプライバシーの問題になります。再度支払要求を事前に再生成しない限り、これを使用しないようにしてください。</translation>
+        <translation>前回使用された受信アドレスを�E利用します。�E度アドレスを使用することは、セキュリチE��とプライバシーの問題になります。�E度支払要求を事前に再生成しなぁE��り、これを使用しなぁE��ぁE��してください、E/translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>&amp;再度存在している受信アドレスを死闘する(非推奨)</translation>
+        <translation>&amp;再度存在してぁE��受信アドレスを死闘すめE非推奨)</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>支払要求に添付されたオプションメッセージは、要求を開いたときに表示されます。メモ: メッセージは、ビットコインネットワーク上で支払と一緒に送信されません。</translation>
+        <translation>支払要求に添付されたオプションメチE��ージは、要求を開いたときに表示されます。メモ: メチE��ージは、ビチE��コインネットワーク上で支払と一緒に送信されません、E/translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1753,15 +1753,15 @@
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>支払要求のための形式を使用してください。すべてのフィールドは&lt;b&gt;おプション&lt;/b&gt; です。</translation>
+        <translation>支払要求�Eための形式を使用してください。すべてのフィールド�E&lt;b&gt;お�Eション&lt;/b&gt; です、E/translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>要求のためのオプション残高。特定の金額の要求をしないときは空か0を入力します。</translation>
+        <translation>要求�Eためのオプション残高。特定�E金額�E要求をしなぁE��き�E空ぁEを�E力します、E/translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>入力形式の全てのフィールドをクリア</translation>
+        <translation>入力形式�E全てのフィールドをクリア</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1773,11 +1773,11 @@
     </message>
     <message>
         <source>&amp;Request payment</source>
-        <translation>&amp;支払要求</translation>
+        <translation>&amp;支払要汁E/translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>選択された要求の表示。(空をダブルクリックしたときと同じ)</translation>
+        <translation>選択された要求�E表示、E空をダブルクリチE��したときと同じ)</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1793,42 +1793,42 @@
     </message>
     <message>
         <source>Copy URI</source>
-        <translation>コピーURI</translation>
+        <translation>コピ�EURI</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>ラベルのコピー</translation>
+        <translation>ラベルのコピ�E</translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>メッセージコピー</translation>
+        <translation>メチE��ージコピ�E</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>残高のコピー</translation>
+        <translation>残高�Eコピ�E</translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>QR Code</source>
-        <translation>QRコード</translation>
+        <translation>QRコーチE/translation>
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>&amp;URIコピー</translation>
+        <translation>&amp;URIコピ�E</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>&amp;アドレスコピー</translation>
+        <translation>&amp;アドレスコピ�E</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;イメージ保存...</translation>
+        <translation>&amp;イメージ保孁E..</translation>
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>%1のための支払要求</translation>
+        <translation>%1のための支払要汁E/translation>
     </message>
     <message>
         <source>Payment information</source>
@@ -1844,7 +1844,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>残高</translation>
+        <translation>残髁E/translation>
     </message>
     <message>
         <source>Label</source>
@@ -1852,22 +1852,22 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation>メチE��ージ</translation>
     </message>
     <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URIが長すぎるので、ラベルまたはメッセージを短くしてください。</translation>
+        <translation>URIが長すぎる�Eで、ラベルまた�EメチE��ージを短くしてください、E/translation>
     </message>
     <message>
         <source>Error encoding URI into QR Code.</source>
-        <translation>QRコードのURIのコード化エラー</translation>
+        <translation>QRコード�EURIのコード化エラー</translation>
     </message>
 </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Date</source>
-        <translation>日付</translation>
+        <translation>日仁E/translation>
     </message>
     <message>
         <source>Label</source>
@@ -1875,19 +1875,19 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation>メチE��ージ</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ラベルなし)</translation>
+        <translation>(ラベルなぁE</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>(メッセージなし)</translation>
+        <translation>(メチE��ージなぁE</translation>
     </message>
     <message>
         <source>(no amount requested)</source>
-        <translation>(料金要求なし)</translation>
+        <translation>(料��要求なぁE</translation>
     </message>
     <message>
         <source>Requested</source>
@@ -1898,15 +1898,15 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>コイン送付</translation>
+        <translation>コイン送仁E/translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>コイン制御機能</translation>
+        <translation>コイン制御機�E</translation>
     </message>
     <message>
         <source>Inputs...</source>
-        <translation>入力...</translation>
+        <translation>入劁E..</translation>
     </message>
     <message>
         <source>automatically selected</source>
@@ -1914,27 +1914,27 @@
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>残高不十分!</translation>
+        <translation>残高不十刁E</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>量:</translation>
+        <translation>釁E</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>バイト:</translation>
+        <translation>バイチE</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>残高:</translation>
+        <translation>残髁E</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>手数料:</translation>
+        <translation>手数斁E</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>後の料金:</translation>
+        <translation>後�E料��:</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -1942,7 +1942,7 @@
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>これが有効化されていて変更アドレスが空または無効でない時、変更は新しく生成されたアドレスへ送信されます。</translation>
+        <translation>これが有効化されてぁE��変更アドレスが空また�E無効でなぁE��、変更は新しく生�Eされたアドレスへ送信されます、E/translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -1950,15 +1950,15 @@
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>処理費用:</translation>
+        <translation>処琁E��用:</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>選択...</translation>
+        <translation>選抁E..</translation>
     </message>
     <message>
         <source>collapse fee-settings</source>
-        <translation>料金設定を折りたたむ</translation>
+        <translation>料��設定を折りたたむ</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -1966,19 +1966,19 @@
     </message>
     <message>
         <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then "per kilobyte" only pays 250 satoshis in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>カスタム料金が1000 satoshiで処理が250バイトのみの場合、料金はキロバイトあたりは250 satoshiのみとなり、最新の合計は1000 satoshiまで支払います。処理が1キロバイトよりも大きい場合、キロバイトごとに支払いが行われます。</translation>
+        <translation>カスタム料��ぁE000 satoshiで処琁E��250バイト�Eみの場合、料金�Eキロバイトあたりは250 satoshiのみとなり、最新の合計�E1000 satoshiまで支払います。�E琁E��1キロバイトよりも大きい場合、キロバイトごとに支払いが行われます、E/translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>隠す</translation>
+        <translation>隠ぁE/translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>最小の料金のみ支払いは、ブロック内の処理容量よりも小さい場合に限り、問題ありません。しかし、ネットワークの処理できる量よりも、ビットコイン処理のほうが需要があり、最終的にその確認処理が実行されないことに注意する必要があります。</translation>
+        <translation>最小�E料��のみ支払いは、ブロチE��冁E�E処琁E��量よりも小さぁE��合に限り、問題ありません。しかし、ネチE��ワークの処琁E��きる量よりも、ビチE��コイン処琁E�EほぁE��需要があり、最終的にそ�E確認�E琁E��実行されなぁE��とに注意する忁E��があります、E/translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
-        <translation>(ツールチップを読む)</translation>
+        <translation>(チE�Eルチップを読む)</translation>
     </message>
     <message>
         <source>Recommended:</source>
@@ -1990,19 +1990,19 @@
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(スマート料金は初期化されていません。通常であれば数ブロックかかります...)</translation>
+        <translation>(スマ�Eト料金�E初期化されてぁE��せん。通常であれば数ブロチE��かかりまぁE..)</translation>
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>一度に複数の受信者に送信します</translation>
+        <translation>一度に褁E��の受信老E��送信しまぁE/translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>追加&amp;受信者</translation>
+        <translation>追加&amp;受信老E/translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>入力形式の全てのフィールドをクリア</translation>
+        <translation>入力形式�E全てのフィールドをクリア</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -2010,7 +2010,7 @@
     </message>
     <message>
         <source>Confirmation time target:</source>
-        <translation>目標時間の確認:</translation>
+        <translation>目標時間�E確誁E</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -2018,11 +2018,11 @@
     </message>
     <message>
         <source>Balance:</source>
-        <translation>残高:</translation>
+        <translation>残髁E</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>送信実行の確認</translation>
+        <translation>送信実行�E確誁E/translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -2030,31 +2030,31 @@
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>量をコピー</translation>
+        <translation>量をコピ�E</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>残高のコピー</translation>
+        <translation>残高�Eコピ�E</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>料金をコピー</translation>
+        <translation>料��をコピ�E</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>後料金をこぴー</translation>
+        <translation>後料金をこ�Eー</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>バイトをコピー</translation>
+        <translation>バイトをコピ�E</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>ゴミをコピー</translation>
+        <translation>ゴミをコピ�E</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>変更をコピー</translation>
+        <translation>変更をコピ�E</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2062,94 +2062,94 @@
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>送信してもよろしいですか？</translation>
+        <translation>送信してもよろしぁE��すか�E�E/translation>
     </message>
     <message>
         <source>added as transaction fee</source>
-        <translation>処理料金として追加済み</translation>
+        <translation>処琁E��金として追加済み</translation>
     </message>
     <message>
         <source>Total Amount %1</source>
-        <translation>合計残高: %1</translation>
+        <translation>合計残髁E %1</translation>
     </message>
     <message>
         <source>or</source>
-        <translation>もしくは</translation>
+        <translation>もしく�E</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>送信コイン確認</translation>
+        <translation>送信コイン確誁E/translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
-        <translation>受信者アドレスは無効です。再度確認してください。</translation>
+        <translation>受信老E��ドレスは無効です。�E度確認してください、E/translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>支払料金は0より大きい必要があります。</translation>
+        <translation>支払料金�E0より大きい忁E��があります、E/translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>料金が残高を超えています。</translation>
+        <translation>料��が残高を趁E��てぁE��す、E/translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>%1の処理料金を含めると、合計が残高を超えます。</translation>
+        <translation>%1の処琁E��金を含めると、合計が残高を趁E��ます、E/translation>
     </message>
     <message>
         <source>Duplicate address found: addresses should only be used once each.</source>
-        <translation>重複アドレスの発見: アドレスはそれぞれ一つずつ使用される必要があります。</translation>
+        <translation>重褁E��ドレスの発要E アドレスはそれぞれ一つずつ使用される忁E��があります、E/translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
-        <translation>処理の作成に失敗しました!</translation>
+        <translation>処琁E�E作�Eに失敗しました!</translation>
     </message>
     <message>
         <source>The transaction was rejected with the following reason: %1</source>
-        <translation>処理は次の理由により却下されました: %1</translation>
+        <translation>処琁E�E次の琁E��により却下されました: %1</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an absurdly high fee.</source>
-        <translation>料金が%1より高い場合、非常識に高い料金として考えられます。</translation>
+        <translation>料��ぁE1より高い場合、E��常識に高い料��として老E��られます、E/translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>支払要求期限切れ</translation>
+        <translation>支払要求期限�EめE/translation>
     </message>
     <message>
         <source>Pay only the required fee of %1</source>
-        <translation>%1の必須料金のみ支払う</translation>
+        <translation>%1の忁E��料金�Eみ支払う</translation>
     </message>
     <message>
         <source>Warning: Invalid Litecoin address</source>
-        <translation>注意: 無効なビットコインアドレス</translation>
+        <translation>注愁E 無効なビットコインアドレス</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
-        <translation>注意: 未知の変更アドレス</translation>
+        <translation>注愁E 未知の変更アドレス</translation>
     </message>
     <message>
         <source>Confirm custom change address</source>
-        <translation>カスタム変更アドレスの確認</translation>
+        <translation>カスタム変更アドレスの確誁E/translation>
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
-        <translation>変更のために選択したアドレスは、ウォレットの一部ではありません。ウォレット内の一部またはすべて料金はこのアドレスで送付される必要があります。実行してもよろしいでしょうか？</translation>
+        <translation>変更のために選択したアドレスは、ウォレチE��の一部ではありません。ウォレチE��冁E�E一部また�Eすべて料��はこ�Eアドレスで送付される忁E��があります。実行してもよろしぁE��しょぁE���E�E/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ラベルなし)</translation>
+        <translation>(ラベルなぁE</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>&amp;残高:</translation>
+        <translation>&amp;残髁E</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>支払&amp;宛先:</translation>
+        <translation>支扁Eamp;宛�E:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -2157,11 +2157,11 @@
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>前回使用したアドレスの選択</translation>
+        <translation>前回使用したアドレスの選抁E/translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>これは通常の支払です。</translation>
+        <translation>これは通常の支払です、E/translation>
     </message>
     <message>
         <source>The Litecoin address to send the payment to</source>
@@ -2173,7 +2173,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>クリップボードからアドレスを貼り付ける</translation>
+        <translation>クリチE�Eボ�Eドからアドレスを貼り付けめE/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2181,11 +2181,11 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>入力の削除</translation>
+        <translation>入力�E削除</translation>
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>料金は送信料金から控除されます。受信者は入力された料金よりも低い金額を受け取ります。複数の受信者を選択した場合、この料金は同額に分けられます。</translation>
+        <translation>料��は送信料��から控除されます。受信老E�E入力された料��よりも低い金額を受け取ります。褁E��の受信老E��選択した場合、この料��は同額に刁E��られます、E/translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2193,27 +2193,27 @@
     </message>
     <message>
         <source>Message:</source>
-        <translation>メッセージ:</translation>
+        <translation>メチE��ージ:</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
-        <translation>これは未証明の支払要求です。</translation>
+        <translation>これは未証明�E支払要求です、E/translation>
     </message>
     <message>
         <source>This is an authenticated payment request.</source>
-        <translation>これは証明済みの支払要求です。</translation>
+        <translation>これは証明済みの支払要求です、E/translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>使用されたアドレス一覧のために、このアドレスのラベルを入力します。</translation>
+        <translation>使用されたアドレス一覧のために、このアドレスのラベルを�E力します、E/translation>
     </message>
     <message>
         <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>参考資料に保存された処理のビットコインURIは、メッセージに添付されます。メモ: このメッセージはビットコイン上で送信されません。</translation>
+        <translation>参老E��E��に保存された処琁E�EビットコインURIは、メチE��ージに添付されます。メモ: こ�EメチE��ージはビットコイン上で送信されません、E/translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>支払先:</translation>
+        <translation>支払�E:</translation>
     </message>
     <message>
         <source>Memo:</source>
@@ -2221,48 +2221,48 @@
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>アドレス帳にアドレスを追加すためのラベルの入力</translation>
+        <translation>アドレス帳にアドレスを追加すため�Eラベルの入劁E/translation>
     </message>
 </context>
 <context>
     <name>SendConfirmationDialog</name>
     <message>
         <source>Yes</source>
-        <translation>はい</translation>
+        <translation>はぁE/translation>
     </message>
 </context>
 <context>
     <name>ShutdownWindow</name>
     <message>
         <source>%1 is shutting down...</source>
-        <translation>%1は停止中です...</translation>
+        <translation>%1は停止中でぁE..</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>この画面が消えるまで、コンピュータを停止しないでください。</translation>
+        <translation>こ�E画面が消えるまで、コンピュータを停止しなぁE��ください、E/translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>署名 - サイン / メッセージの確認</translation>
+        <translation>署吁E- サイン / メチE��ージの確誁E/translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>&amp;署名メッセージ</translation>
+        <translation>&amp;署名メチE��ージ</translation>
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>送信されたビットコインを受信できることを証明するために、アドレスのメッセージや同意事項に署名できます。フィッシング攻撃が署名を利用する可能性があるので、署名が曖昧やランダムでないことに注意してください。詳細な明細のみに署名されます。</translation>
+        <translation>送信されたビチE��コインを受信できることを証明するために、アドレスのメチE��ージめE��意事頁E��署名できます。フィチE��ング攻撁E��署名を利用する可能性がある�Eで、署名が曖昧めE��ンダムでなぁE��とに注意してください。詳細な明細のみに署名されます、E/translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>
-        <translation>メッセージ署名するためのビットコインアドレス</translation>
+        <translation>メチE��ージ署名するため�Eビットコインアドレス</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>前回使用したアドレスの選択</translation>
+        <translation>前回使用したアドレスの選抁E/translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2270,7 +2270,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>クリップボードからアドレスを貼り付ける</translation>
+        <translation>クリチE�Eボ�Eドからアドレスを貼り付けめE/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2278,27 +2278,27 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>ここに署名をするメッセージを入力</translation>
+        <translation>ここに署名をするメチE��ージを�E劁E/translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>署名</translation>
+        <translation>署吁E/translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>システムのクリップボードへ現在の署名をコピー</translation>
+        <translation>シスチE��のクリチE�Eボ�Eドへ現在の署名をコピ�E</translation>
     </message>
     <message>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>ビットコインアドレスを証明するために、メッセージに署名</translation>
+        <translation>ビットコインアドレスを証明するために、メチE��ージに署吁E/translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>署名&amp;メッセージ</translation>
+        <translation>署吁Eamp;メチE��ージ</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>全ての署名フィールドをリセット</translation>
+        <translation>全ての署名フィールドをリセチE��</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -2306,79 +2306,79 @@
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;メッセージ確認</translation>
+        <translation>&amp;メチE��ージ確誁E/translation>
     </message>
     <message>
         <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-        <translation>以下のメッセージを確認して、受信者のアドレス、メッセージ（タブやすスペースなどを正確にこぴーしてください）、署名を入力してください。中間の攻撃者からのアタックを避けるために、署名されていないメッセージを読まないように注意してください。署名はアドレスと受信を証明することはできますが、送信者の処理を証明できないことに注意してください。</translation>
+        <translation>以下�EメチE��ージを確認して、受信老E�Eアドレス、メチE��ージ�E�タブやすスペ�Eスなどを正確にこ�Eーしてください�E�、署名を入力してください。中間�E攻撁E��E��ら�EアタチE��を避けるために、署名されてぁE��ぁE��チE��ージを読まなぁE��ぁE��注意してください。署名�Eアドレスと受信を証明することはできますが、E��信老E�E処琁E��証明できなぁE��とに注意してください、E/translation>
     </message>
     <message>
         <source>The Litecoin address the message was signed with</source>
-        <translation>メッセージのビットコインアドレスはサインされています</translation>
+        <translation>メチE��ージのビットコインアドレスはサインされてぁE��ぁE/translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>特定のビットコインアドレスと署名されているメッセージであることを確認してください。</translation>
+        <translation>特定�Eビットコインアドレスと署名されてぁE��メチE��ージであることを確認してください、E/translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>確認&amp;メッセージ</translation>
+        <translation>確誁Eamp;メチE��ージ</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>全ての確認フィールドをリセット</translation>
+        <translation>全ての確認フィールドをリセチE��</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>署名を生成するため、"署名メッセージ"をクリック</translation>
+        <translation>署名を生�Eするため、E署名メチE��ージ"をクリチE��</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>入力されたアドレスは無効です。</translation>
+        <translation>入力されたアドレスは無効です、E/translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>アドレスを確認して、再実行してください。</translation>
+        <translation>アドレスを確認して、�E実行してください、E/translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>入力されたアドレスは鍵と関連がありません。</translation>
+        <translation>入力されたアドレスは鍵と関連がありません、E/translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>ウォレットのロック解除は中断されました。</translation>
+        <translation>ウォレチE��のロチE��解除は中断されました、E/translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>入力されたプライベートキーは無効です。</translation>
+        <translation>入力されたプライベ�Eトキーは無効です、E/translation>
     </message>
     <message>
         <source>Message signing failed.</source>
-        <translation>メッセージの署名は失敗しました。</translation>
+        <translation>メチE��ージの署名�E失敗しました、E/translation>
     </message>
     <message>
         <source>Message signed.</source>
-        <translation>メッセージに署名しました。</translation>
+        <translation>メチE��ージに署名しました、E/translation>
     </message>
     <message>
         <source>The signature could not be decoded.</source>
-        <translation>署名は復号化できませんでした。</translation>
+        <translation>署名�E復号化できませんでした、E/translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>署名を確認して、再実行してください。</translation>
+        <translation>署名を確認して、�E実行してください、E/translation>
     </message>
     <message>
         <source>The signature did not match the message digest.</source>
-        <translation>署名は、メッセージダイジェストと一致しませんでした。</translation>
+        <translation>署名�E、メチE��ージダイジェストと一致しませんでした、E/translation>
     </message>
     <message>
         <source>Message verification failed.</source>
-        <translation>メッセージ確認は失敗しました。</translation>
+        <translation>メチE��ージ確認�E失敗しました、E/translation>
     </message>
     <message>
         <source>Message verified.</source>
-        <translation>メッセージは確認されました。</translation>
+        <translation>メチE��ージは確認されました、E/translation>
     </message>
 </context>
 <context>
@@ -2392,7 +2392,7 @@
     <name>TrafficGraphWidget</name>
     <message>
         <source>KB/s</source>
-        <translation>キロバイト/秒</translation>
+        <translation>キロバイチE私E/translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2403,7 @@
     </message>
     <message>
         <source>conflicted with a transaction with %1 confirmations</source>
-        <translation>処理と%1確認が矛盾しています。</translation>
+        <translation>処琁E��%1確認が矛盾してぁE��す、E/translation>
     </message>
     <message>
         <source>%1/offline</source>
@@ -2411,39 +2411,39 @@
     </message>
     <message>
         <source>0/unconfirmed, %1</source>
-        <translation>0/未確認, %1</translation>
+        <translation>0/未確誁E %1</translation>
     </message>
     <message>
         <source>in memory pool</source>
-        <translation>メモリプール中</translation>
+        <translation>メモリプ�Eル中</translation>
     </message>
     <message>
         <source>not in memory pool</source>
-        <translation>メモリプール外</translation>
+        <translation>メモリプ�Eル夁E/translation>
     </message>
     <message>
         <source>abandoned</source>
-        <translation>放棄</translation>
+        <translation>放棁E/translation>
     </message>
     <message>
         <source>%1/unconfirmed</source>
-        <translation>%1/未確認</translation>
+        <translation>%1/未確誁E/translation>
     </message>
     <message>
         <source>%1 confirmations</source>
-        <translation>%1 確認</translation>
+        <translation>%1 確誁E/translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>状態</translation>
+        <translation>状慁E/translation>
     </message>
     <message>
         <source>, has not been successfully broadcast yet</source>
-        <translation>まだ、散布に成功していません</translation>
+        <translation>まだ、散币E��成功してぁE��せん</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>日付</translation>
+        <translation>日仁E/translation>
     </message>
     <message>
         <source>Source</source>
@@ -2451,19 +2451,19 @@
     </message>
     <message>
         <source>Generated</source>
-        <translation>生成済み</translation>
+        <translation>生�E済み</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>送信元</translation>
+        <translation>送信允E/translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>不明</translation>
+        <translation>不�E</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>送信先</translation>
+        <translation>送信允E/translation>
     </message>
     <message>
         <source>own address</source>
@@ -2487,51 +2487,51 @@
     </message>
     <message>
         <source>Debit</source>
-        <translation>デビット</translation>
+        <translation>チE��チE��</translation>
     </message>
     <message>
         <source>Total debit</source>
-        <translation>デビットの合計</translation>
+        <translation>チE��チE��の合訁E/translation>
     </message>
     <message>
         <source>Total credit</source>
-        <translation>合計クレジット</translation>
+        <translation>合計クレジチE��</translation>
     </message>
     <message>
         <source>Transaction fee</source>
-        <translation>処理料金</translation>
+        <translation>処琁E��釁E/translation>
     </message>
     <message>
         <source>Net amount</source>
-        <translation>ネット残高</translation>
+        <translation>ネット残髁E/translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation>メチE��ージ</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>コメント</translation>
+        <translation>コメンチE/translation>
     </message>
     <message>
         <source>Transaction ID</source>
-        <translation>処理ID</translation>
+        <translation>処琁ED</translation>
     </message>
     <message>
         <source>Transaction total size</source>
-        <translation>処理合計サイズ</translation>
+        <translation>処琁E��計サイズ</translation>
     </message>
     <message>
         <source>Output index</source>
-        <translation>出力インデックス</translation>
+        <translation>出力インチE��クス</translation>
     </message>
     <message>
         <source>Merchant</source>
-        <translation>商人</translation>
+        <translation>啁E��</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>残高</translation>
+        <translation>残髁E/translation>
     </message>
     </context>
 <context>
@@ -2541,7 +2541,7 @@
     <name>TransactionTableModel</name>
     <message>
         <source>Date</source>
-        <translation>日付</translation>
+        <translation>日仁E/translation>
     </message>
     <message>
         <source>Label</source>
@@ -2557,30 +2557,30 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ラベルなし)</translation>
+        <translation>(ラベルなぁE</translation>
     </message>
     </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>Copy address</source>
-        <translation>アドレスのコピー</translation>
+        <translation>アドレスのコピ�E</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>ラベルのコピー</translation>
+        <translation>ラベルのコピ�E</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>残高のコピー</translation>
+        <translation>残高�Eコピ�E</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>トランザクションIDのコピー</translation>
+        <translation>トランザクションIDのコピ�E</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>カンマ区切りのファイル(*.csv)</translation>
+        <translation>カンマ区刁E��のファイル(*.csv)</translation>
     </message>
     <message>
         <source>Confirmed</source>
@@ -2588,7 +2588,7 @@
     </message>
     <message>
         <source>Date</source>
-        <translation>日付</translation>
+        <translation>日仁E/translation>
     </message>
     <message>
         <source>Label</source>
@@ -2600,7 +2600,7 @@
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>出力の失敗</translation>
+        <translation>出力�E失敁E/translation>
     </message>
     </context>
 <context>
@@ -2613,29 +2613,29 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>コイン送付</translation>
+        <translation>コイン送仁E/translation>
     </message>
 </context>
 <context>
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;出力</translation>
+        <translation>&amp;出劁E/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>ファイルの現在のタブを出力します</translation>
+        <translation>ファイルの現在のタブを出力しまぁE/translation>
     </message>
     </context>
 <context>
     <name>bitcoin-core</name>
     <message>
         <source>Information</source>
-        <translation>情報</translation>
+        <translation>惁E��</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>警呁E/translation>
     </message>
     <message>
         <source>Error</source>

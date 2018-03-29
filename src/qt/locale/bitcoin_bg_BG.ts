@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Клик с десен бутон на мишката за промяна на адрес или етикет</translation>
+        <translation>Клик сEдесE�н бутон на мишката за промяна на адресEили етикесE/translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Създай нов адрес</translation>
+        <translation>Създай нов адресE/translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Копирай текущо избрания адрес към клипборда</translation>
+        <translation>Копирай текущо избранисEадресEкъм клипборда</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -27,15 +27,15 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Изтрий текущо избрания адрес от листа</translation>
+        <translation>Изтрий текущо избранисEадресEосEлисE�а</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Изнеси данните в избрания раздел към файл</translation>
+        <translation>ИзнесE� данните в избранисEраздел към сE�йл</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>Изнеси</translation>
+        <translation>ИзнесE�</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Избери адреса на който да пратиш монети</translation>
+        <translation>Избери адресE� на който да пратисEмонети</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Избери адреса на който да получиш монети</translation>
+        <translation>Избери адресE� на който да полусE�сEмонети</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -55,27 +55,27 @@
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Адрес за пращане</translation>
+        <translation>АдресEза пращане</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Адрес за получаване</translation>
+        <translation>АдресEза полусE�ване</translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тези са вашите Litecoin адреси за изпращане на монети. Винаги проверявайте количеството и получаващия адрес преди изпращане. </translation>
+        <translation>Тези сE� вашите Litecoin адресE� за изпращане на монети. Винаги проверявайте колисE�сE�вото и полусE�ващисEадресEпреди изпращане. </translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са вашите Litecoin адреси за получаване на монети. Препоръчително е да ползвате нов адрес на всяка транзакция.</translation>
+        <translation>Това сE� вашите Litecoin адресE� за полусE�ване на монети. ПрепоръсE�телно е да ползвате нов адресEна всE�ка транзаксE�сE</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>Копирай адрес</translation>
+        <translation>Копирай адресE/translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Копирай етикет</translation>
+        <translation>Копирай етикесE/translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>Изнеси лист с адреси</translation>
+        <translation>ИзнесE� лисE�EсEадресE�</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
@@ -91,33 +91,33 @@
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Изнасянето се провали</translation>
+        <translation>ИзнасE�нето сE� провали</translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>Получи се грешка при запазването на листа с адреси към %1. Моля опитайте пак.</translation>
+        <translation>ПолусE� сE� грешка при запазването на лисE�а сEадресE� към %1. МолсEопитайте пак.</translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Етикет</translation>
+        <translation>ЕтикесE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(без етикет)</translation>
+        <translation>(без етикесE</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>Диалог за пропуск</translation>
+        <translation>Диалог за пропусE�</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
@@ -133,23 +133,23 @@
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Криптирай портфейл</translation>
+        <translation>Криптирай портсE�йл</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Тази операция изисква вашата парола на портфейла за отключването на портфейла.</translation>
+        <translation>Тази операсE�сEизисE�ва вашата парола на портсE�йла за отклюсE�ането на портсE�йла.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Отключи портфейла</translation>
+        <translation>ОтклюсE� портсE�йла</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Тази операция изисква вашата парола на портфейла за декриптирането на портфейла.</translation>
+        <translation>Тази операсE�сEизисE�ва вашата парола на портсE�йла за декриптирането на портсE�йла.</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Декриптирай портфейл</translation>
+        <translation>Декриптирай портсE�йл</translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -157,14 +157,14 @@
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Потвърди криптирането на порфейла</translation>
+        <translation>Потвърди криптирането на порсE�йла</translation>
     </message>
     </context>
 <context>
     <name>BanTableModel</name>
     <message>
         <source>IP/Netmask</source>
-        <translation>IP/Мрежова маска</translation>
+        <translation>IP/Мрежова масE�а</translation>
     </message>
     <message>
         <source>Banned Until</source>
@@ -175,11 +175,11 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Подпиши съобщение...</translation>
+        <translation>Подпиши сE�общение...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Синхронизиране с мрежата...</translation>
+        <translation>СинсE�онизиране сEмрежата...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -191,23 +191,23 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Покажи общ преглед на портфейла</translation>
+        <translation>Покажи обсEпреглед на портсE�йла</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>Транзакции</translation>
+        <translation>ТранзаксE�и</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Разгледай история на транзакциите</translation>
+        <translation>Разгледай исE�орисEна транзаксE�ите</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>Изход</translation>
+        <translation>ИзсE�д</translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Излез от приложението</translation>
+        <translation>Излез осEприложението</translation>
     </message>
     <message>
         <source>&amp;About %1</source>
@@ -215,31 +215,31 @@
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>Покажи информация за %1</translation>
+        <translation>Покажи инсE�рмасE�сEза %1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>Относно Qt</translation>
+        <translation>ОтносE�о Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Покажи информация отностно Qt</translation>
+        <translation>Покажи инсE�рмасE�сEотносE�но Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>Настройки...</translation>
+        <translation>НасE�ройки...</translation>
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>Промени конфигурации за %1</translation>
+        <translation>Промени консE�гурасE�и за %1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>Криптирай портфейл</translation>
+        <translation>Криптирай портсE�йл</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>Направи резервно копие на портфейла...</translation>
+        <translation>Направи резервно копие на портсE�йла...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -247,11 +247,11 @@
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>Адреси за пращане...</translation>
+        <translation>АдресE� за пращане...</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Адреси за получаване...</translation>
+        <translation>АдресE� за полусE�ване...</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
@@ -259,14 +259,14 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Повторно индексиране на блоковете на диска...</translation>
+        <translation>Повторно индексE�ране на блоковете на дисE�а...</translation>
     </message>
     </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>(no label)</source>
-        <translation>(без етикет)</translation>
+        <translation>(без етикесE</translation>
     </message>
     </context>
 <context>
@@ -318,29 +318,29 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Етикет</translation>
+        <translation>ЕтикесE/translation>
     </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Етикет</translation>
+        <translation>ЕтикесE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(без етикет)</translation>
+        <translation>(без етикесE</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>(no label)</source>
-        <translation>(без етикет)</translation>
+        <translation>(без етикесE</translation>
     </message>
 </context>
 <context>
@@ -371,11 +371,11 @@
     <name>TransactionTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Етикет</translation>
+        <translation>ЕтикесE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(без етикет)</translation>
+        <translation>(без етикесE</translation>
     </message>
     </context>
 <context>
@@ -386,15 +386,15 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Етикет</translation>
+        <translation>ЕтикесE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Изнасянето се провали</translation>
+        <translation>ИзнасE�нето сE� провали</translation>
     </message>
     </context>
 <context>
@@ -410,11 +410,11 @@
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>Изнеси</translation>
+        <translation>ИзнесE�</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Изнеси данните в избрания раздел към файл</translation>
+        <translation>ИзнесE� данните в избранисEраздел към сE�йл</translation>
     </message>
     </context>
 <context>

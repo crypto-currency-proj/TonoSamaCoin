@@ -190,7 +190,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Tárca titkosítása belső hiba miatt sikertelen. A tárcád nem lett titkosítva.</translation>
+        <translation>Tárca titkosítása belsŁEhiba miatt sikertelen. A tárcád nem lett titkosítva.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
@@ -328,7 +328,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Lemezen lévő blokkok újraindexelése...</translation>
+        <translation>Lemezen lévŁEblokkok újraindexelése...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
@@ -348,7 +348,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Hibakereső és diagnosztikai konzol megnyitása</translation>
+        <translation>HibakeresŁEés diagnosztikai konzol megnyitása</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -432,11 +432,11 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>Lemezen lévő blokkok indexelése...</translation>
+        <translation>Lemezen lévŁEblokkok indexelése...</translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
-        <translation>Lemezen lévő blokkok feldolgozása...</translation>
+        <translation>Lemezen lévŁEblokkok feldolgozása...</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -522,7 +522,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Beérkező tranzakció</translation>
+        <translation>BeérkezŁEtranzakció</translation>
     </message>
     <message>
         <source>HD key generation is &lt;b&gt;enabled&lt;/b&gt;</source>
@@ -708,7 +708,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Ehhez a címlistaelemhez rendelt cím. Csak a küldő címek módosíthatók.</translation>
+        <translation>Ehhez a címlistaelemhez rendelt cím. Csak a küldŁEcímek módosíthatók.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -720,7 +720,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>New sending address</source>
-        <translation>Új küldő cím</translation>
+        <translation>Új küldŁEcím</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
@@ -728,7 +728,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>Küldő cím szerkesztése</translation>
+        <translation>KüldŁEcím szerkesztése</translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Litecoin address.</source>
@@ -814,7 +814,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>Indítóképernyő mutatása induláskor (alapértelmezett:  %u)</translation>
+        <translation>IndítóképernyŁEmutatása induláskor (alapértelmezett:  %u)</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
@@ -833,7 +833,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>Mivel ez a program első indulása, megváltoztathatja, hogy a %1 hova mentse az adatokat.</translation>
+        <translation>Mivel ez a program elsŁEindulása, megváltoztathatja, hogy a %1 hova mentse az adatokat.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -853,7 +853,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message numerus="yes">
         <source>%n GB of free space available</source>
-        <translation><numerusform>%n GB elérhető szabad hely</numerusform><numerusform>%n GB elérhető szabad hely</numerusform></translation>
+        <translation><numerusform>%n GB elérhetŁEszabad hely</numerusform><numerusform>%n GB elérhetŁEszabad hely</numerusform></translation>
     </message>
     </context>
 <context>
@@ -872,7 +872,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Number of blocks left</source>
-        <translation>Hátralévő blokkok száma</translation>
+        <translation>HátralévŁEblokkok száma</translation>
     </message>
     <message>
         <source>Unknown...</source>
@@ -896,7 +896,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Estimated time left until synced</source>
-        <translation>Hozzávetőlegesen a hátralévő idő a szinkronizáció befejezéséig</translation>
+        <translation>Hozzávetőlegesen a hátralévŁEidŁEa szinkronizáció befejezéséig</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -938,7 +938,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>&amp;Fő</translation>
+        <translation>&amp;FŁE/translation>
     </message>
     <message>
         <source>Automatically start %1 after logging in to the system.</source>
@@ -962,11 +962,11 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>Külső kapcsolatok elfogadása</translation>
+        <translation>KülsŁEkapcsolatok elfogadása</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>Bejövő kapcsolatok engedélyezése</translation>
+        <translation>BejövŁEkapcsolatok engedélyezése</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
@@ -978,7 +978,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>Harmadik féltől származó URL-ek (pl. egy blokk felfedező) amelyek a tranzakciós fülön jelennek meg mint a környezetérzékeny menü tételei. %s az URL-ben helyettesítve a tranzakciós hash-el. Több URL esetén, függőleges vonal választja el őket.</translation>
+        <translation>Harmadik féltől származó URL-ek (pl. egy blokk felfedezŁE amelyek a tranzakciós fülön jelennek meg mint a környezetérzékeny menü tételei. %s az URL-ben helyettesítve a tranzakciós hash-el. Több URL esetén, függőleges vonal választja el őket.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
@@ -1010,7 +1010,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Expert</source>
-        <translation>Szakértő</translation>
+        <translation>SzakértŁE/translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1118,7 +1118,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Válaszd ki az interfészen és érmék küldésekor megjelenítendő alapértelmezett alegységet.</translation>
+        <translation>Válaszd ki az interfészen és érmék küldésekor megjelenítendŁEalapértelmezett alegységet.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1177,7 +1177,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Available:</source>
-        <translation>Elérhető:</translation>
+        <translation>ElérhetŁE</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -1217,7 +1217,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>Elkölthető:</translation>
+        <translation>ElkölthetŁE</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -1244,7 +1244,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>A litecoin nem tud elindulni: click-to-pay kezelő</translation>
+        <translation>A litecoin nem tud elindulni: click-to-pay kezelŁE/translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1370,7 +1370,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>N/A</source>
-        <translation>Nem elérhető</translation>
+        <translation>Nem elérhetŁE/translation>
     </message>
     <message>
         <source>%1 ms</source>
@@ -1419,7 +1419,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     <name>RPCConsole</name>
     <message>
         <source>N/A</source>
-        <translation>Nem elérhető</translation>
+        <translation>Nem elérhetŁE/translation>
     </message>
     <message>
         <source>Client version</source>
@@ -1515,7 +1515,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Starting Block</source>
-        <translation>Kezdő Blokk</translation>
+        <translation>KezdŁEBlokk</translation>
     </message>
     <message>
         <source>Synced Headers</source>
@@ -1559,7 +1559,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Ping idő</translation>
+        <translation>Ping idŁE/translation>
     </message>
     <message>
         <source>The duration of a currently outstanding ping.</source>
@@ -1575,7 +1575,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>Idő Eltolódás</translation>
+        <translation>IdŁEEltolódás</translation>
     </message>
     <message>
         <source>Last block time</source>
@@ -1655,7 +1655,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Írd be azt, hogy &lt;b&gt;help&lt;/b&gt; az elérhető parancsok áttekintéséhez.</translation>
+        <translation>Írd be azt, hogy &lt;b&gt;help&lt;/b&gt; az elérhetŁEparancsok áttekintéséhez.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -1691,11 +1691,11 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Inbound</source>
-        <translation>Bejövő</translation>
+        <translation>BejövŁE/translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>Kimenő</translation>
+        <translation>KimenŁE/translation>
     </message>
     <message>
         <source>Yes</source>
@@ -1730,7 +1730,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>&amp;Újrafelhasznál egy létező fogadó címet (nem ajánlott)</translation>
+        <translation>&amp;Újrafelhasznál egy létezŁEfogadó címet (nem ajánlott)</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
@@ -1742,15 +1742,15 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Használja ezt az űrlapot fizetési kérelmekhez. Minden mező &lt;b&gt;opcionális&lt;/b&gt; </translation>
+        <translation>Használja ezt az űrlapot fizetési kérelmekhez. Minden mezŁE&lt;b&gt;opcionális&lt;/b&gt; </translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Egy opcionálisan kérhető összeg. Hagyja üresen, vagy írjon be nullát, ha nem kívánja használni.</translation>
+        <translation>Egy opcionálisan kérhetŁEösszeg. Hagyja üresen, vagy írjon be nullát, ha nem kívánja használni.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Minden mező törlése</translation>
+        <translation>Minden mezŁEtörlése</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1983,7 +1983,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Minden mező törlése</translation>
+        <translation>Minden mezŁEtörlése</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -2055,7 +2055,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>A fizetendő összegnek nagyobbnak kell lennie 0-nál.</translation>
+        <translation>A fizetendŁEösszegnek nagyobbnak kell lennie 0-nál.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
@@ -2075,7 +2075,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>The transaction was rejected with the following reason: %1</source>
-        <translation>Tranzakció visszautasítva a következő indokkal: %1</translation>
+        <translation>Tranzakció visszautasítva a következŁEindokkal: %1</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an absurdly high fee.</source>
@@ -2103,7 +2103,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
-        <translation>A cím, amelyet a visszajárónak megadott, nincs ebben a tárcában. Bármennyi vagy minden összeg elküldhető a tárcájából erre a címre. Biztos benne?</translation>
+        <translation>A cím, amelyet a visszajárónak megadott, nincs ebben a tárcában. Bármennyi vagy minden összeg elküldhetŁEa tárcájából erre a címre. Biztos benne?</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2376,7 +2376,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>From</source>
-        <translation>Küldő: </translation>
+        <translation>KüldŁE </translation>
     </message>
     <message>
         <source>unknown</source>
@@ -2436,7 +2436,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Merchant</source>
-        <translation>Kereskedő</translation>
+        <translation>KereskedŁE/translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2467,7 +2467,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Ez a mező a tranzakció részleteit mutatja</translation>
+        <translation>Ez a mezŁEa tranzakció részleteit mutatja</translation>
     </message>
     </context>
 <context>
@@ -2514,7 +2514,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Éretlen (%1 megerősítés, %2 után lesz elérhető)</translation>
+        <translation>Éretlen (%1 megerősítés, %2 után lesz elérhetŁE</translation>
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
@@ -2617,7 +2617,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>Írja be a keresendő címet vagy címkét</translation>
+        <translation>Írja be a keresendŁEcímet vagy címkét</translation>
     </message>
     <message>
         <source>Min amount</source>
@@ -2779,7 +2779,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Error: A fatal internal error occurred, see debug.log for details</source>
-        <translation>Hiba: Fatális belső hiba történt, nézze meg a debug.log -ot a részletekért</translation>
+        <translation>Hiba: Fatális belsŁEhiba történt, nézze meg a debug.log -ot a részletekért</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2840,7 +2840,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Helytelen vagy nemlétező genézis blokk. Helytelen hálózati adatkönyvtár?</translation>
+        <translation>Helytelen vagy nemlétezŁEgenézis blokk. Helytelen hálózati adatkönyvtár?</translation>
     </message>
     <message>
         <source>Loading banlist...</source>
@@ -2868,7 +2868,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>A fehérlistán szereplő felek nem lesznek automatikusan kitiltva és a tranzakcióik is mindig továbbítva lesznek, akkor is ha már a megerősítésre váró listán (mempool) vannak. Hasznos például összekötő csomópontokon (gateway).</translation>
+        <translation>A fehérlistán szereplŁEfelek nem lesznek automatikusan kitiltva és a tranzakcióik is mindig továbbítva lesznek, akkor is ha már a megerősítésre váró listán (mempool) vannak. Hasznos például összekötŁEcsomópontokon (gateway).</translation>
     </message>
     <message>
         <source>(default: %u)</source>
@@ -2954,7 +2954,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Kapcsolatonkénti maximum küldő buffer, &lt;n&gt;*1000 byte (alapértelmezett: %u)</translation>
+        <translation>Kapcsolatonkénti maximum küldŁEbuffer, &lt;n&gt;*1000 byte (alapértelmezett: %u)</translation>
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
@@ -3010,7 +3010,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Elérendő csomópont megadása and attempt to keep the connection open</translation>
+        <translation>ElérendŁEcsomópont megadása and attempt to keep the connection open</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

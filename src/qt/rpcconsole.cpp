@@ -743,7 +743,7 @@ void RPCConsole::clear(bool clearHistory)
         );
 
 #ifdef Q_OS_MAC
-    QString clsKey = "(⌘)-L";
+    QString clsKey = "(⌁E-L";
 #else
     QString clsKey = "Ctrl-L";
 #endif

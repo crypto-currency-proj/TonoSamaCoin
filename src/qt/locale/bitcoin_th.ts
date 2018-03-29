@@ -3,86 +3,86 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>คลิกขวาเพื่อแก้ไขที่อยู่หรือชื่อ</translation>
+        <translation>กE��ิกขวาเพื่อแก้แE��ที่อยู่หรือชื่อ</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>สร้างที่อยู่ใหม่</translation>
+        <translation>สร้ากE��ี่อยู่แE��มแE/translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>ใหม่</translation>
+        <translation>แE��มแE/translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>คัดลอกที่อยู่ที่เลือกอยู่ไปยังคลิบบอร์ดของระบบ</translation>
+        <translation>กE��ดลอกที่อยู่ที่เลือกอยู่แE��ยักE��E��ิบบอร์ดขอกE��ะบกE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>คัดลอก</translation>
+        <translation>กE��ดลอกE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>ปิด</translation>
+        <translation>ปิกE/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>ลบที่อยู่ที่เลือกไว้ออกจากรายการ</translation>
+        <translation>ลบที่อยู่ที่เลือกแE��้ออกจากรายการ</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>ส่งออกข้อมูลที่อยู่ในแถบนี้ไปในไฟล์</translation>
+        <translation>ส่กE��อกข้อมูลที่อยู่แE��แถบนี้แE��แE��แE��ลแE/translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>ส่งออก</translation>
+        <translation>ส่กE��อกE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>ลบ</translation>
+        <translation>ลกE/translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>เลือกที่อยู่ที่จะส่งเหรียญ</translation>
+        <translation>เลือกที่อยู่ที่จะส่กE��หรียกE/translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>เลือกที่อยู่ที่จะรับเหรียญ</translation>
+        <translation>เลือกที่อยู่ที่จะรับเหรียกE/translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>เลือก</translation>
+        <translation>เลือกE/translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>ที่อยู่ในการส่ง</translation>
+        <translation>ที่อยู่แE��การส่กE/translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>ที่อยู่ในการรับ</translation>
+        <translation>ที่อยู่แE��การรักE/translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>คัดลอกที่อยู่</translation>
+        <translation>กE��ดลอกที่อยูแE/translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>คัดลอกชื่อ</translation>
+        <translation>กE��ดลอกชื่อ</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>แก้ไข</translation>
+        <translation>แก้แE��E/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>การส่งออกล้มเหลว</translation>
+        <translation>การส่กE��อกล้มเหลว</translation>
     </message>
     </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Address</source>
-        <translation>ที่อยู่</translation>
+        <translation>ที่อยูแE/translation>
     </message>
     </context>
 <context>
@@ -146,7 +146,7 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Address</source>
-        <translation>ที่อยู่</translation>
+        <translation>ที่อยูแE/translation>
     </message>
     </context>
 <context>
@@ -186,11 +186,11 @@
     <name>TransactionView</name>
     <message>
         <source>Address</source>
-        <translation>ที่อยู่</translation>
+        <translation>ที่อยูแE/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>การส่งออกล้มเหลว</translation>
+        <translation>การส่กE��อกล้มเหลว</translation>
     </message>
     </context>
 <context>
@@ -206,11 +206,11 @@
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>ส่งออก</translation>
+        <translation>ส่กE��อกE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>ส่งออกข้อมูลที่อยู่ในแถบนี้ไปในไฟล์</translation>
+        <translation>ส่กE��อกข้อมูลที่อยู่แE��แถบนี้แE��แE��แE��ลแE/translation>
     </message>
     </context>
 <context>

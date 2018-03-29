@@ -3,34 +3,34 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>ناوونیشانێکی نوێ دروست بکە</translation>
+        <translation>فE�ووفE�شافE�کہEفE�ہEدروست بکہE/translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;نوێ</translation>
+        <translation>&amp;فE�ہE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;ڕوونووس</translation>
+        <translation>&amp;ڕووفE�وس</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>C&amp;داخستن</translation>
+        <translation>C&amp;داخستفE/translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;هەناردن</translation>
+        <translation>&amp;فE�فE�ردفE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;سڕینەوە</translation>
+        <translation>&amp;سڕیفE�وہE/translation>
     </message>
     </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Address</source>
-        <translation>ناوونیشان</translation>
+        <translation>فE�ووفE�شافE/translation>
     </message>
     </context>
 <context>
@@ -43,46 +43,46 @@
     <name>BitcoinGUI</name>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;ناردن</translation>
+        <translation>&amp;فE�ردفE/translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;پەرگە</translation>
+        <translation>&amp;پەرگہE/translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;سازکارییەکان</translation>
+        <translation>&amp;سازکارییەکافE/translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;یارمەتی</translation>
+        <translation>&amp;یارفE�تہE/translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>هەڵە</translation>
+        <translation>فE�ڵہE/translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>ئاگاداری</translation>
+        <translation>ئاگادارہE/translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>زانیاری</translation>
+        <translation>زافE�ارہE/translation>
     </message>
     </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>کۆ:</translation>
+        <translation>کہE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>تێچوون:</translation>
+        <translation>تێځE�وفE</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>سەرجەم</translation>
+        <translation>سەرجەفE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -90,11 +90,11 @@
     </message>
     <message>
         <source>yes</source>
-        <translation>بەڵێ</translation>
+        <translation>بەڵہE/translation>
     </message>
     <message>
         <source>no</source>
-        <translation>نەخێر</translation>
+        <translation>فE�خێر</translation>
     </message>
     </context>
 <context>
@@ -104,25 +104,25 @@
     <name>FreespaceChecker</name>
     <message>
         <source>name</source>
-        <translation>ناو</translation>
+        <translation>فE�فE/translation>
     </message>
     </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>وەشان</translation>
+        <translation>وەشافE/translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>بەخێربێن</translation>
+        <translation>بەخێربێفE/translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>هەڵە</translation>
+        <translation>فE�ڵہE/translation>
     </message>
     </context>
 <context>
@@ -135,14 +135,14 @@
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>هەڵبژاردنەکان</translation>
+        <translation>فE�ڵبژاردفE�کافE/translation>
     </message>
     </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Total:</source>
-        <translation>گشتی</translation>
+        <translation>گشتہE/translation>
     </message>
     </context>
 <context>
@@ -155,7 +155,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>سەرجەم</translation>
+        <translation>سەرجەفE/translation>
     </message>
     </context>
 <context>
@@ -168,51 +168,51 @@
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;زانیاری</translation>
+        <translation>&amp;زافE�ارہE/translation>
     </message>
     <message>
         <source>General</source>
-        <translation>گشتی</translation>
+        <translation>گشتہE/translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>تۆڕ</translation>
+        <translation>تہE�E/translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>ناو</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation>نێدرا</translation>
+        <translation>فE�درا</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>وەشان</translation>
+        <translation>وەشافE/translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>خزمەتگوزاریەکان</translation>
+        <translation>خزفE�تگوزاریەکافE/translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;کردنەوە</translation>
+        <translation>&amp;کردفE�وہE/translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;پاککردنەوە</translation>
+        <translation>&amp;پاککردفE�وہE/translation>
     </message>
     <message>
         <source>Totals</source>
-        <translation>گشتییەکان</translation>
+        <translation>گشتییەکافE/translation>
     </message>
     <message>
         <source>In:</source>
-        <translation>لە ناو</translation>
+        <translation>فE�EفE�فE/translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation>لەدەرەوە</translation>
+        <translation>فE�دەرەوہE/translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
@@ -220,11 +220,11 @@
     </message>
     <message>
         <source>1 &amp;day</source>
-        <translation>1&amp;ڕۆژ</translation>
+        <translation>1&amp;ڕہE�E/translation>
     </message>
     <message>
         <source>1 &amp;week</source>
-        <translation>1&amp;هەفتە</translation>
+        <translation>1&amp;فE�فE�ہE/translation>
     </message>
     <message>
         <source>1 &amp;year</source>
@@ -232,49 +232,49 @@
     </message>
     <message>
         <source>never</source>
-        <translation>هەرگیز</translation>
+        <translation>فE�رگیز</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>بەڵێ</translation>
+        <translation>بەڵہE/translation>
     </message>
     <message>
         <source>No</source>
-        <translation>نەخێر</translation>
+        <translation>فE�خێر</translation>
     </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>&amp;سەرجەم:</translation>
+        <translation>&amp;سەرجەفE</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;پەیام:</translation>
+        <translation>&amp;پەیافE</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>پاککردنەوە</translation>
+        <translation>پاککردفE�وہE/translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>پیشاندان</translation>
+        <translation>پیشافE�افE/translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>سڕینەوە</translation>
+        <translation>سڕیفE�وہE/translation>
     </message>
     </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Address</source>
-        <translation>ناوونیشان</translation>
+        <translation>فE�ووفE�شافE/translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>سەرجەم</translation>
+        <translation>سەرجەفE/translation>
     </message>
     </context>
 <context>
@@ -288,11 +288,11 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>کۆ:</translation>
+        <translation>کہE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>تێچوون:</translation>
+        <translation>تێځE�وفE</translation>
     </message>
     <message>
         <source>fast</source>
@@ -303,14 +303,14 @@
     <name>SendCoinsEntry</name>
     <message>
         <source>Message:</source>
-        <translation>پەیام:</translation>
+        <translation>پەیافE</translation>
     </message>
     </context>
 <context>
     <name>SendConfirmationDialog</name>
     <message>
         <source>Yes</source>
-        <translation>بەڵێ</translation>
+        <translation>بەڵہE/translation>
     </message>
 </context>
 <context>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>سەرجەم</translation>
+        <translation>سەرجەفE/translation>
     </message>
     </context>
 <context>
@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>ناوونیشان</translation>
+        <translation>فE�ووفE�شافE/translation>
     </message>
     </context>
 <context>
@@ -370,26 +370,26 @@
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;هەناردن</translation>
+        <translation>&amp;فE�فE�ردفE/translation>
     </message>
     </context>
 <context>
     <name>bitcoin-core</name>
     <message>
         <source>Options:</source>
-        <translation>هەڵبژاردنەکان:</translation>
+        <translation>فE�ڵبژاردفE�کافE</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>زانیاری</translation>
+        <translation>زافE�ارہE/translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>ئاگاداری</translation>
+        <translation>ئاگادارہE/translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>هەڵە</translation>
+        <translation>فE�ڵہE/translation>
     </message>
 </context>
 </TS>

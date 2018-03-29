@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Adresi veya etiketi düzenlemek için sağ tıklayın</translation>
+        <translation>Adresi veya etiketi düzenlemek için saāEtıklayın</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Cüzdanın Şifresini Çöz</translation>
+        <translation>Cüzdanın Şifresini ÁE�z</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
@@ -127,7 +127,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>E&amp;xit</source>
-        <translation>Çıkış</translation>
+        <translation>ÁE�kıŁE/translation>
     </message>
     <message>
         <source>&amp;About %1</source>
@@ -135,11 +135,11 @@
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Alış adresleri</translation>
+        <translation>AlıŁEadresleri</translation>
     </message>
     <message>
         <source>Network activity disabled.</source>
-        <translation>Ağ etkinliği devre dışı.</translation>
+        <translation>AāEetkinliği devre dışı.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -317,11 +317,11 @@
     <name>bitcoin-core</name>
     <message>
         <source>Print this help message and exit</source>
-        <translation>Bu yardım mesajını yazdır ve çıkış yap</translation>
+        <translation>Bu yardım mesajını yazdır ve çıkıŁEyap</translation>
     </message>
     <message>
         <source>Print version and exit</source>
-        <translation>Versiyonu yazdır ve çıkış yap</translation>
+        <translation>Versiyonu yazdır ve çıkıŁEyap</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>

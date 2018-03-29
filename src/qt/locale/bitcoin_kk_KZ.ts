@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>Жаңа адрес енгізу</translation>
+        <translation>Жаңа адресEенгізсE/translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -11,19 +11,19 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Таңдаған адресті тізімнен жою</translation>
+        <translation>Таңдаған адресE�сEтізімнен жосE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Жабу</translation>
+        <translation>ЖабсE/translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>Экспорт</translation>
+        <translation>ЭксE�орсE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Жою</translation>
+        <translation>ЖосE/translation>
     </message>
     </context>
 <context>
@@ -33,15 +33,15 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Құпия сөзді енгізу</translation>
+        <translation>ҚұписEсE�здсEенгізсE/translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Жаңа құпия сөзі</translation>
+        <translation>Жаңа құписEсE�зсE/translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Жаңа құпия сөзді қайта енгізу</translation>
+        <translation>Жаңа құписEсE�здсEқайта енгізсE/translation>
     </message>
     </context>
 <context>
@@ -51,23 +51,23 @@
     <name>BitcoinGUI</name>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Транзакциялар</translation>
+        <translation>&amp;ТранзаксE�ялар</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>Шығу</translation>
+        <translation>ШығсE/translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>Параметрлері</translation>
+        <translation>ПараметрлерсE/translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>Әмиянды жасыру</translation>
+        <translation>ӘмияндсEжасE�рсE/translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>Құпия сөзді өзгерту</translation>
+        <translation>ҚұписEсE�здсEөзгертсE/translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -79,11 +79,11 @@
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>Жіберу</translation>
+        <translation>ЖіберсE/translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>Алу</translation>
+        <translation>АлсE/translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>%1 қалмады</translation>
+        <translation>%1 қалмадсE/translation>
     </message>
     <message>
         <source>Error</source>
@@ -103,11 +103,11 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>Ескерту</translation>
+        <translation>ЕсE�ертсE/translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation>ИнсE�рмасE�сE/translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -118,11 +118,11 @@
     <name>CoinControlDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>Саны</translation>
+        <translation>СансE/translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комиссия</translation>
+        <translation>КомисE�E�сE/translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -130,23 +130,23 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Комиссия алу кейін</translation>
+        <translation>КомисE�E�сEалсEкейін</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Саны</translation>
+        <translation>СансE/translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Күні</translation>
+        <translation>КүнсE/translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Растау саны</translation>
+        <translation>РасE�асEсE�нсE/translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Растық</translation>
+        <translation>РасE�ыҁE/translation>
     </message>
     </context>
 <context>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     </context>
 <context>
@@ -199,11 +199,11 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Саны</translation>
+        <translation>СансE/translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 немесе %2</translation>
+        <translation>%1 немесE� %2</translation>
     </message>
     </context>
 <context>
@@ -216,14 +216,14 @@
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>Информация</translation>
+        <translation>ИнсE�рмасE�сE/translation>
     </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>Саны</translation>
+        <translation>СансE/translation>
     </message>
     </context>
 <context>
@@ -236,15 +236,15 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>Саны</translation>
+        <translation>СансE/translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комиссия:</translation>
+        <translation>КомисE�E�сE</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Комиссия алу кейін:</translation>
+        <translation>КомисE�E�сEалсEкейін:</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -255,7 +255,7 @@
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>Саны</translation>
+        <translation>СансE/translation>
     </message>
     </context>
 <context>
@@ -301,19 +301,19 @@
     <name>bitcoin-core</name>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation>ИнсE�рмасE�сE/translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>Транзакция өте кішкентай</translation>
+        <translation>ТранзаксE�сEөте кішкентай</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>Транзакция өте үлкен</translation>
+        <translation>ТранзаксE�сEөте үлкен</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Ескерту</translation>
+        <translation>ЕсE�ертсE/translation>
     </message>
     <message>
         <source>Error</source>

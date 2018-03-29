@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>Åpne &amp;URI...</translation>
+        <translation>ÁEne &amp;URI...</translation>
     </message>
     <message>
         <source>Click to disable network activity.</source>
@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Åpne konsoll for feilsøk og diagnostikk</translation>
+        <translation>ÁEne konsoll for feilsøk og diagnostikk</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Åpne en Litecoin: URI eller betalingsetterspørring</translation>
+        <translation>ÁEne en Litecoin: URI eller betalingsetterspørring</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -858,11 +858,11 @@
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Åpne URI</translation>
+        <translation>ÁEne URI</translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>Åpne betalingsetterspørring fra URI eller fil</translation>
+        <translation>ÁEne betalingsetterspørring fra URI eller fil</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -961,7 +961,7 @@
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk Litecoin klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <translation>ÁEne automatisk Litecoin klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1438,7 +1438,7 @@
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Åpne</translation>
+        <translation>&amp;ÁEne</translation>
     </message>
     <message>
         <source>&amp;Console</source>

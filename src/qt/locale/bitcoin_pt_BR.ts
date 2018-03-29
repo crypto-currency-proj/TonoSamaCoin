@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estes são os seus endereços para receber pagamentos. É recomendado usar um novo para cada transação.</translation>
+        <translation>Estes são os seus endereços para receber pagamentos. ÁErecomendado usar um novo para cada transação.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -3727,7 +3727,7 @@
     </message>
     <message>
         <source>Warning: Unknown block versions being mined! It's possible unknown rules are in effect</source>
-        <translation>Aviso: Versões de bloco desconhecidas sendo mineradas! É possível que regras estranhas estejam ativas</translation>
+        <translation>Aviso: Versões de bloco desconhecidas sendo mineradas! ÁEpossível que regras estranhas estejam ativas</translation>
     </message>
     <message>
         <source>Warning: Wallet file corrupt, data salvaged! Original %s saved as %s in %s; if your balance or transactions are incorrect you should restore from a backup.</source>

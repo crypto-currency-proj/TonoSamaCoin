@@ -3,77 +3,77 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>پتہ تبدیل کرے کے لیے دائیاں کلک کریں</translation>
+        <translation>پتہEتبدیفEکرہEکہEفE�ہEدائیاں کفE� کریں</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>نیا ایڈریس بنائیں</translation>
+        <translation>فE�ا ایڈریس بفE�ئیں</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>نیا</translation>
+        <translation>فE�ا</translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>سلیکٹڈ پتے کو کمپوٹر کی عارضی جگہ رکھیں</translation>
+        <translation>سفE�کٹځEپتہEکفEکفE�وٹر کہEعارضہEجگہEرکھیں</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>نقل</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>بند</translation>
+        <translation>بفE�</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>سلیکٹڈ پتے کو مٹائیں</translation>
+        <translation>سفE�کٹځEپتہEکفEفE�ائیں</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>موجودہ ڈیٹا کو فائیل میں محفوظ کریں</translation>
+        <translation>فE�جودہEڈیٹا کفEفE�ئیفEفE�ں فE�فE�ظ کریں</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>برآمد</translation>
+        <translation>برآفE�</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>مٹا</translation>
+        <translation>فE�ا</translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>کوئین وصول کرنے والے کا پتہ</translation>
+        <translation>کوئیفEوصوفEکرفE�EوافE�Eکا پتہE/translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>کوئین وصول کرنے والے کا پتہ</translation>
+        <translation>کوئیفEوصوفEکرفE�EوافE�Eکا پتہE/translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>چننا</translation>
+        <translation>ځE�E�E�</translation>
     </message>
     </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Address</source>
-        <translation> پتہ</translation>
+        <translation> پتہE/translation>
     </message>
     </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>پاس فریز داخل کریں</translation>
+        <translation>پاس فE�یز داخفEکریں</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>نیا پاس فریز</translation>
+        <translation>فE�ا پاس فE�یز</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>نیا پاس فریز دہرائیں</translation>
+        <translation>فE�ا پاس فE�یز دہE�ائیں</translation>
     </message>
     </context>
 <context>
@@ -83,18 +83,18 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Error</source>
-        <translation>نقص</translation>
+        <translation>فE�ص</translation>
     </message>
     </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>رقم:</translation>
+        <translation>رقفE</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>رقم</translation>
+        <translation>رقفE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -105,11 +105,11 @@
     <name>EditAddressDialog</name>
     <message>
         <source>&amp;Label</source>
-        <translation>چٹ</translation>
+        <translation>ځE�</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation> پتہ</translation>
+        <translation> پتہE/translation>
     </message>
     </context>
 <context>
@@ -122,7 +122,7 @@
     <name>Intro</name>
     <message>
         <source>Error</source>
-        <translation>نقص</translation>
+        <translation>فE�ص</translation>
     </message>
     </context>
 <context>
@@ -147,7 +147,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>رقم</translation>
+        <translation>رقفE/translation>
     </message>
     </context>
 <context>
@@ -166,11 +166,11 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>کاپی پتہ</translation>
+        <translation>کاپہEپتہE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation> پتہ</translation>
+        <translation> پتہE/translation>
     </message>
     </context>
 <context>
@@ -180,15 +180,15 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Insufficient funds!</source>
-        <translation>ناکافی فنڈز</translation>
+        <translation>فE�کافہEفE�E�ز</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>رقم:</translation>
+        <translation>رقفE</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>بیلنس:</translation>
+        <translation>بیفE�E�:</translation>
     </message>
     </context>
 <context>
@@ -222,7 +222,7 @@
     <name>TransactionView</name>
     <message>
         <source>Address</source>
-        <translation> پتہ</translation>
+        <translation> پتہE/translation>
     </message>
     </context>
 <context>
@@ -241,11 +241,11 @@
     <name>bitcoin-core</name>
     <message>
         <source>Insufficient funds</source>
-        <translation>ناکافی فنڈز</translation>
+        <translation>فE�کافہEفE�E�ز</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>نقص</translation>
+        <translation>فE�ص</translation>
     </message>
 </context>
 </TS>

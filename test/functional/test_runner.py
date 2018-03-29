@@ -32,9 +32,9 @@ BOLD, BLUE, RED, GREY = ("", ""), ("", ""), ("", ""), ("", "")
 try:
     # Make sure python thinks it can write unicode to its stdout
     "\u2713".encode("utf_8").decode(sys.stdout.encoding)
-    TICK = "✓ "
-    CROSS = "✖ "
-    CIRCLE = "○ "
+    TICK = "✁E"
+    CROSS = "✁E"
+    CIRCLE = "◁E"
 except UnicodeDecodeError:
     TICK = "P "
     CROSS = "x "

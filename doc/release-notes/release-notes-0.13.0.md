@@ -49,7 +49,7 @@ For nodes on low-memory systems, the database cache can be changed back to
 100 MiB (or to another value) by either:
 
 - Adding `dbcache=100` in bitcoin.conf
-- Changing it in the GUI under `Options → Size of database cache`
+- Changing it in the GUI under `Options ↁESize of database cache`
 
 Note that the database cache setting has the most performance impact
 during initial sync of a node, and when catching up after downtime.

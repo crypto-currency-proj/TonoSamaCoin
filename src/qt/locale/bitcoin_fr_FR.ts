@@ -1531,7 +1531,7 @@
     </message>
     <message>
         <source>To</source>
-        <translation>Á</translation>
+        <translation>ÁE/translation>
     </message>
     <message>
         <source>own address</source>

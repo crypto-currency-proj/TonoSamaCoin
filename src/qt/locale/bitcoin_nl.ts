@@ -1331,7 +1331,7 @@
     </message>
     <message>
         <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
-        <translation>Betalingsverzoek %1 is te groot (%2 bytes, toegestaan ​​%3 bytes).</translation>
+        <translation>Betalingsverzoek %1 is te groot (%2 bytes, toegestaan ​ E3 bytes).</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
@@ -2326,7 +2326,7 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Handtekeningen – Onderteken een bericht / Verifiëer een handtekening</translation>
+        <translation>Handtekeningen  EOnderteken een bericht / Verifiëer een handtekening</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>

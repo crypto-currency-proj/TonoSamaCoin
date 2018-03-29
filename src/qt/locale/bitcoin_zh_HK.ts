@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>按右擊修改位址或標記</translation>
+        <translation>按右擊修改位址或標訁E/translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -11,15 +11,15 @@
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新增 &amp;N</translation>
+        <translation>新墁E&amp;N</translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>複製目前選擇的位址到系統剪貼簿</translation>
+        <translation>褁E��目前選擁E��位址到系統剪貼簿</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>複製 &amp;C</translation>
+        <translation>褁E�� &amp;C</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
@@ -27,11 +27,11 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>把目前選擇的位址從列表中刪除</translation>
+        <translation>把目前選擁E��位址從�E表中刪除</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>把目前分頁的資料匯出至檔案</translation>
+        <translation>把目前�E頁的賁E��匯出至檔桁E/translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -43,15 +43,15 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>選擇要付錢過去的地址</translation>
+        <translation>選擁E��付錢過去皁E��址</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>選擇要收錢的地址</translation>
+        <translation>選擁E��收錢皁E��址</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>選擇 &amp;h</translation>
+        <translation>選擁E&amp;h</translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>複製地址 &amp;C</translation>
+        <translation>褁E��地址 &amp;C</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>複製標記 &amp;L</translation>
+        <translation>褁E��標訁E&amp;L</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -75,26 +75,26 @@
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>匯出地址清單</translation>
+        <translation>匯出地址渁E��</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>逗號分隔檔 (*.csv)</translation>
+        <translation>逗號刁E��檁E(*.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>匯出失敗</translation>
+        <translation>匯出失敁E/translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>儲存地址列表到 %1 時發生錯誤。請再試一次。</translation>
+        <translation>儲存地址列表到 %1 時發生錯誤。請�E試一次、E/translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>標記</translation>
+        <translation>標訁E/translation>
     </message>
     <message>
         <source>Address</source>
@@ -102,110 +102,110 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(無標記)</translation>
+        <translation>(無標訁E</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>複雜密碼對話方塊</translation>
+        <translation>褁E��寁E��對話方塁E/translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>請輸入密碼</translation>
+        <translation>請輸入寁E��</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>新密碼</translation>
+        <translation>新寁E��</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>重複新密碼</translation>
+        <translation>重褁E��寁E��</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>加密錢包</translation>
+        <translation>加寁E��匁E/translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>這個動作需要你的錢包密碼來將錢包解鎖。</translation>
+        <translation>這個動作需要你皁E��匁E��E��侁E��E��匁E��鎖、E/translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>解鎖錢包</translation>
+        <translation>解鎖錢匁E/translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>這個動作需要你的錢包密碼來將錢包解密。</translation>
+        <translation>這個動作需要你皁E��匁E��E��侁E��E��匁E��寁E��E/translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>解密錢包</translation>
+        <translation>解寁E��匁E/translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>更改密碼</translation>
+        <translation>更改寁E��</translation>
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>輸入舊密碼和新密碼至錢包。</translation>
+        <translation>輸入舊寁E��和新寁E��至錢匁E��E/translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>確認錢包加密</translation>
+        <translation>確認錢匁E��寁E/translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>警告: 如果你將錢包加密後又忘記密碼，你就會&lt;b&gt;失去所有 Litecoin 了&lt;/b&gt;！</translation>
+        <translation>警呁E 如果你封E��匁E��寁E��又忘記寁E���E�你就朁Elt;b&gt;失去所朁ELitecoin 亁Elt;/b&gt;�E�E/translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>你確定要把錢包加密嗎？</translation>
+        <translation>你確定要把錢匁E��寁E���E�E/translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>錢包已加密</translation>
+        <translation>錢匁E��加寁E/translation>
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 現在要關閉來完成加密程序。請記得將錢包加密不能完全防止你的 Litecoins 經被入侵電腦的惡意程式偷取。</translation>
+        <translation>%1 現在要E��閉侁E���E加寁E��序。請記得封E��匁E��寁E���E完�E防止你皁ELitecoins 經被入侵電腦皁E��意程式�E取、E/translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>重要: 請改用新產生的加密錢包檔，來取代所以舊錢包檔的備份。為安全計，當你開始使用新的加密錢包檔後，舊錢包檔的備份就不能再使用了。</translation>
+        <translation>重要E 請改用新產生的加寁E��匁E��，侁E��代所以舊錢匁E��的備份。為安�E計，當你開始使用新皁E��寁E��匁E��後，�E錢匁E��的備份就不�E再使用亁E��E/translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>錢包加密失敗</translation>
+        <translation>錢匁E��寁E��敁E/translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>因內部錯誤導致錢包加密失敗，你的錢包尚未加密。</translation>
+        <translation>因內部錯誤導�E錢匁E��寁E��敗，你皁E��匁E��未加寁E��E/translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>提供的密碼不一致。</translation>
+        <translation>提供的寁E��不一致、E/translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>錢包解鎖失敗</translation>
+        <translation>錢匁E��鎖失敁E/translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>用來解密錢包的密碼不對。</translation>
+        <translation>用侁E��寁E��匁E��寁E��不對、E/translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>錢包解密失敗</translation>
+        <translation>錢匁E��寁E��敁E/translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>錢包密碼已成功更改。</translation>
+        <translation>錢匁E��E��已成功更改、E/translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>警告: Caps Lock 已啟用！</translation>
+        <translation>警呁E Caps Lock 已啟用�E�E/translation>
     </message>
 </context>
 <context>
@@ -216,18 +216,18 @@
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>封鎖至</translation>
+        <translation>封E��至</translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>簽署訊息... &amp;m</translation>
+        <translation>簽署訊�E... &amp;m</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>與網絡同步中...</translation>
+        <translation>舁E��絡同步中...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -235,19 +235,19 @@
     </message>
     <message>
         <source>Node</source>
-        <translation>節點</translation>
+        <translation>節黁E/translation>
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>顯示錢包一般總覽</translation>
+        <translation>顯示錢匁E��般總覽</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>交易 &amp;T</translation>
+        <translation>交昁E&amp;T</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>瀏覽交易紀錄</translation>
+        <translation>瀏覽交易紀錁E/translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -255,7 +255,7 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>結束應用程式</translation>
+        <translation>結束應用程弁E/translation>
     </message>
     <message>
         <source>&amp;About %1</source>
@@ -263,7 +263,7 @@
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>顯示 %1 的相關資訊</translation>
+        <translation>顯示 %1 皁E��關賁E��E/translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -271,27 +271,27 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>顯示 Qt 相關資訊</translation>
+        <translation>顯示 Qt 相關賁E��E/translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>選項... &amp;O</translation>
+        <translation>選頁E.. &amp;O</translation>
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>修正 %1 的設定選項</translation>
+        <translation>修正 %1 皁E��定選頁E/translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>加密錢包... &amp;E</translation>
+        <translation>加寁E��匁E.. &amp;E</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>備份錢包... &amp;B</translation>
+        <translation>備份錢匁E.. &amp;B</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>改變密碼... &amp;C</translation>
+        <translation>改變寁E��... &amp;C</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
@@ -307,23 +307,23 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>正在為磁碟區塊重建索引...</translation>
+        <translation>正在為磁碟區塊重建索弁E..</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>付款至一個 Litecoin 位址</translation>
+        <translation>付款至一倁ELitecoin 位址</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>把錢包備份到其它地方</translation>
+        <translation>把錢匁E��份到其宁E��方</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>改變錢包加密用的密碼</translation>
+        <translation>改變錢匁E��寁E��皁E��E��</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>除錯視窗 &amp;D</translation>
+        <translation>除錯視突E&amp;D</translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
@@ -331,7 +331,7 @@
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>驗證訊息... &amp;V</translation>
+        <translation>驗證訊�E... &amp;V</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -339,7 +339,7 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>錢包</translation>
+        <translation>錢匁E/translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -351,23 +351,23 @@
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>顯示 / 隱藏 &amp;S</translation>
+        <translation>顯示 / 隱藁E&amp;S</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>顯示或隱藏主視窗</translation>
+        <translation>顯示或隱藏主視突E/translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>檔案 &amp;F</translation>
+        <translation>檔桁E&amp;F</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>設定 &amp;S</translation>
+        <translation>設宁E&amp;S</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>說明 &amp;H</translation>
+        <translation>說昁E&amp;H</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>正在為磁碟區塊建立索引...</translation>
+        <translation>正在為磁碟區塊建立索弁E..</translation>
     </message>
     <message>
         <source>Error</source>
@@ -383,16 +383,16 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>警呁E/translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>資訊</translation>
+        <translation>賁E��E/translation>
     </message>
     <message>
         <source>Date: %1
 </source>
-        <translation>日期: %1
+        <translation>日朁E %1
 </translation>
     </message>
     </context>
@@ -400,7 +400,7 @@
     <name>CoinControlDialog</name>
     <message>
         <source>(no label)</source>
-        <translation>(無標記)</translation>
+        <translation>(無標訁E</translation>
     </message>
     </context>
 <context>
@@ -441,7 +441,7 @@
     <name>QObject</name>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>輸入一個 Litecoin 位址 (例如 %1)</translation>
+        <translation>輸入一倁ELitecoin 位址 (例妁E%1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -453,11 +453,11 @@
     </message>
     <message>
         <source>%1 m</source>
-        <translation>%1 分</translation>
+        <translation>%1 刁E/translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation>%1 秒</translation>
+        <translation>%1 私E/translation>
     </message>
     <message>
         <source>None</source>
@@ -469,15 +469,15 @@
     </message>
     <message>
         <source>%1 ms</source>
-        <translation>%1 亳秒</translation>
+        <translation>%1 亳私E/translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation><numerusform>%n 秒</numerusform></translation>
+        <translation><numerusform>%n 私E/numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation><numerusform>%n 分鐘</numerusform></translation>
+        <translation><numerusform>%n 刁E��</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -493,7 +493,7 @@
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 和 %2</translation>
+        <translation>%1 咁E%2</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
@@ -507,11 +507,11 @@
     <name>QRImageWidget</name>
     <message>
         <source>Save QR Code</source>
-        <translation>儲存 QR 碼</translation>
+        <translation>儲孁EQR 碼</translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
-        <translation>PNG 影像(*.png)</translation>
+        <translation>PNG 影僁E*.png)</translation>
     </message>
 </context>
 <context>
@@ -522,11 +522,11 @@
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>資訊 &amp;I</translation>
+        <translation>賁E��E&amp;I</translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>除錯視窗</translation>
+        <translation>除錯視突E/translation>
     </message>
     <message>
         <source>General</source>
@@ -538,7 +538,7 @@
     </message>
     <message>
         <source>Sent</source>
-        <translation>已送出</translation>
+        <translation>已送�E</translation>
     </message>
     <message>
         <source>Version</source>
@@ -556,25 +556,25 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>標記</translation>
+        <translation>標訁E/translation>
     </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Label</source>
-        <translation>標記</translation>
+        <translation>標訁E/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(無標記)</translation>
+        <translation>(無標訁E</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>(no label)</source>
-        <translation>(無標記)</translation>
+        <translation>(無標訁E</translation>
     </message>
 </context>
 <context>
@@ -609,7 +609,7 @@
     <name>TransactionTableModel</name>
     <message>
         <source>Label</source>
-        <translation>標記</translation>
+        <translation>標訁E/translation>
     </message>
     <message>
         <source>Open until %1</source>
@@ -617,18 +617,18 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(無標記)</translation>
+        <translation>(無標訁E</translation>
     </message>
     </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>逗號分隔檔 (*.csv)</translation>
+        <translation>逗號刁E��檁E(*.csv)</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>標記</translation>
+        <translation>標訁E/translation>
     </message>
     <message>
         <source>Address</source>
@@ -636,7 +636,7 @@
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>匯出失敗</translation>
+        <translation>匯出失敁E/translation>
     </message>
     </context>
 <context>
@@ -656,18 +656,18 @@
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>把目前分頁的資料匯出至檔案</translation>
+        <translation>把目前�E頁的賁E��匯出至檔桁E/translation>
     </message>
     </context>
 <context>
     <name>bitcoin-core</name>
     <message>
         <source>Information</source>
-        <translation>資訊</translation>
+        <translation>賁E��E/translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>警呁E/translation>
     </message>
     <message>
         <source>Error</source>

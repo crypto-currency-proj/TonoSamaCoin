@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Datus no tekošā ieliktņa eksportēt uz failu</translation>
+        <translation>Datus no tekošāEieliktŁE eksportēt uz failu</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Izvēlies adresi ar kuru saņemt litecoins</translation>
+        <translation>Izvēlies adresi ar kuru saŁEmt litecoins</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -93,31 +93,31 @@
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Jaunā parole vēlreiz</translation>
+        <translation>JaunāEparole vēlreiz</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Šifrēt maciņu</translation>
+        <translation>Šifrēt maciŁE</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Atslēgt maciņu</translation>
+        <translation>Atslēgt maciŁE</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Atšifrēt maciņu</translation>
+        <translation>Atšifrēt maciŁE</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Apstiprināt maciņa šifrēšanu</translation>
+        <translation>Apstiprināt maciŁE šifrēšanu</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Vai tu tiešām vēlies šifrēt savu maciņu?</translation>
+        <translation>Vai tu tiešām vēlies šifrēt savu maciŁE?</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>Maciņa šifrēšana neizdevās</translation>
+        <translation>MaciŁE šifrēšana neizdevās</translation>
     </message>
     </context>
 <context>
@@ -127,7 +127,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Parakstīt &amp;ziņojumu...</translation>
+        <translation>Parakstīt &amp;ziŁEjumu...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Rādīt vispārēju maciņa pārskatu</translation>
+        <translation>Rādīt vispārēju maciŁE pārskatu</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -175,11 +175,11 @@
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>Šifrēt &amp;maciņu...</translation>
+        <translation>Šifrēt &amp;maciŁE...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Maciņa Rezerves Kopija...</translation>
+        <translation>&amp;MaciŁE Rezerves Kopija...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Saņemšanas &amp;adreses...</translation>
+        <translation>SaŁEmšanas &amp;adreses...</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
@@ -207,11 +207,11 @@
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Izveidot maciņa rezerves kopiju citur</translation>
+        <translation>Izveidot maciŁE rezerves kopiju citur</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Mainīt maciņa šifrēšanas paroli</translation>
+        <translation>Mainīt maciŁE šifrēšanas paroli</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Pārbaudīt ziņojumu...</translation>
+        <translation>&amp;Pārbaudīt ziŁEjumu...</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Maciņš</translation>
+        <translation>MaciŁE�</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>&amp;Saņemt</translation>
+        <translation>&amp;SaŁEmt</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -251,15 +251,15 @@
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
+        <translation>Šifrēt privātās atslēgas kuras pieder tavam maciŁEm</translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Litecoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <translation>Parakstīt ziŁEjumus ar savām Litecoin adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Litecoin adresēm</translation>
+        <translation>Pārbaudīt ziŁEjumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Litecoin adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Ciļņu rīkjosla</translation>
+        <translation>CiļŁE rīkjosla</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>%1 aizmugurē</translation>
+        <translation>%1 aizmugurāE/translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
@@ -327,11 +327,11 @@
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Maciņš ir &lt;b&gt;šifrēts&lt;/b&gt; un pašlaik &lt;b&gt;atslēgts&lt;/b&gt;</translation>
+        <translation>MaciŁE� ir &lt;b&gt;šifrēts&lt;/b&gt; un pašlaik &lt;b&gt;atslēgts&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Maciņš ir &lt;b&gt;šifrēts&lt;/b&gt; un pašlaik &lt;b&gt;slēgts&lt;/b&gt;</translation>
+        <translation>MaciŁE� ir &lt;b&gt;šifrēts&lt;/b&gt; un pašlaik &lt;b&gt;slēgts&lt;/b&gt;</translation>
     </message>
     </context>
 <context>
@@ -420,7 +420,7 @@
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>Šāds ceļš jau pastāv un tā nav mape.</translation>
+        <translation>Šāds ceļš jau pastāv un tāEnav mape.</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
@@ -477,7 +477,7 @@
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Pēdējā bloka laiks</translation>
+        <translation>PēdējāEbloka laiks</translation>
     </message>
     </context>
 <context>
@@ -511,7 +511,7 @@
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>&amp;Datubāzes kešatmiņas izmērs</translation>
+        <translation>&amp;Datubāzes kešatmiŁEs izmērs</translation>
     </message>
     <message>
         <source>MB</source>
@@ -531,7 +531,7 @@
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
-        <translation>Minimizēt nevis aizvērt aplikāciju, kad logs tiek aizvērts. Kad šī iespēja ir ieslēgta, aplikācija tiks aizvērta, izvēloties Aizvērt izvēlnē.</translation>
+        <translation>Minimizēt nevis aizvērt aplikāciju, kad logs tiek aizvērts. Kad šī iespēja ir ieslēgta, aplikācija tiks aizvērta, izvēloties Aizvērt izvēlnāE</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
@@ -555,7 +555,7 @@
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>&amp;Maciņš</translation>
+        <translation>&amp;MaciŁE�</translation>
     </message>
     <message>
         <source>Expert</source>
@@ -571,7 +571,7 @@
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Litecoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <translation>Uz rūtera automātiski atvērt Litecoin klienta portu. Tas strādāEtikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -595,7 +595,7 @@
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Pēc loga minimizācijas rādīt tikai ikonu sistēmas teknē.</translation>
+        <translation>Pēc loga minimizācijas rādīt tikai ikonu sistēmas teknāE</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
@@ -619,11 +619,11 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot bitkoinus.</translation>
+        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisāEun nosūtot bitkoinus.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Litecoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt Litecoin kontroles funkcijas vai nāE</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -647,7 +647,7 @@
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Norādītā starpniekservera adrese nav derīga.</translation>
+        <translation>NorādītāEstarpniekservera adrese nav derīga.</translation>
     </message>
 </context>
 <context>
@@ -658,7 +658,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Litecoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <translation>AttēlotāEinformācija var būt novecojusi. Jūsu maciŁE� pēc savienojuma izveides automātiski sinhronizējas ar Litecoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>Tava pašreizējā tērējamā bilance</translation>
+        <translation>Tava pašreizējāEtērējamāEbilance</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -674,7 +674,7 @@
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>Kopējā apstiprināmo transakciju vērtība, vēl nav ieskaitīta tērējamajā bilancē</translation>
+        <translation>KopējāEapstiprināmo transakciju vērtība, vēl nav ieskaitīta tērējamajāEbilancāE/translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Jūsu kopējā tekošā bilance</translation>
+        <translation>Jūsu kopējāEtekošāEbilance</translation>
     </message>
     </context>
 <context>
@@ -772,7 +772,7 @@
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Pēdējā bloka laiks</translation>
+        <translation>PēdējāEbloka laiks</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -812,7 +812,7 @@
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Izmantojiet bultiņas uz augšu un leju, lai pārvietotos pa vēsturi, un &lt;b&gt;Ctrl-L&lt;/b&gt; ekrāna notīrīšanai.</translation>
+        <translation>Izmantojiet bultiŁEs uz augšu un leju, lai pārvietotos pa vēsturi, un &lt;b&gt;Ctrl-L&lt;/b&gt; ekrāna notīrīšanai.</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
@@ -847,15 +847,15 @@
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;Ziņojums:</translation>
+        <translation>&amp;ZiŁEjums:</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>&amp;Atkārtoti izmantot esošo saņemšanas adresi (nav ieteicams)</translation>
+        <translation>&amp;Atkārtoti izmantot esošo saŁEmšanas adresi (nav ieteicams)</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Notīrīt visus laukus formā.</translation>
+        <translation>Notīrīt visus laukus formāE</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -879,11 +879,11 @@
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Noņemt atlasītos ierakstus no saraksta.</translation>
+        <translation>NoŁEmt atlasītos ierakstus no saraksta.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Noņemt</translation>
+        <translation>NoŁEmt</translation>
     </message>
     </context>
 <context>
@@ -980,15 +980,15 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Sūtīt vairākiem saņēmējiem uzreiz</translation>
+        <translation>Sūtīt vairākiem saŁE�mējiem uzreiz</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>&amp;Pievienot Saņēmēju</translation>
+        <translation>&amp;Pievienot SaŁE�mēju</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Notīrīt visus laukus formā.</translation>
+        <translation>Notīrīt visus laukus formāE</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1019,7 +1019,7 @@
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>&amp;Saņēmējs:</translation>
+        <translation>&amp;SaŁE�mējs:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1047,11 +1047,11 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>Noņem šo ierakstu</translation>
+        <translation>NoŁEm šo ierakstu</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>Ziņojums:</translation>
+        <translation>ZiŁEjums:</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1076,11 +1076,11 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Paraksti - Parakstīt / Pabaudīt Ziņojumu</translation>
+        <translation>Paraksti - Parakstīt / Pabaudīt ZiŁEjumu</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>Parakstīt &amp;Ziņojumu</translation>
+        <translation>Parakstīt &amp;ZiŁEjumu</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1100,7 +1100,7 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Šeit ievadi ziņojumu kuru vēlies parakstīt</translation>
+        <translation>Šeit ievadi ziŁEjumu kuru vēlies parakstīt</translation>
     </message>
     <message>
         <source>Signature</source>
@@ -1112,11 +1112,11 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Litecoin adreses īpašnieks.</translation>
+        <translation>Parakstīt ziŁEjumu lai pierādītu, ka esi šīs Litecoin adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>Parakstīt &amp;Ziņojumu</translation>
+        <translation>Parakstīt &amp;ZiŁEjumu</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1128,11 +1128,11 @@
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Pārbaudīt Ziņojumu</translation>
+        <translation>&amp;Pārbaudīt ZiŁEjumu</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>&amp;Pārbaudīt Ziņojumu</translation>
+        <translation>&amp;Pārbaudīt ZiŁEjumu</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
@@ -1221,11 +1221,11 @@
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Pieņemt komandrindas un JSON-RPC komandas</translation>
+        <translation>PieŁEmt komandrindas un JSON-RPC komandas</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Darbināt fonā kā servisu un pieņemt komandas</translation>
+        <translation>Darbināt fonāEkāEservisu un pieŁEmt komandas</translation>
     </message>
     <message>
         <source>Litecoin Core</source>
@@ -1257,7 +1257,7 @@
     </message>
     <message>
         <source>Importing...</source>
-        <translation>Importē...</translation>
+        <translation>ImportāE..</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -1265,11 +1265,11 @@
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>Pārbauda maciņu...</translation>
+        <translation>Pārbauda maciŁE...</translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Maciņa iespējas:</translation>
+        <translation>MaciŁE iespējas:</translation>
     </message>
     <message>
         <source>Information</source>
@@ -1281,7 +1281,7 @@
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Debug/trace informāciju izvadīt konsolē, nevis debug.log failā</translation>
+        <translation>Debug/trace informāciju izvadīt konsolāE nevis debug.log failāE/translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
@@ -1317,7 +1317,7 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Ielādē adreses...</translation>
+        <translation>IelādāEadreses...</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
@@ -1325,7 +1325,7 @@
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>-onlynet komandā norādīts nepazīstams tīkls: '%s'</translation>
+        <translation>-onlynet komandāEnorādīts nepazīstams tīkls: '%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -1333,7 +1333,7 @@
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Ielādē bloku indeksu...</translation>
+        <translation>IelādāEbloku indeksu...</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
@@ -1341,11 +1341,11 @@
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Ielādē maciņu...</translation>
+        <translation>IelādāEmaciŁE...</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>Nevar maciņa formātu padarīt vecāku</translation>
+        <translation>Nevar maciŁE formātu padarīt vecāku</translation>
     </message>
     <message>
         <source>Cannot write default address</source>

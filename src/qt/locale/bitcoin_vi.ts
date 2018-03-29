@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>Tạo một địa chỉ mới</translation>
+        <translation>Tạo một địa chềEmới</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Sao chép các địa chỉ đã được chọn vào bộ nhớ tạm thời của hệ thống</translation>
+        <translation>Sao chép các địa chềEđã được chọn vào bềEnhềEtạm thời của hềEthống</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -38,11 +38,11 @@
     <name>CoinControlDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>Số lượng:</translation>
+        <translation>SềElượng:</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Số lượng</translation>
+        <translation>SềElượng</translation>
     </message>
     </context>
 <context>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>Địa chỉ</translation>
+        <translation>Địa chềE/translation>
     </message>
     </context>
 <context>
@@ -87,7 +87,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Số lượng</translation>
+        <translation>SềElượng</translation>
     </message>
     </context>
 <context>
@@ -106,7 +106,7 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Sao chép địa chỉ</translation>
+        <translation>Sao chép địa chềE/translation>
     </message>
     </context>
 <context>
@@ -116,7 +116,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>Số lượng:</translation>
+        <translation>SềElượng:</translation>
     </message>
     </context>
 <context>

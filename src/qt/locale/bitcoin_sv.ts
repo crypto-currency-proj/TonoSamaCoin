@@ -158,7 +158,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>Ändra lösenord</translation>
+        <translation>ÁEdra lösenord</translation>
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
@@ -292,7 +292,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>Ändra konfigurationsalternativ för %1</translation>
+        <translation>ÁEdra konfigurationsalternativ för %1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
@@ -336,7 +336,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Återindexerar block på disken...</translation>
+        <translation>ÁEerindexerar block på disken...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
@@ -834,7 +834,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
-        <translation>Återställ alla inställningar som gjorts i GUI</translation>
+        <translation>ÁEerställ alla inställningar som gjorts i GUI</translation>
     </message>
 </context>
 <context>
@@ -853,7 +853,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>%1 will download and store a copy of the Litecoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 kommer att ladda ner och spara en kopia av Litecoin blockkedjan. Åtminstone %2GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <translation>%1 kommer att ladda ner och spara en kopia av Litecoin blockkedjan. ÁEminstone %2GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1010,11 +1010,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>Återställ alla klientinställningar till förvalen.</translation>
+        <translation>ÁEerställ alla klientinställningar till förvalen.</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>&amp;Återställ alternativ</translation>
+        <translation>&amp;ÁEerställ alternativ</translation>
     </message>
     <message>
         <source>&amp;Network</source>
@@ -1324,7 +1324,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Refund from %1</source>
-        <translation>Återbetalning från %1</translation>
+        <translation>ÁEerbetalning från %1</translation>
     </message>
     <message>
         <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
@@ -1786,11 +1786,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>Återanvänd en av tidigare använda mottagningsadresser. Återanvändning av adresser har både säkerhets och integritetsbrister. Använd inte samma mottagningsadress om du inte gör om samma betalningsbegäran.</translation>
+        <translation>ÁEeranvänd en av tidigare använda mottagningsadresser. ÁEeranvändning av adresser har både säkerhets och integritetsbrister. Använd inte samma mottagningsadress om du inte gör om samma betalningsbegäran.</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>Åt&amp;eranvänd en existerande mottagningsadress (rekommenderas inte)</translation>
+        <translation>ÁE&amp;eranvänd en existerande mottagningsadress (rekommenderas inte)</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
@@ -2817,7 +2817,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Ändra etikett</translation>
+        <translation>ÁEdra etikett</translation>
     </message>
     <message>
         <source>Show transaction details</source>
@@ -3284,11 +3284,11 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Rebuild chain state and block index from the blk*.dat files on disk</source>
-        <translation>Återskapa blockkedjans status och index från blk*.dat filer på disken</translation>
+        <translation>ÁEerskapa blockkedjans status och index från blk*.dat filer på disken</translation>
     </message>
     <message>
         <source>Rebuild chain state from the currently indexed blocks</source>
-        <translation>Återskapa blockkedjans status från aktuella indexerade block</translation>
+        <translation>ÁEerskapa blockkedjans status från aktuella indexerade block</translation>
     </message>
     <message>
         <source>Rewinding blocks...</source>

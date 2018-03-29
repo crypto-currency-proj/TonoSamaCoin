@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Кликните правой кнопкой мыши для редактирования адреса или метки</translation>
+        <translation>Кликните правой кнопкой мыши длсEредактированисEадресE� или метки</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Создать новый адрес</translation>
+        <translation>СоздатсEновый адресE/translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,71 +15,71 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Скопировать текущий выбранный адрес в буфер обмена системы</translation>
+        <translation>СкопироватсEтекущий выбранный адресEв бусE�р обмена сE�сE�емсE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Копировать</translation>
+        <translation>КопироватсE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>&amp;Закрыть</translation>
+        <translation>&amp;ЗакрытсE/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Удалить выбранный адрес из списка</translation>
+        <translation>УдалитсEвыбранный адресEиз сE�исE�а</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Экспортировать данные текущей вкладки в файл</translation>
+        <translation>ЭксE�ортироватсEданные текущей вкладки в сE�йл</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>Экспортировать</translation>
+        <translation>ЭксE�ортироватсE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Удалить</translation>
+        <translation>УдалитсE/translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Выбрать адрес для отправки монет</translation>
+        <translation>ВыбратсEадресEдлсEотправки монесE/translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Выбрать адрес для получения монет</translation>
+        <translation>ВыбратсEадресEдлсEполусE�нисEмонесE/translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>В&amp;ыбрать</translation>
+        <translation>ЁEamp;ыбратсE/translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Адреса отправки</translation>
+        <translation>АдресE� отправки</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Адреса получения</translation>
+        <translation>АдресE� полусE�нисE/translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Копировать адрес</translation>
+        <translation>&amp;КопироватсEадресE/translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Копировать &amp;метку</translation>
+        <translation>КопироватсE&amp;метксE/translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Редактировать</translation>
+        <translation>&amp;РедактироватсE/translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>Экспортировать список адресов</translation>
+        <translation>ЭксE�ортироватсEсE�исE�к адресE�в</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Экспорт не удался</translation>
+        <translation>ЭксE�орсEне удалсE�E/translation>
     </message>
     </context>
 <context>
@@ -90,58 +90,58 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(нет метки)</translation>
+        <translation>(несEметки)</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>Ввод пароля</translation>
+        <translation>Ввод паролсE/translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>Введите пароль</translation>
+        <translation>Введите паролсE/translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Новый пароль</translation>
+        <translation>Новый паролсE/translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Повторите новый пароль</translation>
+        <translation>Повторите новый паролсE/translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Зашифровать бумажник</translation>
+        <translation>ЗашисE�оватсEбумажник</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Эта операция требует вашего пароля для разблокировки бумажника</translation>
+        <translation>Эта операсE�сEтребуесEвашего паролсEдлсEразблокировки бумажника</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Разблокировать бумажник</translation>
+        <translation>РазблокироватсEбумажник</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Расшифровать бумажник</translation>
+        <translation>РасE�исE�оватсEбумажник</translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>Изменить пароль</translation>
+        <translation>ИзменитсEпаролсE/translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Подтвердите шифрование бумажника</translation>
+        <translation>Подтвердите шисE�ование бумажника</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Бумажник зашифрован</translation>
+        <translation>Бумажник зашисE�ован</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
@@ -155,19 +155,19 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Подписать &amp;сообщение...</translation>
+        <translation>ПодписE�тсE&amp;сE�общение...</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Транзакции</translation>
+        <translation>&amp;ТранзаксE�и</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Просмотр истории транзакций</translation>
+        <translation>ПросE�отр исE�ории транзаксE�й</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>В&amp;ыход</translation>
+        <translation>ЁEamp;ысE�д</translation>
     </message>
     <message>
         <source>Quit application</source>
@@ -175,51 +175,51 @@
     </message>
     <message>
         <source>&amp;About %1</source>
-        <translation>&amp;О программе %1</translation>
+        <translation>&amp;ЁEпрограмме %1</translation>
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>Показать информацию о %1</translation>
+        <translation>ПоказатсEинсE�рмасE�сEо %1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>О библиотеке &amp;Qt</translation>
+        <translation>ЁEбиблиотеке &amp;Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Показать информацию о библиотеке Qt</translation>
+        <translation>ПоказатсEинсE�рмасE�сEо библиотеке Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>&amp;Опции...</translation>
+        <translation>&amp;ОпсE�и...</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Зашифровать кошелёк</translation>
+        <translation>&amp;ЗашисE�оватсEкошелёк</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Создать резервную копию бумажника</translation>
+        <translation>&amp;СоздатсEрезервнусEкописEбумажника</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Изменить пароль...</translation>
+        <translation>&amp;ИзменитсEпаролсE..</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>&amp;Адреса для отправки...</translation>
+        <translation>&amp;АдресE� длсEотправки...</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>&amp;Адреса для получения...</translation>
+        <translation>&amp;АдресE� длсEполусE�нисE..</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>Открыть &amp;URI...</translation>
+        <translation>ОткрытсE&amp;URI...</translation>
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
-        <translation>Синхронизация заголовков (%1%)...</translation>
+        <translation>СинсE�онизасE�сEзаголовков (%1%)...</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Проверить сообщение...</translation>
+        <translation>&amp;ПроверитсEсE�общение...</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -239,15 +239,15 @@
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Отправить</translation>
+        <translation>&amp;ОтправитсE/translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>&amp;Получить</translation>
+        <translation>&amp;ПолусE�тсE/translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Показать / Спрятать</translation>
+        <translation>&amp;ПоказатсE/ СпрятатсE/translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -255,15 +255,15 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Настройки</translation>
+        <translation>&amp;НасE�ройки</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Помощь</translation>
+        <translation>&amp;ПомощсE/translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>Опции командной строки</translation>
+        <translation>ОпсE�и командной сE�роки</translation>
     </message>
     <message>
         <source>Error</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation>ИнсE�рмасE�сE/translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Connecting to peers...</source>
-        <translation>Подключение к пирам...</translation>
+        <translation>ПодклюсE�ние к пирам...</translation>
     </message>
     </context>
 <context>
@@ -294,11 +294,11 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Количество:</translation>
+        <translation>КолисE�сE�во:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комиссия:</translation>
+        <translation>КомисE�E�сE</translation>
     </message>
     <message>
         <source>Date</source>
@@ -306,7 +306,7 @@
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Подтверждения</translation>
+        <translation>ПодтвержденисE/translation>
     </message>
     <message>
         <source>Confirmed</source>
@@ -314,19 +314,19 @@
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Копировать адрес</translation>
+        <translation>КопироватсEадресE/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Копировать метку</translation>
+        <translation>КопироватсEметксE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Копировать сумму</translation>
+        <translation>КопироватсEсE�ммсE/translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Копировать ID транзакции</translation>
+        <translation>КопироватсEID транзаксE�и</translation>
     </message>
     <message>
         <source>yes</source>
@@ -334,18 +334,18 @@
     </message>
     <message>
         <source>no</source>
-        <translation>нет</translation>
+        <translation>несE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(нет метки)</translation>
+        <translation>(несEметки)</translation>
     </message>
     </context>
 <context>
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Изменить адрес</translation>
+        <translation>ИзменитсEадресE/translation>
     </message>
     </context>
 <context>
@@ -355,30 +355,30 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>версия</translation>
+        <translation>версE�сE/translation>
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>Опции командной строки</translation>
+        <translation>ОпсE�и командной сE�роки</translation>
     </message>
     <message>
         <source>command-line options</source>
-        <translation>Опции командной строки</translation>
+        <translation>ОпсE�и командной сE�роки</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Запускать свернутым</translation>
+        <translation>ЗапусE�атсEсE�ернутым</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Добро пожаловать</translation>
+        <translation>Добро пожаловатсE/translation>
     </message>
     <message>
         <source>Welcome to %1.</source>
-        <translation>Добро пожаловать в %1.</translation>
+        <translation>Добро пожаловатсEв %1.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -389,18 +389,18 @@
     <name>ModalOverlay</name>
     <message>
         <source>Progress</source>
-        <translation>Прогресс</translation>
+        <translation>ПрогресE�E/translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Спрятать</translation>
+        <translation>СпрятатсE/translation>
     </message>
     </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Открыть URI</translation>
+        <translation>ОткрытсEURI</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -411,51 +411,51 @@
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>Опции</translation>
+        <translation>ОпсE�и</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>МБ</translation>
+        <translation>МЁE/translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>Разрешить входящие соеденения</translation>
+        <translation>РазрешитсEвсE�дящие сE�едененисE/translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>&amp;Сбросить опции</translation>
+        <translation>&amp;СбросE�тсEопсE�и</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>&amp;Сеть</translation>
+        <translation>&amp;СетсE/translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>К&amp;ошелёк</translation>
+        <translation>ЁEamp;ошелёк</translation>
     </message>
     <message>
         <source>Expert</source>
-        <translation>Эксперт</translation>
+        <translation>ЭксE�ерсE/translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>Пробросить порт через &amp;UPnP</translation>
+        <translation>ПробросE�тсEпорсEсE�рез &amp;UPnP</translation>
     </message>
     <message>
         <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Подключится к сети Litecoin через SOCKS5 прокси.</translation>
+        <translation>ПодклюсE�тсE�Eк сE�ти Litecoin сE�рез SOCKS5 проксE�.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>IP прокси:</translation>
+        <translation>IP проксE�:</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;Порт:</translation>
+        <translation>&amp;ПорсE</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Порт прокси: (напр. 9050)</translation>
+        <translation>ПорсEпроксE�: (напр. 9050)</translation>
     </message>
     <message>
         <source>IPv4</source>
@@ -475,11 +475,11 @@
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation>Спрятать иконку в трее</translation>
+        <translation>СпрятатсEиконксEв трее</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation>&amp;ОЁE/translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -494,23 +494,23 @@
     </message>
     <message>
         <source>Balances</source>
-        <translation>Балансы</translation>
+        <translation>БалансE�E/translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>Всего:</translation>
+        <translation>ВсE�го:</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Ваш текущий баланс:</translation>
+        <translation>ВасEтекущий балансE</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>Ваш текущий баланс на адресах только для чтения:</translation>
+        <translation>ВасEтекущий балансEна адресE�сEтолько длсEсE�енисE</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Последние транзакции</translation>
+        <translation>ПосE�едние транзаксE�и</translation>
     </message>
     </context>
 <context>
@@ -523,19 +523,19 @@
     <name>QObject</name>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Введите биткоин-адрес (напр. %1)</translation>
+        <translation>Введите биткоин-адресE(напр. %1)</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>%n час</numerusform><numerusform>%n часа</numerusform><numerusform>%n часов</numerusform><numerusform>%n часов</numerusform></translation>
+        <translation><numerusform>%n сE�сE/numerusform><numerusform>%n сE�сE�</numerusform><numerusform>%n сE�сE�в</numerusform><numerusform>%n сE�сE�в</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation><numerusform>%n день</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform></translation>
+        <translation><numerusform>%n денсE/numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n неделя</numerusform><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform></translation>
+        <translation><numerusform>%n неделсE/numerusform><numerusform>%n неделсE/numerusform><numerusform>%n неделсE/numerusform><numerusform>%n неделсE/numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -543,7 +543,7 @@
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n год</numerusform><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform></translation>
+        <translation><numerusform>%n год</numerusform><numerusform>%n лесE/numerusform><numerusform>%n лесE/numerusform><numerusform>%n лесE/numerusform></translation>
     </message>
     </context>
 <context>
@@ -557,7 +557,7 @@
     <name>QRImageWidget</name>
     <message>
         <source>Save QR Code</source>
-        <translation>Сохранить QR-код</translation>
+        <translation>СосE�анитсEQR-код</translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
@@ -568,7 +568,7 @@
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>Информация</translation>
+        <translation>ИнсE�рмасE�сE/translation>
     </message>
     <message>
         <source>Debug window</source>
@@ -576,7 +576,7 @@
     </message>
     <message>
         <source>Received</source>
-        <translation>Получено</translation>
+        <translation>ПолусE�но</translation>
     </message>
     <message>
         <source>Sent</source>
@@ -584,35 +584,35 @@
     </message>
     <message>
         <source>&amp;Peers</source>
-        <translation>&amp;Пиры</translation>
+        <translation>&amp;ПирсE/translation>
     </message>
     <message>
         <source>Banned peers</source>
-        <translation>Заблокированные пиры</translation>
+        <translation>Заблокированные пирсE/translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Версия</translation>
+        <translation>ВерсE�сE/translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Открыть</translation>
+        <translation>&amp;ОткрытсE/translation>
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>&amp;Консоль</translation>
+        <translation>&amp;КонсE�лсE/translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1 &amp;час</translation>
+        <translation>1 &amp;сE�сE/translation>
     </message>
     <message>
         <source>1 &amp;day</source>
-        <translation>1 &amp;день</translation>
+        <translation>1 &amp;денсE/translation>
     </message>
     <message>
         <source>1 &amp;week</source>
-        <translation>1 &amp;неделя</translation>
+        <translation>1 &amp;неделсE/translation>
     </message>
     <message>
         <source>1 &amp;year</source>
@@ -620,19 +620,19 @@
     </message>
     <message>
         <source>%1 B</source>
-        <translation>%1  Б</translation>
+        <translation>%1  ЁE/translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1  КБ</translation>
+        <translation>%1  КЁE/translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1  МБ</translation>
+        <translation>%1  МЁE/translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 ГБ</translation>
+        <translation>%1 ГЁE/translation>
     </message>
     <message>
         <source>never</source>
@@ -644,49 +644,49 @@
     </message>
     <message>
         <source>No</source>
-        <translation>Нет</translation>
+        <translation>НесE/translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation>НеизвесE�но</translation>
     </message>
 </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>Clear</source>
-        <translation>Отчистить</translation>
+        <translation>ОтсE�сE�итсE/translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Показать</translation>
+        <translation>ПоказатсE/translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation>УдалитсE/translation>
     </message>
     <message>
         <source>Copy URI</source>
-        <translation>Копировать URI</translation>
+        <translation>КопироватсEURI</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Копировать метку</translation>
+        <translation>КопироватсEметксE/translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>Копировать сообщение</translation>
+        <translation>КопироватсEсE�общение</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Копировать сумму</translation>
+        <translation>КопироватсEсE�ммсE/translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     <message>
         <source>Label</source>
@@ -701,7 +701,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(нет метки)</translation>
+        <translation>(несEметки)</translation>
     </message>
     </context>
 <context>
@@ -712,31 +712,31 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Количество:</translation>
+        <translation>КолисE�сE�во:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комиссия:</translation>
+        <translation>КомисE�E�сE</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>Выбрать...</translation>
+        <translation>ВыбратсE..</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Спрятать</translation>
+        <translation>СпрятатсE/translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>Баланс:</translation>
+        <translation>БалансE</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Копировать сумму</translation>
+        <translation>КопироватсEсE�ммсE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(нет метки)</translation>
+        <translation>(несEметки)</translation>
     </message>
 </context>
 <context>
@@ -756,7 +756,7 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signature</source>
-        <translation>Подпись</translation>
+        <translation>ПодписE�E/translation>
     </message>
     </context>
 <context>
@@ -779,26 +779,26 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(нет метки)</translation>
+        <translation>(несEметки)</translation>
     </message>
     </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>Copy address</source>
-        <translation>Копировать адрес</translation>
+        <translation>КопироватсEадресE/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Копировать метку</translation>
+        <translation>КопироватсEметксE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Копировать сумму</translation>
+        <translation>КопироватсEсE�ммсE/translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Копировать ID транзакции</translation>
+        <translation>КопироватсEID транзаксE�и</translation>
     </message>
     <message>
         <source>Label</source>
@@ -806,11 +806,11 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрес</translation>
+        <translation>АдресE/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Экспорт не удался</translation>
+        <translation>ЭксE�орсEне удалсE�E/translation>
     </message>
     </context>
 <context>
@@ -826,7 +826,7 @@
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>Экспортировать</translation>
+        <translation>ЭксE�ортироватсE/translation>
     </message>
     </context>
 <context>
@@ -841,7 +841,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation>ИнсE�рмасE�сE/translation>
     </message>
     <message>
         <source>Warning</source>

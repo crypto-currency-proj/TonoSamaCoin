@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>برای ویرایش آدرس یا برچسب روی آن راست کلیک کنید</translation>
+        <translation>براہEویرایش آدرس یا برځE�ب روہEآفEراست کفE�ک کفE�د</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -15,23 +15,23 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>کپی کردن حساب انتخاب شده به حافظه سیستم - کلیپ بورد</translation>
+        <translation>کپہEکردفEحساب افE�خاب شدفEبفEحافE�فEسیستفE- کفE�پ بورد</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>کپی</translation>
+        <translation>کپہE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>بستن</translation>
+        <translation>بستفE/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>حذف آدرس های انتخاب شده از لیست</translation>
+        <translation>حذفEآدرس فE�ہEافE�خاب شدفEاز فE�ست</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>صدور داده نوار جاری به یک فایل</translation>
+        <translation>صدور دادفEفE�ار جارہEبفEیک فE�یفE/translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -39,43 +39,43 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>حذف</translation>
+        <translation>حذفE/translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>آدرس برای ارسال کوین‌ها را انتخاب کنید</translation>
+        <translation>آدرس براہEارسافEکویفE��فE� را افE�خاب کفE�د</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>انتخاب آدرس جهت دریافت سکه‌ها با آن</translation>
+        <translation>افE�خاب آدرس جفE� دریافE� سکفE��فE� با آفE/translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>انتخاب</translation>
+        <translation>افE�خاب</translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>آدرس‌های فرستنده</translation>
+        <translation>آدرس‌فE�ہEفE�ستفE�فE/translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>آدرس‌های گیرنده</translation>
+        <translation>آدرس‌فE�ہEگیرفE�فE/translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>اینها آدرس‌های بیتکوین شما برای ارسال وجوه هستند. همیشه قبل از ارسال، مقدار و آدرس گیرنده را بررسی کنید.</translation>
+        <translation>ایفE�E� آدرس‌فE�ہEبیتکویفEشفE� براہEارسافEوجوفEفE�تفE�. فE�E�شفEقبفEاز ارسافE�EفE�دار فEآدرس گیرفE�فEرا بررسہEکفE�د.</translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>اینها آدرس‌های بیتکوین شما برای دریافت وجوه هستند. توصیه می‌شود برای هر دریافت از یک آدرس جدید استفاده کنید.</translation>
+        <translation>ایفE�E� آدرس‌فE�ہEبیتکویفEشفE� براہEدریافE� وجوفEفE�تفE�. توصیفEفE�‌شود براہEفE� دریافE� از یک آدرس جدید استفE�دفEکفE�د.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>کپی آدرس</translation>
+        <translation>کپہEآدرس</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>کپی برچسب</translation>
+        <translation>کپہEبرځE�ب</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -83,18 +83,18 @@
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>از فهرست آدرس خروجی گرفته شود</translation>
+        <translation>از فE�E�ست آدرس خروجہEگرفE�فEشود</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>گرفتن خروجی به مشکل خورد</translation>
+        <translation>گرفE�فEخروجہEبفEفE�کفEخورد</translation>
     </message>
     </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation>برځE�ب</translation>
     </message>
     <message>
         <source>Address</source>
@@ -105,39 +105,39 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>دیالوگ رمزعبور</translation>
+        <translation>دیافE�گ رفE�عبور</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>رمز/پَس فرِیز را وارد کنید</translation>
+        <translation>رفE�/پَس فE�ِیز را وارد کفE�د</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>رمز/پَس فرِیز جدید را وارد کنید</translation>
+        <translation>رفE�/پَس فE�ِیز جدید را وارد کفE�د</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>رمز/پَس فرِیز را دوباره وارد کنید</translation>
+        <translation>رفE�/پَس فE�ِیز را دوبارفEوارد کفE�د</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>رمزگذاری کیف پول</translation>
+        <translation>رفE�گذارہEکیفEپوفE/translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>رمزگشایی کیف پول</translation>
+        <translation>رفE�گشایہEکیفEپوفE/translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>تغییر رمزعبور</translation>
+        <translation>تغییر رفE�عبور</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>تایید رمزگذاری کیف پول</translation>
+        <translation>تایید رفE�گذارہEکیفEپوفE/translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>کیف پول رمزگذاری شده است</translation>
+        <translation>کیفEپوفEرفE�گذارہEشدفEاست</translation>
     </message>
     </context>
 <context>
@@ -147,27 +147,27 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>امضا و پیام</translation>
+        <translation>افE�ا فEپیافE/translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>به روز رسانی با شبکه...</translation>
+        <translation>بفEروز رسافE�Eبا شبکفE..</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>بازبینی</translation>
+        <translation>بازبیفE�E/translation>
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>نمای کلی از wallet را نشان بده</translation>
+        <translation>فE�E�ہEکفE�Eاز wallet را فE�افEبدفE/translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>تراکنش</translation>
+        <translation>تراکفE�</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>تاریخچه تراکنش را باز کن</translation>
+        <translation>تاریخځE�EتراکفE� را باز کفE/translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -175,55 +175,55 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>از "درخواست نامه"/ application خارج شو</translation>
+        <translation>از "درخواست فE�فE�E/ application خارج شفE/translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>درباره Qt</translation>
+        <translation>دربارفEQt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>نمایش اطلاعات درباره Qt</translation>
+        <translation>فE�E�یش اطفE�عات دربارفEQt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>انتخاب ها</translation>
+        <translation>افE�خاب فE�</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>رمزگذاری کیف پول</translation>
+        <translation>رفE�گذارہEکیفEپوفE/translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>تهیه نسخه پشتیبان از کیف پول</translation>
+        <translation>تفE�فEفE�خفEپشتیبافEاز کیفEپوفE/translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>تغییر رمز/پَس فرِیز</translation>
+        <translation>تغییر رفE�/پَس فE�ِیز</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>دریافت آدرس ها</translation>
+        <translation>دریافE� آدرس فE�</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>ارسال کوین به آدرس litecoin</translation>
+        <translation>ارسافEکویفEبفEآدرس litecoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>گرفتن نسخه پیشتیبان در آدرسی دیگر</translation>
+        <translation>گرفE�فEفE�خفEپیشتیبافEدر آدرسہEدیگر</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>رمز عبور مربوط به رمزگذاریِ کیف پول  را تغییر دهید</translation>
+        <translation>رفE� عبور فE�بوط بفEرفE�گذاریفEکیفEپوفE را تغییر دفE�د</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>پنجره دیباگ</translation>
+        <translation>پفE�رفEدیباگ</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>تایید پیام</translation>
+        <translation>تایید پیافE/translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -231,31 +231,31 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>کیف پول</translation>
+        <translation>کیفEپوفE/translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>ارسال</translation>
+        <translation>ارسافE/translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>نمایش/ عدم نمایش</translation>
+        <translation>فE�E�یش/ عدفEفE�E�یش</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>فایل</translation>
+        <translation>فE�یفE/translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>تنظیمات</translation>
+        <translation>تفE�یفE�ت</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>راهنما</translation>
+        <translation>رافE�E�E�</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>نوار ابزار</translation>
+        <translation>فE�ار ابزار</translation>
     </message>
     <message>
         <source>Error</source>
@@ -263,46 +263,46 @@
     </message>
     <message>
         <source>Up to date</source>
-        <translation>به روز</translation>
+        <translation>بفEروز</translation>
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>در حال روزآمد سازی..</translation>
+        <translation>در حافEروزآفE� سازہE.</translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>تراکنش ارسالی</translation>
+        <translation>تراکفE� ارسافE�E/translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>تراکنش دریافتی</translation>
+        <translation>تراکفE� دریافE�ہE/translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>wallet رمزگذاری شد و در حال حاضر از حالت قفل در آمده است</translation>
+        <translation>wallet رفE�گذارہEشد فEدر حافEحاضر از حافE� قفE�Eدر آفE�فEاست</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>wallet رمزگذاری شد و در حال حاضر قفل است</translation>
+        <translation>wallet رفE�گذارہEشد فEدر حافEحاضر قفE�Eاست</translation>
     </message>
     </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>انتخاب کوین</translation>
+        <translation>افE�خاب کویفE/translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>مقدار</translation>
+        <translation>فE�دار</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>میزان وجه:</translation>
+        <translation>فE�زافEوجفE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>هزینه</translation>
+        <translation>فE�یفE�E/translation>
     </message>
     <message>
         <source>Change:</source>
@@ -310,19 +310,19 @@
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(عدم)انتخاب همه</translation>
+        <translation>(عدفEافE�خاب فE�E�E/translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>میزان</translation>
+        <translation>فE�زافE/translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>دریافت شده با برچسب</translation>
+        <translation>دریافE� شدفEبا برځE�ب</translation>
     </message>
     <message>
         <source>Received with address</source>
-        <translation>دریافت شده با آدرس</translation>
+        <translation>دریافE� شدفEبا آدرس</translation>
     </message>
     <message>
         <source>Date</source>
@@ -330,39 +330,39 @@
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>تاییدیه </translation>
+        <translation>تاییدیفE</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>تایید شده</translation>
+        <translation>تایید شدفE/translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>کپی آدرس</translation>
+        <translation>کپہEآدرس</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>کپی برچسب</translation>
+        <translation>کپہEبرځE�ب</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>کپی مقدار</translation>
+        <translation>کپہEفE�دار</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>کپی شناسه تراکنش</translation>
+        <translation>کپہEشفE�سفEتراکفE�</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>کپی مقدار</translation>
+        <translation>کپہEفE�دار</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>کپی هزینه</translation>
+        <translation>کپہEفE�یفE�E/translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>بله</translation>
+        <translation>بفE�E/translation>
     </message>
     <message>
         <source>no</source>
@@ -377,7 +377,7 @@
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>برچسب</translation>
+        <translation>برځE�ب</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -385,44 +385,44 @@
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>آدرس دریافتی جدید</translation>
+        <translation>آدرس دریافE�ہEجدید</translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>آدرس ارسالی جدید</translation>
+        <translation>آدرس ارسافE�Eجدید</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>ویرایش آدرس دریافتی</translation>
+        <translation>ویرایش آدرس دریافE�ہE/translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>ویرایش آدرس ارسالی</translation>
+        <translation>ویرایش آدرس ارسافE�E/translation>
     </message>
     </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>name</source>
-        <translation>نام</translation>
+        <translation>فE�فE/translation>
     </message>
     </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>نسخه</translation>
+        <translation>فE�خفE/translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>میزان استفاده:</translation>
+        <translation>فE�زافEاستفE�دفE</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>خوش آمدید</translation>
+        <translation>خوش آفE�ید</translation>
     </message>
     <message>
         <source>Error</source>
@@ -433,19 +433,19 @@
     <name>ModalOverlay</name>
     <message>
         <source>Form</source>
-        <translation>فرم</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>Unknown...</source>
-        <translation>ناشناس...</translation>
+        <translation>فE�شفE�س...</translation>
     </message>
     <message>
         <source>calculating...</source>
-        <translation>در حال محاسبه...</translation>
+        <translation>در حافEفE�اسبفE..</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>پنهان کردن</translation>
+        <translation>پفE�E�فEکردفE/translation>
     </message>
     </context>
 <context>
@@ -455,23 +455,23 @@
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>گزینه ها</translation>
+        <translation>گزیفE�EفE�</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>مگابایت</translation>
+        <translation>فE�ابایت</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>تنظیم مجدد گزینه ها</translation>
+        <translation>تفE�یفEفE�دد گزیفE�EفE�</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>شبکه</translation>
+        <translation>شبکفE/translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>کیف پول</translation>
+        <translation>کیفEپوفE/translation>
     </message>
     <message>
         <source>&amp;Port:</source>
@@ -479,11 +479,11 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>پنجره</translation>
+        <translation>پفE�رفE/translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>نمایش</translation>
+        <translation>فE�E�یش</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -491,22 +491,22 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>لغو</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>default</source>
-        <translation>پیش فرض</translation>
+        <translation>پیش فE�ض</translation>
     </message>
     </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Form</source>
-        <translation>فرم</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه litecoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <translation>اطفE�عات فE�E�یش دادفEشدفEفE�E�فEاست روزآفE� فE�اشد. wallet شفE� بفEصورت خودکار بعد از برقرارہEاتصافEبا شبکفElitecoin بفEروز فE�Eشود افE� ایفEفE�ایفE� فE�E�ز تکفE�فEفE�دفEاست.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -514,19 +514,19 @@
     </message>
     <message>
         <source>Pending:</source>
-        <translation>در حال انتظار:</translation>
+        <translation>در حافEافE�ظار:</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>کل:</translation>
+        <translation>کفE</translation>
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>قابل مصرف:</translation>
+        <translation>قابفEفE�رفE</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>تراکنش های اخیر</translation>
+        <translation>تراکفE� فE�ہEاخیر</translation>
     </message>
     </context>
 <context>
@@ -539,7 +539,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>میزان</translation>
+        <translation>فE�زافE/translation>
     </message>
     </context>
 <context>
@@ -552,57 +552,57 @@
     <name>RPCConsole</name>
     <message>
         <source>Client version</source>
-        <translation>ویرایش کنسول RPC</translation>
+        <translation>ویرایش کفE�وفERPC</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>شبکه</translation>
+        <translation>شبکفE/translation>
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>تعداد اتصال</translation>
+        <translation>تعداد اتصافE/translation>
     </message>
     <message>
         <source>Block chain</source>
-        <translation>زنجیره مجموعه تراکنش ها</translation>
+        <translation>زفE�یرفEفE�فE�عفEتراکفE� فE�</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>تعداد زنجیره های حاضر</translation>
+        <translation>تعداد زفE�یرفEفE�ہEحاضر</translation>
     </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>میزان وجه:</translation>
+        <translation>فE�زافEوجفE</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>برچسب:</translation>
+        <translation>برځE�ب:</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>پیام:</translation>
+        <translation>پیافE</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>حذف</translation>
+        <translation>حذفE/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>کپی برچسب</translation>
+        <translation>کپہEبرځE�ب</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>کپی مقدار</translation>
+        <translation>کپہEفE�دار</translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>کپی آدرس</translation>
+        <translation>کپہEآدرس</translation>
     </message>
     <message>
         <source>Address</source>
@@ -610,37 +610,37 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation>برځE�ب</translation>
     </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation>برځE�ب</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>سکه های ارسالی</translation>
+        <translation>سکفEفE�ہEارسافE�E/translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>وجوه ناکافی</translation>
+        <translation>وجوفEفE�کافہE/translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>مقدار</translation>
+        <translation>فE�دار</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>میزان وجه:</translation>
+        <translation>فE�زافEوجفE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>هزینه</translation>
+        <translation>فE�یفE�E/translation>
     </message>
     <message>
         <source>Change:</source>
@@ -648,66 +648,66 @@
     </message>
     <message>
         <source>Hide</source>
-        <translation>پنهان کردن</translation>
+        <translation>پفE�E�فEکردفE/translation>
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>ارسال همزمان به گیرنده های متعدد</translation>
+        <translation>ارسافEفE�E�فE�فEبفEگیرفE�فEفE�ہEفE�عدد</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>پاک کردن همه</translation>
+        <translation>پاک کردفEفE�E�E/translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>مانده حساب:</translation>
+        <translation>فE�فE�فEحساب:</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>تایید عملیات ارسال </translation>
+        <translation>تایید عفE�E�ات ارسافE</translation>
     </message>
     <message>
         <source>S&amp;end</source>
-        <translation>و ارسال</translation>
+        <translation>فEارسافE/translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>کپی مقدار</translation>
+        <translation>کپہEفE�دار</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>کپی مقدار</translation>
+        <translation>کپہEفE�دار</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>کپی هزینه</translation>
+        <translation>کپہEفE�یفE�E/translation>
     </message>
     </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>میزان وجه</translation>
+        <translation>فE�زافEوجفE/translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>پرداخت به:</translation>
+        <translation>پرداخت بفE</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>برچسب:</translation>
+        <translation>برځE�ب:</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>استفاده از آدرس کلیپ بورد</translation>
+        <translation>استفE�دفEاز آدرس کفE�پ بورد</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>پیام:</translation>
+        <translation>پیافE</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>پرداخت به:</translation>
+        <translation>پرداخت بفE</translation>
     </message>
     <message>
         <source>Memo:</source>
@@ -721,46 +721,46 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>تا پیش از بسته شدن این پنجره کامپیوتر خود را خاموش نکنید.</translation>
+        <translation>تا پیش از بستفEشدفEایفEپفE�رفEکافE�یوتر خود را خافE�ش فE�فE�د.</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>امضای پیام </translation>
+        <translation>افE�اہEپیافE</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>آدرس را بر کلیپ بورد کپی کنید</translation>
+        <translation>آدرس را بر کفE�پ بورد کپہEکفE�د</translation>
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>پیامی که می خواهید امضا کنید را اینجا وارد کنید</translation>
+        <translation>پیافE�EکفEفE�EخوافE�د افE�ا کفE�د را ایفE�ا وارد کفE�د</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>امضا</translation>
+        <translation>افE�ا</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>امضای پیام </translation>
+        <translation>افE�اہEپیافE</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>پاک کردن همه</translation>
+        <translation>پاک کردفEفE�E�E/translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>تایید پیام</translation>
+        <translation>تایید پیافE/translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>تایید پیام</translation>
+        <translation>تایید پیافE/translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>آدرس وارد شده نامعتبر است.</translation>
+        <translation>آدرس وارد شدفEفE�فE�تبر است.</translation>
     </message>
     </context>
 <context>
@@ -781,11 +781,11 @@
     </message>
     <message>
         <source>Source</source>
-        <translation>منبع</translation>
+        <translation>فE�E�ع</translation>
     </message>
     <message>
         <source>Generated</source>
-        <translation>تولید شده</translation>
+        <translation>توفE�د شدفE/translation>
     </message>
     <message>
         <source>From</source>
@@ -793,68 +793,68 @@
     </message>
     <message>
         <source>To</source>
-        <translation>به</translation>
+        <translation>بفE/translation>
     </message>
     </context>
 <context>
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>این بخش جزئیات تراکنش را نشان می دهد</translation>
+        <translation>ایفEبخش جزئیات تراکفE� را فE�افEفE�EدفE�</translation>
     </message>
     </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation>برځE�ب</translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>تایید نشده</translation>
+        <translation>تایید فE�دفE/translation>
     </message>
     <message>
         <source>Received from</source>
-        <translation>دریافت شده از</translation>
+        <translation>دریافE� شدفEاز</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>ارسال شده به</translation>
+        <translation>ارسافEشدفEبفE/translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>استخراج شده</translation>
+        <translation>استخراج شدفE/translation>
     </message>
     </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>Sent to</source>
-        <translation>ارسال شده به</translation>
+        <translation>ارسافEشدفEبفE/translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>استخراج شده</translation>
+        <translation>استخراج شدفE/translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>کپی آدرس</translation>
+        <translation>کپہEآدرس</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>کپی برچسب</translation>
+        <translation>کپہEبرځE�ب</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>کپی مقدار</translation>
+        <translation>کپہEفE�دار</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>کپی شناسه تراکنش</translation>
+        <translation>کپہEشفE�سفEتراکفE�</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation>برځE�ب</translation>
     </message>
     <message>
         <source>Address</source>
@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>گرفتن خروجی به مشکل خورد</translation>
+        <translation>گرفE�فEخروجہEبفEفE�کفEخورد</translation>
     </message>
     </context>
 <context>
@@ -881,95 +881,95 @@
     <name>bitcoin-core</name>
     <message>
         <source>Options:</source>
-        <translation>انتخابها:</translation>
+        <translation>افE�خابفE�:</translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>دایرکتوری داده را مشخص کن</translation>
+        <translation>دایرکتورہEدادفEرا فE�خص کفE/translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>command line  و JSON-RPC commands را قبول کنید</translation>
+        <translation>command line  فEJSON-RPC commands را قبوفEکفE�د</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>به عنوان daemon بک گراند را اجرا کنید و دستورات را قبول نمایید</translation>
+        <translation>بفEعفE�افEdaemon بک گرافE� را اجرا کفE�د فEدستورات را قبوفEفE�E�یید</translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>
-        <translation>مبلغ تراکنش کمتر از آن است که پس از کسر هزینه  تراکنش قابل ارسال باشد</translation>
+        <translation>فE�فE� تراکفE� کفE�ر از آفEاست کفEپس از کسر فE�یفE�E تراکفE� قابفEارسافEباشد</translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>گزینه های سرویس دهنده RPC:</translation>
+        <translation>گزیفE�EفE�ہEسرویس دفE�E�فERPC:</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>ارسال اطلاعات پیگیری/خطایابی به کنسول به جای ارسال به فایل debug.log</translation>
+        <translation>ارسافEاطفE�عات پیگیرہEخطایابہEبفEکفE�وفEبفEجاہEارسافEبفEفE�یفEdebug.log</translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>ارسال تراکنش ها به صورت بدون کارمزد در صورت امکان (پیش فرض: %u)</translation>
+        <translation>ارسافEتراکفE� فE� بفEصورت بدوفEکارفE�د در صورت افE�افE(پیش فE�ض: %u)</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>شناسه کاربری برای ارتباطاتِ JSON-RPC</translation>
+        <translation>شفE�سفEکاربرہEبراہEارتباطاتفEJSON-RPC</translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>رمز برای ارتباطاتِ JSON-RPC</translation>
+        <translation>رفE� براہEارتباطاتفEJSON-RPC</translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>دستور را وقتی بهترین بلاک تغییر کرد اجرا کن (%s در دستور توسط block hash جایگزین شده است)</translation>
+        <translation>دستور را وقتہEبفE�ریفEبفE�ک تغییر کرد اجرا کفE(%s در دستور توسط block hash جایگزیفEشدفEاست)</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>لود شدن آدرسها..</translation>
+        <translation>فE�د شدفEآدرسفE�..</translation>
     </message>
     <message>
         <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>تنظیم تعداد ریسمان ها برای سرویس دهی فراخوانی های RPC (پیش فرض: %d)</translation>
+        <translation>تفE�یفEتعداد ریسفE�فEفE� براہEسرویس دفE�EفE�اخوافE�EفE�ہERPC (پیش فE�ض: %d)</translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
-        <translation>فایل تنظیمات را مشخص کنید (پیش فرض: %s)</translation>
+        <translation>فE�یفEتفE�یفE�ت را فE�خص کفE�د (پیش فE�ض: %s)</translation>
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>فایل pid را مشخص کنید (پیش فرض: %s)</translation>
+        <translation>فE�یفEpid را فE�خص کفE�د (پیش فE�ض: %s)</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>وجوه ناکافی</translation>
+        <translation>وجوفEفE�کافہE/translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>لود شدن نمایه بلاکها..</translation>
+        <translation>فE�د شدفEفE�E�یفEبفE�کفE�..</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>یک گره برای اتصال اضافه کنید و تلاش کنید تا اتصال را باز نگاه دارید</translation>
+        <translation>یک گرفEبراہEاتصافEاضافE�EکفE�د فEتفE�ش کفE�د تا اتصافEرا باز فE�افEدارید</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>wallet در حال لود شدن است...</translation>
+        <translation>wallet در حافEفE�د شدفEاست...</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>قابلیت برگشت به نسخه قبلی برای wallet امکان پذیر نیست</translation>
+        <translation>قابفE�ت برگشت بفEفE�خفEقبفE�EبراہEwallet افE�افEپذیر فE�ست</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>آدرس پیش فرض قابل ذخیره نیست</translation>
+        <translation>آدرس پیش فE�ض قابفEذخیرفEفE�ست</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>اسکنِ دوباره...</translation>
+        <translation>اسکفE�EدوبارفE..</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>اتمام لود شدن</translation>
+        <translation>اتفE�فEفE�د شدفE/translation>
     </message>
     <message>
         <source>Error</source>

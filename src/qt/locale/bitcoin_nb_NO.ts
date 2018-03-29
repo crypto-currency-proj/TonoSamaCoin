@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>Åpne &amp;URI</translation>
+        <translation>ÁEne &amp;URI</translation>
     </message>
     <message>
         <source>Click to disable network activity.</source>
@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Åpne konsoll for feilsøking og diagnostisering</translation>
+        <translation>ÁEne konsoll for feilsøking og diagnostisering</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>

@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Nhấn chuột phải để sửa địa chỉ hoặc nhãn</translation>
+        <translation>Nhấn chuột phải đềEsửa địa chềEhoặc nhãn</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Tạo một địa chỉ mới</translation>
+        <translation>Tạo một địa chềEmới</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copy địa chỉ được chọn vào clipboard</translation>
+        <translation>Copy địa chềEđược chọn vào clipboard</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Xóa địa chỉ hiện tại từ danh sách</translation>
+        <translation>Xóa địa chềEhiện tại từ danh sách</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Chọn địa chỉ để gửi coin đến</translation>
+        <translation>Chọn địa chềEđềEgửi coin đến</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Chọn địa chỉ để nhận coin</translation>
+        <translation>Chọn địa chềEđềEnhận coin</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -55,11 +55,11 @@
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Địa chỉ gửi đến</translation>
+        <translation>Địa chềEgửi đến</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Địa chỉ nhận</translation>
+        <translation>Địa chềEnhận</translation>
     </message>
     </context>
 <context>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>Bị cấm đến</translation>
+        <translation>BềEcấm đến</translation>
     </message>
 </context>
 <context>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Đồng bộ hóa với mạng</translation>
+        <translation>Đồng bềEhóa với mạng</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Hiện thỉ thông tin sơ lược chung về Ví</translation>
+        <translation>Hiện thềEthông tin sơ lược chung vềEVí</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -135,19 +135,19 @@
     </message>
     <message>
         <source>&amp;About %1</source>
-        <translation>&amp;Thông tin về %1</translation>
+        <translation>&amp;Thông tin vềE%1</translation>
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>Hiện thông tin về %1</translation>
+        <translation>Hiện thông tin vềE%1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>Về &amp;Qt</translation>
+        <translation>VềE&amp;Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Xem thông tin về Qt</translation>
+        <translation>Xem thông tin vềEQt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -171,19 +171,19 @@
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>&amp;Địa chỉ gửi</translation>
+        <translation>&amp;Địa chềEgửi</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Địa chỉ nhận</translation>
+        <translation>Địa chềEnhận</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>Mở &amp;URI...</translation>
+        <translation>MềE&amp;URI...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
+        <translation>Đánh chềEsềE(indexing) lại các khối (blocks) trên ềEđĩa ...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Sao lưu ví tiền ở vị trí khác</translation>
+        <translation>Sao lưu ví tiền ềEvềEtrí khác</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>&amp;Cửa sổ xử lý lỗi (debug)</translation>
+        <translation>&amp;Cửa sềExử lý lỗi (debug)</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Hiện hoặc ẩn cửa sổ chính</translation>
+        <translation>Hiện hoặc ẩn cửa sềEchính</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
@@ -235,11 +235,11 @@
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Litecoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <translation>Dùng địa chềELitecoin của bạn ký các tin nhắn đềExác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Litecoin xác định.</translation>
+        <translation>Kiểm tra các tin nhắn đềEchắc chắn rằng chúng được ký bằng các địa chềELitecoin xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -259,19 +259,19 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Litecoin: URLs)</translation>
+        <translation>Yêu cầu thanh toán(tạo mã QR và địa chềELitecoin: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để gửi.</translation>
+        <translation>Hiện thềEdanh sách các địa chềEvà nhãn đã dùng đềEgửi.</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
+        <translation>Hiện thềEdanh sách các địa chềEvà nhãn đã dùng đềEnhận.</translation>
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Mở litecoin:URL hoặc yêu cầu thanh toán</translation>
+        <translation>MềElitecoin:URL hoặc yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -279,7 +279,7 @@
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>%1 chậm trễ</translation>
+        <translation>%1 chậm trềE/translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
@@ -287,7 +287,7 @@
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Những giao dịch sau đó sẽ không hiện thị.</translation>
+        <translation>Những giao dịch sau đó sẽ không hiện thềE</translation>
     </message>
     <message>
         <source>Error</source>
@@ -318,7 +318,7 @@
     <message>
         <source>Amount: %1
 </source>
-        <translation>Số lượng: %1
+        <translation>SềElượng: %1
 </translation>
     </message>
     <message>
@@ -336,7 +336,7 @@
     <message>
         <source>Address: %1
 </source>
-        <translation>Địa chỉ: %1
+        <translation>Địa chềE %1
 </translation>
     </message>
     <message>
@@ -349,7 +349,7 @@
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Ví tiền &lt;b&gt; đã được mã hóa&lt;/b&gt;và hiện &lt;b&gt;đang mở&lt;/b&gt;</translation>
+        <translation>Ví tiền &lt;b&gt; đã được mã hóa&lt;/b&gt;và hiện &lt;b&gt;đang mềElt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
@@ -384,15 +384,15 @@
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(bỏ)chọn tất cả</translation>
+        <translation>(bềEchọn tất cả</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>Chế độ cây</translation>
+        <translation>Chế đềEcây</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>Chế độ danh sách</translation>
+        <translation>Chế đềEdanh sách</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -415,7 +415,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Thay đổi địa chỉ</translation>
+        <translation>Thay đổi địa chềE/translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -423,7 +423,7 @@
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>Địa chỉ</translation>
+        <translation>Địa chềE/translation>
     </message>
     </context>
 <context>
@@ -457,11 +457,11 @@
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Chọn ngôn ngữ, ví dụ "de_DE" (mặc định: Vị trí hệ thống)</translation>
+        <translation>Chọn ngôn ngữ, ví dụ "de_DE" (mặc định: VềEtrí hềEthống)</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Đặt chứng nhận SSL gốc cho yêu cầu giao dịch (mặc định: -hệ thống-)</translation>
+        <translation>Đặt chứng nhận SSL gốc cho yêu cầu giao dịch (mặc định: -hềEthống-)</translation>
     </message>
     </context>
 <context>
@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>Sử dụng vị trí dữ liệu mặc định</translation>
+        <translation>Sử dụng vềEtrí dữ liệu mặc định</translation>
     </message>
     <message>
         <source>Error</source>
@@ -494,7 +494,7 @@
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Mở URI</translation>
+        <translation>MềEURI</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>Địa chỉ IP của proxy (ví dụ IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>Địa chềEIP của proxy (ví dụ IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>&amp;Hiển thị</translation>
+        <translation>&amp;Hiển thềE/translation>
     </message>
     <message>
         <source>User Interface &amp;language:</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Pending:</source>
-        <translation>Đang chờ</translation>
+        <translation>Đang chềE/translation>
     </message>
     <message>
         <source>Total:</source>
@@ -662,7 +662,7 @@
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1&amp;giờ</translation>
+        <translation>1&amp;giềE/translation>
     </message>
     <message>
         <source>1 &amp;day</source>
@@ -678,11 +678,11 @@
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Sử dụng phím lên và xuống để di chuyển lịch sử, và &lt;b&gt;Ctrl-L&lt;/b&gt; để xóa màn hình</translation>
+        <translation>Sử dụng phím lên và xuống đềEdi chuyển lịch sử, và &lt;b&gt;Ctrl-L&lt;/b&gt; đềExóa màn hình</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Gõ &lt;b&gt;help&lt;/b&gt; để xem nhưng câu lệnh có sẵn</translation>
+        <translation>Gõ &lt;b&gt;help&lt;/b&gt; đềExem nhưng câu lệnh có sẵn</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -702,7 +702,7 @@
     </message>
     <message>
         <source>never</source>
-        <translation>không bao giờ</translation>
+        <translation>không bao giềE/translation>
     </message>
     <message>
         <source>Yes</source>
@@ -729,7 +729,7 @@
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Sử dụng form này để yêu cầu thanh toán. Tất cả các trường &lt;b&gt;không bắt buộc&lt;b&gt;</translation>
+        <translation>Sử dụng form này đềEyêu cầu thanh toán. Tất cả các trường &lt;b&gt;không bắt buộc&lt;b&gt;</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -749,7 +749,7 @@
     </message>
     <message>
         <source>Show</source>
-        <translation>Hiển thị</translation>
+        <translation>Hiển thềE/translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
@@ -776,7 +776,7 @@
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>&amp;Copy Địa Chỉ</translation>
+        <translation>&amp;Copy Địa ChềE/translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
@@ -1039,7 +1039,7 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Đang đọc các địa chỉ...</translation>
+        <translation>Đang đọc các địa chềE..</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -1063,7 +1063,7 @@
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Không ghi được địa chỉ mặc định</translation>
+        <translation>Không ghi được địa chềEmặc định</translation>
     </message>
     <message>
         <source>Rescanning...</source>

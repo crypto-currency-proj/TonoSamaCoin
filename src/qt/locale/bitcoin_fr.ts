@@ -711,7 +711,7 @@
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>É&amp;tiquette</translation>
+        <translation>ÁEamp;tiquette</translation>
     </message>
     <message>
         <source>The label associated with this address list entry</source>
@@ -2233,7 +2233,7 @@
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>É&amp;tiquette :</translation>
+        <translation>ÁEamp;tiquette :</translation>
     </message>
     <message>
         <source>Choose previously used address</source>

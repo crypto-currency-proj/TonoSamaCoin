@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>انقر بالزر الايمن لتعديل العنوان</translation>
+        <translation>افE�ر بافE�ر افE�يفE�EفE�عديفEافE�فE�افE/translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>انشأ عنوان جديد</translation>
+        <translation>افE�أ عفE�افEجديد</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,23 +15,23 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>قم بنسخ القوانين المختارة لحافظة النظام</translation>
+        <translation>قفEبفE�خ افE�وافE�فEافE�E�تارة فE�افE�ة افE�E�افE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;نسخ</translation>
+        <translation>&amp;فE�خ</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>ا&amp;غلاق</translation>
+        <translation>ا&amp;غفE�فE/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>حذف العنوان المحدد من القائمة</translation>
+        <translation>حذفEافE�فE�افEافE�E�دد فE�EافE�ائفE�</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>تحميل البيانات في علامة التبويب الحالية إلى ملف.</translation>
+        <translation>تحفE�فEافE�يافE�ت فE�EعفE�فE� افE�بويب افE�افE�ة إفE�EفE�E�E</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -39,15 +39,15 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;أمسح</translation>
+        <translation>&amp;أفE�ح</translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>اختر العنوان الذي سترسل له العملات</translation>
+        <translation>اختر افE�فE�افEافE�فEسترسفEفE�EافE�فE�E�ت</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>اختر العنوان الذي تستقبل عليه العملات</translation>
+        <translation>اختر افE�فE�افEافE�فEتستقبفEعفE�فEافE�فE�E�ت</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -55,207 +55,207 @@
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>ارسال العناوين</translation>
+        <translation>ارسافEافE�فE�ويفE/translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>استقبال العناوين</translation>
+        <translation>استقبافEافE�فE�ويفE/translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>هذه هي عناوين Litecion التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
+        <translation>فE�فEفE�EعفE�ويفELitecion افE�ابعة فE�EفE�EأجفEإرسافEافE�فE�ات. تحقفEدائفE� فE�EافE�E�فE� فEعفE�افEافE�E�سفEافE�E�تقبفEقبفEإرسافEافE�فE�E�ت</translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>هذه هي عناوين Litecion التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
+        <translation>فE�فEفE�EعفE�ويفELitecion افE�ابعة فE�EفE�EأجفEإستقبافEافE�فE�ات. يفE�ح استخدافEعفE�افEجديد فE�EأجفEفE�EصفE�ة</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>انسخ العنوان</translation>
+        <translation>افE�خ افE�فE�افE/translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>نسخ &amp;الوصف</translation>
+        <translation>فE�خ &amp;افE�صفE/translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>تعديل</translation>
+        <translation>تعديفE/translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>تصدير قائمة العناوين</translation>
+        <translation>تصدير قائفE� افE�فE�ويفE/translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>ملف مفصول بفواصل (*.csv)</translation>
+        <translation>فE�E�EفE�E�وفEبفE�اصفE(*.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>فشل التصدير</translation>
+        <translation>فE�فEافE�صدير</translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>لقد حدث خطأ أثناء  حفظ قائمة العناوين إلى %1. يرجى المحاولة مرة أخرى.</translation>
+        <translation>فE�د حدث خطأ أثفE�ء  حفE� قائفE� افE�فE�ويفEإفE�E%1. يرجفEافE�E�اوفE� فE�ة أخرفE</translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>وصف</translation>
+        <translation>وصفE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation>عفE�افE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(لا وصف)</translation>
+        <translation>(فE� وصفE</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>حوار جملة السر</translation>
+        <translation>حوار جفE�E� افE�ر</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>ادخل كلمة المرور</translation>
+        <translation>ادخفEفE�E�E� افE�E�ور</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>كلمة مرور جديدة</translation>
+        <translation>فE�E�E� فE�ور جديدة</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>ادخل كلمة المرور الجديدة مرة أخرى</translation>
+        <translation>ادخفEفE�E�E� افE�E�ور افE�ديدة فE�ة أخرفE/translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>أدخل عبارة مرور جديدة إلى المحفظة. الرجاء استخدام عبارة مرور تتكون من10 حروف عشوائية على الاقل, أو أكثر من 7 كلمات</translation>
+        <translation>أدخفEعبارة فE�ور جديدة إفE�EافE�E�فE�ة. افE�جاء استخدافEعبارة فE�ور تتفE�فEفE�E0 حروفEعشوائية عفE�EافE�قفE أفEأفE�ر فE�E7 فE�E�E�ت</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>تشفير المحفظة</translation>
+        <translation>تشفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>هذه العملية تحتاج كلمة مرور محفظتك لفتحها</translation>
+        <translation>فE�فEافE�فE�E�ة تحتاج فE�E�E� فE�ور فE�فE�تفEفE�E�حفE�</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>إفتح المحفظة</translation>
+        <translation>إفE�ح افE�E�فE�ة</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>هذه العملية تحتاج كلمة مرور محفظتك لفك تشفيرها </translation>
+        <translation>فE�فEافE�فE�E�ة تحتاج فE�E�E� فE�ور فE�فE�تفEفE�E�EتشفE�رفE� </translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>فك تشفير المحفظة</translation>
+        <translation>فE�EتشفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>تغيير كلمة المرور</translation>
+        <translation>تغيير فE�E�E� افE�E�ور</translation>
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>أدخل كلمة المرور القديمة والجديدة للمحفظة.</translation>
+        <translation>أدخفEفE�E�E� افE�E�ور افE�ديفE� وافE�ديدة فE�E�E�فE�ة.</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>تأكيد تشفير المحفظة</translation>
+        <translation>تأفE�د تشفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات LITECOINS الخاصة بك.</translation>
+        <translation>تحذير: إذا قفE� بتشفE�ر فE�فE�تفEوفE�دت فE�E�E� افE�E�ور افE�اص بفE ستفE�د فE�EعفE�E�ت LITECOINS افE�اصة بفE</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>هل أنت متأكد من رغبتك في تشفير محفظتك ؟</translation>
+        <translation>فE�EأفE� فE�أفE� فE�EرغبتفEفE�EتشفE�ر فE�فE�تفE؁E/translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>محفظة مشفرة</translation>
+        <translation>فE�فE�ة فE�فE�ة</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>هام: أي نسخة إحتياطية سابقة  قمت بها لمحفظتك يجب استبدالها  بأخرى حديثة، مشفرة. لأسباب أمنية، النسخ الاحتياطية السابقة لملفات المحفظة الغير مشفرة تصبح عديمة الفائدة مع بداية استخدام المحفظة المشفرة الجديدة.</translation>
+        <translation>فE�فE أفEفE�خة إحتياطية سابقة  قفE� بفE� فE�E�فE�تفEيجب استبدافE�E�  بأخرفEحديثة؁EفE�فE�ة. فE�سباب أفE�E�ة؁EافE�E�خ افE�حتياطية افE�ابقة فE�E�E�E�ت افE�E�فE�ة افE�ير فE�فE�ة تصبح عديفE� افE�E�ئدة فE� بداية استخدافEافE�E�فE�ة افE�E�فE�ة افE�ديدة.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>فشل تشفير المحفظة</translation>
+        <translation>فE�فEتشفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>فشل تشفير المحفظة بسبب خطأ داخلي. لم يتم تشفير محفظتك.</translation>
+        <translation>فE�فEتشفE�ر افE�E�فE�ة بسبب خطأ داخفE�E فE�EيتفEتشفE�ر فE�فE�تفE</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>كلمتي المرور ليستا متطابقتان</translation>
+        <translation>فE�E�E�فEافE�E�ور فE�ستا فE�طابقتافE/translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>فشل فتح المحفظة</translation>
+        <translation>فE�فEفE�ح افE�E�فE�ة</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>كلمة المرور التي تم إدخالها لفك تشفير المحفظة غير صحيحة.</translation>
+        <translation>فE�E�E� افE�E�ور افE�فEتفEإدخافE�E� فE�E�EتشفE�ر افE�E�فE�ة غير صحيحة.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>فشل   فك التشفير المحفظة</translation>
+        <translation>فE�فE  فE�EافE�شفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>لقد تم تغير عبارة مرور المحفظة بنجاح</translation>
+        <translation>فE�د تفEتغير عبارة فE�ور افE�E�فE�ة بفE�اح</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>تحذير: مفتاح الحروف الكبيرة مفعل</translation>
+        <translation>تحذير: فE�E�اح افE�روفEافE�E�يرة فE�E�فE/translation>
     </message>
 </context>
 <context>
     <name>BanTableModel</name>
     <message>
         <source>IP/Netmask</source>
-        <translation>عنوان البروتوكول/قناع</translation>
+        <translation>عفE�افEافE�روتوفE�فEقفE�ع</translation>
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>محظور حتى</translation>
+        <translation>فE�ظور حتفE/translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>التوقيع و الرسائل</translation>
+        <translation>افE�وقيع فEافE�سائفE/translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>مزامنة مع الشبكة ...</translation>
+        <translation>فE�افE�E� فE� افE�بفE� ...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>&amp;نظرة عامة</translation>
+        <translation>&amp;فE�رة عافE�</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>جهاز</translation>
+        <translation>جفE�ز</translation>
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>إظهار نظرة عامة على المحفظة</translation>
+        <translation>إظفE�ر فE�رة عافE� عفE�EافE�E�فE�ة</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;المعاملات</translation>
+        <translation>&amp;افE�E�افE�E�ت</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>تصفح سجل المعاملات</translation>
+        <translation>تصفE� سجفEافE�E�افE�E�ت</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -263,23 +263,23 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>الخروج من التطبيق</translation>
+        <translation>افE�روج فE�EافE�طبيفE/translation>
     </message>
     <message>
         <source>&amp;About %1</source>
-        <translation>حوالي %1</translation>
+        <translation>حوافE�E%1</translation>
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>أظهر المعلومات حولة %1</translation>
+        <translation>أظفE� افE�E�فE�فE�ت حوفE� %1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>عن &amp;Qt</translation>
+        <translation>عفE&amp;Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>اظهر المعلومات</translation>
+        <translation>اظفE� افE�E�فE�فE�ت</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -287,163 +287,163 @@
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>تغيير خيارات الإعداد لأساس ل%1</translation>
+        <translation>تغيير خيارات افE�عداد فE�ساس فE1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;تشفير المحفظة</translation>
+        <translation>&amp;تشفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;نسخ احتياط للمحفظة</translation>
+        <translation>&amp;فE�خ احتياط فE�E�E�فE�ة</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;تغيير كلمة المرور</translation>
+        <translation>&amp;تغيير فE�E�E� افE�E�ور</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>ارسال العناوين.</translation>
+        <translation>ارسافEافE�فE�ويفE</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>استقبال العناوين</translation>
+        <translation>استقبافEافE�فE�ويفE/translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>افتح &amp;URI...</translation>
+        <translation>افE�ح &amp;URI...</translation>
     </message>
     <message>
         <source>Click to disable network activity.</source>
-        <translation>اضغط لإلغاء تفعيل الشبكه</translation>
+        <translation>اضغط فE�فE�اء تفE�يفEافE�بفE�E/translation>
     </message>
     <message>
         <source>Network activity disabled.</source>
-        <translation>تم إلغاء تفعيل الشبكه</translation>
+        <translation>تفEإفE�اء تفE�يفEافE�بفE�E/translation>
     </message>
     <message>
         <source>Click to enable network activity again.</source>
-        <translation>اضغط لتفعيل الشبكه مره أخرى</translation>
+        <translation>اضغط فE�فE�يفEافE�بفE�EفE�فEأخرفE/translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>إعادة الفهرسة الكتل على القرص ...</translation>
+        <translation>إعادة افE�E�E�سة افE�E�فEعفE�EافE�رص ...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>ارسل عملات الى عنوان Litecoin</translation>
+        <translation>ارسفEعفE�E�ت افE�EعفE�افELitecoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>احفظ نسخة احتياطية للمحفظة في مكان آخر</translation>
+        <translation>احفE� فE�خة احتياطية فE�E�E�فE�ة فE�EفE�E�فEآخر</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>تغيير كلمة المرور المستخدمة لتشفير المحفظة</translation>
+        <translation>تغيير فE�E�E� افE�E�ور افE�E�تخدفE� فE�شفE�ر افE�E�فE�ة</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>&amp;نافذة المعالجة</translation>
+        <translation>&amp;فE�فE�ة افE�E�افE�ة</translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>إفتح وحدة التصحيح و التشخيص</translation>
+        <translation>إفE�ح وحدة افE�صحيح فEافE�شخيص</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;التحقق من الرسالة...</translation>
+        <translation>&amp;افE�حقفEفE�EافE�سافE�...</translation>
     </message>
     <message>
         <source>Litecoin</source>
-        <translation>بت كوين</translation>
+        <translation>بت فE�يفE/translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>محفظة</translation>
+        <translation>فE�فE�ة</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;ارسل</translation>
+        <translation>&amp;ارسفE/translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>&amp;استقبل</translation>
+        <translation>&amp;استقبفE/translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;عرض / اخفاء</translation>
+        <translation>&amp;عرض / اخفE�ء</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>عرض او اخفاء النافذة الرئيسية</translation>
+        <translation>عرض افEاخفE�ء افE�E�فE�ة افE�ئيسية</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>تشفير المفتاح الخاص بمحفظتك</translation>
+        <translation>تشفE�ر افE�E�E�اح افE�اص بفE�فE�تفE/translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>وقَع الرسائل بواسطة ال: Litecoin الخاص بك لإثبات امتلاكك لهم</translation>
+        <translation>وقَع افE�سائفEبواسطة افE Litecoin افE�اص بفEفE�ثبات افE�فE�فE�EفE�E�E/translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل Litecoin محدَدة</translation>
+        <translation>تحقفEفE�EافE�سائفEفE�E�أفE� فE�EأفE�فE� وُقعت برسائفELitecoin فE�دَدة</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;ملف</translation>
+        <translation>&amp;فE�E�E/translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;الاعدادات</translation>
+        <translation>&amp;افE�عدادات</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;مساعدة</translation>
+        <translation>&amp;فE�اعدة</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>شريط أدوات علامات التبويب</translation>
+        <translation>شريط أدوات عفE�فE�ت افE�بويب</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>أطلب دفعات (يولد كودات الرمز المربع وبيت كوين: العناوين المعطاة)</translation>
+        <translation>أطفE� دفE�ات (يوفE� فE�دات افE�فE� افE�E�بع وبيت فE�يفE افE�فE�ويفEافE�E�طاة)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>عرض قائمة عناوين الإرسال المستخدمة والملصقات</translation>
+        <translation>عرض قائفE� عفE�ويفEافE�رسافEافE�E�تخدفE� وافE�E�E�قات</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>عرض قائمة عناوين الإستقبال المستخدمة والملصقات</translation>
+        <translation>عرض قائفE� عفE�ويفEافE�ستقبافEافE�E�تخدفE� وافE�E�E�قات</translation>
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>فتح URI : Litecoin أو طلب دفع</translation>
+        <translation>فE�ح URI : Litecoin أفEطفE� دفE�</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>&amp;خيارات سطر الأوامر</translation>
+        <translation>&amp;خيارات سطر افE�وافE�</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>ترتيب الفهرسة الكتل على القرص...</translation>
+        <translation>ترتيب افE�E�E�سة افE�E�فEعفE�EافE�رص...</translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
-        <translation>معالجة الكتل على القرص...</translation>
+        <translation>فE�افE�ة افE�E�فEعفE�EافE�رص...</translation>
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>خلف %1</translation>
+        <translation>خفE�E%1</translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>تم توليد الكتلة المستقبلة الأخيرة منذ %1.</translation>
+        <translation>تفEتوفE�د افE�E�فE� افE�E�تقبفE� افE�خيرة فE�E� %1.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>المعاملات بعد ذلك لن تكون مريئة بعد.</translation>
+        <translation>افE�E�افE�E�ت بعد ذفE�EفE�EتفE�فEفE�يئة بعد.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -455,28 +455,28 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>معلومات</translation>
+        <translation>فE�فE�فE�ت</translation>
     </message>
     <message>
         <source>Up to date</source>
-        <translation>محدث</translation>
+        <translation>فE�دث</translation>
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>بين اشارة المساعدة %1 للحصول على قائمة من خيارات اوامر البت كوين المحتملة </translation>
+        <translation>بيفEاشارة افE�E�اعدة %1 فE�E�صوفEعفE�EقائفE� فE�Eخيارات اوافE� افE�ت فE�يفEافE�E�تفE�E� </translation>
     </message>
     <message>
         <source>%1 client</source>
-        <translation>الزبون %1</translation>
+        <translation>افE�بوفE%1</translation>
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>اللحاق بالركب ...</translation>
+        <translation>افE�E�افEبافE�فE� ...</translation>
     </message>
     <message>
         <source>Date: %1
 </source>
-        <translation>التاريخ %1
+        <translation>افE�اريخ %1
 
 
 </translation>
@@ -484,57 +484,57 @@
     <message>
         <source>Amount: %1
 </source>
-        <translation>الكمية %1
+        <translation>افE�E�E�ة %1
 </translation>
     </message>
     <message>
         <source>Type: %1
 </source>
-        <translation>نوع %1
+        <translation>فE�ع %1
 </translation>
     </message>
     <message>
         <source>Label: %1
 </source>
-        <translation>علامه: %1
+        <translation>عفE�فE�E %1
 </translation>
     </message>
     <message>
         <source>Address: %1
 </source>
-        <translation>عنوان %1
+        <translation>عفE�افE%1
 </translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>المعاملات  المرسلة</translation>
+        <translation>افE�E�افE�E�ت  افE�E�سفE�</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>المعاملات الواردة</translation>
+        <translation>افE�E�افE�E�ت افE�اردة</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>المحفظة &lt;b&gt;مشفرة&lt;/b&gt; و &lt;b&gt;مفتوحة&lt;/b&gt; حاليا</translation>
+        <translation>افE�E�فE�ة &lt;b&gt;فE�فE�ة&lt;/b&gt; فE&lt;b&gt;فE�E�وحة&lt;/b&gt; حافE�ا</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>المحفظة &lt;b&gt;مشفرة&lt;/b&gt; و &lt;b&gt;مقفلة&lt;/b&gt; حاليا</translation>
+        <translation>افE�E�فE�ة &lt;b&gt;فE�فE�ة&lt;/b&gt; فE&lt;b&gt;فE�فE�E�&lt;/b&gt; حافE�ا</translation>
     </message>
     <message>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>خطأ فادح حدث . لا يمكن اتمام Litecoin بامان سيتم الخروج</translation>
+        <translation>خطأ فE�دح حدث . فE� يفE�E�EاتفE�فELitecoin بافE�فEسيتفEافE�روج</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>اختيار العمله</translation>
+        <translation>اختيار افE�فE�E�E/translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>الكمية :</translation>
+        <translation>افE�E�E�ة :</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -542,11 +542,11 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>القيمة :</translation>
+        <translation>افE�يفE� :</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>رسوم :</translation>
+        <translation>رسوفE:</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -554,35 +554,35 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>بعد الرسوم :</translation>
+        <translation>بعد افE�سوفE:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>تعديل :</translation>
+        <translation>تعديفE:</translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>عدم اختيار الجميع</translation>
+        <translation>عدفEاختيار افE�فE�ع</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>صيغة الشجرة</translation>
+        <translation>صيغة افE�جرة</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>صيغة القائمة</translation>
+        <translation>صيغة افE�ائفE�</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>مبلغ</translation>
+        <translation>فE�فE�</translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>مستقبل مع ملصق</translation>
+        <translation>فE�تقبفEفE� فE�E�فE/translation>
     </message>
     <message>
         <source>Received with address</source>
-        <translation>مستقبل مع عنوان</translation>
+        <translation>فE�تقبفEفE� عفE�افE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -590,59 +590,59 @@
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>تأكيدات</translation>
+        <translation>تأفE�دات</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>تأكيد</translation>
+        <translation>تأفE�د</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>  انسخ عنوان</translation>
+        <translation>  افE�خ عفE�افE/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation> انسخ التسمية</translation>
+        <translation> افE�خ افE�سفE�ة</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>نسخ الكمية</translation>
+        <translation>فE�خ افE�E�E�ة</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>نسخ رقم العملية</translation>
+        <translation>فE�خ رقفEافE�فE�E�ة</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>نسخ الكمية </translation>
+        <translation>فE�خ افE�E�E�ة </translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>نسخ الرسوم</translation>
+        <translation>فE�خ افE�سوفE/translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>نسخ بعد الرسوم</translation>
+        <translation>فE�خ بعد افE�سوفE/translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>نسخ البايتات </translation>
+        <translation>فE�خ افE�ايتات </translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>نسخ التعديل</translation>
+        <translation>فE�خ افE�عديفE/translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>نعم</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>no</source>
-        <translation>لا</translation>
+        <translation>فE�</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(لا وصف)</translation>
+        <translation>(فE� وصفE</translation>
     </message>
     <message>
         <source>(change)</source>
@@ -653,156 +653,156 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>عدل العنوان</translation>
+        <translation>عدفEافE�فE�افE/translation>
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>&amp;وصف</translation>
+        <translation>&amp;وصفE/translation>
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>الملصق المرتبط بقائمة العناوين المدخلة</translation>
+        <translation>افE�E�E�فEافE�E�تبط بقائفE� افE�فE�ويفEافE�E�خفE�</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>العنوان المرتبط بقائمة العناوين المدخلة. و التي يمكن تعديلها فقط بواسطة ارسال العناوين</translation>
+        <translation>افE�فE�افEافE�E�تبط بقائفE� افE�فE�ويفEافE�E�خفE�. فEافE�فEيفE�E�EتعديفE�E� فE�ط بواسطة ارسافEافE�فE�ويفE/translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>&amp;العنوان</translation>
+        <translation>&amp;افE�فE�افE/translation>
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>عنوان أستلام جديد</translation>
+        <translation>عفE�افEأستفE�فEجديد</translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>عنوان إرسال جديد</translation>
+        <translation>عفE�افEإرسافEجديد</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>تعديل عنوان الأستلام</translation>
+        <translation>تعديفEعفE�افEافE�ستفE�فE/translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>تعديل عنوان الارسال</translation>
+        <translation>تعديفEعفE�افEافE�رسافE/translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>العنوان المدخل "%1" ليس عنوان بيت كوين صحيح.</translation>
+        <translation>افE�فE�افEافE�E�خفE"%1" فE�س عفE�افEبيت فE�يفEصحيح.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>هدا العنوان "%1" موجود مسبقا في دفتر العناوين</translation>
+        <translation>فE�ا افE�فE�افE"%1" فE�جود فE�بقا فE�EدفE�ر افE�فE�ويفE/translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation> يمكن فتح المحفظة.</translation>
+        <translation> يفE�E�EفE�ح افE�E�فE�ة.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>فشل توليد مفتاح جديد.</translation>
+        <translation>فE�فEتوفE�د فE�E�اح جديد.</translation>
     </message>
 </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>سيتم انشاء دليل بيانات جديد</translation>
+        <translation>سيتفEافE�اء دفE�فEبيافE�ت جديد</translation>
     </message>
     <message>
         <source>name</source>
-        <translation>الاسم</translation>
+        <translation>افE�سفE/translation>
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>الدليل موجوج بالفعل. أضف %1 لو نويت إنشاء دليل جديد هنا.</translation>
+        <translation>افE�فE�فEفE�جوج بافE�E�فE أضفE%1 فE�EفE�يت إفE�اء دفE�فEجديد فE�E�.</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>المسار موجود بالفعل، وهو ليس دليلاً.</translation>
+        <translation>افE�E�ار فE�جود بافE�E�فE�EوفE�EفE�س دفE�فE�فE</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>لا يمكن انشاء دليل بيانات هنا .</translation>
+        <translation>فE� يفE�E�EافE�اء دفE�فEبيافE�ت فE�E� .</translation>
     </message>
 </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>النسخة</translation>
+        <translation>افE�E�خة</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>حوالي %1</translation>
+        <translation>حوافE�E%1</translation>
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>خيارات سطر الأوامر</translation>
+        <translation>خيارات سطر افE�وافE�</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>المستخدم</translation>
+        <translation>افE�E�تخدفE/translation>
     </message>
     <message>
         <source>command-line options</source>
-        <translation>خيارات سطر الأوامر</translation>
+        <translation>خيارات سطر افE�وافE�</translation>
     </message>
     <message>
         <source>UI Options:</source>
-        <translation>خيارات واجهة المستخدم</translation>
+        <translation>خيارات واجفE� افE�E�تخدفE/translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>اختر دليل البيانات عند بدء التشغير (افتراضي: %u)</translation>
+        <translation>اختر دفE�فEافE�يافE�ت عفE� بدء افE�شغير (افE�راضفE %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>أضع لغة, على سبيل المثال " de_DE "  (افتراضي:- مكان النظام)</translation>
+        <translation>أضع فE�ة, عفE�EسبيفEافE�E�افE" de_DE "  (افE�راضفE- فE�E�فEافE�E�افE</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>الدخول مصغر</translation>
+        <translation>افE�خوفEفE�غر</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>أضع شهادة بروتوكول الشبقة الأمنية لطلب المدفوع (افتراضي: -نظام-)</translation>
+        <translation>أضع شفE�دة بروتوفE�فEافE�بقة افE�فE�E�ة فE�فE� افE�E�فE�ع (افE�راضفE -فE�افE)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>أظهر شاشة البداية عند بدء التشغيل (افتراضي: %u)</translation>
+        <translation>أظفE� شاشة افE�داية عفE� بدء افE�شغيفE(افE�راضفE %u)</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
-        <translation>اعد تعديل جميع النظم المتغيرة في GUI</translation>
+        <translation>اعد تعديفEجفE�ع افE�E�فEافE�E�غيرة فE�EGUI</translation>
     </message>
 </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>أهلا</translation>
+        <translation>أفE�E�</translation>
     </message>
     <message>
         <source>Welcome to %1.</source>
-        <translation> اهلا بكم في %1</translation>
+        <translation> افE�E� بفE�EفE�E%1</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>بما انه هذه اول مرة لانطلاق هذا البرنامج, فيمكنك ان تختار اين سيخزن %1 بياناته</translation>
+        <translation>بفE� افE�EفE�فEاوفEفE�ة فE�فE�فE�فEفE�ا افE�رفE�فE�, فE�فE�E�E�EافEتختار ايفEسيخزفE%1 بيافE�تفE/translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>استخدام دليل البانات الافتراضي</translation>
+        <translation>استخدافEدفE�فEافE�افE�ت افE�فE�راضفE/translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
-        <translation>استخدام دليل بيانات مخصص:</translation>
+        <translation>استخدافEدفE�فEبيافE�ت فE�صص:</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>خطأ: لا يمكن تكوين دليل بيانات مخصص ل %1</translation>
+        <translation>خطأ: فE� يفE�E�EتفE�يفEدفE�فEبيافE�ت فE�صص فE%1</translation>
     </message>
     <message>
         <source>Error</source>
@@ -813,34 +813,34 @@
     <name>ModalOverlay</name>
     <message>
         <source>Form</source>
-        <translation>نمودج</translation>
+        <translation>فE�E�دج</translation>
     </message>
     <message>
         <source>Unknown...</source>
-        <translation>غير معرف</translation>
+        <translation>غير فE�رفE/translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>إخفاء</translation>
+        <translation>إخفE�ء</translation>
     </message>
     </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>افتح URL</translation>
+        <translation>افE�ح URL</translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>حدد طلب الدفع من ملف او URI</translation>
+        <translation>حدد طفE� افE�فE� فE�EفE�E�EافEURI</translation>
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>حدد ملف طلب الدفع</translation>
+        <translation>حدد فE�E�EطفE� افE�فE�</translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>حدد ملف طلب الدفع لفتحه</translation>
+        <translation>حدد فE�E�EطفE� افE�فE� فE�E�حفE/translation>
     </message>
 </context>
 <context>
@@ -851,31 +851,31 @@
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>&amp;الرئيسي</translation>
+        <translation>&amp;افE�ئيسفE/translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>م ب</translation>
+        <translation>فEب</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>إقبل التواصل من الخارج</translation>
+        <translation>إقبفEافE�واصفEفE�EافE�ارج</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>عنوان النطاق للطرف الثالث</translation>
+        <translation>عفE�افEافE�E�افEفE�E�رفEافE�افE�</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>&amp;استعادة الخيارات</translation>
+        <translation>&amp;استعادة افE�يارات</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>&amp;الشبكة</translation>
+        <translation>&amp;افE�بفE�</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>&amp;محفظة</translation>
+        <translation>&amp;فE�فE�ة</translation>
     </message>
     <message>
         <source>Expert</source>
@@ -883,27 +883,27 @@
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>بروكسي &amp;اي بي:</translation>
+        <translation>بروفE�فE&amp;افEبفE</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;المنفذ:</translation>
+        <translation>&amp;افE�E�E�E�:</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>منفذ البروكسي (مثلا 9050)</translation>
+        <translation>فE�E�E� افE�روفE�فE(فE�فE� 9050)</translation>
     </message>
     <message>
         <source>Used for reaching peers via:</source>
-        <translation>مستخدم للاتصال بالاصدقاء من خلال:</translation>
+        <translation>فE�تخدفEفE�E�تصافEبافE�صدقاء فE�EخفE�فE</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>نافذه</translation>
+        <translation>فE�فE�فE/translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation>اخفاء لوحة الايقون</translation>
+        <translation>اخفE�ء فE�حة افE�يقوفE/translation>
     </message>
     <message>
         <source>&amp;Display</source>
@@ -911,65 +911,65 @@
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>واجهة المستخدم &amp;اللغة:</translation>
+        <translation>واجفE� افE�E�تخدفE&amp;افE�E�ة:</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>تم</translation>
+        <translation>تفE/translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>الغاء</translation>
+        <translation>افE�اء</translation>
     </message>
     <message>
         <source>default</source>
-        <translation>الافتراضي</translation>
+        <translation>افE�فE�راضفE/translation>
     </message>
     <message>
         <source>none</source>
-        <translation>لا شيء</translation>
+        <translation>فE� شيء</translation>
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>تأكيد استعادة الخيارات</translation>
+        <translation>تأفE�د استعادة افE�يارات</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>عنوان الوكيل توفيره غير صالح.</translation>
+        <translation>عفE�افEافE�فE�فEتوفE�رفEغير صافE�.</translation>
     </message>
 </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Form</source>
-        <translation>نمودج</translation>
+        <translation>فE�E�دج</translation>
     </message>
     <message>
         <source>Available:</source>
-        <translation>متوفر</translation>
+        <translation>فE�وفE�</translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>معلق:</translation>
+        <translation>فE�فE�E</translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>غير ناضجة</translation>
+        <translation>غير فE�ضجة</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>المجموع:</translation>
+        <translation>افE�E�فE�ع:</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>رصيدك الكلي الحالي</translation>
+        <translation>رصيدفEافE�E�E�EافE�افE�E/translation>
     </message>
     </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Bad response from server %1</source>
-        <translation>استجابة سيئة من الملقم %1</translation>
+        <translation>استجابة سيئة فE�EافE�E�E�فE%1</translation>
     </message>
     </context>
 <context>
@@ -979,7 +979,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>مبلغ</translation>
+        <translation>فE�فE�</translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -991,11 +991,11 @@
     </message>
     <message>
         <source>N/A</source>
-        <translation>غير معروف</translation>
+        <translation>غير فE�روفE/translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 و %2</translation>
+        <translation>%1 فE%2</translation>
     </message>
     </context>
 <context>
@@ -1005,15 +1005,15 @@
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;حفظ الصورة</translation>
+        <translation>&amp;حفE� افE�ورة</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;نسخ الصورة</translation>
+        <translation>&amp;فE�خ افE�ورة</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>حفظ رمز الاستجابة السريعة QR</translation>
+        <translation>حفE� رفE� افE�ستجابة افE�ريعة QR</translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
@@ -1024,47 +1024,47 @@
     <name>RPCConsole</name>
     <message>
         <source>N/A</source>
-        <translation>غير معروف</translation>
+        <translation>غير فE�روفE/translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation>نسخه العميل</translation>
+        <translation>فE�خفEافE�فE�فE/translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>المعلومات</translation>
+        <translation>افE�E�فE�فE�ت</translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>نافذة المعالجة</translation>
+        <translation>فE�فE�ة افE�E�افE�ة</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>عام</translation>
+        <translation>عافE/translation>
     </message>
     <message>
         <source>Startup time</source>
-        <translation>وقت البدء</translation>
+        <translation>وقت افE�دء</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>الشبكه</translation>
+        <translation>افE�بفE�E/translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>الاسم</translation>
+        <translation>افE�سفE/translation>
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>عدد الاتصالات</translation>
+        <translation>عدد افE�تصافE�ت</translation>
     </message>
     <message>
         <source>Received</source>
-        <translation>إستقبل</translation>
+        <translation>إستقبفE/translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation>تم الإرسال</translation>
+        <translation>تفEافE�رسافE/translation>
     </message>
     <message>
         <source>&amp;Peers</source>
@@ -1072,39 +1072,39 @@
     </message>
     <message>
         <source>Direction</source>
-        <translation>جهة</translation>
+        <translation>جفE�</translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>خدمات</translation>
+        <translation>خدفE�ت</translation>
     </message>
     <message>
         <source>Last Send</source>
-        <translation>آخر استقبال</translation>
+        <translation>آخر استقبافE/translation>
     </message>
     <message>
         <source>Last Receive</source>
-        <translation>آخر إرسال</translation>
+        <translation>آخر إرسافE/translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>الفتح</translation>
+        <translation>افE�E�ح</translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>&amp;حركة مرور الشبكة</translation>
+        <translation>&amp;حرفE� فE�ور افE�بفE�</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;مسح</translation>
+        <translation>&amp;فE�ح</translation>
     </message>
     <message>
         <source>Totals</source>
-        <translation>المجاميع</translation>
+        <translation>افE�E�افE�ع</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation>داخل:</translation>
+        <translation>داخفE</translation>
     </message>
     <message>
         <source>Out:</source>
@@ -1116,7 +1116,7 @@
     </message>
     <message>
         <source>1 &amp;day</source>
-        <translation>1 &amp; يوم</translation>
+        <translation>1 &amp; يوفE/translation>
     </message>
     <message>
         <source>1 &amp;week</source>
@@ -1124,11 +1124,11 @@
     </message>
     <message>
         <source>1 &amp;year</source>
-        <translation>1 &amp; سنة</translation>
+        <translation>1 &amp; سفE�</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>استخدم اسهم الاعلى و الاسفل للتنقل بين السجلات و &lt;b&gt;Ctrl-L&lt;/b&gt;  لمسح الشاشة</translation>
+        <translation>استخدفEاسفE�EافE�عفE�EفEافE�سفE�EفE�E�فE�فEبيفEافE�جفE�ت فE&lt;b&gt;Ctrl-L&lt;/b&gt;  فE�E�ح افE�اشة</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -1136,11 +1136,11 @@
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 كيلو بايت</translation>
+        <translation>%1 فE�فE�Eبايت</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 ميقا بايت</translation>
+        <translation>%1 فE�قا بايت</translation>
     </message>
     <message>
         <source>%1 GB</source>
@@ -1152,50 +1152,50 @@
     </message>
     <message>
         <source>Inbound</source>
-        <translation>داخل</translation>
+        <translation>داخفE/translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>خارجي</translation>
+        <translation>خارجفE/translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>نعم</translation>
+        <translation>فE�فE/translation>
     </message>
     <message>
         <source>No</source>
-        <translation>لا</translation>
+        <translation>فE�</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>غير معرف</translation>
+        <translation>غير فE�رفE/translation>
     </message>
 </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>&amp;القيمة</translation>
+        <translation>&amp;افE�يفE�</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;وصف :</translation>
+        <translation>&amp;وصفE:</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;رسالة:</translation>
+        <translation>&amp;رسافE�:</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>مسح كل حقول النموذج المطلوبة</translation>
+        <translation>فE�ح فE�EحقوفEافE�E�E�ذج افE�E�فE�بة</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>مسح</translation>
+        <translation>فE�ح</translation>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>سجل طلبات الدفع</translation>
+        <translation>سجفEطفE�ات افE�فE�</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1203,42 +1203,42 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>ازل</translation>
+        <translation>ازفE/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation> انسخ التسمية</translation>
+        <translation> افE�خ افE�سفE�ة</translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>انسخ الرسالة</translation>
+        <translation>افE�خ افE�سافE�</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>نسخ الكمية</translation>
+        <translation>فE�خ افE�E�E�ة</translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>QR Code</source>
-        <translation>رمز كيو ار</translation>
+        <translation>رفE� فE�فEار</translation>
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>نسخ  &amp;URI</translation>
+        <translation>فE�خ  &amp;URI</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>نسخ &amp;العنوان</translation>
+        <translation>فE�خ &amp;افE�فE�افE/translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;حفظ الصورة</translation>
+        <translation>&amp;حفE� افE�ورة</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>معلومات الدفع</translation>
+        <translation>فE�فE�فE�ت افE�فE�</translation>
     </message>
     <message>
         <source>URI</source>
@@ -1246,19 +1246,19 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation>عفE�افE/translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>مبلغ</translation>
+        <translation>فE�فE�</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>وصف</translation>
+        <translation>وصفE/translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>رسالة </translation>
+        <translation>رسافE� </translation>
     </message>
     </context>
 <context>
@@ -1269,38 +1269,38 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>وصف</translation>
+        <translation>وصفE/translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>رسالة </translation>
+        <translation>رسافE� </translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(لا وصف)</translation>
+        <translation>(فE� وصفE</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>( لا رسائل )</translation>
+        <translation>( فE� رسائفE)</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>إرسال Coins</translation>
+        <translation>إرسافECoins</translation>
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>اختيار تلقائيا</translation>
+        <translation>اختيار تفE�ائيا</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>الرصيد غير كافي!</translation>
+        <translation>افE�صيد غير فE�فE�E</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>الكمية :</translation>
+        <translation>افE�E�E�ة :</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -1308,31 +1308,31 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>القيمة :</translation>
+        <translation>افE�يفE� :</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>رسوم :</translation>
+        <translation>رسوفE:</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>بعد الرسوم :</translation>
+        <translation>بعد افE�سوفE:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>تعديل :</translation>
+        <translation>تعديفE:</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>رسوم المعاملة:</translation>
+        <translation>رسوفEافE�E�افE�E�:</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>إخفاء</translation>
+        <translation>إخفE�ء</translation>
     </message>
     <message>
         <source>normal</source>
-        <translation>طبيعي</translation>
+        <translation>طبيعفE/translation>
     </message>
     <message>
         <source>fast</source>
@@ -1340,15 +1340,15 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>إرسال إلى عدة مستلمين في وقت واحد</translation>
+        <translation>إرسافEإفE�Eعدة فE�تفE�E�فEفE�Eوقت واحد</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>أضافة &amp;مستلم</translation>
+        <translation>أضافE� &amp;فE�تفE�E/translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>مسح كل حقول النموذج المطلوبة</translation>
+        <translation>فE�ح فE�EحقوفEافE�E�E�ذج افE�E�فE�بة</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -1356,98 +1356,98 @@
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>مسح الكل</translation>
+        <translation>فE�ح افE�E�E/translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>الرصيد:</translation>
+        <translation>افE�صيد:</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>تأكيد الإرسال</translation>
+        <translation>تأفE�د افE�رسافE/translation>
     </message>
     <message>
         <source>S&amp;end</source>
-        <translation>&amp;ارسال</translation>
+        <translation>&amp;ارسافE/translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>نسخ الكمية </translation>
+        <translation>فE�خ افE�E�E�ة </translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>نسخ الكمية</translation>
+        <translation>فE�خ افE�E�E�ة</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>نسخ الرسوم</translation>
+        <translation>فE�خ افE�سوفE/translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>نسخ بعد الرسوم</translation>
+        <translation>فE�خ بعد افE�سوفE/translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>نسخ البايتات </translation>
+        <translation>فE�خ افE�ايتات </translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>نسخ التعديل</translation>
+        <translation>فE�خ افE�عديفE/translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation>%1 الى %2</translation>
+        <translation>%1 افE�E%2</translation>
     </message>
     <message>
         <source>or</source>
-        <translation>أو</translation>
+        <translation>أفE/translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>تأكيد الإرسال Coins</translation>
+        <translation>تأفE�د افE�رسافECoins</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>المبلغ المدفوع يجب ان يكون اكبر من 0</translation>
+        <translation>افE�E�فE� افE�E�فE�ع يجب افEيفE�فEافE�ر فE�E0</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>القيمة تتجاوز رصيدك</translation>
+        <translation>افE�يفE� تتجاوز رصيدفE/translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>المجموع يتجاوز رصيدك عندما يتم اضافة %1 رسوم العملية</translation>
+        <translation>افE�E�فE�ع يتجاوز رصيدفEعفE�فE� يتفEاضافE� %1 رسوفEافE�فE�E�ة</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(لا وصف)</translation>
+        <translation>(فE� وصفE</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>&amp;القيمة</translation>
+        <translation>&amp;افE�يفE�</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>ادفع &amp;الى :</translation>
+        <translation>ادفE� &amp;افE�E:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;وصف :</translation>
+        <translation>&amp;وصفE:</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>اختر عنوانا مستخدم سابقا</translation>
+        <translation>اختر عفE�افE� فE�تخدفEسابقا</translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>هذا دفع اعتيادي</translation>
+        <translation>فE�ا دفE� اعتيادفE/translation>
     </message>
     <message>
         <source>The Litecoin address to send the payment to</source>
-        <translation>عنوان البت كوين المرسل اليه الدفع</translation>
+        <translation>عفE�افEافE�ت فE�يفEافE�E�سفEافE�فEافE�فE�</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1455,7 +1455,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>انسخ العنوان من لوحة المفاتيح</translation>
+        <translation>افE�خ افE�فE�افEفE�EفE�حة افE�E�E�تيح</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -1463,44 +1463,44 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>ازل هذه المداخله</translation>
+        <translation>ازفEفE�فEافE�E�اخفE�E/translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>الرسائل</translation>
+        <translation>افE�سائفE/translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>ادفع &amp;الى :</translation>
+        <translation>ادفE� &amp;افE�E:</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>إدخال تسمية لهذا العنوان لإضافته إلى دفتر العناوين الخاص بك</translation>
+        <translation>إدخافEتسفE�ة فE�E�ا افE�فE�افEفE�ضافE�فEإفE�EدفE�ر افE�فE�ويفEافE�اص بفE/translation>
     </message>
 </context>
 <context>
     <name>SendConfirmationDialog</name>
     <message>
         <source>Yes</source>
-        <translation>نعم</translation>
+        <translation>فE�فE/translation>
     </message>
 </context>
 <context>
     <name>ShutdownWindow</name>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>لا توقف عمل الكمبيوتر حتى تختفي هذه النافذة</translation>
+        <translation>فE� توقفEعفE�EافE�E�E�يوتر حتفEتختفE�EفE�فEافE�E�فE�ة</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>&amp;توقيع الرسالة</translation>
+        <translation>&amp;توقيع افE�سافE�</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>اختر عنوانا مستخدم سابقا</translation>
+        <translation>اختر عفE�افE� فE�تخدفEسابقا</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1508,7 +1508,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>انسخ العنوان من لوحة المفاتيح</translation>
+        <translation>افE�خ افE�فE�افEفE�EفE�حة افE�E�E�تيح</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -1516,75 +1516,75 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>ادخل الرسالة التي تريد توقيعها هنا</translation>
+        <translation>ادخفEافE�سافE� افE�فEتريد توقيعفE� فE�E�</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>التوقيع</translation>
+        <translation>افE�وقيع</translation>
     </message>
     <message>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>وقع الرسالة لتثبت انك تمتلك عنوان البت كوين هذا</translation>
+        <translation>وقع افE�سافE� فE�ثبت افE�EتفE�فE�EعفE�افEافE�ت فE�يفEفE�ا</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>توقيع $الرسالة</translation>
+        <translation>توقيع $افE�سافE�</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>مسح الكل</translation>
+        <translation>فE�ح افE�E�E/translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;تحقق رسالة</translation>
+        <translation>&amp;تحقفEرسافE�</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>تحقق &amp;الرسالة</translation>
+        <translation>تحقفE&amp;افE�سافE�</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>اضغط  "توقيع الرسالة" لتوليد التوقيع</translation>
+        <translation>اضغط  "توقيع افE�سافE�" فE�وفE�د افE�وقيع</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>العنوان المدخل غير صالح</translation>
+        <translation>افE�فE�افEافE�E�خفEغير صافE�</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>الرجاء التأكد من العنوان والمحاولة مرة اخرى</translation>
+        <translation>افE�جاء افE�أفE� فE�EافE�فE�افEوافE�E�اوفE� فE�ة اخرفE/translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>العنوان المدخل لا يشير الى مفتاح</translation>
+        <translation>افE�فE�افEافE�E�خفEفE� يشير افE�EفE�E�اح</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>تم الغاء عملية فتح المحفظة</translation>
+        <translation>تفEافE�اء عفE�E�ة فE�ح افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>المفتاح الخاص للعنوان المدخل غير موجود.</translation>
+        <translation>افE�E�E�اح افE�اص فE�E�فE�افEافE�E�خفEغير فE�جود.</translation>
     </message>
     <message>
         <source>Message signing failed.</source>
-        <translation>فشل توقيع الرسالة.</translation>
+        <translation>فE�فEتوقيع افE�سافE�.</translation>
     </message>
     <message>
         <source>Message signed.</source>
-        <translation>الرسالة موقعة.</translation>
+        <translation>افE�سافE� فE�قعة.</translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>فضلا تاكد من التوقيع وحاول مرة اخرى</translation>
+        <translation>فE�فE� تافE� فE�EافE�وقيع وحاوفEفE�ة اخرفE/translation>
     </message>
     <message>
         <source>Message verification failed.</source>
-        <translation>فشلت عملية التأكد من الرسالة.</translation>
+        <translation>فE�فE� عفE�E�ة افE�أفE� فE�EافE�سافE�.</translation>
     </message>
     <message>
         <source>Message verified.</source>
-        <translation>تم تأكيد الرسالة.</translation>
+        <translation>تفEتأفE�د افE�سافE�.</translation>
     </message>
 </context>
 <context>
@@ -1601,27 +1601,27 @@
     <name>TransactionDesc</name>
     <message>
         <source>Open until %1</source>
-        <translation>مفتوح حتى %1</translation>
+        <translation>فE�E�وح حتفE%1</translation>
     </message>
     <message>
         <source>%1/offline</source>
-        <translation>%1 غير متواجد</translation>
+        <translation>%1 غير فE�واجد</translation>
     </message>
     <message>
         <source>%1/unconfirmed</source>
-        <translation>غير مؤكدة/%1</translation>
+        <translation>غير فE�فE�ة/%1</translation>
     </message>
     <message>
         <source>%1 confirmations</source>
-        <translation>تأكيد %1</translation>
+        <translation>تأفE�د %1</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>الحالة.</translation>
+        <translation>افE�افE�.</translation>
     </message>
     <message>
         <source>, has not been successfully broadcast yet</source>
-        <translation>,  لم يتم حتى الآن البث بنجاح</translation>
+        <translation>,  فE�EيتفEحتفEافE�فEافE�ث بفE�اح</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1629,55 +1629,55 @@
     </message>
     <message>
         <source>Source</source>
-        <translation>المصدر</translation>
+        <translation>افE�E�در</translation>
     </message>
     <message>
         <source>Generated</source>
-        <translation>تم اصداره.</translation>
+        <translation>تفEاصدارفE</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>من</translation>
+        <translation>فE�E/translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>غير معروف</translation>
+        <translation>غير فE�روفE/translation>
     </message>
     <message>
         <source>To</source>
-        <translation>الى</translation>
+        <translation>افE�E/translation>
     </message>
     <message>
         <source>own address</source>
-        <translation>عنوانه</translation>
+        <translation>عفE�افE�E/translation>
     </message>
     <message>
         <source>label</source>
-        <translation>علامة</translation>
+        <translation>عفE�فE�</translation>
     </message>
     <message>
         <source>not accepted</source>
-        <translation>غير مقبولة</translation>
+        <translation>غير فE�بوفE�</translation>
     </message>
     <message>
         <source>Debit</source>
-        <translation>دين</translation>
+        <translation>ديفE/translation>
     </message>
     <message>
         <source>Transaction fee</source>
-        <translation>رسوم المعاملة</translation>
+        <translation>رسوفEافE�E�افE�E�</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>رسالة </translation>
+        <translation>رسافE� </translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>تعليق</translation>
+        <translation>تعفE�فE/translation>
     </message>
     <message>
         <source>Transaction ID</source>
-        <translation>رقم المعاملة</translation>
+        <translation>رقفEافE�E�افE�E�</translation>
     </message>
     <message>
         <source>Merchant</source>
@@ -1685,11 +1685,11 @@
     </message>
     <message>
         <source>Transaction</source>
-        <translation>معاملة</translation>
+        <translation>فE�افE�E�</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>مبلغ</translation>
+        <translation>فE�فE�</translation>
     </message>
     <message>
         <source>true</source>
@@ -1704,7 +1704,7 @@
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>يبين هذا الجزء وصفا مفصلا لهده المعاملة</translation>
+        <translation>يبيفEفE�ا افE�زء وصفE� فE�E�فE� فE�E�فEافE�E�افE�E�</translation>
     </message>
     </context>
 <context>
@@ -1715,19 +1715,19 @@
     </message>
     <message>
         <source>Type</source>
-        <translation>النوع</translation>
+        <translation>افE�E�ع</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>وصف</translation>
+        <translation>وصفE/translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>مفتوح حتى %1</translation>
+        <translation>فE�E�وح حتفE%1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>غير متصل</translation>
+        <translation>غير فE�صفE/translation>
     </message>
     <message>
         <source>Conflicted</source>
@@ -1735,27 +1735,27 @@
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>لم يتم تلقى هذه الكتلة (Block) من قبل أي العقد الأخرى وربما لن تكون مقبولة!</translation>
+        <translation>فE�EيتفEتفE�فEفE�فEافE�E�فE� (Block) فE�EقبفEأفEافE�قد افE�خرفEوربفE� فE�EتفE�فEفE�بوفE�!</translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
-        <translation>ولدت ولكن لم تقبل</translation>
+        <translation>وفE�ت وفE�E�EفE�EتقبفE/translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>استقبل مع</translation>
+        <translation>استقبفEفE�</translation>
     </message>
     <message>
         <source>Received from</source>
-        <translation>استقبل من</translation>
+        <translation>استقبفEفE�E/translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>أرسل إلى</translation>
+        <translation>أرسفEإفE�E/translation>
     </message>
     <message>
         <source>Payment to yourself</source>
-        <translation>دفع لنفسك</translation>
+        <translation>دفE� فE�E�E�فE/translation>
     </message>
     <message>
         <source>Mined</source>
@@ -1763,70 +1763,70 @@
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>غير متوفر</translation>
+        <translation>غير فE�وفE�</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(لا وصف)</translation>
+        <translation>(فE� وصفE</translation>
     </message>
     <message>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>حالة المعاملة. تحوم حول هذا الحقل لعرض عدد  التأكيدات.</translation>
+        <translation>حافE� افE�E�افE�E�. تحوفEحوفEفE�ا افE�قفEفE�رض عدد  افE�أفE�دات.</translation>
     </message>
     <message>
         <source>Date and time that the transaction was received.</source>
-        <translation>التاريخ والوقت الذي تم فيه تلقي المعاملة.</translation>
+        <translation>افE�اريخ وافE�قت افE�فEتفEفE�فEتفE�فEافE�E�افE�E�.</translation>
     </message>
     <message>
         <source>Type of transaction.</source>
-        <translation>نوع المعاملات</translation>
+        <translation>فE�ع افE�E�افE�E�ت</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
-        <translation>المبلغ الذي أزيل أو أضيف الى الرصيد</translation>
+        <translation>افE�E�فE� افE�فEأزيفEأفEأضيفEافE�EافE�صيد</translation>
     </message>
 </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>All</source>
-        <translation>الكل</translation>
+        <translation>افE�E�E/translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>اليوم</translation>
+        <translation>افE�وفE/translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>هدا الاسبوع</translation>
+        <translation>فE�ا افE�سبوع</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>هدا الشهر</translation>
+        <translation>فE�ا افE�فE�</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>الشهر الماضي</translation>
+        <translation>افE�فE� افE�E�ضفE/translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>هدا العام</translation>
+        <translation>فE�ا افE�افE/translation>
     </message>
     <message>
         <source>Range...</source>
-        <translation>المدى...</translation>
+        <translation>افE�E�فE..</translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>استقبل مع</translation>
+        <translation>استقبفEفE�</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>أرسل إلى</translation>
+        <translation>أرسفEإفE�E/translation>
     </message>
     <message>
         <source>To yourself</source>
-        <translation>إليك</translation>
+        <translation>إفE�فE/translation>
     </message>
     <message>
         <source>Mined</source>
@@ -1834,47 +1834,47 @@
     </message>
     <message>
         <source>Other</source>
-        <translation>اخرى</translation>
+        <translation>اخرفE/translation>
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>ادخل عنوان أووصف للبحث</translation>
+        <translation>ادخفEعفE�افEأووصفEفE�E�حث</translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>الحد الأدنى</translation>
+        <translation>افE�د افE�دفE�E/translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>  انسخ عنوان</translation>
+        <translation>  افE�خ عفE�افE/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation> انسخ التسمية</translation>
+        <translation> افE�خ افE�سفE�ة</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>نسخ الكمية</translation>
+        <translation>فE�خ افE�E�E�ة</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>نسخ رقم العملية</translation>
+        <translation>فE�خ رقفEافE�فE�E�ة</translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>عدل الوصف</translation>
+        <translation>عدفEافE�صفE/translation>
     </message>
     <message>
         <source>Show transaction details</source>
-        <translation>عرض تفاصيل المعاملة</translation>
+        <translation>عرض تفE�صيفEافE�E�افE�E�</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>ملف مفصول بفواصل (*.csv)</translation>
+        <translation>فE�E�EفE�E�وفEبفE�اصفE(*.csv)</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>تأكيد</translation>
+        <translation>تأفE�د</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1882,35 +1882,35 @@
     </message>
     <message>
         <source>Type</source>
-        <translation>النوع</translation>
+        <translation>افE�E�ع</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>وصف</translation>
+        <translation>وصفE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation>عفE�افE/translation>
     </message>
     <message>
         <source>ID</source>
-        <translation>العنوان</translation>
+        <translation>افE�فE�افE/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>فشل التصدير</translation>
+        <translation>فE�فEافE�صدير</translation>
     </message>
     <message>
         <source>Exporting Successful</source>
-        <translation>نجح التصدير</translation>
+        <translation>فE�ح افE�صدير</translation>
     </message>
     <message>
         <source>Range:</source>
-        <translation>المدى:</translation>
+        <translation>افE�E�فE</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>الى</translation>
+        <translation>افE�E/translation>
     </message>
 </context>
 <context>
@@ -1923,7 +1923,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>إرسال Coins</translation>
+        <translation>إرسافECoins</translation>
     </message>
 </context>
 <context>
@@ -1934,19 +1934,19 @@
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>تحميل البيانات في علامة التبويب الحالية إلى ملف.</translation>
+        <translation>تحفE�فEافE�يافE�ت فE�EعفE�فE� افE�بويب افE�افE�ة إفE�EفE�E�E</translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>نسخ احتياط للمحفظة</translation>
+        <translation>فE�خ احتياط فE�E�E�فE�ة</translation>
     </message>
     <message>
         <source>Backup Failed</source>
-        <translation>فشل النسخ الاحتياطي</translation>
+        <translation>فE�فEافE�E�خ افE�حتياطفE/translation>
     </message>
     <message>
         <source>Backup Successful</source>
-        <translation>نجاح  النسخ الاحتياطي</translation>
+        <translation>فE�اح  افE�E�خ افE�حتياطفE/translation>
     </message>
     </context>
 <context>
@@ -1957,51 +1957,51 @@
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>حدد مجلد المعلومات</translation>
+        <translation>حدد فE�فE� افE�E�فE�فE�ت</translation>
     </message>
     <message>
         <source>Litecoin Core</source>
-        <translation>جوهر البيت كوين</translation>
+        <translation>جوفE� افE�يت فE�يفE/translation>
     </message>
     <message>
         <source>The %s developers</source>
-        <translation>%s المبرمجون</translation>
+        <translation>%s افE�E�رفE�وفE/translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>تحذير: مساحة القرص منخفضة</translation>
+        <translation>تحذير: فE�احة افE�رص فE�E�فE�ة</translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>فشل في الاستماع على أي منفذ. استخدام الاستماع = 0 إذا كنت تريد هذا.</translation>
+        <translation>فE�فEفE�EافE�ستفE�ع عفE�EأفEفE�E�E�. استخدافEافE�ستفE�ع = 0 إذا فE�E� تريد فE�ا.</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
-        <translation>عنوان اونيون غير صحيح : '%s'</translation>
+        <translation>عفE�افEاوفE�وفEغير صحيح : '%s'</translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>التحقق من المحفظة ...</translation>
+        <translation>افE�حقفEفE�EافE�E�فE�ة ...</translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>خيارات المحفظة :</translation>
+        <translation>خيارات افE�E�فE�ة :</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>معلومات</translation>
+        <translation>فE�فE�فE�ت</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>فشل توقيع المعاملة</translation>
+        <translation>فE�فEتوقيع افE�E�افE�E�</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>قيمة العملية صغيره جدا</translation>
+        <translation>قيفE� افE�فE�E�ة صغيرفEجدا</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>المعاملة طويلة جدا</translation>
+        <translation>افE�E�افE�E� طويفE� جدا</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2009,43 +2009,43 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>تحميل العنوان</translation>
+        <translation>تحفE�فEافE�فE�افE/translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>عنوان البروكسي غير صحيح : '%s'</translation>
+        <translation>عفE�افEافE�روفE�فEغير صحيح : '%s'</translation>
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
-        <translation>إنتاج معاملات بث المحفظة</translation>
+        <translation>إفE�اج فE�افE�E�ت بث افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>اموال غير كافية</translation>
+        <translation>افE�افEغير فE�فE�ة</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>تحميل مؤشر الكتلة</translation>
+        <translation>تحفE�فEفE�شر افE�E�فE�</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>تحميل المحفظه</translation>
+        <translation>تحفE�فEافE�E�فE�فE/translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>لا يمكن تخفيض قيمة المحفظة</translation>
+        <translation>فE� يفE�E�EتخفE�ض قيفE� افE�E�فE�ة</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>لايمكن كتابة العنوان الافتراضي</translation>
+        <translation>فE�يفE�E�EفE�ابة افE�فE�افEافE�فE�راضفE/translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>إعادة مسح</translation>
+        <translation>إعادة فE�ح</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>انتهاء التحميل</translation>
+        <translation>افE�فE�ء افE�حفE�فE/translation>
     </message>
     <message>
         <source>Error</source>

@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>יש ללחוץ עם הכפתור הימני כדי לערוך כתובת או תווית</translation>
+        <translation>יש ללחוץ עׁEהכפתור הימנׁEכדׁEלערוׁEכתובת אׁEתווית</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>יצירת כתובת חדשה</translation>
+        <translation>יצירת כתובת חדשׁE/translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,63 +15,63 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>העתקת הכתובת המסומנת ללוח הגזירים</translation>
+        <translation>העתקת הכתובת המסומנת ללוׁEהגזיריׁE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>ה&amp;עתקה</translation>
+        <translation>ׁEamp;עתקׁE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>סגירה</translation>
+        <translation>סגירׁE/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>מחיקת הכתובת שנבחרה מהרשימה</translation>
+        <translation>מחיקת הכתובת שנבחרׁEמהרשימׁE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>יצוא הנתונים מהלשונית הנוכחית לקובץ</translation>
+        <translation>יצוׁEהנתוניׁEמהלשונית הנוכחית לקובץ</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>י&amp;צוא</translation>
+        <translation>ׁEamp;צוׁE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>מ&amp;חיקה</translation>
+        <translation>ׁEamp;חיקׁE/translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>נא לבחור את הכתובת אליה ברצונך לשלוח את המטבעות</translation>
+        <translation>נׁEלבחור את הכתובת אליׁEברצונׁEלשלוׁEאת המטבעות</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>נא לבחור את הכתובת לקבלת המטבעות</translation>
+        <translation>נׁEלבחור את הכתובת לקבלת המטבעות</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>&amp;בחירה</translation>
+        <translation>&amp;בחירׁE/translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>כתובת לשליחה</translation>
+        <translation>כתובת לשליחׁE/translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>כתובות לקבלה</translation>
+        <translation>כתובות לקבלׁE/translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>אלו הן כתובות לייטקוין שלך לשליחת תשלומים. חשוב לבדוק את כמות הכתובות המקבלות לפני שליחת מטבעות.</translation>
+        <translation>אלׁEהׁEכתובות לייטקויׁEשלׁEלשליחת תשלומיׁE חשוׁEלבדוק את כמות הכתובות המקבלות לפנׁEשליחת מטבעות.</translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>אלו הן כתובות לייטקוין שלך לקבלת תשלומים. מומלץ להשתמש בכתובת חדשה לכל העברה.</translation>
+        <translation>אלׁEהׁEכתובות לייטקויׁEשלׁEלקבלת תשלומיׁE מומלץ להשתמש בכתובת חדשׁEלכׁEהעברׁE</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>ה&amp;עתקת כתובת</translation>
+        <translation>ׁEamp;עתקת כתובת</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -79,23 +79,23 @@
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;עריכה</translation>
+        <translation>&amp;עריכׁE/translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>יצוא רשימת הכתובות</translation>
+        <translation>יצוׁEרשימת הכתובות</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>קובץ מופרד בפסיקים (‎*.csv)</translation>
+        <translation>קובץ מופרׁEבפסיקיׁE( E.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>יצוא נכשל</translation>
+        <translation>יצוׁEנכשׁE/translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>אירעה שגיאה בעת הניסיון לשמור את רשימת הכתובת אל %1. נא לנסות שוב.</translation>
+        <translation>אירעׁEשגיאׁEבעת הניסיוׁEלשמור את רשימת הכתובת אׁE%1. נׁEלנסות שוׁE</translation>
     </message>
 </context>
 <context>
@@ -110,30 +110,30 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ללא תוית)</translation>
+        <translation>(ללׁEתוית)</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>דו־שיח מילת צופן</translation>
+        <translation>דו־שיׁEמילת צופׁE/translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>נא להזין מילת צופן</translation>
+        <translation>נׁEלהזיׁEמילת צופׁE/translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>מילת צופן חדשה</translation>
+        <translation>מילת צופׁEחדשׁE/translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>נא לחזור על מילת הצופן החדשה</translation>
+        <translation>נׁEלחזור עׁEמילת הצופׁEהחדשׁE/translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>נא להזין את מילת הצופן לארנק.&lt;br/&gt;נא להשתמש במילת צופן המורכבת מ&lt;b&gt;עשרה או יותר תווים אקראיים&lt;/b&gt;, או &lt;b&gt;שמונה מילים ומעלה&lt;/b&gt;.</translation>
+        <translation>נׁEלהזיׁEאת מילת הצופׁEלארנק.&lt;br/&gt;נׁEלהשתמש במילת צופׁEהמורכבת ׁElt;b&gt;עשרׁEאׁEיותר תוויׁEאקראייׁElt;/b&gt;, אׁE&lt;b&gt;שמונׁEמיליׁEומעלׁElt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>פעולה זו דורשת את מילת הצופן של הארנק שלך כדי לשחרר את הארנק.</translation>
+        <translation>פעולׁEזׁEדורשת את מילת הצופׁEשׁEהארנק שלׁEכדׁEלשחרר את הארנק.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
@@ -149,19 +149,19 @@
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>פעולה זו דורשת את מילת הצופן של הארנק שלך כדי לפענח את הארנק.</translation>
+        <translation>פעולׁEזׁEדורשת את מילת הצופׁEשׁEהארנק שלׁEכדׁEלפענׁEאת הארנק.</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>פענוח הארנק</translation>
+        <translation>פענוׁEהארנק</translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>החלפת מילת הצופן</translation>
+        <translation>החלפת מילת הצופׁE/translation>
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>נא להזין את מילת הצופן הישנה וחדשה לארנק</translation>
+        <translation>נׁEלהזיׁEאת מילת הצופׁEהישנׁEוחדשׁEלארנק</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
@@ -169,55 +169,55 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>אזהרה: איבוד מילת הצופן לאחר הצפנת הארנק עשויה לגרום לכך &lt;b&gt;שכל הביטקוינים שלך יאבדו&lt;/b&gt;!</translation>
+        <translation>אזהרׁE איבוׁEמילת הצופׁEלאחר הצפנת הארנק עשויׁEלגרוׁEלכׁE&lt;b&gt;שכׁEהביטקויניׁEשלׁEיאבדׁElt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>להצפין את הארנק?</translation>
+        <translation>להצפיׁEאת הארנק?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>הארנק מוצפן</translation>
+        <translation>הארנק מוצפׁE/translation>
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 ייסגר כעת כדי לסיים את תהליך ההצפנה. נא לשים לב כי הצפנת הארנק שלך לא יכול להגן על הביטקוינים שלך מפני גניבה או נוזקה שתוקפת את מחשבך.</translation>
+        <translation>%1 ייסגר כעת כדׁEלסייׁEאת תהליׁEההצפנׁE נׁEלשיׁEלׁEכׁEהצפנת הארנק שלׁEלׁEיכוׁEלהגׁEעׁEהביטקויניׁEשלׁEמפנׁEגניבׁEאׁEנוזקׁEשתוקפת את מחשבׁE</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>חשוב: כל הגיבויים הקודמים שערכת לארנק שלך אמורים להתחלף עם קובץ הארנק המוצפן שנוצר כרגע. מטעמי אבטחה, הגיבויים הקודמים של קובץ הארנק שאינו מוגן הופכים לחסרי תועלת ברגע התחלת השימוש בארנק החדש והמוצפן.</translation>
+        <translation>חשוׁE כׁEהגיבוייׁEהקודמיׁEשערכת לארנק שלׁEאמוריׁEלהתחלף עׁEקובץ הארנק המוצפׁEשנוצר כרגע. מטעמׁEאבטחׁE הגיבוייׁEהקודמיׁEשׁEקובץ הארנק שאינׁEמוגׁEהופכיׁEלחסרׁEתועלת ברגע התחלת השימוש בארנק החדש והמוצפׁE</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>הצפנת הארנק נכשלה</translation>
+        <translation>הצפנת הארנק נכשלׁE/translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>הצפנת הארנק נכשלה עקב תקלה פנימית. הארנק שלך לא הוצפן.</translation>
+        <translation>הצפנת הארנק נכשלׁEעקׁEתקלׁEפנימית. הארנק שלׁEלׁEהוצפׁE</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>מילות הצופן שסופקו אינן תואמות.</translation>
+        <translation>מילות הצופׁEשסופקׁEאינׁEתואמות.</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>שחרור האנרק נכשל</translation>
+        <translation>שחרור האנרק נכשׁE/translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>מילת הצופן שהוזנה לצורך פענוח הארנק שגויה.</translation>
+        <translation>מילת הצופׁEשהוזנׁEלצורׁEפענוׁEהארנק שגויׁE</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>פענוח הארנק נכשל</translation>
+        <translation>פענוׁEהארנק נכשׁE/translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>מילת הצופן של הארנק הוחלפה בהצלחה.</translation>
+        <translation>מילת הצופׁEשׁEהארנק הוחלפׁEבהצלחׁE</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>אזהרה: מקש ה־Caps Lock פעיל!</translation>
+        <translation>אזהרׁE מקש ה־Caps Lock פעיׁE</translation>
     </message>
 </context>
 <context>
@@ -228,22 +228,22 @@
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>חסום עד</translation>
+        <translation>חסוׁEעׁE/translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>&amp;חתימה על הודעה…</translation>
+        <translation>&amp;חתימׁEעׁEהודעה…</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>בסנכרון עם הרשת…</translation>
+        <translation>בסנכרוׁEעׁEהרשת…</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>&amp;סקירה</translation>
+        <translation>&amp;סקירׁE/translation>
     </message>
     <message>
         <source>Node</source>
@@ -251,23 +251,23 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>הצגת סקירה כללית של הארנק</translation>
+        <translation>הצגת סקירׁEכללית שׁEהארנק</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>ה&amp;עברות</translation>
+        <translation>ׁEamp;עברות</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>עיון בהיסטוריית ההעברות</translation>
+        <translation>עיוׁEבהיסטוריית ההעברות</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>י&amp;ציאה</translation>
+        <translation>ׁEamp;ציאׁE/translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>יציאה מהתכנית</translation>
+        <translation>יציאׁEמהתכנית</translation>
     </message>
     <message>
         <source>&amp;About %1</source>
@@ -275,15 +275,15 @@
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>הצג מידע על %1</translation>
+        <translation>הצׁEמידע עׁE%1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>על אודות Qt</translation>
+        <translation>עׁEאודות Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>הצגת מידע על Qt</translation>
+        <translation>הצגת מידע עׁEQt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -291,27 +291,27 @@
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>שינוי אפשרויות התצורה עבור %1</translation>
+        <translation>שינוׁEאפשרויות התצורׁEעבור %1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>ה&amp;צפנת הארנק…</translation>
+        <translation>ׁEamp;צפנת הארנק…</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;גיבוי הארנק…</translation>
+        <translation>&amp;גיבוׁEהארנק…</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>ה&amp;חלפת מילת הצופן…</translation>
+        <translation>ׁEamp;חלפת מילת הצופן…</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>כתובת ה&amp;שליחה…</translation>
+        <translation>כתובת ׁEamp;שליחה…</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>כתובות ה&amp;קבלה…</translation>
+        <translation>כתובות ׁEamp;קבלה…</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
@@ -319,15 +319,15 @@
     </message>
     <message>
         <source>Click to disable network activity.</source>
-        <translation>יש ללחוץ כדי לנטרל פעילות רשת.</translation>
+        <translation>יש ללחוץ כדׁEלנטרׁEפעילות רשת.</translation>
     </message>
     <message>
         <source>Network activity disabled.</source>
-        <translation>פעילות הרשת נוטרלה.</translation>
+        <translation>פעילות הרשת נוטרלׁE</translation>
     </message>
     <message>
         <source>Click to enable network activity again.</source>
-        <translation>יש ללחוץ כדי להפעיל את פעילות הרשת מחדש.</translation>
+        <translation>יש ללחוץ כדׁEלהפעיׁEאת פעילות הרשת מחדש.</translation>
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
@@ -335,27 +335,27 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>המקטעים נוספים למפתח בכונן…</translation>
+        <translation>המקטעיׁEנוספיׁEלמפתׁEבכונן…</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>שליחת מטבעות לכתובת לייטקוין</translation>
+        <translation>שליחת מטבעות לכתובת לייטקויׁE/translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>גיבוי הארנק למיקום אחר</translation>
+        <translation>גיבוׁEהארנק למיקוׁEאחר</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>החלפת מילת הצופן להצפנת הארנק</translation>
+        <translation>החלפת מילת הצופׁEלהצפנת הארנק</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>חלון &amp;ניפוי</translation>
+        <translation>חלוׁE&amp;ניפוׁE/translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>פתיחת לוח הבקרה לאבחון ולניפוי</translation>
+        <translation>פתיחת לוׁEהבקרׁEלאבחוׁEולניפוׁE/translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -363,7 +363,7 @@
     </message>
     <message>
         <source>Litecoin</source>
-        <translation>לייטקוין</translation>
+        <translation>לייטקויׁE/translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -371,31 +371,31 @@
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;שליחה</translation>
+        <translation>&amp;שליחׁE/translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>&amp;קבלה</translation>
+        <translation>&amp;קבלׁE/translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>ה&amp;צגה / הסתרה</translation>
+        <translation>ׁEamp;צגׁE/ הסתרׁE/translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>הצגה או הסתרה של החלון הראשי</translation>
+        <translation>הצגׁEאׁEהסתרׁEשׁEהחלוׁEהראשׁE/translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>הצפנת המפתחות הפרטיים ששייכים לארנק שלך</translation>
+        <translation>הצפנת המפתחות הפרטייׁEששייכיׁEלארנק שלׁE/translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>חתום על הודעות עם כתובות לייטקוין שלך כדי להוכיח שהן בבעלותך</translation>
+        <translation>חתוׁEעׁEהודעות עׁEכתובות לייטקויׁEשלׁEכדׁEלהוכיׁEשהׁEבבעלותׁE/translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>אמת הודעות כדי להבטיח שהן נחתמו עם כתובת לייטקוין מסוימות</translation>
+        <translation>אמת הודעות כדׁEלהבטיׁEשהׁEנחתמׁEעׁEכתובת לייטקויׁEמסוימות</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -403,23 +403,23 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>ה&amp;גדרות</translation>
+        <translation>ׁEamp;גדרות</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>ע&amp;זרה</translation>
+        <translation>ע&amp;זרׁE/translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>סרגל כלים לשוניות</translation>
+        <translation>סרגׁEכליׁEלשוניות</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :litecoin)</translation>
+        <translation>בקשת תשלומיׁE(יצירׁEשׁEקודיׁEמסוׁEQR וסכימות כתובות משאׁEשׁE:litecoin)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>הצג את רשימת הכתובות לשליחה שהיו בשימוש לרבות התוויות</translation>
+        <translation>הצׁEאת רשימת הכתובות לשליחׁEשהיׁEבשימוש לרבות התוויות</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
@@ -427,19 +427,19 @@
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>פתיחת לייטקוין: כתובת משאב או בקשת תשלום</translation>
+        <translation>פתיחת לייטקויׁE כתובת משאׁEאׁEבקשת תשלוׁE/translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>אפשרויות &amp;שורת הפקודה</translation>
+        <translation>אפשרויות &amp;שורת הפקודׁE/translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>חיבור אחד פעיל לרשת לייטקוין</numerusform><numerusform>%n חיבורים פעילים לרשת לייטקוין</numerusform></translation>
+        <translation><numerusform>חיבור אחׁEפעיׁEלרשת לייטקויׁE/numerusform><numerusform>%n חיבוריׁEפעיליׁEלרשת לייטקויׁE/numerusform></translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
-        <translation>מעבד בלוקים על הדיסק...</translation>
+        <translation>מעבׁEבלוקיׁEעׁEהדיסק...</translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -447,19 +447,19 @@
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>המקטע האחרון שהתקבל נוצר לפני %1.</translation>
+        <translation>המקטע האחרוׁEשהתקבׁEנוצר לפנׁE%1.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>ההעברות שבוצעו לאחר העברה זו לא יופיעו.</translation>
+        <translation>ההעברות שבוצעׁEלאחר העברׁEזׁEלׁEיופיעׁE</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation>שגיאׁE/translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>אזהרה</translation>
+        <translation>אזהרׁE/translation>
     </message>
     <message>
         <source>Information</source>
@@ -467,15 +467,15 @@
     </message>
     <message>
         <source>Up to date</source>
-        <translation>עדכני</translation>
+        <translation>עדכנׁE/translation>
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>יש להציג את הודעת העזרה של %1 כדי להציג רשימה עם אפשרויות שורת פקודה לייטקוין</translation>
+        <translation>יש להציׁEאת הודעת העזרׁEשׁE%1 כדׁEלהציׁEרשימׁEעׁEאפשרויות שורת פקודׁEלייטקויׁE/translation>
     </message>
     <message>
         <source>%1 client</source>
-        <translation>לקוח %1</translation>
+        <translation>לקוׁE%1</translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
@@ -488,7 +488,7 @@
     <message>
         <source>Date: %1
 </source>
-        <translation>תאריך: %1
+        <translation>תאריׁE %1
 </translation>
     </message>
     <message>
@@ -500,7 +500,7 @@
     <message>
         <source>Type: %1
 </source>
-        <translation>סוג: %1
+        <translation>סוׁE %1
 </translation>
     </message>
     <message>
@@ -517,23 +517,23 @@
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>העברת שליחה</translation>
+        <translation>העברת שליחׁE/translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>העברת קבלה</translation>
+        <translation>העברת קבלׁE/translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>הארנק &lt;b&gt;מוצפן&lt;/b&gt; ו&lt;b&gt;פתוח&lt;/b&gt; כרגע</translation>
+        <translation>הארנק &lt;b&gt;מוצפׁElt;/b&gt; ׁElt;b&gt;פתוׁElt;/b&gt; כרגע</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>הארנק &lt;b&gt;מוצפן&lt;/b&gt; ו&lt;b&gt;נעול&lt;/b&gt; כרגע</translation>
+        <translation>הארנק &lt;b&gt;מוצפׁElt;/b&gt; ׁElt;b&gt;נעוׁElt;/b&gt; כרגע</translation>
     </message>
     <message>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>אירעה שגיאה חמורה. אין אפשרות להשתמש עוד בלייטקוין באופן מאובטח והיישום ייסגר.</translation>
+        <translation>אירעׁEשגיאׁEחמורׁE איׁEאפשרות להשתמש עוׁEבלייטקויׁEבאופׁEמאובטׁEוהיישוׁEייסגר.</translation>
     </message>
 </context>
 <context>
@@ -548,15 +548,15 @@
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>בתים:</translation>
+        <translation>בתיׁE</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>סכום:</translation>
+        <translation>סכוׁE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>עמלה:</translation>
+        <translation>עמלׁE</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -564,7 +564,7 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>לאחר עמלה:</translation>
+        <translation>לאחר עמלׁE</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -572,15 +572,15 @@
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>ביטול/אישור הבחירה</translation>
+        <translation>ביטוׁEאישור הבחירׁE/translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>מצב עץ</translation>
+        <translation>מצׁEעץ</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>מצב רשימה</translation>
+        <translation>מצׁEרשימׁE/translation>
     </message>
     <message>
         <source>Amount</source>
@@ -588,19 +588,19 @@
     </message>
     <message>
         <source>Received with label</source>
-        <translation>התקבל עם תווית</translation>
+        <translation>התקבׁEעׁEתווית</translation>
     </message>
     <message>
         <source>Received with address</source>
-        <translation>התקבל עם כתובת</translation>
+        <translation>התקבׁEעׁEכתובת</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>תאריך</translation>
+        <translation>תאריׁE/translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>אישורים</translation>
+        <translation>אישוריׁE/translation>
     </message>
     <message>
         <source>Confirmed</source>
@@ -616,19 +616,19 @@
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>העתקת הסכום</translation>
+        <translation>העתקת הסכוׁE/translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>העתקת מזהה ההעברה</translation>
+        <translation>העתקת מזהׁEההעברׁE/translation>
     </message>
     <message>
         <source>Lock unspent</source>
-        <translation>נעילת יתרה</translation>
+        <translation>נעילת יתרׁE/translation>
     </message>
     <message>
         <source>Unlock unspent</source>
-        <translation>פתיחת יתרה</translation>
+        <translation>פתיחת יתרׁE/translation>
     </message>
     <message>
         <source>Copy quantity</source>
@@ -636,15 +636,15 @@
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>העתקת העמלה</translation>
+        <translation>העתקת העמלׁE/translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>העתקה אחרי העמלה</translation>
+        <translation>העתקׁEאחרׁEהעמלׁE/translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>העתקת בתים</translation>
+        <translation>העתקת בתיׁE/translation>
     </message>
     <message>
         <source>Copy dust</source>
@@ -652,27 +652,27 @@
     </message>
     <message>
         <source>Copy change</source>
-        <translation>העתקת השינוי</translation>
+        <translation>העתקת השינוׁE/translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>כן</translation>
+        <translation>כׁE/translation>
     </message>
     <message>
         <source>no</source>
-        <translation>לא</translation>
+        <translation>לׁE/translation>
     </message>
     <message>
         <source>This label turns red if any recipient receives an amount smaller than the current dust threshold.</source>
-        <translation>תווית זו הופכת לאדומה אם מישהו מהנמענים מקבל סכום נמוך יותר מסף האבק הנוכחי.</translation>
+        <translation>תווית זׁEהופכת לאדומׁEאׁEמישהׁEמהנמעניׁEמקבׁEסכוׁEנמוׁEיותר מסף האבק הנוכחׁE</translation>
     </message>
     <message>
         <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>יכול להשתנות במגמה של +/- %1 סנטושי לקלט.</translation>
+        <translation>יכוׁEלהשתנות במגמׁEשׁE+/- %1 סנטושׁEלקלׁE</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ללא תוית)</translation>
+        <translation>(ללׁEתוית)</translation>
     </message>
     </context>
 <context>
@@ -687,11 +687,11 @@
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>התווית המשויכת לרשומה הזו ברשימת הכתובות</translation>
+        <translation>התווית המשויכת לרשומׁEהזׁEברשימת הכתובות</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>הכתובת המשויכת עם רשומה זו ברשימת הכתובות. ניתן לשנות זאת רק עבור כתובות לשליחה.</translation>
+        <translation>הכתובת המשויכת עׁEרשומׁEזׁEברשימת הכתובות. ניתׁEלשנות זאת רק עבור כתובות לשליחׁE</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -699,65 +699,65 @@
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>כתובת קבלה חדשה</translation>
+        <translation>כתובת קבלׁEחדשׁE/translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>כתובת שליחה חדשה</translation>
+        <translation>כתובת שליחׁEחדשׁE/translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>עריכת כתובת הקבלה</translation>
+        <translation>עריכת כתובת הקבלׁE/translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>עריכת כתובת השליחה</translation>
+        <translation>עריכת כתובת השליחׁE/translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>הכתובת שהוקלדה „%1” היא אינה כתובת לייטקוין תקנית.</translation>
+        <translation>הכתובת שהוקלדׁE E1 EהיׁEאינׁEכתובת לייטקויׁEתקנית.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>הכתובת שהוקלדה „%1” כבר נמצאת בספר הכתובות.</translation>
+        <translation>הכתובת שהוקלדׁE E1 Eכבר נמצאת בספר הכתובות.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>לא ניתן לשחרר את הארנק.</translation>
+        <translation>לׁEניתׁEלשחרר את הארנק.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>יצירת המפתח החדש נכשלה.</translation>
+        <translation>יצירת המפתׁEהחדש נכשלׁE</translation>
     </message>
 </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>תיקיית נתונים חדשה תיווצר.</translation>
+        <translation>תיקיית נתוניׁEחדשׁEתיווצר.</translation>
     </message>
     <message>
         <source>name</source>
-        <translation>שם</translation>
+        <translation>שׁE/translation>
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>התיקייה כבר קיימת. ניתן להוסיף %1 אם יש ליצור תיקייה חדשה כאן.</translation>
+        <translation>התיקייׁEכבר קיימת. ניתׁEלהוסיף %1 אׁEיש ליצור תיקייׁEחדשׁEכאׁE</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>הנתיב כבר קיים ואינו מצביע על תיקייה.</translation>
+        <translation>הנתיׁEכבר קייׁEואינׁEמצביע עׁEתיקייׁE</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>לא ניתן ליצור כאן תיקיית נתונים.</translation>
+        <translation>לׁEניתׁEליצור כאׁEתיקיית נתוניׁE</translation>
     </message>
 </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>גרסה</translation>
+        <translation>גרסׁE/translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -765,11 +765,11 @@
     </message>
     <message>
         <source>About %1</source>
-        <translation>על אודות %1</translation>
+        <translation>עׁEאודות %1</translation>
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>אפשרויות שורת פקודה</translation>
+        <translation>אפשרויות שורת פקודׁE/translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -777,7 +777,7 @@
     </message>
     <message>
         <source>command-line options</source>
-        <translation>אפשרויות שורת פקודה</translation>
+        <translation>אפשרויות שורת פקודׁE/translation>
     </message>
     <message>
         <source>UI Options:</source>
@@ -785,58 +785,58 @@
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>נא לבחור תיקיית נתונים עם הפתיחה (בררת מחדל: %u)</translation>
+        <translation>נׁEלבחור תיקיית נתוניׁEעׁEהפתיחׁE(בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>הגדרת השפה, לדוגמה „he_IL” (בררת מחדל: שפת העמרכת)</translation>
+        <translation>הגדרת השפׁE לדוגמׁE„he_IL E(בררת מחדׁE שפת העמרכת)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>התחל ממוזער</translation>
+        <translation>התחׁEממוזער</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>הגדרת אישורי בסיס SSL לבקשות תשלומים (בררת מחדל: -מערכת-)</translation>
+        <translation>הגדרת אישורׁEבסיס SSL לבקשות תשלומיׁE(בררת מחדׁE -מערכת-)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>הצג מסך פתיחה בעת הפעלה (ברירת מחדל: %u)</translation>
+        <translation>הצׁEמסׁEפתיחׁEבעת הפעלׁE(ברירת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
-        <translation>איפוס כל שינויי הגדרות התצוגה</translation>
+        <translation>איפוס כׁEשינויׁEהגדרות התצוגׁE/translation>
     </message>
 </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>ברוך בואך</translation>
+        <translation>ברוׁEבואׁE/translation>
     </message>
     <message>
         <source>Welcome to %1.</source>
-        <translation>ברוך הבא ל %1.</translation>
+        <translation>ברוׁEהבׁEׁE%1.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>כיוון שזו ההפעלה הראשונה של התכנית, ניתן לבחור היכן יאוחסן המידע של %1.</translation>
+        <translation>כיווׁEשזׁEההפעלׁEהראשונׁEשׁEהתכנית, ניתׁEלבחור היכׁEיאוחסׁEהמידע שׁE%1.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>שימוש בבררת המחדל של תיקיית הנתונים.</translation>
+        <translation>שימוש בבררת המחדׁEשׁEתיקיית הנתוניׁE</translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
-        <translation>שימוש בתיקיית נתונים מותאמת אישית:</translation>
+        <translation>שימוש בתיקיית נתוניׁEמותאמת אישית:</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>שגיאה: לא ניתן ליצור את תיקיית הנתונים שצוינה „%1“.</translation>
+        <translation>שגיאׁE לׁEניתׁEליצור את תיקיית הנתוניׁEשצוינׁE E1 E</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation>שגיאׁE/translation>
     </message>
     </context>
 <context>
@@ -847,15 +847,15 @@
     </message>
     <message>
         <source>Number of blocks left</source>
-        <translation>מספר מקטעים שנותרו</translation>
+        <translation>מספר מקטעיׁEשנותרׁE/translation>
     </message>
     <message>
         <source>Unknown...</source>
-        <translation>לא ידוע...</translation>
+        <translation>לׁEידוע...</translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>זמן המקטע האחרון</translation>
+        <translation>זמׁEהמקטע האחרוׁE/translation>
     </message>
     <message>
         <source>Progress</source>
@@ -863,15 +863,15 @@
     </message>
     <message>
         <source>Progress increase per hour</source>
-        <translation>התקדמות לפי שעה</translation>
+        <translation>התקדמות לפׁEשעׁE/translation>
     </message>
     <message>
         <source>calculating...</source>
-        <translation>נערך חישוב…</translation>
+        <translation>נערׁEחישוב…</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>
-        <translation>הזמן המוערך שנותר עד הסנכרון</translation>
+        <translation>הזמׁEהמוערׁEשנותר עׁEהסנכרוׁE/translation>
     </message>
     <message>
         <source>Hide</source>
@@ -879,30 +879,30 @@
     </message>
     <message>
         <source>Unknown. Syncing Headers (%1)...</source>
-        <translation>לא ידוע. הכותרות מתעדכנות (%1)…</translation>
+        <translation>לׁEידוע. הכותרות מתעדכנות (%1)…</translation>
     </message>
 </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>פתיחת כתובת משאב</translation>
+        <translation>פתיחת כתובת משאׁE/translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>פתיחת בקשת תשלום מכתובת משאב או מקובץ</translation>
+        <translation>פתיחת בקשת תשלוׁEמכתובת משאׁEאׁEמקובץ</translation>
     </message>
     <message>
         <source>URI:</source>
-        <translation>כתובת משאב:</translation>
+        <translation>כתובת משאׁE</translation>
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>בחירת קובץ בקשת תשלום</translation>
+        <translation>בחירת קובץ בקשת תשלוׁE/translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>בחירת קובץ בקשת תשלום לפתיחה</translation>
+        <translation>בחירת קובץ בקשת תשלוׁEלפתיחׁE/translation>
     </message>
 </context>
 <context>
@@ -913,55 +913,55 @@
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>&amp;ראשי</translation>
+        <translation>&amp;ראשׁE/translation>
     </message>
     <message>
         <source>Automatically start %1 after logging in to the system.</source>
-        <translation>להפעיל את %1 אוטומטית לאחר הכניסה למערכת.</translation>
+        <translation>להפעיׁEאת %1 אוטומטית לאחר הכניסׁEלמערכת.</translation>
     </message>
     <message>
         <source>&amp;Start %1 on system login</source>
-        <translation>ה&amp;פעלת %1 עם הכניסה למערכת</translation>
+        <translation>ׁEamp;פעלת %1 עׁEהכניסׁEלמערכת</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>גודל מ&amp;טמון מסד הנתונים</translation>
+        <translation>גודׁEׁEamp;טמוׁEמסׁEהנתוניׁE/translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>מ״ב</translation>
+        <translation>מ״ׁE/translation>
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>מספר תהליכי ה&amp;אימות של הסקריפט</translation>
+        <translation>מספר תהליכׁEׁEamp;אימות שׁEהסקריפׁE/translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>קבלת חיבורים מבחוץ</translation>
+        <translation>קבלת חיבוריׁEמבחוץ</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>לאפשר חיבורים נכנסים</translation>
+        <translation>לאפשר חיבוריׁEנכנסיׁE/translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>כתובת ה־IP של המתווך (לדוגמה IPv4: 127.0.0.1‏ / IPv6: ::1)</translation>
+        <translation>כתובת ה־IP שׁEהמתווׁE(לדוגמׁEIPv4: 127.0.0.1 E/ IPv6: ::1)</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>כתובות צד־שלישי (כגון: סייר מקטעים) שמופיעים בלשונית ההעברות בתור פריטים בתפריט ההקשר. %s בכתובת מוחלף בגיבוב ההעברה. מספר כתובות יופרדו בפס אנכי |.</translation>
+        <translation>כתובות צד־שלישׁE(כגוׁE סייר מקטעיׁE שמופיעיׁEבלשונית ההעברות בתור פריטיׁEבתפריׁEההקשר. %s בכתובת מוחלף בגיבוׁEההעברׁE מספר כתובות יופרדׁEבפס אנכׁE|.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>כתובות העברה צד־שלישי</translation>
+        <translation>כתובות העברׁEצד־שלישׁE/translation>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>אפשרויות פעילות בשורת הפקודה שדורסות את האפשרויות שלהלן:</translation>
+        <translation>אפשרויות פעילות בשורת הפקודׁEשדורסות את האפשרויות שלהלׁE</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>איפוס כל אפשרויות התכנית לבררת המחדל.</translation>
+        <translation>איפוס כׁEאפשרויות התכנית לבררת המחדׁE</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
@@ -973,7 +973,7 @@
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = אוטומטי, &lt;0 = להשאיר כזאת כמות של ליבות חופשיות)</translation>
+        <translation>(0 = אוטומטׁE &lt;0 = להשאיר כזאת כמות שׁEליבות חופשיות)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -981,7 +981,7 @@
     </message>
     <message>
         <source>Expert</source>
-        <translation>מומחה</translation>
+        <translation>מומחׁE/translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -989,35 +989,35 @@
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>אם אפשרות ההשקעה של עודף בלתי מאושר תנוטרל, לא ניתן יהיה להשתמש בעודף מההעברה עד שלהעברה יהיה לפחות אישור אחד. פעולה זו גם משפיעה על חישוב המאזן שלך.</translation>
+        <translation>אׁEאפשרות ההשקעׁEשׁEעודף בלתׁEמאושר תנוטרׁE לׁEניתׁEיהיׁEלהשתמש בעודף מההעברׁEעׁEשלהעברׁEיהיׁEלפחות אישור אחׁE פעולׁEזׁEגׁEמשפיעׁEעׁEחישוׁEהמאזׁEשלׁE</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>עודף &amp;בלתי מאושר מההשקעה</translation>
+        <translation>עודף &amp;בלתׁEמאושר מההשקעׁE/translation>
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>פתיחת הפתחה של לייטקוין בנתב באופן אוטומטי. עובד רק אם UPnP מופעל ונתמך בנתב.</translation>
+        <translation>פתיחת הפתחׁEשׁEלייטקויׁEבנתׁEבאופׁEאוטומטׁE עובׁEרק אׁEUPnP מופעׁEונתמׁEבנתׁE</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>מיפוי פתחה באמצעות UPnP</translation>
+        <translation>מיפוׁEפתחׁEבאמצעות UPnP</translation>
     </message>
     <message>
         <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>התחבר לרשת לייטקוין דרך פרוקסי SOCKS5.</translation>
+        <translation>התחבר לרשת לייטקויׁEדרׁEפרוקסׁESOCKS5.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>כתובת ה־IP של המ&amp;תווך:</translation>
+        <translation>כתובת ה־IP שׁEהׁEamp;תווׁE</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;פתחה:</translation>
+        <translation>&amp;פתחׁE</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>הפתחה של המתווך (למשל 9050)</translation>
+        <translation>הפתחׁEשׁEהמתווׁE(למשׁE9050)</translation>
     </message>
     <message>
         <source>IPv4</source>
@@ -1033,31 +1033,31 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;חלון</translation>
+        <translation>&amp;חלוׁE/translation>
     </message>
     <message>
         <source>&amp;Hide the icon from the system tray.</source>
-        <translation>ה&amp;סתרת הסמל ממגש המערכת.</translation>
+        <translation>ׁEamp;סתרת הסמׁEממגש המערכת.</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation>הסתרת הסמל במגש המערכת</translation>
+        <translation>הסתרת הסמׁEבמגש המערכת</translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>הצג סמל מגש בלבד לאחר מזעור החלון.</translation>
+        <translation>הצׁEסמׁEמגש בלבׁEלאחר מזעור החלוׁE</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>מ&amp;זעור למגש במקום לשורת המשימות</translation>
+        <translation>ׁEamp;זעור למגש במקוׁEלשורת המשימות</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>מ&amp;זעור עם סגירה</translation>
+        <translation>ׁEamp;זעור עׁEסגירׁE/translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>ת&amp;צוגה</translation>
+        <translation>ת&amp;צוגׁE/translation>
     </message>
     <message>
         <source>User Interface &amp;language:</source>
@@ -1065,19 +1065,19 @@
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting %1.</source>
-        <translation>ניתן להגדיר כאן את שפת מנשק המשתמש. הגדרה זו תיכנס לתוקף לאחר הפעלה של %1 מחדש.</translation>
+        <translation>ניתׁEלהגדיר כאׁEאת שפת מנשק המשתמש. הגדרׁEזׁEתיכנס לתוקף לאחר הפעלׁEשׁE%1 מחדש.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>י&amp;חידת מידה להצגת כמויות:</translation>
+        <translation>ׁEamp;חידת מידׁEלהצגת כמויות:</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>ניתן לבחור את בררת המחדל ליחידת החלוקה שתוצג במנשק ובעת שליחת מטבעות.</translation>
+        <translation>ניתׁEלבחור את בררת המחדׁEליחידת החלוקׁEשתוצׁEבמנשק ובעת שליחת מטבעות.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>האם להציג תכונות שליטת מטבע או לא.</translation>
+        <translation>האׁEלהציׁEתכונות שליטת מטבע אׁEלׁE</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1085,15 +1085,15 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation>&amp;ביטוׁE/translation>
     </message>
     <message>
         <source>default</source>
-        <translation>בררת מחדל</translation>
+        <translation>בררת מחדׁE/translation>
     </message>
     <message>
         <source>none</source>
-        <translation>ללא</translation>
+        <translation>ללׁE/translation>
     </message>
     <message>
         <source>Confirm options reset</source>
@@ -1101,19 +1101,19 @@
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>נדרשת הפעלה מחדש של הלקוח כדי להפעיל את השינויים.</translation>
+        <translation>נדרשת הפעלׁEמחדש שׁEהלקוׁEכדׁEלהפעיׁEאת השינוייׁE</translation>
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>הלקוח יכבה. להמשיך?</translation>
+        <translation>הלקוׁEיכבׁE להמשיׁE</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>שינוי זה ידרוש הפעלה מחדש של תכנית הלקוח.</translation>
+        <translation>שינוׁEזׁEידרוש הפעלׁEמחדש שׁEתכנית הלקוׁE</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>כתובת המתווך שסופקה אינה תקינה.</translation>
+        <translation>כתובת המתווׁEשסופקׁEאינׁEתקינׁE</translation>
     </message>
 </context>
 <context>
@@ -1124,55 +1124,55 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>המידע המוצג עשוי להיות מיושן. הארנק שלך מסתנכרן באופן אוטומטי עם רשת לייטקוין לאחר יצירת החיבור, אך התהליך טרם הסתיים.</translation>
+        <translation>המידע המוצׁEעשוׁEלהיות מיושׁE הארנק שלׁEמסתנכרׁEבאופׁEאוטומטׁEעׁEרשת לייטקויׁEלאחר יצירת החיבור, אׁEהתהליׁEטרׁEהסתייׁE</translation>
     </message>
     <message>
         <source>Watch-only:</source>
-        <translation>צפייה בלבד:</translation>
+        <translation>צפייׁEבלבׁE</translation>
     </message>
     <message>
         <source>Available:</source>
-        <translation>זמין:</translation>
+        <translation>זמיׁE</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>היתרה הזמינה הנוכחית</translation>
+        <translation>היתרׁEהזמינׁEהנוכחית</translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>בהמתנה:</translation>
+        <translation>בהמתנׁE</translation>
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>הסכום הכולל של העברות שטרם אושרו ועדיין אינן נספרות בחישוב היתרה הזמינה</translation>
+        <translation>הסכוׁEהכולׁEשׁEהעברות שטרׁEאושרׁEועדייׁEאינׁEנספרות בחישוׁEהיתרׁEהזמינׁE/translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>לא בשל:</translation>
+        <translation>לׁEבשׁE</translation>
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>מאזן שנכרה וטרם הבשיל</translation>
+        <translation>מאזׁEשנכרׁEוטרׁEהבשיׁE/translation>
     </message>
     <message>
         <source>Balances</source>
-        <translation>מאזנים</translation>
+        <translation>מאזניׁE/translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>סך הכול:</translation>
+        <translation>סׁEהכוׁE</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>סך כל היתרה הנוכחית שלך</translation>
+        <translation>סׁEכׁEהיתרׁEהנוכחית שלׁE/translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>המאזן הנוכחי שלך בכתובות לקריאה בלבד</translation>
+        <translation>המאזׁEהנוכחׁEשלׁEבכתובות לקריאׁEבלבׁE/translation>
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>ניתנים לבזבוז</translation>
+        <translation>ניתניׁEלבזבוׁE/translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -1180,74 +1180,74 @@
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>העברות בלתי מאושרות לכתובות לצפייה בלבד</translation>
+        <translation>העברות בלתׁEמאושרות לכתובות לצפייׁEבלבׁE/translation>
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>מאזן לאחר כרייה בכתובות לצפייה בלבד שעדיין לא הבשילו</translation>
+        <translation>מאזׁEלאחר כרייׁEבכתובות לצפייׁEבלבׁEשעדייׁEלׁEהבשילׁE/translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>המאזן הכולל הנוכחי בכתובות לצפייה בלבד</translation>
+        <translation>המאזׁEהכולׁEהנוכחׁEבכתובות לצפייׁEבלבׁE/translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Payment request error</source>
-        <translation>שגיאת בקשת תשלום</translation>
+        <translation>שגיאת בקשת תשלוׁE/translation>
     </message>
     <message>
         <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>לא ניתן להפעיל את המקשר litecoin: click-to-pay</translation>
+        <translation>לׁEניתׁEלהפעיׁEאת המקשר litecoin: click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
-        <translation>טיפול בכתובות</translation>
+        <translation>טיפוׁEבכתובות</translation>
     </message>
     <message>
         <source>Invalid payment address %1</source>
-        <translation>כתובת תשלום שגויה %1</translation>
+        <translation>כתובת תשלוׁEשגויׁE%1</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
-        <translation>בקשת התשלום נדחתה</translation>
+        <translation>בקשת התשלוׁEנדחתׁE/translation>
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
-        <translation>רשת בקשת התשלום אינה תואמת לרשת הלקוח.</translation>
+        <translation>רשת בקשת התשלוׁEאינׁEתואמת לרשת הלקוׁE</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>בקשת התשלום פגה.</translation>
+        <translation>בקשת התשלוׁEפגׁE</translation>
     </message>
     <message>
         <source>Payment request is not initialized.</source>
-        <translation>בקשת התשלום לא הופעלה.</translation>
+        <translation>בקשת התשלוׁEלׁEהופעלׁE</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-        <translation>בקשות תשלום לתסריטי תשלום מותאמים אישית שלא עברו וידוא אינן נתמכות.</translation>
+        <translation>בקשות תשלוׁEלתסריטׁEתשלוׁEמותאמיׁEאישית שלׁEעברׁEוידוׁEאינׁEנתמכות.</translation>
     </message>
     <message>
         <source>Invalid payment request.</source>
-        <translation>בקשת תשלום שגויה.</translation>
+        <translation>בקשת תשלוׁEשגויׁE</translation>
     </message>
     <message>
         <source>Refund from %1</source>
-        <translation>זיכוי מאת %1</translation>
+        <translation>זיכוׁEמאת %1</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
-        <translation>שגיאה בעת יצירת קשר עם %1:‏ %2</translation>
+        <translation>שגיאׁEבעת יצירת קשר עׁE%1: E%2</translation>
     </message>
     <message>
         <source>Payment request cannot be parsed!</source>
-        <translation>לא ניתן לפענח את בקשת התשלום!</translation>
+        <translation>לׁEניתׁEלפענׁEאת בקשת התשלוׁE</translation>
     </message>
     <message>
         <source>Bad response from server %1</source>
-        <translation>תגובה שגויה מהשרת %1</translation>
+        <translation>תגובׁEשגויׁEמהשרת %1</translation>
     </message>
     <message>
         <source>Network request error</source>
@@ -1255,14 +1255,14 @@
     </message>
     <message>
         <source>Payment acknowledged</source>
-        <translation>התשלום אושר</translation>
+        <translation>התשלוׁEאושר</translation>
     </message>
 </context>
 <context>
     <name>PeerTableModel</name>
     <message>
         <source>User Agent</source>
-        <translation>סוכן משתמש</translation>
+        <translation>סוכׁEמשתמש</translation>
     </message>
     </context>
 <context>
@@ -1273,11 +1273,11 @@
     </message>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>נא להזין כתובת לייטקוין (למשל: %1)</translation>
+        <translation>נׁEלהזיׁEכתובת לייטקויׁE(למשׁE %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation>%1 ימים</translation>
+        <translation>%1 ימיׁE/translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -1293,11 +1293,11 @@
     </message>
     <message>
         <source>None</source>
-        <translation>ללא</translation>
+        <translation>ללׁE/translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation>לא זמין</translation>
+        <translation>לׁEזמיׁE/translation>
     </message>
     <message>
         <source>%1 ms</source>
@@ -1305,50 +1305,50 @@
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation><numerusform>שנייה אחת</numerusform><numerusform>%n שניות</numerusform></translation>
+        <translation><numerusform>שנייׁEאחת</numerusform><numerusform>%n שניות</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation><numerusform>דקה אחת</numerusform><numerusform>%n דקות</numerusform></translation>
+        <translation><numerusform>דקׁEאחת</numerusform><numerusform>%n דקות</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>שעה אחת</numerusform><numerusform>%n שעות</numerusform></translation>
+        <translation><numerusform>שעׁEאחת</numerusform><numerusform>%n שעות</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation><numerusform>יום אחד</numerusform><numerusform>%n ימים</numerusform></translation>
+        <translation><numerusform>יוׁEאחׁE/numerusform><numerusform>%n ימיׁE/numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>שבוע אחד</numerusform><numerusform>%n שבועות</numerusform></translation>
+        <translation><numerusform>שבוע אחׁE/numerusform><numerusform>%n שבועות</numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 ו%2</translation>
+        <translation>%1 ׁE2</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>שנה אחת</numerusform><numerusform>%n שנים</numerusform></translation>
+        <translation><numerusform>שנׁEאחת</numerusform><numerusform>%n שניׁE/numerusform></translation>
     </message>
     <message>
         <source>%1 didn't yet exit safely...</source>
-        <translation>הסגירה של %1 לא הושלמה בהצלחה עדיין…</translation>
+        <translation>הסגירׁEשׁE%1 לׁEהושלמׁEבהצלחׁEעדיין…</translation>
     </message>
 </context>
 <context>
     <name>QObject::QObject</name>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
-        <translation>שגיאה: תיקיית הנתונים שצוינה „%1” אינה קיימת.</translation>
+        <translation>שגיאׁE תיקיית הנתוניׁEשצוינׁE E1 EאינׁEקיימת.</translation>
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1. Only use key=value syntax.</source>
-        <translation>שגיאה: לא ניתן לפענח את התצורה: %1. יש להשתמש אך ורק בתחביר מפתח=ערך.</translation>
+        <translation>שגיאׁE לׁEניתׁEלפענׁEאת התצורׁE %1. יש להשתמש אׁEורק בתחביר מפתׁEערׁE</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>שגיאה: %1</translation>
+        <translation>שגיאׁE %1</translation>
     </message>
 </context>
 <context>
@@ -1359,22 +1359,22 @@
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>העתקת ת&amp;מונה</translation>
+        <translation>העתקת ת&amp;מונׁE/translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>שמירת קוד QR</translation>
+        <translation>שמירת קוׁEQR</translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
-        <translation>תמונת PNG (‏‎*.png)</translation>
+        <translation>תמונת PNG (‏ E.png)</translation>
     </message>
 </context>
 <context>
     <name>RPCConsole</name>
     <message>
         <source>N/A</source>
-        <translation>לא זמין</translation>
+        <translation>לׁEזמיׁE/translation>
     </message>
     <message>
         <source>Client version</source>
@@ -1382,19 +1382,19 @@
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>מי&amp;דע</translation>
+        <translation>מׁEamp;דע</translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>חלון ניפוי</translation>
+        <translation>חלוׁEניפוׁE/translation>
     </message>
     <message>
         <source>General</source>
-        <translation>כללי</translation>
+        <translation>כללׁE/translation>
     </message>
     <message>
         <source>Using BerkeleyDB version</source>
-        <translation>שימוש ב־BerkeleyDB גרסה</translation>
+        <translation>שימוש ב־BerkeleyDB גרסׁE/translation>
     </message>
     <message>
         <source>Datadir</source>
@@ -1402,7 +1402,7 @@
     </message>
     <message>
         <source>Startup time</source>
-        <translation>זמן עלייה</translation>
+        <translation>זמׁEעלייׁE/translation>
     </message>
     <message>
         <source>Network</source>
@@ -1410,67 +1410,67 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation>שׁE/translation>
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>מספר חיבורים</translation>
+        <translation>מספר חיבוריׁE/translation>
     </message>
     <message>
         <source>Block chain</source>
-        <translation>שרשרת מקטעים</translation>
+        <translation>שרשרת מקטעיׁE/translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>מספר המקטעים הנוכחי</translation>
+        <translation>מספר המקטעיׁEהנוכחׁE/translation>
     </message>
     <message>
         <source>Memory Pool</source>
-        <translation>מאגר זכרון</translation>
+        <translation>מאגר זכרוׁE/translation>
     </message>
     <message>
         <source>Current number of transactions</source>
-        <translation>מספר הפעולה הנוכחי</translation>
+        <translation>מספר הפעולׁEהנוכחׁE/translation>
     </message>
     <message>
         <source>Memory usage</source>
-        <translation>שימוש בזכרון</translation>
+        <translation>שימוש בזכרוׁE/translation>
     </message>
     <message>
         <source>Received</source>
-        <translation>התקבלו</translation>
+        <translation>התקבלׁE/translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation>נשלחו</translation>
+        <translation>נשלחׁE/translation>
     </message>
     <message>
         <source>&amp;Peers</source>
-        <translation>&amp;עמיתים</translation>
+        <translation>&amp;עמיתיׁE/translation>
     </message>
     <message>
         <source>Banned peers</source>
-        <translation>משתמשים חסומים</translation>
+        <translation>משתמשיׁEחסומיׁE/translation>
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>נא לבחור בעמית כדי להציג מידע מפורט.</translation>
+        <translation>נׁEלבחור בעמית כדׁEלהציׁEמידע מפורׁE</translation>
     </message>
     <message>
         <source>Whitelisted</source>
-        <translation>ברשימה הלבנה</translation>
+        <translation>ברשימׁEהלבנׁE/translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>כיוון</translation>
+        <translation>כיווׁE/translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>גרסה</translation>
+        <translation>גרסׁE/translation>
     </message>
     <message>
         <source>Starting Block</source>
-        <translation>בלוק התחלה</translation>
+        <translation>בלוק התחלׁE/translation>
     </message>
     <message>
         <source>Synced Headers</source>
@@ -1478,59 +1478,59 @@
     </message>
     <message>
         <source>Synced Blocks</source>
-        <translation>בלוקים מסונכרנים</translation>
+        <translation>בלוקיׁEמסונכרניׁE/translation>
     </message>
     <message>
         <source>User Agent</source>
-        <translation>סוכן משתמש</translation>
+        <translation>סוכׁEמשתמש</translation>
     </message>
     <message>
         <source>Decrease font size</source>
-        <translation>הקטן גודל גופן</translation>
+        <translation>הקטׁEגודׁEגופׁE/translation>
     </message>
     <message>
         <source>Increase font size</source>
-        <translation>הגדל גודל גופן</translation>
+        <translation>הגדׁEגודׁEגופׁE/translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>שירותים</translation>
+        <translation>שירותיׁE/translation>
     </message>
     <message>
         <source>Ban Score</source>
-        <translation>דירוג חסימה</translation>
+        <translation>דירוׁEחסימׁE/translation>
     </message>
     <message>
         <source>Connection Time</source>
-        <translation>זמן החיבור</translation>
+        <translation>זמׁEהחיבור</translation>
     </message>
     <message>
         <source>Last Send</source>
-        <translation>שליחה אחרונה</translation>
+        <translation>שליחׁEאחרונׁE/translation>
     </message>
     <message>
         <source>Last Receive</source>
-        <translation>קבלה אחרונה</translation>
+        <translation>קבלׁEאחרונׁE/translation>
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>זמן המענה</translation>
+        <translation>זמׁEהמענׁE/translation>
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>הפרש זמן</translation>
+        <translation>הפרש זמׁE/translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>זמן המקטע האחרון</translation>
+        <translation>זמׁEהמקטע האחרוׁE/translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;פתיחה</translation>
+        <translation>&amp;פתיחׁE/translation>
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>מ&amp;סוף בקרה</translation>
+        <translation>ׁEamp;סוף בקרׁE/translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
@@ -1538,11 +1538,11 @@
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;ניקוי</translation>
+        <translation>&amp;ניקוׁE/translation>
     </message>
     <message>
         <source>Totals</source>
-        <translation>סכומים</translation>
+        <translation>סכומיׁE/translation>
     </message>
     <message>
         <source>In:</source>
@@ -1550,23 +1550,23 @@
     </message>
     <message>
         <source>Out:</source>
-        <translation>יוצא:</translation>
+        <translation>יוצׁE</translation>
     </message>
     <message>
         <source>Debug log file</source>
-        <translation>קובץ יומן ניפוי</translation>
+        <translation>קובץ יומׁEניפוׁE/translation>
     </message>
     <message>
         <source>Clear console</source>
-        <translation>ניקוי מסוף הבקרה</translation>
+        <translation>ניקוׁEמסוף הבקרׁE/translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1 שעה</translation>
+        <translation>1 שעׁE/translation>
     </message>
     <message>
         <source>1 &amp;day</source>
-        <translation>1&amp; יום</translation>
+        <translation>1&amp; יוׁE/translation>
     </message>
     <message>
         <source>1 &amp;week</source>
@@ -1574,7 +1574,7 @@
     </message>
     <message>
         <source>1 &amp;year</source>
-        <translation>1 &amp; שנה</translation>
+        <translation>1 &amp; שנׁE/translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -1582,27 +1582,27 @@
     </message>
     <message>
         <source>Ban for</source>
-        <translation>חסימה למשך</translation>
+        <translation>חסימׁEלמשׁE/translation>
     </message>
     <message>
         <source>&amp;Unban</source>
-        <translation>&amp;שחרור חסימה</translation>
+        <translation>&amp;שחרור חסימׁE/translation>
     </message>
     <message>
         <source>Welcome to the %1 RPC console.</source>
-        <translation>ברוך בואך למסוף ה־RPC של %1.</translation>
+        <translation>ברוׁEבואׁEלמסוף ה־RPC שׁE%1.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>יש להשתמש בחצים למעלה ולמטה כדי לנווט בהיסטוריה, וב־&lt;b&gt;Ctrl-L&lt;/b&gt; כדי לנקות את המסך.</translation>
+        <translation>יש להשתמש בחציׁEלמעלׁEולמטׁEכדׁEלנווׁEבהיסטוריׁE וב־&lt;b&gt;Ctrl-L&lt;/b&gt; כדׁEלנקות את המסׁE</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>ניתן להקליד &lt;b&gt;help&lt;/b&gt; לקבלת סקירה של הפקודות הזמינות.</translation>
+        <translation>ניתׁEלהקליׁE&lt;b&gt;help&lt;/b&gt; לקבלת סקירׁEשׁEהפקודות הזמינות.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
-        <translation>פעילות הרשת נוטרלה</translation>
+        <translation>פעילות הרשת נוטרלׁE/translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -1610,50 +1610,50 @@
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 ק״ב</translation>
+        <translation>%1 ק״ׁE/translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 מ״ב</translation>
+        <translation>%1 מ״ׁE/translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 ג״ב</translation>
+        <translation>%1 ג״ׁE/translation>
     </message>
     <message>
         <source>via %1</source>
-        <translation>דרך %1</translation>
+        <translation>דרׁE%1</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>לעולם לא</translation>
+        <translation>לעולׁEלׁE/translation>
     </message>
     <message>
         <source>Inbound</source>
-        <translation>תעבורה נכנסת</translation>
+        <translation>תעבורׁEנכנסת</translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>תעבורה יוצאת</translation>
+        <translation>תעבורׁEיוצאת</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>כן</translation>
+        <translation>כׁE/translation>
     </message>
     <message>
         <source>No</source>
-        <translation>לא</translation>
+        <translation>לׁE/translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation>לׁEידוע</translation>
     </message>
 </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>&amp;סכום:</translation>
+        <translation>&amp;סכוׁE</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1661,63 +1661,63 @@
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>הו&amp;דעה:</translation>
+        <translation>הׁEamp;דעׁE</translation>
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>ניתן להשתמש שוב באחת מכתובות הקבלה שכבר נעשה בהן שימוש. לשימוש חוזר בכתובות ישנן השלכות אבטחה ופרטיות. מומלץ שלא להשתמש באפשרות זו למעט יצירה מחדש של בקשת תשלום שנוצרה בעבר.</translation>
+        <translation>ניתׁEלהשתמש שוׁEבאחת מכתובות הקבלׁEשכבר נעשׁEבהׁEשימוש. לשימוש חוזר בכתובות ישנׁEהשלכות אבטחׁEופרטיות. מומלץ שלׁEלהשתמש באפשרות זׁEלמעׁEיצירׁEמחדש שׁEבקשת תשלוׁEשנוצרׁEבעבר.</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>ש&amp;ימוש &amp;חוזר בכתובת קבלה קיימת (לא מומלץ)</translation>
+        <translation>ש&amp;ימוש &amp;חוזר בכתובת קבלׁEקיימת (לׁEמומלץ)</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>הודעת רשות לצירוף לבקשת התשלום שתוצג בעת פתיחת הבקשה. לתשומת לבך: ההודעה לא תישלח עם התשלום ברשת לייטקוין.</translation>
+        <translation>הודעת רשות לצירוף לבקשת התשלוׁEשתוצׁEבעת פתיחת הבקשׁE לתשומת לבׁE ההודעׁEלׁEתישלׁEעׁEהתשלוׁEברשת לייטקויׁE</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>תווית רשות לשיוך עם כתובת הקבלה החדשה.</translation>
+        <translation>תווית רשות לשיוׁEעׁEכתובת הקבלׁEהחדשׁE</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>יש להשתמש בטופס זה כדי לבקש תשלומים. כל השדות הם בגדר &lt;b&gt;רשות&lt;/b&gt;.</translation>
+        <translation>יש להשתמש בטופס זׁEכדׁEלבקש תשלומיׁE כׁEהשדות הׁEבגדר &lt;b&gt;רשות&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>סכום כרשות לבקשה. ניתן להשאיר זאת ריק כדי לא לבקש סכום מסוים.</translation>
+        <translation>סכוׁEכרשות לבקשׁE ניתׁEלהשאיר זאת ריק כדׁEלׁEלבקש סכוׁEמסויׁE</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>ניקוי של כל השדות בטופס.</translation>
+        <translation>ניקוׁEשׁEכׁEהשדות בטופס.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>ניקוי</translation>
+        <translation>ניקוׁE/translation>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>היסטוריית בקשות תשלום</translation>
+        <translation>היסטוריית בקשות תשלוׁE/translation>
     </message>
     <message>
         <source>&amp;Request payment</source>
-        <translation>&amp;בקשת תשלום</translation>
+        <translation>&amp;בקשת תשלוׁE/translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>הצגת בקשות נבחרות (דומה ללחיצה כפולה על רשומה)</translation>
+        <translation>הצגת בקשות נבחרות (דומׁEללחיצׁEכפולׁEעׁEרשומׁE</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>הצגה</translation>
+        <translation>הצגׁE/translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>הסרת הרשומות הנבחרות מהרשימה</translation>
+        <translation>הסרת הרשומות הנבחרות מהרשימׁE/translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסרׁE/translation>
     </message>
     <message>
         <source>Copy URI</source>
@@ -1729,22 +1729,22 @@
     </message>
     <message>
         <source>Copy message</source>
-        <translation>העתקת הודעה</translation>
+        <translation>העתקת הודעׁE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>העתקת הסכום</translation>
+        <translation>העתקת הסכוׁE/translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>QR Code</source>
-        <translation>קוד QR</translation>
+        <translation>קוׁEQR</translation>
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>העתקת &amp;כתובת משאב</translation>
+        <translation>העתקת &amp;כתובת משאׁE/translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
@@ -1756,11 +1756,11 @@
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>בקשת תשלום אל %1</translation>
+        <translation>בקשת תשלוׁEאׁE%1</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>פרטי תשלום</translation>
+        <translation>פרטׁEתשלוׁE/translation>
     </message>
     <message>
         <source>URI</source>
@@ -1772,7 +1772,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>סכום</translation>
+        <translation>סכוׁE/translation>
     </message>
     <message>
         <source>Label</source>
@@ -1780,18 +1780,18 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>הודעה</translation>
+        <translation>הודעׁE/translation>
     </message>
     <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>הכתובת שנוצרה ארוכה מדי, כדאי לנסות לקצר את הטקסט של התווית / הודעה.</translation>
+        <translation>הכתובת שנוצרׁEארוכׁEמדׁE כדאׁEלנסות לקצר את הטקסׁEשׁEהתווית / הודעׁE</translation>
     </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Date</source>
-        <translation>תאריך</translation>
+        <translation>תאריׁE/translation>
     </message>
     <message>
         <source>Label</source>
@@ -1799,19 +1799,19 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>הודעה</translation>
+        <translation>הודעׁE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ללא תוית)</translation>
+        <translation>(ללׁEתוית)</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>(אין הודעה)</translation>
+        <translation>(איׁEהודעׁE</translation>
     </message>
     <message>
         <source>(no amount requested)</source>
-        <translation>(לא התבקש סכום)</translation>
+        <translation>(לׁEהתבקש סכוׁE</translation>
     </message>
     </context>
 <context>
@@ -1830,11 +1830,11 @@
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>בבחירה אוטומטית</translation>
+        <translation>בבחירׁEאוטומטית</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>אין מספיק כספים!</translation>
+        <translation>איׁEמספיק כספיׁE</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -1842,19 +1842,19 @@
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>בתים:</translation>
+        <translation>בתיׁE</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>סכום:</translation>
+        <translation>סכוׁE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>עמלה:</translation>
+        <translation>עמלׁE</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>לאחר עמלה:</translation>
+        <translation>לאחר עמלׁE</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -1862,7 +1862,7 @@
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>אם אפשרות זו מופעלת אך כתובת העודף ריקה או שגויה, העודף יישלח לכתובת חדשה שתיווצר.</translation>
+        <translation>אׁEאפשרות זׁEמופעלת אׁEכתובת העודף ריקׁEאׁEשגויׁE העודף יישלׁEלכתובת חדשׁEשתיווצר.</translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -1870,7 +1870,7 @@
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>עמלת העברה:</translation>
+        <translation>עמלת העברׁE</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1878,11 +1878,11 @@
     </message>
     <message>
         <source>collapse fee-settings</source>
-        <translation>צמצום הגדרות עמלה</translation>
+        <translation>צמצוׁEהגדרות עמלׁE/translation>
     </message>
     <message>
         <source>per kilobyte</source>
-        <translation>עבור קילו-בית</translation>
+        <translation>עבור קילׁEבית</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1890,7 +1890,7 @@
     </message>
     <message>
         <source>total at least</source>
-        <translation>סה''כ לפחות</translation>
+        <translation>סׁE'ׁEלפחות</translation>
     </message>
     <message>
         <source>Recommended:</source>
@@ -1898,11 +1898,11 @@
     </message>
     <message>
         <source>Custom:</source>
-        <translation>מותאם אישית:</translation>
+        <translation>מותאׁEאישית:</translation>
     </message>
     <message>
         <source>normal</source>
-        <translation>רגיל</translation>
+        <translation>רגיׁE/translation>
     </message>
     <message>
         <source>fast</source>
@@ -1910,15 +1910,15 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>שליחה למספר מוטבים בו־זמנית</translation>
+        <translation>שליחׁEלמספר מוטביׁEבו־זמנית</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>הוספת &amp;מוטב</translation>
+        <translation>הוספת &amp;מוטׁE/translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>ניקוי של כל השדות בטופס.</translation>
+        <translation>ניקוׁEשׁEכׁEהשדות בטופס.</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -1926,19 +1926,19 @@
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>&amp;ניקוי הכול</translation>
+        <translation>&amp;ניקוׁEהכוׁE/translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>מאזן:</translation>
+        <translation>מאזׁE</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>אישור פעולת השליחה</translation>
+        <translation>אישור פעולת השליחׁE/translation>
     </message>
     <message>
         <source>S&amp;end</source>
-        <translation>&amp;שליחה</translation>
+        <translation>&amp;שליחׁE/translation>
     </message>
     <message>
         <source>Copy quantity</source>
@@ -1946,19 +1946,19 @@
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>העתקת הסכום</translation>
+        <translation>העתקת הסכוׁE/translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>העתקת העמלה</translation>
+        <translation>העתקת העמלׁE/translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>העתקה אחרי העמלה</translation>
+        <translation>העתקׁEאחרׁEהעמלׁE/translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>העתקת בתים</translation>
+        <translation>העתקת בתיׁE/translation>
     </message>
     <message>
         <source>Copy dust</source>
@@ -1966,23 +1966,23 @@
     </message>
     <message>
         <source>Copy change</source>
-        <translation>העתקת השינוי</translation>
+        <translation>העתקת השינוׁE/translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>לשלוח?</translation>
+        <translation>לשלוׁE</translation>
     </message>
     <message>
         <source>added as transaction fee</source>
-        <translation>נוספה עמלת העברה</translation>
+        <translation>נוספׁEעמלת העברׁE/translation>
     </message>
     <message>
         <source>Total Amount %1</source>
-        <translation>סכום כולל %1</translation>
+        <translation>סכוׁEכולׁE%1</translation>
     </message>
     <message>
         <source>or</source>
-        <translation>או</translation>
+        <translation>אׁE/translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -1990,63 +1990,63 @@
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
-        <translation>כתובת הנמען שגויה. נא לבדוק שוב.</translation>
+        <translation>כתובת הנמעׁEשגויׁE נׁEלבדוק שוׁE</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>הסכום לתשלום צריך להיות גדול מ־0.</translation>
+        <translation>הסכוׁEלתשלוׁEצריׁEלהיות גדוׁEמ־0.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>הסכום חורג מהמאזן שלך.</translation>
+        <translation>הסכוׁEחורׁEמהמאזׁEשלׁE</translation>
     </message>
     <message>
         <source>Duplicate address found: addresses should only be used once each.</source>
-        <translation>נמצאה כתובת כפולה: יש להשתמש בכל כתובת פעם אחת בלבד.</translation>
+        <translation>נמצאׁEכתובת כפולׁE יש להשתמש בכׁEכתובת פעׁEאחת בלבׁE</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
-        <translation>יצירת ההעברה נכשלה!</translation>
+        <translation>יצירת ההעברׁEנכשלׁE</translation>
     </message>
     <message>
         <source>The transaction was rejected with the following reason: %1</source>
-        <translation>ההעברה נדחתה מהסיבות הבאות: %1</translation>
+        <translation>ההעברׁEנדחתׁEמהסיבות הבאות: %1</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an absurdly high fee.</source>
-        <translation>עמלה מעל לסכום של %1 נחשבת לעמלה גבוהה באופן מוגזם.</translation>
+        <translation>עמלׁEמעׁEלסכוׁEשׁE%1 נחשבת לעמלׁEגבוהׁEבאופׁEמוגזׁE</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>בקשת התשלום פגה.</translation>
+        <translation>בקשת התשלוׁEפגׁE</translation>
     </message>
     <message numerus="yes">
         <source>%n block(s)</source>
-        <translation><numerusform>מקטע אחד</numerusform><numerusform>%n מקטעים</numerusform></translation>
+        <translation><numerusform>מקטע אחׁE/numerusform><numerusform>%n מקטעיׁE/numerusform></translation>
     </message>
     <message>
         <source>Pay only the required fee of %1</source>
-        <translation>תשלום של העמלה הנדרשת בלבד על סך %1</translation>
+        <translation>תשלוׁEשׁEהעמלׁEהנדרשת בלבׁEעׁEסׁE%1</translation>
     </message>
     <message>
         <source>Warning: Invalid Litecoin address</source>
-        <translation>אזהרה: כתובת ביטקיון שגויה</translation>
+        <translation>אזהרׁE כתובת ביטקיוׁEשגויׁE/translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
-        <translation>אזהרה: כתובת החלפה בלתי ידועה</translation>
+        <translation>אזהרׁE כתובת החלפׁEבלתׁEידועׁE/translation>
     </message>
     <message>
         <source>Confirm custom change address</source>
-        <translation>אימות כתובת החלפה בהתאמה אישית</translation>
+        <translation>אימות כתובת החלפׁEבהתאמׁEאישית</translation>
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
-        <translation>הכתובת שבחרת עבור ההחלפה אינה חלק מארנק זה. כל ההסכום שבארנק שלך עשוי להישלח לכתובת זו. מקובל עליך?</translation>
+        <translation>הכתובת שבחרת עבור ההחלפׁEאינׁEחלק מארנק זׁE כׁEההסכוׁEשבארנק שלׁEעשוׁEלהישלׁEלכתובת זׁE מקובׁEעליׁE</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ללא תוית)</translation>
+        <translation>(ללׁEתוית)</translation>
     </message>
 </context>
 <context>
@@ -2057,7 +2057,7 @@
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>לשלם ל&amp;טובת:</translation>
+        <translation>לשלׁEׁEamp;טובת:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -2065,15 +2065,15 @@
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>בחירת כתובת שהייתה בשימוש</translation>
+        <translation>בחירת כתובת שהייתׁEבשימוש</translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>זהו תשלום רגיל.</translation>
+        <translation>זהׁEתשלוׁEרגיׁE</translation>
     </message>
     <message>
         <source>The Litecoin address to send the payment to</source>
-        <translation>כתובת לייטקוין של המוטב</translation>
+        <translation>כתובת לייטקויׁEשׁEהמוטׁE/translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2081,7 +2081,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>הדבקת כתובת מלוח הגזירים</translation>
+        <translation>הדבקת כתובת מלוׁEהגזיריׁE/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2089,35 +2089,35 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>הסרת רשומה זו</translation>
+        <translation>הסרת רשומׁEזׁE/translation>
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>העמלה תנוכה מהסכום שנשלח. הנמען יקבל פחות ביטקוינים ממה שהזנת בשדה הסכום. אם נבחרו מספר נמענים, העמלה תחולק באופן שווה.</translation>
+        <translation>העמלׁEתנוכׁEמהסכוׁEשנשלׁE הנמעׁEיקבׁEפחות ביטקויניׁEממׁEשהזנת בשדׁEהסכוׁE אׁEנבחרׁEמספר נמעניׁE העמלׁEתחולק באופׁEשווׁE</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
-        <translation>ה&amp;חסרת העמלה מהסכום</translation>
+        <translation>ׁEamp;חסרת העמלׁEמהסכוׁE/translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>הודעה:</translation>
+        <translation>הודעׁE</translation>
     </message>
     <message>
         <source>This is an authenticated payment request.</source>
-        <translation>זוהי בקשה מאומתת לתשלום.</translation>
+        <translation>זוהׁEבקשׁEמאומתת לתשלוׁE</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>יש להזין תווית עבור כתובת זו כדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
+        <translation>יש להזיׁEתווית עבור כתובת זׁEכדׁEלהוסיף אותׁEלרשימת הכתובות בשימוש</translation>
     </message>
     <message>
         <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>הודעה שצורפה לייטקוין: כתובת שתאוחסן בהעברה לצורך מעקב מצדך. לתשומת לבך: הודעה זו לא תישלח ברשת לייטקוין.</translation>
+        <translation>הודעׁEשצורפׁEלייטקויׁE כתובת שתאוחסׁEבהעברׁEלצורׁEמעקׁEמצדׁE לתשומת לבׁE הודעׁEזׁEלׁEתישלׁEברשת לייטקויׁE</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>תשלום לטובת:</translation>
+        <translation>תשלוׁEלטובת:</translation>
     </message>
     <message>
         <source>Memo:</source>
@@ -2125,40 +2125,40 @@
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>נא להזין תווית לכתובת זו כדי להוסיף אותה לספר הכתובות שלך</translation>
+        <translation>נׁEלהזיׁEתווית לכתובת זׁEכדׁEלהוסיף אותׁEלספר הכתובות שלׁE/translation>
     </message>
 </context>
 <context>
     <name>SendConfirmationDialog</name>
     <message>
         <source>Yes</source>
-        <translation>כן</translation>
+        <translation>כׁE/translation>
     </message>
 </context>
 <context>
     <name>ShutdownWindow</name>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>אין לכבות את המחשב עד שחלון זה נעלם.</translation>
+        <translation>איׁEלכבות את המחשׁEעׁEשחלוׁEזׁEנעלׁE</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>חתימות - חתימה או אימות של הודעה</translation>
+        <translation>חתימות - חתימׁEאׁEאימות שׁEהודעׁE/translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>חתימה על הו&amp;דעה</translation>
+        <translation>חתימׁEעׁEהׁEamp;דעׁE/translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>
-        <translation>כתובת לייטקוין אתה לחתום אתה את ההודעה</translation>
+        <translation>כתובת לייטקויׁEאתׁEלחתוׁEאתׁEאת ההודעׁE/translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>בחירת כתובת שהייתה בשימוש</translation>
+        <translation>בחירת כתובת שהייתׁEבשימוש</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2166,7 +2166,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>הדבקת כתובת מלוח הגזירים</translation>
+        <translation>הדבקת כתובת מלוׁEהגזיריׁE/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2174,103 +2174,103 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>יש להוסיף כאן את ההודעה עליה לחתום</translation>
+        <translation>יש להוסיף כאׁEאת ההודעׁEעליׁEלחתוׁE/translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>חתימה</translation>
+        <translation>חתימׁE/translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>העתקת החתימה הנוכחית ללוח הגזירים</translation>
+        <translation>העתקת החתימׁEהנוכחית ללוׁEהגזיריׁE/translation>
     </message>
     <message>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>ניתן לחתום על ההודעה כדי להוכיח שכתובת לייטקוין הזו בבעלותך.</translation>
+        <translation>ניתׁEלחתוׁEעׁEההודעׁEכדׁEלהוכיׁEשכתובת לייטקויׁEהזׁEבבעלותׁE</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>&amp;חתימה על הודעה</translation>
+        <translation>&amp;חתימׁEעׁEהודעׁE/translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>איפוס כל שדות החתימה על הודעה</translation>
+        <translation>איפוס כׁEשדות החתימׁEעׁEהודעׁE/translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>&amp;ניקוי הכול</translation>
+        <translation>&amp;ניקוׁEהכוׁE/translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;אימות הודעה</translation>
+        <translation>&amp;אימות הודעׁE/translation>
     </message>
     <message>
         <source>The Litecoin address the message was signed with</source>
-        <translation>כתובת לייטקוין שאתה נחתמה ההודעה</translation>
+        <translation>כתובת לייטקויׁEשאתׁEנחתמׁEההודעׁE/translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>ניתן לאמת את ההודעה כדי להבטיח שהיא נחתמה עם כתובת לייטקוין הנתונה</translation>
+        <translation>ניתׁEלאמת את ההודעׁEכדׁEלהבטיׁEשהיׁEנחתמׁEעׁEכתובת לייטקויׁEהנתונׁE/translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>&amp;אימות הודעה</translation>
+        <translation>&amp;אימות הודעׁE/translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>איפוס כל שדות אימות ההודעה</translation>
+        <translation>איפוס כׁEשדות אימות ההודעׁE/translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>יש ללחוץ על „חתימת ההודעה“ כדי לייצר חתימה</translation>
+        <translation>יש ללחוץ עׁE„חתימת ההודעה EכדׁEלייצר חתימׁE/translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>הכתובת שהוזנה שגויה.</translation>
+        <translation>הכתובת שהוזנׁEשגויׁE</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>נא לבדוק את הכתובת ולנסות שוב.</translation>
+        <translation>נׁEלבדוק את הכתובת ולנסות שוׁE</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>הכתובת שהוזנה לא מתייחסת למפתח.</translation>
+        <translation>הכתובת שהוזנׁEלׁEמתייחסת למפתׁE</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>שחרור הארנק בוטל.</translation>
+        <translation>שחרור הארנק בוטׁE</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>המפתח הפרטי לכתובת שהוכנסה אינו זמין.</translation>
+        <translation>המפתׁEהפרטׁEלכתובת שהוכנסׁEאינׁEזמיׁE</translation>
     </message>
     <message>
         <source>Message signing failed.</source>
-        <translation>חתימת ההודעה נכשלה.</translation>
+        <translation>חתימת ההודעׁEנכשלׁE</translation>
     </message>
     <message>
         <source>Message signed.</source>
-        <translation>ההודעה נחתמה.</translation>
+        <translation>ההודעׁEנחתמׁE</translation>
     </message>
     <message>
         <source>The signature could not be decoded.</source>
-        <translation>לא ניתן לפענח את החתימה.</translation>
+        <translation>לׁEניתׁEלפענׁEאת החתימׁE</translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>נא לבדוק את החתימה ולנסות שוב.</translation>
+        <translation>נׁEלבדוק את החתימׁEולנסות שוׁE</translation>
     </message>
     <message>
         <source>The signature did not match the message digest.</source>
-        <translation>החתימה לא תואמת את תקציר ההודעה.</translation>
+        <translation>החתימׁEלׁEתואמת את תקציר ההודעׁE</translation>
     </message>
     <message>
         <source>Message verification failed.</source>
-        <translation>וידוא ההודעה נכשל.</translation>
+        <translation>וידוׁEההודעׁEנכשׁE</translation>
     </message>
     <message>
         <source>Message verified.</source>
-        <translation>ההודעה עברה וידוא.</translation>
+        <translation>ההודעׁEעברׁEוידוׁE</translation>
     </message>
 </context>
 <context>
@@ -2284,18 +2284,18 @@
     <name>TrafficGraphWidget</name>
     <message>
         <source>KB/s</source>
-        <translation>ק״ב/ש׳</translation>
+        <translation>ק״ׁEש׳</translation>
     </message>
 </context>
 <context>
     <name>TransactionDesc</name>
     <message>
         <source>in memory pool</source>
-        <translation>במאגר הזיכרון</translation>
+        <translation>במאגר הזיכרוׁE/translation>
     </message>
     <message>
         <source>not in memory pool</source>
-        <translation>לא במאגר הזיכרון</translation>
+        <translation>לׁEבמאגר הזיכרוׁE/translation>
     </message>
     <message>
         <source>abandoned</source>
@@ -2303,11 +2303,11 @@
     </message>
     <message>
         <source>Status</source>
-        <translation>מצב</translation>
+        <translation>מצׁE/translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>תאריך</translation>
+        <translation>תאריׁE/translation>
     </message>
     <message>
         <source>Source</source>
@@ -2319,11 +2319,11 @@
     </message>
     <message>
         <source>unknown</source>
-        <translation>לא ידוע</translation>
+        <translation>לׁEידוע</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>אל</translation>
+        <translation>אׁE/translation>
     </message>
     <message>
         <source>own address</source>
@@ -2331,7 +2331,7 @@
     </message>
     <message>
         <source>watch-only</source>
-        <translation>צפייה בלבד</translation>
+        <translation>צפייׁEבלבׁE/translation>
     </message>
     <message>
         <source>label</source>
@@ -2339,63 +2339,63 @@
     </message>
     <message>
         <source>Credit</source>
-        <translation>אשראי</translation>
+        <translation>אשראׁE/translation>
     </message>
     <message>
         <source>Debit</source>
-        <translation>חיוב</translation>
+        <translation>חיוׁE/translation>
     </message>
     <message>
         <source>Total debit</source>
-        <translation>חיוב כולל</translation>
+        <translation>חיוׁEכולׁE/translation>
     </message>
     <message>
         <source>Total credit</source>
-        <translation>אשראי כול</translation>
+        <translation>אשראׁEכוׁE/translation>
     </message>
     <message>
         <source>Transaction fee</source>
-        <translation>עמלת העברה</translation>
+        <translation>עמלת העברׁE/translation>
     </message>
     <message>
         <source>Net amount</source>
-        <translation>סכום נטו</translation>
+        <translation>סכוׁEנטׁE/translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>הודעה</translation>
+        <translation>הודעׁE/translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>הערה</translation>
+        <translation>הערׁE/translation>
     </message>
     <message>
         <source>Transaction ID</source>
-        <translation>מזהה העברה</translation>
+        <translation>מזהׁEהעברׁE/translation>
     </message>
     <message>
         <source>Transaction total size</source>
-        <translation>גודל ההעברה הכללי</translation>
+        <translation>גודׁEההעברׁEהכללׁE/translation>
     </message>
     <message>
         <source>Output index</source>
-        <translation>מפתח פלט</translation>
+        <translation>מפתׁEפלׁE/translation>
     </message>
     <message>
         <source>Debug information</source>
-        <translation>פרטי ניפוי שגיאות</translation>
+        <translation>פרטׁEניפוׁEשגיאות</translation>
     </message>
     <message>
         <source>Transaction</source>
-        <translation>העברה</translation>
+        <translation>העברׁE/translation>
     </message>
     <message>
         <source>Inputs</source>
-        <translation>אמצעי קלט</translation>
+        <translation>אמצעׁEקלׁE/translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>סכום</translation>
+        <translation>סכוׁE/translation>
     </message>
     <message>
         <source>true</source>
@@ -2410,22 +2410,22 @@
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>חלונית זו מציגה תיאור מפורט של ההעברה</translation>
+        <translation>חלונית זׁEמציגׁEתיאור מפורׁEשׁEההעברׁE/translation>
     </message>
     <message>
         <source>Details for %1</source>
-        <translation>פרטים עבור %1</translation>
+        <translation>פרטיׁEעבור %1</translation>
     </message>
 </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
         <source>Date</source>
-        <translation>תאריך</translation>
+        <translation>תאריׁE/translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation>סוׁE/translation>
     </message>
     <message>
         <source>Label</source>
@@ -2437,50 +2437,50 @@
     </message>
     <message>
         <source>Received with</source>
-        <translation>התקבל עם</translation>
+        <translation>התקבׁEעׁE/translation>
     </message>
     <message>
         <source>Received from</source>
-        <translation>התקבל מאת</translation>
+        <translation>התקבׁEמאת</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>נשלח אל</translation>
+        <translation>נשלׁEאׁE/translation>
     </message>
     <message>
         <source>Payment to yourself</source>
-        <translation>תשלום לעצמך</translation>
+        <translation>תשלוׁEלעצמׁE/translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>נכרו</translation>
+        <translation>נכרׁE/translation>
     </message>
     <message>
         <source>watch-only</source>
-        <translation>צפייה בלבד</translation>
+        <translation>צפייׁEבלבׁE/translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>(לא זמין)</translation>
+        <translation>(לׁEזמיׁE</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ללא תוית)</translation>
+        <translation>(ללׁEתוית)</translation>
     </message>
     <message>
         <source>Type of transaction.</source>
-        <translation>סוג ההעברה.</translation>
+        <translation>סוׁEההעברׁE</translation>
     </message>
     </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>All</source>
-        <translation>הכול</translation>
+        <translation>הכוׁE/translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>היום</translation>
+        <translation>היוׁE/translation>
     </message>
     <message>
         <source>This week</source>
@@ -2496,7 +2496,7 @@
     </message>
     <message>
         <source>This year</source>
-        <translation>השנה הזאת</translation>
+        <translation>השנׁEהזאת</translation>
     </message>
     <message>
         <source>Range...</source>
@@ -2504,19 +2504,19 @@
     </message>
     <message>
         <source>Received with</source>
-        <translation>התקבל עם</translation>
+        <translation>התקבׁEעׁE/translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>נשלח אל</translation>
+        <translation>נשלׁEאׁE/translation>
     </message>
     <message>
         <source>To yourself</source>
-        <translation>לעצמך</translation>
+        <translation>לעצמׁE/translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>נכרו</translation>
+        <translation>נכרׁE/translation>
     </message>
     <message>
         <source>Other</source>
@@ -2524,15 +2524,15 @@
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>נא להזין כתובת או תווית לחיפוש</translation>
+        <translation>נׁEלהזיׁEכתובת אׁEתווית לחיפוש</translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>סכום מזערי</translation>
+        <translation>סכוׁEמזערׁE/translation>
     </message>
     <message>
         <source>Abandon transaction</source>
-        <translation>נטישת העברה</translation>
+        <translation>נטישת העברׁE/translation>
     </message>
     <message>
         <source>Copy address</source>
@@ -2544,19 +2544,19 @@
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>העתקת הסכום</translation>
+        <translation>העתקת הסכוׁE/translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>העתקת מזהה ההעברה</translation>
+        <translation>העתקת מזהׁEההעברׁE/translation>
     </message>
     <message>
         <source>Copy raw transaction</source>
-        <translation>העתקת העברה גולמית</translation>
+        <translation>העתקת העברׁEגולמית</translation>
     </message>
     <message>
         <source>Copy full transaction details</source>
-        <translation>העתקת פרטי ההעברה המלאים</translation>
+        <translation>העתקת פרטׁEההעברׁEהמלאיׁE/translation>
     </message>
     <message>
         <source>Edit label</source>
@@ -2564,27 +2564,27 @@
     </message>
     <message>
         <source>Show transaction details</source>
-        <translation>הצגת פרטי העברה</translation>
+        <translation>הצגת פרטׁEהעברׁE/translation>
     </message>
     <message>
         <source>Export Transaction History</source>
-        <translation>יצוא היסטוריית העברה</translation>
+        <translation>יצוׁEהיסטוריית העברׁE/translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>קובץ מופרד בפסיקים (‎*.csv)</translation>
+        <translation>קובץ מופרׁEבפסיקיׁE( E.csv)</translation>
     </message>
     <message>
         <source>Watch-only</source>
-        <translation>צפייה בלבד</translation>
+        <translation>צפייׁEבלבׁE/translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>תאריך</translation>
+        <translation>תאריׁE/translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation>סוׁE/translation>
     </message>
     <message>
         <source>Label</source>
@@ -2596,45 +2596,45 @@
     </message>
     <message>
         <source>ID</source>
-        <translation>מזהה</translation>
+        <translation>מזהׁE/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>יצוא נכשל</translation>
+        <translation>יצוׁEנכשׁE/translation>
     </message>
     <message>
         <source>There was an error trying to save the transaction history to %1.</source>
-        <translation>אירעה שגיאה בעת ניסיון שמירת היסטוריית ההעברות אל %1.</translation>
+        <translation>אירעׁEשגיאׁEבעת ניסיוׁEשמירת היסטוריית ההעברות אׁE%1.</translation>
     </message>
     <message>
         <source>Exporting Successful</source>
-        <translation>הייצוא נכשל</translation>
+        <translation>הייצוׁEנכשׁE/translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
-        <translation>היסטוריית ההעברות נשמרה בהצלחה אל %1.</translation>
+        <translation>היסטוריית ההעברות נשמרׁEבהצלחׁEאׁE%1.</translation>
     </message>
     <message>
         <source>Range:</source>
-        <translation>טווח:</translation>
+        <translation>טווׁE</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>עד</translation>
+        <translation>עׁE/translation>
     </message>
 </context>
 <context>
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>יחידת המידה להצגת הסכומים. יש ללחוץ כדי לבחור ביחידת מידה אחרת.</translation>
+        <translation>יחידת המידׁEלהצגת הסכומיׁE יש ללחוץ כדׁEלבחור ביחידת מידׁEאחרת.</translation>
     </message>
 </context>
 <context>
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation>לא נטען ארנק.</translation>
+        <translation>לׁEנטעׁEארנק.</translation>
     </message>
 </context>
 <context>
@@ -2648,35 +2648,35 @@
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;יצוא</translation>
+        <translation>&amp;יצוׁE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>יצוא הנתונים בלשונית הנוכחית לקובץ</translation>
+        <translation>יצוׁEהנתוניׁEבלשונית הנוכחית לקובץ</translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>גיבוי הארנק</translation>
+        <translation>גיבוׁEהארנק</translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation>נתוני ארנק (‎*.dat)</translation>
+        <translation>נתונׁEארנק ( E.dat)</translation>
     </message>
     <message>
         <source>Backup Failed</source>
-        <translation>הגיבוי נכשל</translation>
+        <translation>הגיבוׁEנכשׁE/translation>
     </message>
     <message>
         <source>There was an error trying to save the wallet data to %1.</source>
-        <translation>אירעה שגיאה בעת הניסיון לשמור את נתוני הארנק אל %1.</translation>
+        <translation>אירעׁEשגיאׁEבעת הניסיוׁEלשמור את נתונׁEהארנק אׁE%1.</translation>
     </message>
     <message>
         <source>Backup Successful</source>
-        <translation>הגיבוי הצליח</translation>
+        <translation>הגיבוׁEהצליׁE/translation>
     </message>
     <message>
         <source>The wallet data was successfully saved to %1.</source>
-        <translation>נתוני הארנק נשמרו בהצלחה אל %1.</translation>
+        <translation>נתונׁEהארנק נשמרׁEבהצלחׁEאׁE%1.</translation>
     </message>
 </context>
 <context>
@@ -2687,75 +2687,75 @@
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>ציון תיקיית נתונים</translation>
+        <translation>ציוׁEתיקיית נתוניׁE/translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>יש להתחבר למפרק כדי לדלות כתובות עמיתים ואז להתנתק</translation>
+        <translation>יש להתחבר למפרק כדׁEלדלות כתובות עמיתיׁEואׁEלהתנתק</translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>נא לציין את הכתובת הפומבית שלך</translation>
+        <translation>נׁEלצייׁEאת הכתובת הפומבית שלׁE/translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>קבלת פקודות משורת הפקודה ומ־JSON-RPC</translation>
+        <translation>קבלת פקודות משורת הפקודׁEומ־JSON-RPC</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect/-noconnect)</source>
-        <translation>קבלת חיבורים מבחוץ (בררת מחדל: 1 אם לא במצב ‎-proxy או ‎-connect/-noconnet)</translation>
+        <translation>קבלת חיבוריׁEמבחוץ (בררת מחדׁE 1 אׁEלׁEבמצׁE Eproxy אׁE Econnect/-noconnet)</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occurred, see debug.log for details</source>
-        <translation>שגיאה: סניה קלמה קריטית פנימית קרטה, פנה ל debug.log לפרטים</translation>
+        <translation>שגיאׁE סניׁEקלמׁEקריטית פנימית קרטׁE פנׁEׁEdebug.log לפרטיׁE/translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>ריצה כסוכן ברקע וקבלת פקודות</translation>
+        <translation>ריצׁEכסוכׁEברקע וקבלת פקודות</translation>
     </message>
     <message>
         <source>Litecoin Core</source>
-        <translation>ליבת לייטקוין</translation>
+        <translation>ליבת לייטקויׁE/translation>
     </message>
     <message>
         <source>The %s developers</source>
-        <translation>ה %s מפתחים</translation>
+        <translation>ׁE%s מפתחיׁE/translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>להתאגד לכתובת נתונה להאזין לה תמיד. יש להשתמש בצורה ‎[host]:port עבור IPv6.</translation>
+        <translation>להתאגׁEלכתובת נתונׁEלהאזיׁEלׁEתמיׁE יש להשתמש בצורׁE‎[host]:port עבור IPv6.</translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>מחיקת כל העברות הארנק ולשחזר רק את החלקים המסוימים בשרשרת המקטעים באמצעות ‎-rescan עם ההפעלה</translation>
+        <translation>מחיקת כׁEהעברות הארנק ולשחזר רק את החלקיׁEהמסוימיׁEבשרשרת המקטעיׁEבאמצעות  Erescan עׁEההפעלׁE/translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>ביצוע פקודה כאשר העברה בארנק משתנה (%s ב־cmd יוחלף ב־TxID)</translation>
+        <translation>ביצוע פקודׁEכאשר העברׁEבארנק משתנׁE(%s ב־cmd יוחלף ב־TxID)</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
-        <translation>שימוש ב־UPnP כדי למפות את הפתחה להאזנה (בררת מחדל: 1 בעת האזנה ובלי ‎-proxy)</translation>
+        <translation>שימוש ב־UPnP כדׁEלמפות את הפתחׁEלהאזנׁE(בררת מחדׁE 1 בעת האזנׁEובלׁE Eproxy)</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>אזהרה: נראה כי הרשת אינה מסכימה באופן מלא! חלק מהכורים חווים תקלות.</translation>
+        <translation>אזהרׁE נראׁEכׁEהרשת אינׁEמסכימׁEבאופׁEמלׁE חלק מהכוריׁEחוויׁEתקלות.</translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex-chainstate to change -txindex</source>
-        <translation>עליך לבנות מחדש את מסד הנתונים בעזרת ‎-reindex-chainstate כדי לשנות את ‎-txindex</translation>
+        <translation>עליׁEלבנות מחדש את מסׁEהנתוניׁEבעזרת  Ereindex-chainstate כדׁEלשנות את  Etxindex</translation>
     </message>
     <message>
         <source>-maxmempool must be at least %d MB</source>
-        <translation>‎-maxmempool חייב להיות לפחות %d מ״ב</translation>
+        <translation> Emaxmempool חייׁEלהיות לפחות %d מ״ׁE/translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
-        <translation>&lt;קטגוריה&gt; יכולה להיות:</translation>
+        <translation>&lt;קטגוריׁEgt; יכולׁEלהיות:</translation>
     </message>
     <message>
         <source>Append comment to the user agent string</source>
-        <translation>הוספת הערה למחרוזת סוכן המשתמש</translation>
+        <translation>הוספת הערׁEלמחרוזת סוכׁEהמשתמש</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2767,7 +2767,7 @@
     </message>
     <message>
         <source>Change index out of range</source>
-        <translation>אינדקס העודף מחוץ לתחום</translation>
+        <translation>אינדקס העודף מחוץ לתחוׁE/translation>
     </message>
     <message>
         <source>Connection options:</source>
@@ -2775,51 +2775,51 @@
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>
-        <translation>כל הזכויות שמורות (C) %i-‏%i</translation>
+        <translation>כׁEהזכויות שמורות (C) %i- Ei</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
-        <translation>התגלה מסד נתוני מקטעים לא תקין</translation>
+        <translation>התגלׁEמסׁEנתונׁEמקטעיׁEלׁEתקיׁE/translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
-        <translation>אפשרויות ניפוי/בדיקה:</translation>
+        <translation>אפשרויות ניפוׁEבדיקׁE</translation>
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>לא לטעון את הארנק ולנטרל קריאות RPC</translation>
+        <translation>לׁEלטעוׁEאת הארנק ולנטרׁEקריאות RPC</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>האם לבנות מחדש את מסד נתוני המקטעים?</translation>
+        <translation>האׁEלבנות מחדש את מסׁEנתונׁEהמקטעיׁE</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>שגיאה באתחול מסד נתוני המקטעים</translation>
+        <translation>שגיאׁEבאתחוׁEמסׁEנתונׁEהמקטעיׁE/translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>שגיאה באתחול סביבת מסד נתוני הארנקים %s!</translation>
+        <translation>שגיאׁEבאתחוׁEסביבת מסׁEנתונׁEהארנקיׁE%s!</translation>
     </message>
     <message>
         <source>Error loading %s</source>
-        <translation>שגיאה בטעינת %s</translation>
+        <translation>שגיאׁEבטעינת %s</translation>
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>שגיאה בטעינת מסד נתוני המקטעים</translation>
+        <translation>שגיאׁEבטעינת מסׁEנתונׁEהמקטעיׁE/translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>שגיאה בטעינת מסד נתוני המקטעים</translation>
+        <translation>שגיאׁEבטעינת מסׁEנתונׁEהמקטעיׁE/translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>שגיאה: מעט מקום פנוי בכונן!</translation>
+        <translation>שגיאׁE מעׁEמקוׁEפנוׁEבכונׁE</translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>האזנה נכשלה בכל פורט. השתמש ב- -listen=0 אם ברצונך בכך.</translation>
+        <translation>האזנׁEנכשלׁEבכׁEפורׁE השתמש ׁE -listen=0 אׁEברצונׁEבכׁE</translation>
     </message>
     <message>
         <source>Importing...</source>
@@ -2827,55 +2827,55 @@
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>מקטע הפתיח הוא שגוי או לא נמצא. תיקיית נתונים שגויה עבור הרשת?</translation>
+        <translation>מקטע הפתיׁEהוׁEשגוׁEאׁEלׁEנמצׁE תיקיית נתוניׁEשגויׁEעבור הרשת?</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
-        <translation>כתובת onion- שגויה: '%s'</translation>
+        <translation>כתובת onion- שגויׁE '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -%s=&lt;amount&gt;: '%s'</source>
-        <translation>סכום שגוי עבור ‎-%s=&lt;amount&gt;:‏ '%s'</translation>
+        <translation>סכוׁEשגוׁEעבור  E%s=&lt;amount&gt;: E'%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
-        <translation>סכום שגוי עבור ‎-fallbackfee=&lt;amount&gt;:‏ '%s'</translation>
+        <translation>סכוׁEשגוׁEעבור  Efallbackfee=&lt;amount&gt;: E'%s'</translation>
     </message>
     <message>
         <source>Loading banlist...</source>
-        <translation>טוען רשימת חסומים...</translation>
+        <translation>טועׁEרשימת חסומיׁE..</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>אין מספיק מידע על הקובץ</translation>
+        <translation>איׁEמספיק מידע עׁEהקובץ</translation>
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>תמיד להתחבר למפרקים ברשת &lt;net&gt;‏ (ipv4,‏ ipv6 או onion)</translation>
+        <translation>תמיׁEלהתחבר למפרקיׁEברשת &lt;net&gt; E(ipv4, Eipv6 אׁEonion)</translation>
     </message>
     <message>
         <source>Print this help message and exit</source>
-        <translation>להדפיס הודעת עזרה זו ולצאת</translation>
+        <translation>להדפיס הודעת עזרׁEזׁEולצאת</translation>
     </message>
     <message>
         <source>Print version and exit</source>
-        <translation>הדפס גירסא וצא</translation>
+        <translation>הדפס גירסׁEוצׁE/translation>
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>הגדרת גודל מטמון מסדי הנתונים במגה בתים (%d עד %d, בררת מחדל: %d)</translation>
+        <translation>הגדרת גודׁEמטמוׁEמסדׁEהנתוניׁEבמגׁEבתיׁE(%d עׁE%d, בררת מחדׁE %d)</translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>הגדרת קובץ מקטע מרבי בבתים (בררת מחדל: %d)</translation>
+        <translation>הגדרת קובץ מקטע מרבׁEבבתיׁE(בררת מחדׁE %d)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>ציון קובץ ארנק (בתוך תיקיית הנתונים)</translation>
+        <translation>ציוׁEקובץ ארנק (בתוׁEתיקיית הנתוניׁE</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
-        <translation>המקטעים מאומתים…</translation>
+        <translation>המקטעיׁEמאומתים…</translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
@@ -2883,15 +2883,15 @@
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>הארנק %s יושב מחוץ לתיקיית הנתונים %s</translation>
+        <translation>הארנק %s יושׁEמחוץ לתיקיית הנתוניׁE%s</translation>
     </message>
     <message>
         <source>Wallet debugging/testing options:</source>
-        <translation>אפשרות דיבוג/בדיקת ארנק:</translation>
+        <translation>אפשרות דיבוׁEבדיקת ארנק:</translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart %s to complete</source>
-        <translation>יש לכתוב את הארנק מחדש: יש להפעיל את %s כדי להמשיך</translation>
+        <translation>יש לכתוׁEאת הארנק מחדש: יש להפעיׁEאת %s כדׁEלהמשיׁE/translation>
     </message>
     <message>
         <source>Wallet options:</source>
@@ -2899,19 +2899,19 @@
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>הרץ פקודה כאשר ההתראה הרלוונטית מתקבלת או כשאנחנו עדים לפיצול ארוך מאוד (%s בשורת הפקודה יוחלף ע"י ההודעה)</translation>
+        <translation>הרץ פקודׁEכאשר ההתראׁEהרלוונטית מתקבלת אׁEכשאנחנׁEעדיׁEלפיצוׁEארוׁEמאוׁE(%s בשורת הפקודׁEיוחלף ע"ׁEההודעׁE</translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>
-        <translation>סכום העברה נמוך מדי לשליחה אחרי גביית העמלה</translation>
+        <translation>סכוׁEהעברׁEנמוׁEמדׁEלשליחׁEאחרׁEגביית העמלׁE/translation>
     </message>
     <message>
         <source>(default: %u)</source>
-        <translation>(בררת מחדל: %u)</translation>
+        <translation>(בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>
-        <translation>התחברות דרך מתווך SOCKS5</translation>
+        <translation>התחברות דרׁEמתווׁESOCKS5</translation>
     </message>
     <message>
         <source>Information</source>
@@ -2919,15 +2919,15 @@
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>כמות לא תקינה עבור ‎-paytxfee=&lt;amount&gt;‎:‏ '%s' (חייבת להיות לפחות %s)</translation>
+        <translation>כמות לׁEתקינׁEעבור  Epaytxfee=&lt;amount&gt; E E'%s' (חייבת להיות לפחות %s)</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>מסכת הרשת שצוינה עם ‎-whitelist שגויה: '%s'</translation>
+        <translation>מסכת הרשת שצוינׁEעׁE Ewhitelist שגויׁE '%s'</translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>עליך לציין פתחה עם ‎-whitebind:‏ '%s'</translation>
+        <translation>עליׁEלצייׁEפתחׁEעׁE Ewhitebind: E'%s'</translation>
     </message>
     <message>
         <source>Node relay options:</source>
@@ -2939,67 +2939,67 @@
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>שלח מידע דיבאג ועקבה לקונסולה במקום לקובץ debug.log</translation>
+        <translation>שלׁEמידע דיבאׁEועקבׁEלקונסולׁEבמקוׁEלקובץ debug.log</translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>הצגת כל אפשרויות הניפוי (שימוש: ‎--help -help-debug)</translation>
+        <translation>הצגת כׁEאפשרויות הניפוׁE(שימוש:  E-help -help-debug)</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>כיווץ הקובץ debug.log בהפעלת הלקוח (בררת מחדל: 1 ללא ‎-debug)</translation>
+        <translation>כיווץ הקובץ debug.log בהפעלת הלקוׁE(בררת מחדׁE 1 ללׁE Edebug)</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>החתימה על ההעברה נכשלה</translation>
+        <translation>החתימׁEעׁEההעברׁEנכשלׁE/translation>
     </message>
     <message>
         <source>The transaction amount is too small to pay the fee</source>
-        <translation>סכום ההעברה נמוך מכדי לשלם את העמלה</translation>
+        <translation>סכוׁEההעברׁEנמוׁEמכדׁEלשלׁEאת העמלׁE/translation>
     </message>
     <message>
         <source>This is experimental software.</source>
-        <translation>זוהי תכנית נסיונית.</translation>
+        <translation>זוהׁEתכנית נסיונית.</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>סכום ההעברה קטן מדי</translation>
+        <translation>סכוׁEההעברׁEקטׁEמדׁE/translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
-        <translation>ההעברה גבוהה מדי עבור מדיניות העמלות</translation>
+        <translation>ההעברׁEגבוהׁEמדׁEעבור מדיניות העמלות</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>סכום ההעברה גדול מדי</translation>
+        <translation>סכוׁEההעברׁEגדוׁEמדׁE/translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>לא ניתן להתאגד עם הפתחה %s במחשב זה (פעולת האיגוד החזירה את השגיאה %s)</translation>
+        <translation>לׁEניתׁEלהתאגׁEעׁEהפתחׁE%s במחשׁEזׁE(פעולת האיגוׁEהחזירׁEאת השגיאׁE%s)</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format on startup</source>
-        <translation>עדכן ארק לפורמט העדכני בהפעלה</translation>
+        <translation>עדכׁEארק לפורמׁEהעדכנׁEבהפעלׁE/translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>שם משתמש לחיבורי JSON-RPC</translation>
+        <translation>שׁEמשתמש לחיבורׁEJSON-RPC</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>אזהרה</translation>
+        <translation>אזהרׁE/translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>ססמה לחיבורי JSON-RPC</translation>
+        <translation>ססמׁEלחיבורׁEJSON-RPC</translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>יש לבצע פקודה זו כשהמקטע הטוב ביותר משתנה (%s בפקודה יוחלף בגיבוב המקטע)</translation>
+        <translation>יש לבצע פקודׁEזׁEכשהמקטע הטוׁEביותר משתנׁE(%s בפקודׁEיוחלף בגיבוׁEהמקטע)</translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>הפעלת בדיקת DNS עבור ‎-addnode,‏ ‎-seednode ו־‎-connect</translation>
+        <translation>הפעלת בדיקת DNS עבור  Eaddnode, E Eseednode ו־ Econnect</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
@@ -3007,39 +3007,39 @@
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation>המשתנה ‎-socks נמצא אך אין בו תמיכה עוד. הגדרת גרסת SOCKS אינה אפשרית עוד, קיימת תמיכה רק ב־SOCKS5.</translation>
+        <translation>המשתנׁE Esocks נמצׁEאׁEאיׁEבׁEתמיכׁEעוׁE הגדרת גרסת SOCKS אינׁEאפשרית עוׁE קיימת תמיכׁEרק ב־SOCKS5.</translation>
     </message>
     <message>
         <source>(default: %s)</source>
-        <translation>(ברירת מחדל: %s)</translation>
+        <translation>(ברירת מחדׁE %s)</translation>
     </message>
     <message>
         <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-        <translation>תמיד לתשאל את כתובת העמיתים באמצעות חיפוש DNS (בררת מחדל: %u)</translation>
+        <translation>תמיׁEלתשאׁEאת כתובת העמיתיׁEבאמצעות חיפוש DNS (בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>כמה מקטעים לבדוק עם ההפעלה (בררת מחדל: %u,‏ 0 = הכול)</translation>
+        <translation>כמׁEמקטעיׁEלבדוק עׁEההפעלׁE(בררת מחדׁE %u, E0 = הכוׁE</translation>
     </message>
     <message>
         <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>לכלול את כתובת ה־IP בפלט ניפוי השגיאות (בררת מחדל: %u)</translation>
+        <translation>לכלוׁEאת כתובת ה־IP בפלׁEניפוׁEהשגיאות (בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>כתובת ‎-proxy לא תקינה: '%s'</translation>
+        <translation>כתובת  Eproxy לׁEתקינׁE '%s'</translation>
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>האזנה לחיבורי JSON-RPC דרך &lt;port&gt; (בררת מחדל: %u או ברשת הבדיקה: %u)</translation>
+        <translation>האזנׁEלחיבורׁEJSON-RPC דרׁE&lt;port&gt; (בררת מחדׁE %u אׁEברשת הבדיקׁE %u)</translation>
     </message>
     <message>
         <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>האזנה לחיבורים על גבי &lt;port&gt; (בררת מחדל: %u או לרשת הבדיקה: %u)</translation>
+        <translation>האזנׁEלחיבוריׁEעׁEגבׁE&lt;port&gt; (בררת מחדׁE %u אׁEלרשת הבדיקׁE %u)</translation>
     </message>
     <message>
         <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>לשמור על &lt;n&gt; חיבורים לעמיתים לכל היותר (בררת מחדל: %u)</translation>
+        <translation>לשמור עׁE&lt;n&gt; חיבוריׁEלעמיתיׁEלכׁEהיותר (בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
@@ -3047,63 +3047,63 @@
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>הגדרת גודל מאגר המפתחות לכדי &lt;n&gt; (בררת מחדל: %u)</translation>
+        <translation>הגדרת גודׁEמאגר המפתחות לכדׁE&lt;n&gt; (בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Set maximum BIP141 block weight (default: %d)</source>
-        <translation>הגדרת משקל מרבי למקטע BIP141 (בררת מחדל: %d)</translation>
+        <translation>הגדרת משקׁEמרבׁEלמקטע BIP141 (בררת מחדׁE %d)</translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
-        <translation>הגדרת קובץ תצורה (בררת מחדל: %s)</translation>
+        <translation>הגדרת קובץ תצורׁE(בררת מחדׁE %s)</translation>
     </message>
     <message>
         <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-        <translation>ציון תפוגת זמן ההמתנה לחיבור במילישניות (מינימום: 1, בררת מחדל: %d)</translation>
+        <translation>ציוׁEתפוגת זמׁEההמתנׁEלחיבור במילישניות (מינימוׁE 1, בררת מחדׁE %d)</translation>
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>ציון קובץ pid (בררת מחדל: %s)</translation>
+        <translation>ציוׁEקובץ pid (בררת מחדׁE %s)</translation>
     </message>
     <message>
         <source>Starting network threads...</source>
-        <translation>תהליכי הרשת מופעלים…</translation>
+        <translation>תהליכׁEהרשת מופעלים…</translation>
     </message>
     <message>
         <source>This is the minimum transaction fee you pay on every transaction.</source>
-        <translation>זו עמלת ההעברה המזערית שתיגבה מכל העברה שלך.</translation>
+        <translation>זׁEעמלת ההעברׁEהמזערית שתיגבׁEמכׁEהעברׁEשלׁE</translation>
     </message>
     <message>
         <source>This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>זו עמלת ההעברה שתיגבה ממך במידה של שליחת העברה.</translation>
+        <translation>זׁEעמלת ההעברׁEשתיגבׁEממׁEבמידׁEשׁEשליחת העברׁE</translation>
     </message>
     <message>
         <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>סף לניתוק עמיתים סוררים (בררת מחדל: %u)</translation>
+        <translation>סף לניתוק עמיתיׁEסורריׁE(בררת מחדׁE %u)</translation>
     </message>
     <message>
         <source>Transaction amounts must not be negative</source>
-        <translation>סכומי ההעברה לא יכולים להיות שליליים</translation>
+        <translation>סכומׁEההעברׁEלׁEיכוליׁEלהיות שלילייׁE/translation>
     </message>
     <message>
         <source>Transaction must have at least one recipient</source>
-        <translation>להעברה חייב להיות לפחות נמען אחד</translation>
+        <translation>להעברׁEחייׁEלהיות לפחות נמעׁEאחׁE/translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>רשת לא ידועה צוינה דרך ‎-onlynet:‏ '%s'</translation>
+        <translation>רשת לׁEידועׁEצוינׁEדרׁE Eonlynet: E'%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>אין מספיק כספים</translation>
+        <translation>איׁEמספיק כספיׁE/translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>מפתח המקטעים נטען…</translation>
+        <translation>מפתׁEהמקטעיׁEנטען…</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>הוספת מפרק להתחברות ולנסות לשמור על החיבור פתוח</translation>
+        <translation>הוספת מפרק להתחברות ולנסות לשמור עׁEהחיבור פתוׁE/translation>
     </message>
     <message>
         <source>Loading wallet...</source>
@@ -3111,23 +3111,23 @@
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>לא ניתן להחזיר את גרסת הארנק</translation>
+        <translation>לׁEניתׁEלהחזיר את גרסת הארנק</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>לא ניתן לכתוב את כתובת בררת המחדל</translation>
+        <translation>לׁEניתׁEלכתוׁEאת כתובת בררת המחדׁE/translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>סריקה מחדש…</translation>
+        <translation>סריקׁEמחדש…</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>טעינה הושלמה</translation>
+        <translation>טעינׁEהושלמׁE/translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation>שגיאׁE/translation>
     </message>
 </context>
 </TS>

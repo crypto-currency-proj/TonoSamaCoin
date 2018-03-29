@@ -61,7 +61,7 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Унесите лозинку</translation>
+        <translation>УнесE�те лозинксE/translation>
     </message>
     <message>
         <source>New passphrase</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Поновите нову лозинку</translation>
+        <translation>Поновите новсEлозинксE/translation>
     </message>
     </context>
 <context>
@@ -79,7 +79,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Синхронизација са мрежом у току...</translation>
+        <translation>СинсE�онизасE�ја сE� мрежом сEтоксE..</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -87,15 +87,15 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Погледајте општи преглед новчаника</translation>
+        <translation>Погледајте општи преглед новсE�ника</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Трансакције</translation>
+        <translation>&amp;ТрансE�ксE�је</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Претражите историјат трансакција</translation>
+        <translation>Претражите исE�оријасEтрансE�ксE�ја</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -103,43 +103,43 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Напустите програм</translation>
+        <translation>НапусE�ите програм</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>О &amp;Qt-у</translation>
+        <translation>ЁE&amp;Qt-сE/translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Прегледајте информације о Qt-у</translation>
+        <translation>Прегледајте инсE�рмасE�је о Qt-сE/translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>П&amp;оставке...</translation>
+        <translation>ЁEamp;осE�авке...</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Шифровање новчаника...</translation>
+        <translation>&amp;ШисE�овање новсE�ника...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Backup новчаника</translation>
+        <translation>&amp;Backup новсE�ника</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>Промени &amp;лозинку...</translation>
+        <translation>Промени &amp;лозинксE..</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>Пошаљите новац на litecoin адресу</translation>
+        <translation>Пошаљите новасEна litecoin адресE�E/translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Мењање лозинке којом се шифрује новчаник</translation>
+        <translation>Мењање лозинке којом сE� шисE�ује новсE�ник</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>новчаник</translation>
+        <translation>новсE�ник</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -155,11 +155,11 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>П&amp;омоћ</translation>
+        <translation>ЁEamp;омосE/translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Трака са картицама</translation>
+        <translation>Трака сE� картисE�ма</translation>
     </message>
     <message>
         <source>Error</source>
@@ -171,23 +171,23 @@
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Ажурирање у току...</translation>
+        <translation>Ажурирање сEтоксE..</translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Послана трансакција</translation>
+        <translation>ПосE�ана трансE�ксE�ја</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Придошла трансакција</translation>
+        <translation>Придошла трансE�ксE�ја</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Новчаник јс &lt;b&gt;шифрован&lt;/b&gt; и тренутно &lt;b&gt;откључан&lt;/b&gt;</translation>
+        <translation>НовсE�ник јсE&lt;b&gt;шисE�ован&lt;/b&gt; и тренутно &lt;b&gt;откљусE�н&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Новчаник јс &lt;b&gt;шифрован&lt;/b&gt; и тренутно &lt;b&gt;закључан&lt;/b&gt;</translation>
+        <translation>НовсE�ник јсE&lt;b&gt;шисE�ован&lt;/b&gt; и тренутно &lt;b&gt;закљусE�н&lt;/b&gt;</translation>
     </message>
     </context>
 <context>
@@ -213,7 +213,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Измени адресу</translation>
+        <translation>Измени адресE�E/translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>&amp;Адреса</translation>
+        <translation>&amp;АдресE�</translation>
     </message>
     </context>
 <context>
@@ -259,15 +259,15 @@
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>Поставке</translation>
+        <translation>ПосE�авке</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>новчаник</translation>
+        <translation>новсE�ник</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Јединица за приказивање износа:</translation>
+        <translation>&amp;ЈединисE� за приказивање износE�:</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -344,7 +344,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Слање новца</translation>
+        <translation>Слање новсE�</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Потврди акцију слања</translation>
+        <translation>Потврди аксE�јсEсE�ања</translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+П</translation>
+        <translation>Alt+ЁE/translation>
     </message>
     <message>
         <source>Message:</source>
@@ -400,7 +400,7 @@
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+П</translation>
+        <translation>Alt+ЁE/translation>
     </message>
     </context>
 <context>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Новчаник се учитава...</translation>
+        <translation>НовсE�ник сE� усE�тава...</translation>
     </message>
     <message>
         <source>Rescanning...</source>

@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Creează o adresă nouă</translation>
+        <translation>CreeazāEo adresāEnouāE/translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,11 +15,11 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copiază adresa selectată în clipboard</translation>
+        <translation>CopiazāEadresa selectatāEîn clipboard</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Copiază</translation>
+        <translation>&amp;CopiazāE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
@@ -27,15 +27,15 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Şterge adresele curent selectate din listă</translation>
+        <translation>Şterge adresele curent selectate din listāE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exportă datele din tab-ul curent într-un fişier</translation>
+        <translation>ExportāEdatele din tab-ul curent într-un fişier</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Exportă</translation>
+        <translation>&amp;ExportāE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Copiază adresa</translation>
+        <translation>&amp;CopiazāEadresa</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>Exportă listă de adrese</translation>
+        <translation>ExportāElistāEde adrese</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
@@ -90,11 +90,11 @@
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Etichetă</translation>
+        <translation>EtichetāE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Adresă</translation>
+        <translation>AdresāE/translation>
     </message>
     </context>
 <context>
@@ -109,11 +109,11 @@
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Frază de acces nouă</translation>
+        <translation>FrazāEde acces nouāE/translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Repetaţi noua frază de acces</translation>
+        <translation>Repetaţi noua frazāEde acces</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>Schimbă parola</translation>
+        <translation>SchimbāEparola</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
@@ -148,18 +148,18 @@
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>Banat până la</translation>
+        <translation>Banat pânāEla</translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Semnează &amp;mesaj...</translation>
+        <translation>SemneazāE&amp;mesaj...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Se sincronizează cu reţeaua...</translation>
+        <translation>Se sincronizeazāEcu reţeaua...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Arată o stare generală de ansamblu a portofelului</translation>
+        <translation>AratāEo stare generalāEde ansamblu a portofelului</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Arată informaţii despre Qt</translation>
+        <translation>AratāEinformaţii despre Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -203,15 +203,15 @@
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>Cript&amp;ează portofelul...</translation>
+        <translation>Cript&amp;eazāEportofelul...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>Face o copie de siguranţă a portofelului...</translation>
+        <translation>Face o copie de siguranţāEa portofelului...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>S&amp;chimbă parola...</translation>
+        <translation>S&amp;chimbāEparola...</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
@@ -227,19 +227,19 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Se reindexează blocurile pe disc...</translation>
+        <translation>Se reindexeazāEblocurile pe disc...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>Trimite monede către o adresă Litecoin</translation>
+        <translation>Trimite monede către o adresāELitecoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Creează o copie de rezervă a portofelului într-o locaţie diferită</translation>
+        <translation>CreeazāEo copie de rezervāEa portofelului într-o locaţie diferitāE/translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Schimbă fraza de acces folosită pentru criptarea portofelului</translation>
+        <translation>SchimbāEfraza de acces folositāEpentru criptarea portofelului</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Verifică mesaj...</translation>
+        <translation>&amp;VerificāEmesaj...</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -271,23 +271,23 @@
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>Arată/Ascunde</translation>
+        <translation>AratāEAscunde</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Arată sau ascunde fereastra principală</translation>
+        <translation>AratāEsau ascunde fereastra principalāE/translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Criptează cheile private ale portofelului dvs.</translation>
+        <translation>CripteazāEcheile private ale portofelului dvs.</translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Semnaţi mesaje cu adresa dvs. Litecoin pentru a dovedi că vă aparţin</translation>
+        <translation>Semnaţi mesaje cu adresa dvs. Litecoin pentru a dovedi cāEvāEaparţin</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Litecoin specificată</translation>
+        <translation>Verificaţi mesaje pentru a vāEasigura cāEau fost semnate cu adresa Litecoin specificatāE/translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -307,27 +307,27 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Cereţi plăţi (generează coduri QR şi litecoin-uri: URls)</translation>
+        <translation>Cereţi plăţi (genereazāEcoduri QR şi litecoin-uri: URls)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Arată lista de adrese trimise şi etichetele folosite.</translation>
+        <translation>AratāElista de adrese trimise şi etichetele folosite.</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Arată lista de adrese pentru primire şi etichetele</translation>
+        <translation>AratāElista de adrese pentru primire şi etichetele</translation>
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Deschidere litecoin: o adresa URI sau o cerere de plată</translation>
+        <translation>Deschidere litecoin: o adresa URI sau o cerere de platāE/translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>Opţiuni linie de &amp;comandă</translation>
+        <translation>Opţiuni linie de &amp;comandāE/translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n conexiune activă către reţeaua Litecoin</numerusform><numerusform>%n conexiuni active către reţeaua Litecoin</numerusform><numerusform>%n de conexiuni active către reţeaua Litecoin</numerusform></translation>
+        <translation><numerusform>%n conexiune activāEcătre reţeaua Litecoin</numerusform><numerusform>%n conexiuni active către reţeaua Litecoin</numerusform><numerusform>%n de conexiuni active către reţeaua Litecoin</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>%1 în urmă</translation>
+        <translation>%1 în urmāE/translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
@@ -343,7 +343,7 @@
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Tranzacţiile după aceasta nu vor fi vizibile încă.</translation>
+        <translation>Tranzacţiile dupāEaceasta nu vor fi vizibile încāE</translation>
     </message>
     <message>
         <source>Error</source>
@@ -363,7 +363,7 @@
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Se actualizează...</translation>
+        <translation>Se actualizeazāE..</translation>
     </message>
     <message>
         <source>Date: %1
@@ -374,7 +374,7 @@
     <message>
         <source>Amount: %1
 </source>
-        <translation>Sumă: %1
+        <translation>SumāE %1
 </translation>
     </message>
     <message>
@@ -386,30 +386,30 @@
     <message>
         <source>Label: %1
 </source>
-        <translation>Etichetă: %1
+        <translation>EtichetāE %1
 </translation>
     </message>
     <message>
         <source>Address: %1
 </source>
-        <translation>Adresă: %1
+        <translation>AdresāE %1
 </translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Tranzacţie expediată</translation>
+        <translation>Tranzacţie expediatāE/translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Tranzacţie recepţionată</translation>
+        <translation>Tranzacţie recepţionatāE/translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Portofelul este &lt;b&gt;criptat&lt;/b&gt; iar în momentul de faţă este &lt;b&gt;deblocat&lt;/b&gt;</translation>
+        <translation>Portofelul este &lt;b&gt;criptat&lt;/b&gt; iar în momentul de faţāEeste &lt;b&gt;deblocat&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Portofelul este &lt;b&gt;criptat&lt;/b&gt; iar în momentul de faţă este &lt;b&gt;blocat&lt;/b&gt;</translation>
+        <translation>Portofelul este &lt;b&gt;criptat&lt;/b&gt; iar în momentul de faţāEeste &lt;b&gt;blocat&lt;/b&gt;</translation>
     </message>
     </context>
 <context>
@@ -428,11 +428,11 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Sumă:</translation>
+        <translation>SumāE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Taxă:</translation>
+        <translation>TaxāE</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -440,7 +440,7 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>După taxă:</translation>
+        <translation>DupāEtaxāE</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -456,11 +456,11 @@
     </message>
     <message>
         <source>List mode</source>
-        <translation>Mod listă</translation>
+        <translation>Mod listāE/translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Sumă</translation>
+        <translation>SumāE/translation>
     </message>
     <message>
         <source>Received with label</source>
@@ -487,23 +487,23 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Editează adresa</translation>
+        <translation>EditeazāEadresa</translation>
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>&amp;Etichetă</translation>
+        <translation>&amp;EtichetāE/translation>
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>Eticheta asociată cu această intrare din listă.</translation>
+        <translation>Eticheta asociatāEcu aceastāEintrare din listāE</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Adresa asociată cu această adresă din listă. Aceasta poate fi modificată doar pentru adresele de trimitere.</translation>
+        <translation>Adresa asociatāEcu aceastāEadresāEdin listāE Aceasta poate fi modificatāEdoar pentru adresele de trimitere.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>&amp;Adresă</translation>
+        <translation>&amp;AdresāE/translation>
     </message>
     </context>
 <context>
@@ -518,11 +518,11 @@
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>Dosarul deja există. Adaugă %1 dacă intenţionaţi să creaţi un nou dosar aici.</translation>
+        <translation>Dosarul deja existāE AdaugāE%1 dacāEintenţionaţi sāEcreaţi un nou dosar aici.</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>Calea deja există şi nu este un dosar.</translation>
+        <translation>Calea deja existāEşi nu este un dosar.</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
@@ -545,7 +545,7 @@
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>Opţiuni linie de comandă</translation>
+        <translation>Opţiuni linie de comandāE/translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -553,7 +553,7 @@
     </message>
     <message>
         <source>command-line options</source>
-        <translation>Opţiuni linie de comandă</translation>
+        <translation>Opţiuni linie de comandāE/translation>
     </message>
     <message>
         <source>UI Options:</source>
@@ -565,7 +565,7 @@
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Setează limba, de exemplu: "ro_RO" (implicit: sistem local)</translation>
+        <translation>SeteazāElimba, de exemplu: "ro_RO" (implicit: sistem local)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -573,11 +573,11 @@
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Setare rădăcină certificat SSL pentru cerere de plată (implicit: -sistem- )</translation>
+        <translation>Setare rădăcināEcertificat SSL pentru cerere de platāE(implicit: -sistem- )</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>Afişează ecran splash la pornire (implicit: %u)</translation>
+        <translation>AfişeazāEecran splash la pornire (implicit: %u)</translation>
     </message>
     </context>
 <context>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>Deschideţi cerere de plată prin intermediul adresei URI sau a fişierului</translation>
+        <translation>Deschideţi cerere de platāEprin intermediul adresei URI sau a fişierului</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>Selectaţi fişierul cerere de plată</translation>
+        <translation>Selectaţi fişierul cerere de platāE/translation>
     </message>
     </context>
 <context>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>Acceptă conexiuni din exterior</translation>
+        <translation>AcceptāEconexiuni din exterior</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
@@ -681,11 +681,11 @@
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
-        <translation>Minimizează fereastra în locul părăsirii programului în momentul închiderii ferestrei. Cînd acestă opţiune e activă, aplicaţia se va opri doar în momentul selectării comenzii 'Închide aplicaţia' din menu.</translation>
+        <translation>MinimizeazāEfereastra în locul părăsirii programului în momentul închiderii ferestrei. Cînd acestāEopţiune e activāE aplicaţia se va opri doar în momentul selectării comenzii 'Închide aplicaţia' din menu.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>URL-uri terţe părţi (de exemplu, un explorator de bloc), care apar în tab-ul tranzacţiilor ca elemente de meniu contextual. %s în URL este înlocuit cu hash de tranzacţie. URL-urile multiple sînt separate prin bară verticală |.</translation>
+        <translation>URL-uri terţe părţi (de exemplu, un explorator de bloc), care apar în tab-ul tranzacţiilor ca elemente de meniu contextual. %s în URL este înlocuit cu hash de tranzacţie. URL-urile multiple sînt separate prin barāEverticalāE|.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
@@ -693,15 +693,15 @@
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>Opţiuni linie de comandă active care oprimă opţiunile de mai sus:</translation>
+        <translation>Opţiuni linie de comandāEactive care oprimāEopţiunile de mai sus:</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>Resetează toate setările clientului la valorile implicite.</translation>
+        <translation>ReseteazāEtoate setările clientului la valorile implicite.</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>&amp;Resetează opţiunile</translation>
+        <translation>&amp;ReseteazāEopţiunile</translation>
     </message>
     <message>
         <source>&amp;Network</source>
@@ -709,7 +709,7 @@
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = automat, &lt;0 = lasă atîtea nuclee libere)</translation>
+        <translation>(0 = automat, &lt;0 = lasāEatîtea nuclee libere)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -725,7 +725,7 @@
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Dacă dezactivaţi cheltuirea restului neconfirmat, restul dintr-o tranzacţie nu poate fi folosit pînă cînd tranzacţia are cel puţin o confirmare. Aceasta afectează de asemenea calcularea soldului.</translation>
+        <translation>DacāEdezactivaţi cheltuirea restului neconfirmat, restul dintr-o tranzacţie nu poate fi folosit pînāEcînd tranzacţia are cel puţin o confirmare. Aceasta afecteazāEde asemenea calcularea soldului.</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -733,7 +733,7 @@
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat în router portul aferent clientului Litecoin. Funcţionează doar dacă routerul duportă UPnP şi e activat.</translation>
+        <translation>Deschide automat în router portul aferent clientului Litecoin. FuncţioneazāEdoar dacāErouterul duportāEUPnP şi e activat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -773,11 +773,11 @@
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Fereastră</translation>
+        <translation>&amp;FereastrāE/translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Arată doar un icon în tray la ascunderea ferestrei</translation>
+        <translation>AratāEdoar un icon în tray la ascunderea ferestrei</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
@@ -785,7 +785,7 @@
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimizare fereastră în locul închiderii programului</translation>
+        <translation>M&amp;inimizare fereastrāEîn locul închiderii programului</translation>
     </message>
     <message>
         <source>&amp;Display</source>
@@ -793,19 +793,19 @@
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>&amp;Limbă interfaţă utilizator</translation>
+        <translation>&amp;LimbāEinterfaţāEutilizator</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Unitatea de măsură pentru afişarea sumelor:</translation>
+        <translation>&amp;Unitatea de măsurāEpentru afişarea sumelor:</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Alegeţi subdiviziunea folosită la afişarea interfeţei şi la trimiterea de litecoin.</translation>
+        <translation>Alegeţi subdiviziunea folositāEla afişarea interfeţei şi la trimiterea de litecoin.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Arată controlul caracteristicilor monedei sau nu.</translation>
+        <translation>AratāEcontrolul caracteristicilor monedei sau nu.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>Renunţă</translation>
+        <translation>RenunţāE/translation>
     </message>
     <message>
         <source>default</source>
@@ -825,23 +825,23 @@
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>Confirmă resetarea opţiunilor</translation>
+        <translation>ConfirmāEresetarea opţiunilor</translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Este necesară repornirea clientului pentru a activa schimbările.</translation>
+        <translation>Este necesarāErepornirea clientului pentru a activa schimbările.</translation>
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>Clientul va fi închis. Doriţi să continuaţi?</translation>
+        <translation>Clientul va fi închis. Doriţi sāEcontinuaţi?</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Această schimbare necesită o repornire a clientului.</translation>
+        <translation>AceastāEschimbare necesitāEo repornire a clientului.</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa litecoin pe care aţi specificat-o nu este validă.</translation>
+        <translation>Adresa litecoin pe care aţi specificat-o nu este validāE</translation>
     </message>
 </context>
 <context>
@@ -852,7 +852,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizează automat cu reţeaua Litecoin după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
+        <translation>Informaţiile afişate pot fi neactualizate. Portofelul dvs. se sincronizeazāEautomat cu reţeaua Litecoin dupāEce o conexiune este stabilitāE dar acest proces nu a fost finalizat încāE</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -864,7 +864,7 @@
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>Balanţa dvs. curentă de cheltuieli</translation>
+        <translation>Balanţa dvs. curentāEde cheltuieli</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -872,7 +872,7 @@
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>Totalul tranzacţiilor care nu sunt confirmate încă şi care nu sunt încă adunate la balanţa de cheltuieli</translation>
+        <translation>Totalul tranzacţiilor care nu sunt confirmate încāEşi care nu sunt încāEadunate la balanţa de cheltuieli</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -880,11 +880,11 @@
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>Balanţa minertită care nu s-a maturizat încă</translation>
+        <translation>Balanţa minertitāEcare nu s-a maturizat încāE/translation>
     </message>
     <message>
         <source>Balances</source>
-        <translation>Balanţă</translation>
+        <translation>BalanţāE/translation>
     </message>
     <message>
         <source>Total:</source>
@@ -892,7 +892,7 @@
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Balanţa totală curentă</translation>
+        <translation>Balanţa totalāEcurentāE/translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
@@ -912,7 +912,7 @@
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>Balanţă minată în adresele doar-supraveghere care nu s-a maturizat încă</translation>
+        <translation>BalanţāEminatāEîn adresele doar-supraveghere care nu s-a maturizat încāE/translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
@@ -941,7 +941,7 @@
     </message>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Introduceţi o adresă Litecoin (de exemplu %1)</translation>
+        <translation>Introduceţi o adresāELitecoin (de exemplu %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -983,7 +983,7 @@
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Salvează imaginea...</translation>
+        <translation>&amp;SalveazāEimaginea...</translation>
     </message>
     </context>
 <context>
@@ -1042,7 +1042,7 @@
     </message>
     <message>
         <source>Memory usage</source>
-        <translation>Memorie folosită</translation>
+        <translation>Memorie folositāE/translation>
     </message>
     <message>
         <source>Received</source>
@@ -1118,7 +1118,7 @@
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>&amp;Consolă</translation>
+        <translation>&amp;ConsolāE/translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
@@ -1126,7 +1126,7 @@
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;Curăţă</translation>
+        <translation>&amp;CurăţāE/translation>
     </message>
     <message>
         <source>Totals</source>
@@ -1146,11 +1146,11 @@
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Curăţă consola</translation>
+        <translation>CurăţāEconsola</translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1 &amp;oră</translation>
+        <translation>1 &amp;orāE/translation>
     </message>
     <message>
         <source>1 &amp;day</source>
@@ -1158,7 +1158,7 @@
     </message>
     <message>
         <source>1 &amp;week</source>
-        <translation>1 &amp;săptămână</translation>
+        <translation>1 &amp;săptămânāE/translation>
     </message>
     <message>
         <source>1 &amp;year</source>
@@ -1194,7 +1194,7 @@
     </message>
     <message>
         <source>never</source>
-        <translation>niciodată</translation>
+        <translation>niciodatāE/translation>
     </message>
     <message>
         <source>Inbound</source>
@@ -1225,7 +1225,7 @@
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Etichetă:</translation>
+        <translation>&amp;EtichetāE</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -1233,19 +1233,19 @@
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>Refoloseşte una din adresele de primire folosite anterior. Refolosirea adreselor poate crea probleme de securitate şi confidenţialitate. Nu folosiţi această opţiune decît dacă o cerere de regenerare a plăţii a fost făcută anterior.</translation>
+        <translation>Refoloseşte una din adresele de primire folosite anterior. Refolosirea adreselor poate crea probleme de securitate şi confidenţialitate. Nu folosiţi aceastāEopţiune decît dacāEo cerere de regenerare a plăţii a fost făcutāEanterior.</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>R&amp;efoloseşte o adresă de primire (nu este recomandat)</translation>
+        <translation>R&amp;efoloseşte o adresāEde primire (nu este recomandat)</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Litecoin.</translation>
+        <translation>Un mesaj opţional de ataşat la cererea de platāE care va fi afişat cînd cererea este deschisāE NotāE Acest mesaj nu va fi trimis cu plata către reţeaua Litecoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>O etichetă opţională de asociat cu adresa de primire.</translation>
+        <translation>O etichetāEopţionalāEde asociat cu adresa de primire.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1253,15 +1253,15 @@
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>O sumă opţională de cerut. Lăsaţi gol sau zero pentru a nu cere o sumă anume.</translation>
+        <translation>O sumāEopţionalāEde cerut. Lăsaţi gol sau zero pentru a nu cere o sumāEanume.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Curăţă toate cîmpurile formularului.</translation>
+        <translation>CurăţāEtoate cîmpurile formularului.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Curăţă</translation>
+        <translation>CurăţāE/translation>
     </message>
     <message>
         <source>Requested payments history</source>
@@ -1269,23 +1269,23 @@
     </message>
     <message>
         <source>&amp;Request payment</source>
-        <translation>&amp;Cerere plată</translation>
+        <translation>&amp;Cerere platāE/translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>Arată cererea selectată (acelaşi lucru ca şi dublu-clic pe o înregistrare)</translation>
+        <translation>AratāEcererea selectatāE(acelaşi lucru ca şi dublu-clic pe o înregistrare)</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Arată</translation>
+        <translation>AratāE/translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Înlătură intrările selectate din listă</translation>
+        <translation>ÎnlăturāEintrările selectate din listāE/translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Înlătură</translation>
+        <translation>ÎnlăturāE/translation>
     </message>
     </context>
 <context>
@@ -1296,19 +1296,19 @@
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>Copiază &amp;URl</translation>
+        <translation>CopiazāE&amp;URl</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Copiază &amp;adresa</translation>
+        <translation>CopiazāE&amp;adresa</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Salvează imaginea...</translation>
+        <translation>&amp;SalveazāEimaginea...</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Adresă</translation>
+        <translation>AdresāE/translation>
     </message>
     <message>
         <source>Amount</source>
@@ -1316,14 +1316,14 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Etichetă</translation>
+        <translation>EtichetāE/translation>
     </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Etichetă</translation>
+        <translation>EtichetāE/translation>
     </message>
     </context>
 <context>
@@ -1342,7 +1342,7 @@
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>selecţie automată</translation>
+        <translation>selecţie automatāE/translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
@@ -1358,15 +1358,15 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Sumă:</translation>
+        <translation>SumāE</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Taxă:</translation>
+        <translation>TaxāE</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>După taxă:</translation>
+        <translation>DupāEtaxāE</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -1374,15 +1374,15 @@
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Dacă este activat, dar adresa de rest este goală sau nevalidă, restul va fi trimis la o adresă nou generată.</translation>
+        <translation>DacāEeste activat, dar adresa de rest este goalāEsau nevalidāE restul va fi trimis la o adresāEnou generatāE</translation>
     </message>
     <message>
         <source>Custom change address</source>
-        <translation>Adresă personalizată de rest</translation>
+        <translation>AdresāEpersonalizatāEde rest</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>Taxă tranzacţie:</translation>
+        <translation>TaxāEtranzacţie:</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1422,7 +1422,7 @@
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>Adaugă destinata&amp;r</translation>
+        <translation>AdaugāEdestinata&amp;r</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -1434,15 +1434,15 @@
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Curăţă to&amp;ate</translation>
+        <translation>CurăţāEto&amp;ate</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>Balanţă:</translation>
+        <translation>BalanţāE</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Confirmă operaţiunea de trimitere</translation>
+        <translation>ConfirmāEoperaţiunea de trimitere</translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -1453,15 +1453,15 @@
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>Su&amp;mă:</translation>
+        <translation>Su&amp;māE</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>Plăteşte că&amp;tre:</translation>
+        <translation>Plăteşte cāEamp;tre:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Etichetă:</translation>
+        <translation>&amp;EtichetāE</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1469,7 +1469,7 @@
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>Aceasta este o tranzacţie normală.</translation>
+        <translation>Aceasta este o tranzacţie normalāE</translation>
     </message>
     <message>
         <source>The Litecoin address to send the payment to</source>
@@ -1489,7 +1489,7 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>Înlătură această intrare</translation>
+        <translation>ÎnlăturāEaceastāEintrare</translation>
     </message>
     <message>
         <source>Message:</source>
@@ -1497,11 +1497,11 @@
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Introduceţi eticheta pentru ca această adresa să fie introdusă în lista de adrese folosite</translation>
+        <translation>Introduceţi eticheta pentru ca aceastāEadresa sāEfie introdusāEîn lista de adrese folosite</translation>
     </message>
     <message>
         <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>un mesaj a fost ataşat la litecoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua litecoin.</translation>
+        <translation>un mesaj a fost ataşat la litecoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. NotāE Acest mesaj nu va fi trimis către reţeaua litecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1523,18 +1523,18 @@
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>Nu închide calculatorul pînă ce această fereastră nu dispare.</translation>
+        <translation>Nu închide calculatorul pînāEce aceastāEfereastrāEnu dispare.</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Semnaturi - Semnează/verifică un mesaj</translation>
+        <translation>Semnaturi - SemneazāEverificāEun mesaj</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Semnează mesaj</translation>
+        <translation>&amp;SemneazāEmesaj</translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>
@@ -1550,7 +1550,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Lipeşte adresa copiată din clipboard</translation>
+        <translation>Lipeşte adresa copiatāEdin clipboard</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -1558,51 +1558,51 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Introduceţi mesajul pe care vreţi să-l semnaţi, aici</translation>
+        <translation>Introduceţi mesajul pe care vreţi sāEl semnaţi, aici</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Semnătură</translation>
+        <translation>SemnăturāE/translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copiază semnatura curentă în clipboard-ul sistemului</translation>
+        <translation>CopiazāEsemnatura curentāEîn clipboard-ul sistemului</translation>
     </message>
     <message>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Litecoin</translation>
+        <translation>SemneazāEmesajul pentru a dovedi ca deţineţi acestāEadresāELitecoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>Semnează &amp;mesaj</translation>
+        <translation>SemneazāE&amp;mesaj</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Resetează toate cîmpurile mesajelor semnate</translation>
+        <translation>ReseteazāEtoate cîmpurile mesajelor semnate</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Curăţă to&amp;ate</translation>
+        <translation>CurăţāEto&amp;ate</translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verifică mesaj</translation>
+        <translation>&amp;VerificāEmesaj</translation>
     </message>
     <message>
         <source>The Litecoin address the message was signed with</source>
-        <translation>Introduceţi o adresă Litecoin</translation>
+        <translation>Introduceţi o adresāELitecoin</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Litecoin specificată</translation>
+        <translation>Verificaţi mesajul pentru a vāEasigura cāEa fost semnat cu adresa Litecoin specificatāE/translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>Verifică &amp;mesaj</translation>
+        <translation>VerificāE&amp;mesaj</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Resetează toate cîmpurile mesajelor semnate</translation>
+        <translation>ReseteazāEtoate cîmpurile mesajelor semnate</translation>
     </message>
     </context>
 <context>
@@ -1630,14 +1630,14 @@
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Acest panou arată o descriere detaliată a tranzacţiei</translation>
+        <translation>Acest panou aratāEo descriere detaliatāEa tranzacţiei</translation>
     </message>
     </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Etichetă</translation>
+        <translation>EtichetāE/translation>
     </message>
     </context>
 <context>
@@ -1648,11 +1648,11 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Etichetă</translation>
+        <translation>EtichetāE/translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Adresă</translation>
+        <translation>AdresāE/translation>
     </message>
     <message>
         <source>Exporting Failed</source>
@@ -1663,7 +1663,7 @@
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>Unitatea în care sînt arătate sumele. Faceţi clic pentru a selecta o altă unitate.</translation>
+        <translation>Unitatea în care sînt arătate sumele. Faceţi clic pentru a selecta o altāEunitate.</translation>
     </message>
 </context>
 <context>
@@ -1687,19 +1687,19 @@
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Se conectează la un nod pentru a obţine adresele partenerilor, şi apoi se deconectează</translation>
+        <translation>Se conecteazāEla un nod pentru a obţine adresele partenerilor, şi apoi se deconecteazāE/translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>Specificaţi adresa dvs. publică</translation>
+        <translation>Specificaţi adresa dvs. publicāE/translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Acceptă comenzi din linia de comandă şi comenzi JSON-RPC</translation>
+        <translation>AcceptāEcomenzi din linia de comandāEşi comenzi JSON-RPC</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Rulează în fundal ca un demon şi acceptă comenzi</translation>
+        <translation>RuleazāEîn fundal ca un demon şi acceptāEcomenzi</translation>
     </message>
     <message>
         <source>Litecoin Core</source>
@@ -1711,11 +1711,11 @@
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Execută comanda cînd o tranzacţie a portofelului se schimbă (%s în cmd este înlocuit de TxID)</translation>
+        <translation>ExecutāEcomanda cînd o tranzacţie a portofelului se schimbāE(%s în cmd este înlocuit de TxID)</translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>Setează numărul de thread-uri de verificare a script-urilor (%u la %d, 0 = auto, &lt;0 = lasă atîtea nuclee libere, implicit: %d)</translation>
+        <translation>SeteazāEnumărul de thread-uri de verificare a script-urilor (%u la %d, 0 = auto, &lt;0 = lasāEatîtea nuclee libere, implicit: %d)</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
@@ -1739,11 +1739,11 @@
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Nu încarcă portofelul şi dezactivează solicitările portofel RPC</translation>
+        <translation>Nu încarcāEportofelul şi dezactiveazāEsolicitările portofel RPC</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Doriţi să reconstruiţi baza de date blocuri acum?</translation>
+        <translation>Doriţi sāEreconstruiţi baza de date blocuri acum?</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
@@ -1751,7 +1751,7 @@
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Eroare la iniţializarea mediului de bază de date a portofelului %s!</translation>
+        <translation>Eroare la iniţializarea mediului de bazāEde date a portofelului %s!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
@@ -1767,7 +1767,7 @@
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Nu s-a reuşit ascultarea pe orice port. Folosiţi -listen=0 dacă vreţi asta.</translation>
+        <translation>Nu s-a reuşit ascultarea pe orice port. Folosiţi -listen=0 dacāEvreţi asta.</translation>
     </message>
     <message>
         <source>Importing...</source>
@@ -1779,7 +1779,7 @@
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
-        <translation>Adresa -onion nevalidă: '%s'</translation>
+        <translation>Adresa -onion nevalidāE '%s'</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
@@ -1787,19 +1787,19 @@
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>Se conectează doar la noduri în reţeaua &lt;net&gt; (ipv4, ipv6 sau onion)</translation>
+        <translation>Se conecteazāEdoar la noduri în reţeaua &lt;net&gt; (ipv4, ipv6 sau onion)</translation>
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>Setează mărimea bazei de date cache în megaocteţi (%d la %d, implicit: %d)</translation>
+        <translation>SeteazāEmărimea bazei de date cache în megaocteţi (%d la %d, implicit: %d)</translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>Setaţi dimensiunea maximă a unui bloc în bytes (implicit: %d)</translation>
+        <translation>Setaţi dimensiunea maximāEa unui bloc în bytes (implicit: %d)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Specifică fişierul portofel (în dosarul de date)</translation>
+        <translation>SpecificāEfişierul portofel (în dosarul de date)</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
@@ -1807,15 +1807,15 @@
     </message>
     <message>
         <source>Verifying blocks...</source>
-        <translation>Se verifică blocurile...</translation>
+        <translation>Se verificāEblocurile...</translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>Se verifică portofelul...</translation>
+        <translation>Se verificāEportofelul...</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>Portofelul %s se află în afara dosarului de date %s</translation>
+        <translation>Portofelul %s se aflāEîn afara dosarului de date %s</translation>
     </message>
     <message>
         <source>Wallet options:</source>
@@ -1823,15 +1823,15 @@
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-        <translation>Permite conexiunile JSON-RPC din sursa specificată. Valid pentru &lt;ip&gt; sînt IP singulare (ex. 1.2.3.4), o reţea/mască-reţea (ex. 1.2.3.4/255.255.255.0) sau o reţea/CIDR (ex. 1.2.3.4/24). Această opţiune poate fi specificată de mai multe ori</translation>
+        <translation>Permite conexiunile JSON-RPC din sursa specificatāE Valid pentru &lt;ip&gt; sînt IP singulare (ex. 1.2.3.4), o reţea/mascāEreţea (ex. 1.2.3.4/255.255.255.0) sau o reţea/CIDR (ex. 1.2.3.4/24). AceastāEopţiune poate fi specificatāEde mai multe ori</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Execută comanda cînd o alertă relevantă este primită sau vedem o bifurcaţie foarte lungă (%s în cmd este înlocuit de mesaj)</translation>
+        <translation>ExecutāEcomanda cînd o alertāErelevantāEeste primitāEsau vedem o bifurcaţie foarte lungāE(%s în cmd este înlocuit de mesaj)</translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>Setează mărimea pentru tranzacţiile prioritare/taxe mici în octeţi (implicit: %d)</translation>
+        <translation>SeteazāEmărimea pentru tranzacţiile prioritare/taxe mici în octeţi (implicit: %d)</translation>
     </message>
     <message>
         <source>(default: %u)</source>
@@ -1839,11 +1839,11 @@
     </message>
     <message>
         <source>Accept public REST requests (default: %u)</source>
-        <translation>Acceptă cererile publice REST (implicit: %u)</translation>
+        <translation>AcceptāEcererile publice REST (implicit: %u)</translation>
     </message>
     <message>
         <source>Automatically create Tor hidden service (default: %d)</source>
-        <translation>Crează automat un serviciu Tor ascuns (implicit: %d)</translation>
+        <translation>CreazāEautomat un serviciu Tor ascuns (implicit: %d)</translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>
@@ -1859,15 +1859,15 @@
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>Sumă nevalidă pentru -paytxfee=&lt;suma&gt;: '%s' (trebuie să fie cel puţin %s)</translation>
+        <translation>SumāEnevalidāEpentru -paytxfee=&lt;suma&gt;: '%s' (trebuie sāEfie cel puţin %s)</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>Mască reţea nevalidă specificată în -whitelist: '%s'</translation>
+        <translation>MascāEreţea nevalidāEspecificatāEîn -whitelist: '%s'</translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>Trebuie să specificaţi un port cu -whitebind: '%s'</translation>
+        <translation>Trebuie sāEspecificaţi un port cu -whitebind: '%s'</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -1875,19 +1875,19 @@
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Trimite informaţiile trace/debug la consolă în locul fişierului debug.log</translation>
+        <translation>Trimite informaţiile trace/debug la consolāEîn locul fişierului debug.log</translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>Trimitere tranzacţii ca tranzacţii taxă-zero dacă este posibil (implicit: %u)</translation>
+        <translation>Trimitere tranzacţii ca tranzacţii taxāEzero dacāEeste posibil (implicit: %u)</translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Arată toate opţiunile de depanare (uz: --help -help-debug)</translation>
+        <translation>AratāEtoate opţiunile de depanare (uz: --help -help-debug)</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Micşorează fişierul debug.log la pornirea clientului (implicit: 1 cînd nu se foloseşte -debug)</translation>
+        <translation>MicşoreazāEfişierul debug.log la pornirea clientului (implicit: 1 cînd nu se foloseşte -debug)</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
@@ -1899,11 +1899,11 @@
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>Suma tranzacţionată este prea mică</translation>
+        <translation>Suma tranzacţionatāEeste prea micāE/translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
-        <translation>Tranzacţie prea mare pentru politică gratis</translation>
+        <translation>Tranzacţie prea mare pentru politicāEgratis</translation>
     </message>
     <message>
         <source>Transaction too large</source>
@@ -1931,7 +1931,7 @@
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Execută comanda cînd cel mai bun bloc se modifică (%s în cmd este înlocuit cu hash-ul blocului)</translation>
+        <translation>ExecutāEcomanda cînd cel mai bun bloc se modificāE(%s în cmd este înlocuit cu hash-ul blocului)</translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
@@ -1943,7 +1943,7 @@
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>Produce toate informaţiile de depanare (implicit: %u &lt;category&gt; furnizată este opţională)</translation>
+        <translation>Produce toate informaţiile de depanare (implicit: %u &lt;category&gt; furnizatāEeste opţionalāE</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -1951,11 +1951,11 @@
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>Cîte blocuri verifică la pornire (implicit: %u, 0 = toate)</translation>
+        <translation>Cîte blocuri verificāEla pornire (implicit: %u, 0 = toate)</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>Adresa -proxy nevalidă: '%s'</translation>
+        <translation>Adresa -proxy nevalidāE '%s'</translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
@@ -1963,11 +1963,11 @@
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>Specifică fişierul pid (implicit: %s)</translation>
+        <translation>SpecificāEfişierul pid (implicit: %s)</translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Reţeaua specificată în -onlynet este necunoscută: '%s'</translation>
+        <translation>Reţeaua specificatāEîn -onlynet este necunoscutāE '%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -1979,7 +1979,7 @@
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Adaugă un nod la care te poţi conecta pentru a menţine conexiunea deschisă</translation>
+        <translation>AdaugāEun nod la care te poţi conecta pentru a menţine conexiunea deschisāE/translation>
     </message>
     <message>
         <source>Loading wallet...</source>
@@ -1991,7 +1991,7 @@
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Nu se poate scrie adresa implicită</translation>
+        <translation>Nu se poate scrie adresa implicitāE/translation>
     </message>
     <message>
         <source>Rescanning...</source>
@@ -1999,7 +1999,7 @@
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Încărcare terminată</translation>
+        <translation>Încărcare terminatāE/translation>
     </message>
     <message>
         <source>Error</source>

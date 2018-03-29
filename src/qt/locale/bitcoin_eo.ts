@@ -259,7 +259,7 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Montri aŭ kaŝi la ĉefan fenestron</translation>
+        <translation>Montri aúEkaŝi la ĉefan fenestron</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
@@ -315,11 +315,11 @@
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>Lasta ricevita bloko kreiĝis antaŭ %1.</translation>
+        <translation>Lasta ricevita bloko kreiĝis antaúE%1.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Transakcioj por tio ankoraŭ ne videblas.</translation>
+        <translation>Transakcioj por tio ankoraúEne videblas.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -536,7 +536,7 @@
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>Uzi la defaŭltan dosierujon por datumoj</translation>
+        <translation>Uzi la defaúEtan dosierujon por datumoj</translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
@@ -589,7 +589,7 @@
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>Ĉ&amp;efa</translation>
+        <translation>ĆEamp;efa</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -609,7 +609,7 @@
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>Reagordi ĉion al defaŭlataj valoroj.</translation>
+        <translation>Reagordi ĉion al defaúEataj valoroj.</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
@@ -629,7 +629,7 @@
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi la kursilan pordon por Litecoino. Tio funkcias nur se via kursilo havas la UPnP-funkcion, kaj se tiu ĉi estas ŝaltita.</translation>
+        <translation>AúEomate malfermi la kursilan pordon por Litecoino. Tio funkcias nur se via kursilo havas la UPnP-funkcion, kaj se tiu ĉi estas ŝaltita.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -665,7 +665,7 @@
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimumigi al la sistempleto anstataŭ al la taskopleto</translation>
+        <translation>&amp;Minimumigi al la sistempleto anstataúEal la taskopleto</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
@@ -685,11 +685,11 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Elekti la defaŭltan manieron por montri litecoinjn sumojn en la interfaco, kaj kiam vi sendos bitmonon.</translation>
+        <translation>Elekti la defaúEtan manieron por montri litecoinjn sumojn en la interfaco, kaj kiam vi sendos bitmonon.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Ĉu montri detalan adres-regilon, aŭ ne.</translation>
+        <translation>āE montri detalan adres-regilon, aŭ ne.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -701,7 +701,7 @@
     </message>
     <message>
         <source>default</source>
-        <translation>defaŭlta</translation>
+        <translation>defaúEta</translation>
     </message>
     <message>
         <source>none</source>
@@ -724,7 +724,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Eblas, ke la informoj videblaj ĉi tie estas eksdataj. Via monujo aŭtomate sinkoniĝas kun la litecoin reto kiam ili konektiĝas, sed tiu procezo ankoraŭ ne finfariĝis.</translation>
+        <translation>Eblas, ke la informoj videblaj ĉi tie estas eksdataj. Via monujo aúEomate sinkoniĝas kun la litecoin reto kiam ili konektiĝas, sed tiu procezo ankoraúEne finfariĝis.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -732,7 +732,7 @@
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>la sumo de transakcioj ankoraŭ ne konfirmitaj, kiuj ankoraŭ ne elspezeblas</translation>
+        <translation>la sumo de transakcioj ankoraúEne konfirmitaj, kiuj ankoraúEne elspezeblas</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -740,7 +740,7 @@
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>Minita saldo, kiu ankoraŭ ne maturiĝis</translation>
+        <translation>Minita saldo, kiu ankoraúEne maturiĝis</translation>
     </message>
     <message>
         <source>Balances</source>
@@ -1343,11 +1343,11 @@
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Bindi al donita adreso kaj ĉiam aŭskulti per ĝi. Uzu la formaton [gastigo]:pordo por IPv6</translation>
+        <translation>Bindi al donita adreso kaj ĉiam aúEkulti per ĝi. Uzu la formaton [gastigo]:pordo por IPv6</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Plenumi komandon kiam monuja transakcio ŝanĝiĝas (%s en cmd anstataŭiĝas per TxID)</translation>
+        <translation>Plenumi komandon kiam monuja transakcio ŝanĝiĝas (%s en cmd anstataúEĝas per TxID)</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
@@ -1371,7 +1371,7 @@
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Eraro dum pravalorizado de monuj-datumbaza ĉirkaŭaĵo %s!</translation>
+        <translation>Eraro dum pravalorizado de monuj-datumbaza ĉirkaúEĵo %s!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
@@ -1387,11 +1387,11 @@
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Ne sukcesis aŭskulti ajnan pordon. Uzu -listen=0 se tion vi volas.</translation>
+        <translation>Ne sukcesis aúEkulti ajnan pordon. Uzu -listen=0 se tion vi volas.</translation>
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Geneza bloko aŭ netrovita aŭ neĝusta. Ĉu eble la datadir de la reto malĝustas?</translation>
+        <translation>Geneza bloko aúEnetrovita aúEneĝusta. Ĉu eble la datadir de la reto malĝustas?</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
@@ -1431,11 +1431,11 @@
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Sendi spurajn/sencimigajn informojn al la konzolo anstataŭ al dosiero debug.log</translation>
+        <translation>Sendi spurajn/sencimigajn informojn al la konzolo anstataúEal dosiero debug.log</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Malpligrandigi la sencimigan protokol-dosieron kiam kliento lanĉiĝas (defaŭlte: 1 kiam mankas -debug)</translation>
+        <translation>Malpligrandigi la sencimigan protokol-dosieron kiam kliento lanĉiĝas (defaúEte: 1 kiam mankas -debug)</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
@@ -1467,7 +1467,7 @@
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Plenumi komandon kiam plej bona bloko ŝanĝiĝas (%s en cmd anstataŭiĝas per bloka haketaĵo)</translation>
+        <translation>Plenumi komandon kiam plej bona bloko ŝanĝiĝas (%s en cmd anstataúEĝas per bloka haketaĵo)</translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
@@ -1495,7 +1495,7 @@
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Aldoni nodon por alkonekti kaj provi daŭrigi la malferman konekton</translation>
+        <translation>Aldoni nodon por alkonekti kaj provi daúEigi la malferman konekton</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
@@ -1507,7 +1507,7 @@
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Ne eblas skribi defaŭltan adreson</translation>
+        <translation>Ne eblas skribi defaúEtan adreson</translation>
     </message>
     <message>
         <source>Rescanning...</source>

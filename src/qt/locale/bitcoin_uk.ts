@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Клікніть правою кнопкою для редагування адреси або мітки</translation>
+        <translation>КлікнітсEправосEкнопкосEдлсEредагуваннсEадресE� або мітки</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Створити нову адресу</translation>
+        <translation>Створити новсEадресE�E/translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Копіювати виділену адресу в буфер обміну</translation>
+        <translation>Копіювати виділенсEадресE�Eв бусE�р обмінсE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -23,19 +23,19 @@
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>З&amp;акрити</translation>
+        <translation>ЁEamp;акрити</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Вилучити вибрані адреси з переліку</translation>
+        <translation>ВилусE�ти вибрансEадресE� з переліксE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Експортувати дані з поточної вкладки в файл</translation>
+        <translation>ЕксE�ортувати дансEз потосE�осEвкладки в сE�йл</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Експорт...</translation>
+        <translation>&amp;ЕксE�орсE..</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -43,39 +43,39 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Оберіть адресу для відправки монет</translation>
+        <translation>ОберітсEадресE�EдлсEвідправки монесE/translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Оберіть адресу для отримання монет</translation>
+        <translation>ОберітсEадресE�EдлсEотриманнсEмонесE/translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>О&amp;брати</translation>
+        <translation>ЁEamp;брати</translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Адреса відправлення</translation>
+        <translation>АдресE� відправленнсE/translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Адреса отримання</translation>
+        <translation>АдресE� отриманнсE/translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші адреси Litecoin для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
+        <translation>Це вашсEадресE� Litecoin длсEнадсE�ланнсEплатежів. Завжди перевіряйте сE�мсEта адресE�EодержувасE� перед відправленням монесE</translation>
     </message>
     <message>
         <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваші адреси Litecoin для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
+        <translation>Це вашсEадресE� Litecoin длсEотриманнсEплатежів. ДлсEкожносEтранзаксE�сEрекомендуєтьсE�EвикорисE�овувати новсEадресE�EодержувасE�.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Скопіювати адресу</translation>
+        <translation>&amp;Скопіювати адресE�E/translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Зкопіювати&amp;Створити мітку</translation>
+        <translation>Зкопіювати&amp;Створити мітксE/translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -83,19 +83,19 @@
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>Експотувати список адрес</translation>
+        <translation>ЕксE�отувати сE�исE�к адресE/translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>Файли (*.csv) розділеі комами</translation>
+        <translation>Файли (*.csv) розділесEкомами</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Експортування пройшло не успішно</translation>
+        <translation>ЕксE�ортуваннсEпройшло не усE�ішно</translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>Виникла помилка при спрбі збереження списку адрес %1. Будь-ласка, спробувати пізніше. </translation>
+        <translation>Виникла помилка при сE�рбсEзбереженнсEсE�исE�сEадресE%1. БудсEласE�а, сE�робувати пізніше. </translation>
     </message>
 </context>
 <context>
@@ -106,114 +106,114 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>Адреса</translation>
+        <translation>АдресE�</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(немає мітки)</translation>
+        <translation>(немасEмітки)</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>Діалог введення паролю</translation>
+        <translation>Діалог введеннсEпаролсE/translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>Введіть пароль</translation>
+        <translation>ВведітсEпаролсE/translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Новий пароль</translation>
+        <translation>Новий паролсE/translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Повторіть пароль</translation>
+        <translation>ПовторітсEпаролсE/translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Введіть нову кодову фразу для гаманця.&lt;br/&gt;Будь ласка, використовуйте кодові фрази що містять &lt;b&gt; щонайменше десять випадкових символів &lt;/b&gt; або &lt;b&gt; щонайменше вісім слів &lt;/b&gt;.</translation>
+        <translation>ВведітсEновсEкодовсEсE�азсEдлсEгамансE�E&lt;br/&gt;БудсEласE�а, викорисE�овуйте кодовсEсE�ази що місE�ятсE&lt;b&gt; щонайменше десE�тсEвипадковисEсE�мволів &lt;/b&gt; або &lt;b&gt; щонайменше вісE�м сE�ів &lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Зашифрувати гаманець</translation>
+        <translation>ЗашисE�увати гаманесE�E/translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Ця операція потребує пароль для розблокування гаманця.</translation>
+        <translation>ЦсEоперасE�сEпотребусEпаролсEдлсEрозблокуваннсEгамансE�E</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Розблокувати гаманець</translation>
+        <translation>Розблокувати гаманесE�E/translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Ця операція потребує пароль для розшифрування гаманця.</translation>
+        <translation>ЦсEоперасE�сEпотребусEпаролсEдлсEрозшисE�уваннсEгамансE�E</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Дешифрувати гаманець</translation>
+        <translation>ДешисE�увати гаманесE�E/translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>Змінити пароль</translation>
+        <translation>Змінити паролсE/translation>
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>Введіть старий пароль та новий пароль до гаманця.</translation>
+        <translation>ВведітсEсE�арий паролсEта новий паролсEдо гамансE�E</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Підтвердіть шифрування гаманця</translation>
+        <translation>ПідтвердітсEшисE�уваннсEгамансE�E/translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>УВАГА: Якщо ви зашифруєте гаманець і забудете пароль, ви &lt;b&gt;ВТРАТИТЕ ВСІ СВОЇ БІТКОІНИ&lt;/b&gt;!</translation>
+        <translation>УВАГЁE Якщо ви зашисE�уєте гаманесE�EсEзабудете паролсE ви &lt;b&gt;ВТРАТИТЁEВСЁEСВОЁEБЁE�КОЁE�ЁElt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Ви дійсно хочете зашифрувати свій гаманець?</translation>
+        <translation>Ви дійсE�о сE�сE�те зашисE�увати сE�ій гаманесE�E</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Гаманець зашифровано</translation>
+        <translation>ГаманесE�EзашисE�овано</translation>
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 буде закрито зараз, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші litecoinи від крадіжки шкідливими програмами, у випадку якщо ваш комп'ютер буде інфіковано.</translation>
+        <translation>%1 буде закрито зараз, щоб завершити просE�сEшисE�уваннсE Пам'ятайте, що шисE�уваннсEгамансE�Eне може повнісE�сEзасE�сE�ити вашсElitecoinи від крадіжки шкідливими програмами, сEвипадксEякщо васEкомп'ютер буде інсE�ковано.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>ВАЖЛИВО: Всі попередні резервні копії, які ви зробили з вашого файлу гаманця повинні бути замінені новоствореним, зашифрованим файлом гаманця. З міркувань безпеки, попередні резервні копії незашифрованого файла гаманця стануть непридатними одразу ж, як тільки ви почнете використовувати новий, зашифрований гаманець.</translation>
+        <translation>ВАЖЛИВЁE ВсE�EпопереднсEрезервнсEкопісE яксEви зробили з вашого сE�йлсEгамансE�EповиннсEбути заміненсEновосE�вореним, зашисE�ованим сE�йлом гамансE�E ЁEміркувансEбезпеки, попереднсEрезервнсEкопісEнезашисE�ованого сE�йла гамансE�EсE�анутсEнепридатними одразсEж, як тільки ви посE�ете викорисE�овувати новий, зашисE�ований гаманесE�E</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>Не вдалося зашифрувати гаманець</translation>
+        <translation>Не вдалосE�EзашисE�увати гаманесE�E/translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Виникла помилка під час шифрування гаманця. Ваш гаманець не було зашифровано.</translation>
+        <translation>Виникла помилка під сE�сEшисE�уваннсEгамансE�E ВасEгаманесE�Eне було зашисE�овано.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>Введені паролі не співпадають.</translation>
+        <translation>ВведенсEпаролсEне сE�івпадаютсE</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>Не вдалося розблокувати гаманець</translation>
+        <translation>Не вдалосE�Eрозблокувати гаманесE�E/translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Введений пароль є невірним.</translation>
+        <translation>Введений паролсEсEневірним.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>Не вдалося розшифрувати гаманець</translation>
+        <translation>Не вдалосE�EрозшисE�увати гаманесE�E/translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Пароль було успішно змінено.</translation>
+        <translation>ПаролсEбуло усE�ішно змінено.</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -224,7 +224,7 @@
     <name>BanTableModel</name>
     <message>
         <source>IP/Netmask</source>
-        <translation>IP/Маска підмережі</translation>
+        <translation>IP/МасE�а підмережсE/translation>
     </message>
     <message>
         <source>Banned Until</source>
@@ -235,11 +235,11 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>&amp;Підписати повідомлення...</translation>
+        <translation>&amp;ПідписE�ти повідомленнсE..</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Синхронізація з мережею...</translation>
+        <translation>СинсE�онізасE�сEз мережесE..</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -251,19 +251,19 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Показати стан гаманця</translation>
+        <translation>Показати сE�ан гамансE�E/translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Транзакції</translation>
+        <translation>&amp;ТранзаксE�сE/translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Переглянути історію транзакцій</translation>
+        <translation>Переглянути ісE�орісEтранзаксE�й</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>&amp;ВисE�д</translation>
     </message>
     <message>
         <source>Quit application</source>
@@ -271,11 +271,11 @@
     </message>
     <message>
         <source>&amp;About %1</source>
-        <translation>П&amp;ро %1</translation>
+        <translation>ЁEamp;ро %1</translation>
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>Показати інформацію про %1</translation>
+        <translation>Показати інсE�рмасE�сEпро %1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Показати інформацію про Qt</translation>
+        <translation>Показати інсE�рмасE�сEпро Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -291,27 +291,27 @@
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>Редагувати параметри для %1</translation>
+        <translation>Редагувати параметри длсE%1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Шифрування гаманця...</translation>
+        <translation>&amp;ШисE�уваннсEгамансE�E..</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Резервне копіювання гаманця...</translation>
+        <translation>&amp;Резервне копіюваннсEгамансE�E..</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>Змінити парол&amp;ь...</translation>
+        <translation>Змінити парол&amp;сE..</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>Адреси для &amp;відправлення...</translation>
+        <translation>АдресE� длсE&amp;відправленнсE..</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Адреси для &amp;отримання...</translation>
+        <translation>АдресE� длсE&amp;отриманнсE..</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
@@ -319,47 +319,47 @@
     </message>
     <message>
         <source>Click to disable network activity.</source>
-        <translation>Натисніть, щоб вимкнути активність мережі.</translation>
+        <translation>НатисE�ітсE щоб вимкнути активнісE�сEмережсE</translation>
     </message>
     <message>
         <source>Network activity disabled.</source>
-        <translation>Мережева активність вимкнена.</translation>
+        <translation>Мережева активнісE�сEвимкнена.</translation>
     </message>
     <message>
         <source>Click to enable network activity again.</source>
-        <translation>Натисніть, щоб знову активувати мережеву активність.</translation>
+        <translation>НатисE�ітсE щоб зновсEактивувати мережевсEактивнісE�сE</translation>
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
-        <translation>Синхронізація заголовків (%1%)...</translation>
+        <translation>СинсE�онізасE�сEзаголовків (%1%)...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Переіндексація блоків на диску ...</translation>
+        <translation>ПереіндексE�сE�сEблоків на дисE�сE...</translation>
     </message>
     <message>
         <source>Send coins to a Litecoin address</source>
-        <translation>Відправити монети на вказану адресу</translation>
+        <translation>Відправити монети на вказансEадресE�E/translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Резервне копіювання гаманця в інше місце</translation>
+        <translation>Резервне копіюваннсEгамансE�Eв інше місE�E�</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Змінити пароль, який використовується для шифрування гаманця</translation>
+        <translation>Змінити паролсE який викорисE�овуєтьсE�EдлсEшисE�уваннсEгамансE�E/translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>В&amp;ікно зневадження</translation>
+        <translation>ЁEamp;ікно зневадженнсE/translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Відкрити консоль зневадження і діагностики</translation>
+        <translation>Відкрити консE�лсEзневадженнсEсEдіагносE�ики</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>П&amp;еревірити повідомлення...</translation>
+        <translation>ЁEamp;еревірити повідомленнсE..</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Гаманець</translation>
+        <translation>ГаманесE�E/translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -379,23 +379,23 @@
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>Показа&amp;ти / Приховати</translation>
+        <translation>Показа&amp;ти / ПрисE�вати</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Показує або приховує головне вікно</translation>
+        <translation>ПоказусEабо присE�вусEголовне вікно</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Зашифрувати закриті ключі, що знаходяться у вашому гаманці</translation>
+        <translation>ЗашисE�увати закритсEклюсE�E що знасE�дятьсE�EсEвашомсEгамансE�E/translation>
     </message>
     <message>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Litecoin-адресою </translation>
+        <translation>ПідтвердітсE що Ви сEвласE�иком повідомленнсEпідписE�вши його ВашосELitecoin-адресE�сE</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Litecoin-адресою</translation>
+        <translation>Перевірте повідомленнсEдлсEвпевненосE�сE що воно підписE�но вказаносELitecoin-адресE�сE/translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Налаштування</translation>
+        <translation>&amp;НалаштуваннсE/translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -411,55 +411,55 @@
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Панель вкладок</translation>
+        <translation>ПанелсEвкладок</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Створити запит платежу (генерує QR-код та litecoin: URI)</translation>
+        <translation>Створити записEплатежсE(генерусEQR-код та litecoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Показати список адрес і міток, що були використані для відправлення</translation>
+        <translation>Показати сE�исE�к адресEсEміток, що були викорисE�ансEдлсEвідправленнсE/translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Показати список адрес і міток, що були використані для отримання</translation>
+        <translation>Показати сE�исE�к адресEсEміток, що були викорисE�ансEдлсEотриманнсE/translation>
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Відкрити litecoin: URI чи запит платежу</translation>
+        <translation>Відкрити litecoin: URI сE� записEплатежсE/translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>П&amp;араметри командного рядка</translation>
+        <translation>ЁEamp;араметри командного рядка</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n активне з'єднання з мережею Litecoin</numerusform><numerusform>%n активні з'єднання з мережею Litecoin</numerusform><numerusform>%n активних з'єднань з мережею Litecoin</numerusform></translation>
+        <translation><numerusform>%n активне з'єднаннсEз мережесELitecoin</numerusform><numerusform>%n активнсEз'єднаннсEз мережесELitecoin</numerusform><numerusform>%n активнисEз'єднансEз мережесELitecoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>Індексація блоків на диску ...</translation>
+        <translation>ЁE�дексE�сE�сEблоків на дисE�сE...</translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
-        <translation>Обробка блоків на диску...</translation>
+        <translation>Обробка блоків на дисE�сE..</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
-        <translation><numerusform>Оброблено %n блок історії транзакцій.</numerusform><numerusform>Оброблено %n блоки історії транзакцій.</numerusform><numerusform>Оброблено %n блоків історії транзакцій.</numerusform></translation>
+        <translation><numerusform>Оброблено %n блок ісE�орісEтранзаксE�й.</numerusform><numerusform>Оброблено %n блоки ісE�орісEтранзаксE�й.</numerusform><numerusform>Оброблено %n блоків ісE�орісEтранзаксE�й.</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>%1 тому</translation>
+        <translation>%1 томсE/translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>Останній отриманий блок було згенеровано %1 тому.</translation>
+        <translation>ОсE�анній отриманий блок було згенеровано %1 томсE</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Пізніші транзакції не буде видно.</translation>
+        <translation>ПізнішсEтранзаксE�ї не буде видно.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -467,31 +467,31 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>Попередження</translation>
+        <translation>ПопередженнсE/translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Інформація</translation>
+        <translation>ЁE�сE�рмасE�сE/translation>
     </message>
     <message>
         <source>Up to date</source>
-        <translation>Синхронізовано</translation>
+        <translation>СинсE�онізовано</translation>
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>Показати довідку %1 для отримання переліку можливих параметрів командного рядка.</translation>
+        <translation>Показати довідксE%1 длсEотриманнсEпереліксEможливисEпараметрів командного рядка.</translation>
     </message>
     <message>
         <source>%1 client</source>
-        <translation>%1 клієнт</translation>
+        <translation>%1 клієнсE/translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
-        <translation>Підключення до вузлів...</translation>
+        <translation>ПідклюсE�ннсEдо вузлів...</translation>
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Синхронізується...</translation>
+        <translation>СинсE�онізуєтьсE�E..</translation>
     </message>
     <message>
         <source>Date: %1
@@ -502,7 +502,7 @@
     <message>
         <source>Amount: %1
 </source>
-        <translation>Кількість: %1
+        <translation>КількісE�сE %1
 </translation>
     </message>
     <message>
@@ -520,47 +520,47 @@
     <message>
         <source>Address: %1
 </source>
-        <translation>Адреса: %1
+        <translation>АдресE�: %1
 </translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Надіслані транзакції</translation>
+        <translation>НадісE�ансEтранзаксE�сE/translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Отримані транзакції</translation>
+        <translation>ОтримансEтранзаксE�сE/translation>
     </message>
     <message>
         <source>HD key generation is &lt;b&gt;enabled&lt;/b&gt;</source>
-        <translation>Генерація HD ключа &lt;b&gt;увімкнена&lt;/b&gt;</translation>
+        <translation>ГенерасE�сEHD клюсE� &lt;b&gt;увімкнена&lt;/b&gt;</translation>
     </message>
     <message>
         <source>HD key generation is &lt;b&gt;disabled&lt;/b&gt;</source>
-        <translation>Генерація HD ключа&lt;b&gt;вимкнена&lt;/b&gt;</translation>
+        <translation>ГенерасE�сEHD клюсE�&lt;b&gt;вимкнена&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;розблоковано&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;ЗашисE�ований&lt;/b&gt; гаманесE�E&lt;b&gt;розблоковано&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;заблоковано&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;ЗашисE�ований&lt;/b&gt; гаманесE�E&lt;b&gt;заблоковано&lt;/b&gt;</translation>
     </message>
     <message>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Сталася фатальна помилка. Помилки не сумісні з подальщою роботою. Гаманець буде закрито.</translation>
+        <translation>СталасE�EсE�тальна помилка. Помилки не сE�місE�сEз подальщосEроботосE ГаманесE�Eбуде закрито.</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Вибір Монет</translation>
+        <translation>Вибір МонесE/translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Кількість:</translation>
+        <translation>КількісE�сE</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комісія:</translation>
+        <translation>КомісE�сE</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -580,7 +580,7 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Після комісії:</translation>
+        <translation>ПісE�сEкомісE�сE</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -588,7 +588,7 @@
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>Вибрати/зняти всі</translation>
+        <translation>Вибрати/зняти всE�E/translation>
     </message>
     <message>
         <source>Tree mode</source>
@@ -596,19 +596,19 @@
     </message>
     <message>
         <source>List mode</source>
-        <translation>Списком</translation>
+        <translation>СписE�ом</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>КількісE�сE/translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>Отримано з позначкою</translation>
+        <translation>Отримано з познасE�осE/translation>
     </message>
     <message>
         <source>Received with address</source>
-        <translation>Отримано з адресою</translation>
+        <translation>Отримано з адресE�сE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -616,27 +616,27 @@
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Підтверджень</translation>
+        <translation>ПідтвердженсE/translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Підтверджені</translation>
+        <translation>ПідтвердженсE/translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скопіювати адресу</translation>
+        <translation>Скопіювати адресE�E/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Скопіювати мітку</translation>
+        <translation>Скопіювати мітксE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Скопіювати суму</translation>
+        <translation>Скопіювати сE�мсE/translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Скопіювати ID транзакції </translation>
+        <translation>Скопіювати ID транзаксE�сE</translation>
     </message>
     <message>
         <source>Lock unspent</source>
@@ -648,15 +648,15 @@
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Скопіювати кількість</translation>
+        <translation>Скопіювати кількісE�сE/translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Скопіювати комісію</translation>
+        <translation>Скопіювати комісE�сE/translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Скопіювати після комісії</translation>
+        <translation>Скопіювати пісE�сEкомісE�сE/translation>
     </message>
     <message>
         <source>Copy bytes</source>
@@ -668,7 +668,7 @@
     </message>
     <message>
         <source>Copy change</source>
-        <translation>Скопіювати решту</translation>
+        <translation>Скопіювати рештсE/translation>
     </message>
     <message>
         <source>(%1 locked)</source>
@@ -680,15 +680,15 @@
     </message>
     <message>
         <source>no</source>
-        <translation>ні</translation>
+        <translation>нсE/translation>
     </message>
     <message>
         <source>Can vary +/- %1 satoshi(s) per input.</source>
-        <translation>Може відрізнятися на +/- %1 сатоші за введені</translation>
+        <translation>Може відрізнятисE�Eна +/- %1 сE�тошсEза введенсE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>немає мітки</translation>
+        <translation>немасEмітки</translation>
     </message>
     <message>
         <source>change from %1 (%2)</source>
@@ -703,7 +703,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Редагувати адресу</translation>
+        <translation>Редагувати адресE�E/translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -711,54 +711,54 @@
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>Мітка, пов'язана з цим записом списку адрес</translation>
+        <translation>Мітка, пов'язана з сE�м записE�м сE�исE�сEадресE/translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Адреса, пов'язана з цим записом списку адрес. Це поле може бути модифіковане лише для адрес відправлення.</translation>
+        <translation>АдресE�, пов'язана з сE�м записE�м сE�исE�сEадресE Це поле може бути модисE�коване лише длсEадресEвідправленнсE</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>&amp;Адреса</translation>
+        <translation>&amp;АдресE�</translation>
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>Нова адреса для отримання</translation>
+        <translation>Нова адресE� длсEотриманнсE/translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>Нова адреса для відправлення</translation>
+        <translation>Нова адресE� длсEвідправленнсE/translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>Редагувати адресу для отримання</translation>
+        <translation>Редагувати адресE�EдлсEотриманнсE/translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>Редагувати адресу для відправлення</translation>
+        <translation>Редагувати адресE�EдлсEвідправленнсE/translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Введена адреса "%1" не є адресою в мережі Litecoin.</translation>
+        <translation>Введена адресE� "%1" не сEадресE�сEв мережсELitecoin.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>Введена адреса «%1» вже присутня в адресній книзі.</translation>
+        <translation>Введена адресE� «%1» вже присE�тнсEв адресE�ій книзсE</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>Неможливо розблокувати гаманець.</translation>
+        <translation>Неможливо розблокувати гаманесE�E</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>Не вдалося згенерувати нові ключі.</translation>
+        <translation>Не вдалосE�Eзгенерувати новсEклюсE�E</translation>
     </message>
 </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>Буде створено новий каталог даних.</translation>
+        <translation>Буде сE�ворено новий каталог данисE</translation>
     </message>
     <message>
         <source>name</source>
@@ -766,22 +766,22 @@
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>Каталог вже існує. Додайте %1, якщо ви мали намір створити там новий каталог.</translation>
+        <translation>Каталог вже ісE�усE Додайте %1, якщо ви мали намір сE�ворити там новий каталог.</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>Шлях вже існує і не є каталогом.</translation>
+        <translation>ШлясEвже ісE�усEсEне сEкаталогом.</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>Тут неможливо створити каталог даних.</translation>
+        <translation>ТусEнеможливо сE�ворити каталог данисE</translation>
     </message>
 </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>версії</translation>
+        <translation>версE�сE/translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -797,7 +797,7 @@
     </message>
     <message>
         <source>Usage:</source>
-        <translation>Використання:</translation>
+        <translation>ВикорисE�аннсE</translation>
     </message>
     <message>
         <source>command-line options</source>
@@ -805,58 +805,58 @@
     </message>
     <message>
         <source>UI Options:</source>
-        <translation>Параметри інтерфейсу:</translation>
+        <translation>Параметри інтерсE�йсE�E</translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>Обирати каталог даних під час запуску (типово: %u)</translation>
+        <translation>Обирати каталог данисEпід сE�сEзапусE�сE(типово: %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Встановити мову (наприклад: "de_DE") (типово: системна)</translation>
+        <translation>ВсE�ановити мовсE(наприклад: "de_DE") (типово: сE�сE�емна)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Запускати згорнутим</translation>
+        <translation>ЗапусE�ати згорнутим</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Вказати кореневі SSL-сертифікати для запиту платежу (типово: -системні-)</translation>
+        <translation>Вказати кореневсESSL-сE�ртисE�кати длсEзапитсEплатежсE(типово: -сE�сE�емнсE)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>Показувати заставку під час запуску (типово: %u)</translation>
+        <translation>Показувати засE�авксEпід сE�сEзапусE�сE(типово: %u)</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
-        <translation>Скинути налаштування, які було змінено через графічний інтерфейс користувача</translation>
+        <translation>Скинути налаштуваннсE яксEбуло змінено сE�рез грасE�сE�ий інтерсE�йсEкорисE�увасE�</translation>
     </message>
 </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Вітання</translation>
+        <translation>ВітаннсE/translation>
     </message>
     <message>
         <source>Welcome to %1.</source>
-        <translation>Ласкаво просимо до %1.</translation>
+        <translation>ЛасE�аво просE�мо до %1.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>Оскільки це перший запуск програми, ви можете обрати де %1 буде зберігати дані.</translation>
+        <translation>ОсE�ільки сE� перший запусE� програми, ви можете обрати де %1 буде зберігати дансE</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>Використовувати типовий каталог даних</translation>
+        <translation>ВикорисE�овувати типовий каталог данисE/translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
-        <translation>Використовувати свій каталог даних:</translation>
+        <translation>ВикорисE�овувати сE�ій каталог данисE</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>Помилка: неможливо створити обраний каталог даних «%1».</translation>
+        <translation>Помилка: неможливо сE�ворити обраний каталог данисE«%1».</translation>
     </message>
     <message>
         <source>Error</source>
@@ -864,11 +864,11 @@
     </message>
     <message numerus="yes">
         <source>%n GB of free space available</source>
-        <translation><numerusform>Доступно %n ГБ вільного простору</numerusform><numerusform>Доступно %n ГБ вільного простору</numerusform><numerusform>Доступно %n ГБ вільного простору</numerusform></translation>
+        <translation><numerusform>ДосE�упно %n ГЁEвільного просE�орсE/numerusform><numerusform>ДосE�упно %n ГЁEвільного просE�орсE/numerusform><numerusform>ДосE�упно %n ГЁEвільного просE�орсE/numerusform></translation>
     </message>
     <message numerus="yes">
         <source>(of %n GB needed)</source>
-        <translation><numerusform>(в той час, як необхідно %n ГБ)</numerusform><numerusform>(в той час, як необхідно %n ГБ)</numerusform><numerusform>(в той час, як необхідно %n ГБ)</numerusform></translation>
+        <translation><numerusform>(в той сE�сE як необсE�дно %n ГЁE</numerusform><numerusform>(в той сE�сE як необсE�дно %n ГЁE</numerusform><numerusform>(в той сE�сE як необсE�дно %n ГЁE</numerusform></translation>
     </message>
 </context>
 <context>
@@ -879,15 +879,15 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Нещодавні транзакції ще не відображаються, тому баланс вашого гаманця може бути неточним. Ця інформація буде вірною після того, як ваш гаманець завершить синхронізацію з мережею litecoin, врахровуйте показники нижче.</translation>
+        <translation>НещодавнсEтранзаксE�сEще не відображаютьсE�E томсEбалансEвашого гамансE�Eможе бути нетосE�им. ЦсEінсE�рмасE�сEбуде вірносEпісE�сEтого, як васEгаманесE�EзавершитсEсE�нсE�онізасE�сEз мережесElitecoin, врасE�овуйте показники нижсE�.</translation>
     </message>
     <message>
         <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Спроба видправити litecoinи, які ще не відображаються, не буде прийнята мережею.</translation>
+        <translation>Спроба видправити litecoinи, яксEще не відображаютьсE�E не буде прийнята мережесE</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
-        <translation>Залишилося блоків</translation>
+        <translation>ЗалишилосE�Eблоків</translation>
     </message>
     <message>
         <source>Unknown...</source>
@@ -895,31 +895,31 @@
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Час останнього блоку</translation>
+        <translation>ЧасEосE�аннього блоксE/translation>
     </message>
     <message>
         <source>Progress</source>
-        <translation>Прогрес</translation>
+        <translation>ПрогресE/translation>
     </message>
     <message>
         <source>Progress increase per hour</source>
-        <translation>Прогрес за годину</translation>
+        <translation>ПрогресEза годинсE/translation>
     </message>
     <message>
         <source>calculating...</source>
-        <translation>рахування...</translation>
+        <translation>расE�ваннсE..</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>
-        <translation>Орієнтовний час до кінця синхронізації</translation>
+        <translation>Орієнтовний сE�сEдо кінсE�EсE�нсE�онізасE�сE/translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Приховати</translation>
+        <translation>ПрисE�вати</translation>
     </message>
     <message>
         <source>Unknown. Syncing Headers (%1)...</source>
-        <translation>Невідомо. Синхронізація заголовків (%1%)...</translation>
+        <translation>Невідомо. СинсE�онізасE�сEзаголовків (%1%)...</translation>
     </message>
 </context>
 <context>
@@ -930,7 +930,7 @@
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>Відкрити запит платежу з URI або файлу</translation>
+        <translation>Відкрити записEплатежсEз URI або сE�йлсE/translation>
     </message>
     <message>
         <source>URI:</source>
@@ -938,11 +938,11 @@
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>Виберіть файл запиту платежу</translation>
+        <translation>ВиберітсEсE�йл запитсEплатежсE/translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>Виберіть файл запиту платежу</translation>
+        <translation>ВиберітсEсE�йл запитсEплатежсE/translation>
     </message>
 </context>
 <context>
@@ -953,55 +953,55 @@
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>&amp;Головні</translation>
+        <translation>&amp;ГоловнсE/translation>
     </message>
     <message>
         <source>&amp;Start %1 on system login</source>
-        <translation>&amp;Запускати %1 при вході в систему</translation>
+        <translation>&amp;ЗапусE�ати %1 при всE�дсEв сE�сE�емсE/translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>Розмір &amp;кешу бази даних</translation>
+        <translation>Розмір &amp;кешсEбази данисE/translation>
     </message>
     <message>
         <source>MB</source>
-        <translation>МБ</translation>
+        <translation>МЁE/translation>
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>Кількість потоків &amp;сценарію перевірки</translation>
+        <translation>КількісE�сEпотоків &amp;сE�E�нарісEперевірки</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>Приймати підключення ззовні</translation>
+        <translation>Приймати підклюсE�ннсEззовнсE/translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>Дозволити вхідні з’єднання</translation>
+        <translation>Дозволити всE�днсEз’єднаннсE/translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>IP-адреса проксі-сервера (наприклад IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>IP-адресE� проксE�EсE�рвера (наприклад IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
-        <translation>Згортати замість закриття. Якщо ця опція включена, програма закриється лише після вибору відповідного пункту в меню.</translation>
+        <translation>Згортати замісE�сEзакриттсE Якщо сE�EопсE�сEвклюсE�на, програма закриєтьсE�Eлише пісE�сEвиборсEвідповідного пунктсEв менсE</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>Сторонні URL (наприклад, block explorer), що з'являться на вкладці транзакцій у вигляді пункту контекстного меню. %s в URL буде замінено на хеш транзакції. Для відокремлення URLів використовуйте вертикальну риску |.</translation>
+        <translation>СтороннсEURL (наприклад, block explorer), що з'являтьсE�Eна вкладсE�EтранзаксE�й сEвиглядсEпунктсEконтексE�ного менсE %s в URL буде замінено на сE�сEтранзаксE�сE ДлсEвідокремленнсEURLів викорисE�овуйте вертикальнсEрисE�сE|.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>Сторонні URL транзакцій</translation>
+        <translation>СтороннсEURL транзаксE�й</translation>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>Активовані параметри командного рядка, що перекривають вищевказані параметри:</translation>
+        <translation>АктивовансEпараметри командного рядка, що перекриваютсEвищевказансEпараметри:</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>Скинути всі параметри клієнта на типові.</translation>
+        <translation>Скинути всE�Eпараметри клієнта на типовсE</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
@@ -1013,63 +1013,63 @@
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = автоматично, &lt;0 = вказує кількість вільних ядер)</translation>
+        <translation>(0 = автоматисE�о, &lt;0 = вказусEкількісE�сEвільнисEядер)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>Г&amp;аманець</translation>
+        <translation>ЁEamp;аманесE�E/translation>
     </message>
     <message>
         <source>Expert</source>
-        <translation>Експерт</translation>
+        <translation>ЕксE�ерсE/translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ввімкнути &amp;керування входами</translation>
+        <translation>Ввімкнути &amp;керуваннсEвсE�дами</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Якщо вимкнути витрату непідтвердженої решти, то решту від транзакції не можна буде використати, допоки ця транзакція не матиме хоча б одне підтвердження. Це також впливає на розрахунок балансу.</translation>
+        <translation>Якщо вимкнути витратсEнепідтвердженосEрешти, то рештсEвід транзаксE�сEне можна буде викорисE�ати, допоки сE�EтранзаксE�сEне матиме сE�сE� б одне підтвердженнсE Це також впливасEна розрасE�нок балансE�E</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>&amp;Витрачати непідтверджену решту</translation>
+        <translation>&amp;ВитрасE�ти непідтвердженсEрештсE/translation>
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично відкривати порт для клієнту біткоін на роутері. Працює лише якщо ваш роутер підтримує UPnP і ця функція увімкнена.</translation>
+        <translation>АвтоматисE�о відкривати порсEдлсEклієнтсEбіткоін на роутерсE ПрасE�сEлише якщо васEроутер підтримусEUPnP сEсE�EсE�нксE�сEувімкнена.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>Відображення порту через &amp;UPnP</translation>
+        <translation>ВідображеннсEпортсEсE�рез &amp;UPnP</translation>
     </message>
     <message>
         <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Підключення до мережі Litecoin через SOCKS5 проксі.</translation>
+        <translation>ПідклюсE�ннсEдо мережсELitecoin сE�рез SOCKS5 проксE�E</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>&amp;Підключення через SOCKS5 проксі (проксі за замовчуванням):</translation>
+        <translation>&amp;ПідклюсE�ннсEсE�рез SOCKS5 проксE�E(проксE�Eза замовсE�ванням):</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>&amp;IP проксі:</translation>
+        <translation>&amp;IP проксE�E</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;Порт:</translation>
+        <translation>&amp;ПорсE</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Порт проксі-сервера (наприклад 9050)</translation>
+        <translation>ПорсEпроксE�EсE�рвера (наприклад 9050)</translation>
     </message>
     <message>
         <source>Used for reaching peers via:</source>
-        <translation>Приєднуватися до учасників через:</translation>
+        <translation>ПриєднуватисE�Eдо усE�сE�иків сE�рез:</translation>
     </message>
     <message>
         <source>Shows, if the supplied default SOCKS5 proxy is used to reach peers via this network type.</source>
-        <translation>Вказує на використання наявного типового проксі SOCKS5, що використувується задля встановлення зв'язку з пірами через мережу такого типу.</translation>
+        <translation>ВказусEна викорисE�аннсEнаявного типового проксE�ESOCKS5, що викорисE�увуєтьсE�EзадлсEвсE�ановленнсEзв'язксEз пірами сE�рез мережсEтакого типсE</translation>
     </message>
     <message>
         <source>IPv4</source>
@@ -1085,11 +1085,11 @@
     </message>
     <message>
         <source>Connect to the Litecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Підключатися до мережі Litecoin через окремий SOCKS5 проксі для прихованих сервісів Tor.</translation>
+        <translation>ПідклюсE�тисE�Eдо мережсELitecoin сE�рез окремий SOCKS5 проксE�EдлсEприсE�ванисEсE�рвісE�в Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
-        <translation>Використовувати окремий SOCKS5-проксі для з'єднання з учасниками через приховані сервіси Tor:</translation>
+        <translation>ВикорисE�овувати окремий SOCKS5-проксE�EдлсEз'єднаннсEз усE�сE�иками сE�рез присE�вансEсE�рвісE� Tor:</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1097,39 +1097,39 @@
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation>Сховати іконку в треї</translation>
+        <translation>СсE�вати іконксEв тресE/translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Показувати лише іконку в треї після згортання вікна.</translation>
+        <translation>Показувати лише іконксEв тресEпісE�сEзгортаннсEвікна.</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>Мінімізувати &amp;у трей</translation>
+        <translation>Мінімізувати &amp;сEтрей</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>Згортати замість закритт&amp;я</translation>
+        <translation>Згортати замісE�сEзакритсEamp;сE/translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>&amp;Відображення</translation>
+        <translation>&amp;ВідображеннсE/translation>
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>Мов&amp;а інтерфейсу користувача:</translation>
+        <translation>Мов&amp;а інтерсE�йсE�EкорисE�увасE�:</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>В&amp;имірювати монети в:</translation>
+        <translation>ЁEamp;имірювати монети в:</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Виберіть одиницю вимірювання монет, яка буде відображатись в гаманці та при відправленні.</translation>
+        <translation>ВиберітсEодинисE�EвимірюваннсEмонесE яка буде відображатисE�Eв гамансE�Eта при відправленнсE</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Показати або сховати керування входами.</translation>
+        <translation>Показати або сE�E�вати керуваннсEвсE�дами.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1137,7 +1137,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Скасувати</translation>
+        <translation>&amp;СкасE�вати</translation>
     </message>
     <message>
         <source>default</source>
@@ -1145,27 +1145,27 @@
     </message>
     <message>
         <source>none</source>
-        <translation>відсутні</translation>
+        <translation>відсE�тнсE/translation>
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>Підтвердження скидання параметрів</translation>
+        <translation>ПідтвердженнсEсE�иданнсEпараметрів</translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Для застосування змін необхідно перезапустити клієнта.</translation>
+        <translation>ДлсEзасE�осE�ваннсEзмін необсE�дно перезапусE�ити клієнта.</translation>
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>Клієнт буде вимкнено. Продовжити?</translation>
+        <translation>КлієнсEбуде вимкнено. Продовжити?</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Ця зміна вступить в силу після перезапуску клієнта</translation>
+        <translation>ЦсEзміна всE�упитсEв сE�лсEпісE�сEперезапусE�сEклієнта</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Невірно вказано адресу проксі.</translation>
+        <translation>Невірно вказано адресE�EпроксE�E</translation>
     </message>
 </context>
 <context>
@@ -1176,11 +1176,11 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Litecoin після встановлення підключення, але цей процес ще не завершено.</translation>
+        <translation>Показана інсE�рмасE�сEвже може бути засE�арілосE ВасEгаманесE�Eбуде автоматисE�о сE�нсE�онізовано з мережесELitecoin пісE�сEвсE�ановленнсEпідклюсE�ннсE але сE�й просE�сEще не завершено.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
-        <translation>Тільки спостереження:</translation>
+        <translation>Тільки сE�осE�ереженнсE</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1188,66 +1188,66 @@
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>Ваш поточний підтверджений баланс</translation>
+        <translation>ВасEпотосE�ий підтверджений балансE/translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>Очікується:</translation>
+        <translation>ОсE�куєтьсE�E</translation>
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>Сума монет у непідтверджених транзакціях</translation>
+        <translation>Сума монесEсEнепідтвердженисEтранзаксE�ясE/translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>Незрілі:</translation>
+        <translation>НезрілсE</translation>
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>Баланс видобутих та ще недозрілих монет</translation>
+        <translation>БалансEвидобутисEта ще недозрілисEмонесE/translation>
     </message>
     <message>
         <source>Balances</source>
-        <translation>Баланси</translation>
+        <translation>БалансE�</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>Всього:</translation>
+        <translation>ВсE�ого:</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Ваш поточний сукупний баланс</translation>
+        <translation>ВасEпотосE�ий сE�купний балансE/translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>Ваш поточний баланс в адресах для спостереження</translation>
+        <translation>ВасEпотосE�ий балансEв адресE�сEдлсEсE�осE�ереженнсE/translation>
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>Доступно:</translation>
+        <translation>ДосE�упно:</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Останні транзакції</translation>
+        <translation>ОсE�аннсEтранзаксE�сE/translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>Непідтверджені транзакції на адреси для спостереження</translation>
+        <translation>НепідтвердженсEтранзаксE�сEна адресE� длсEсE�осE�ереженнсE/translation>
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>Баланс видобутих та ще недозрілих монет на адресах для спостереження</translation>
+        <translation>БалансEвидобутисEта ще недозрілисEмонесEна адресE�сEдлсEсE�осE�ереженнсE/translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>Поточний сукупний баланс в адресах для спостереження</translation>
+        <translation>ПотосE�ий сE�купний балансEв адресE�сEдлсEсE�осE�ереженнсE/translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Payment request error</source>
-        <translation>Помилка запиту платежу</translation>
+        <translation>Помилка запитсEплатежсE/translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1258,11 +1258,11 @@
     <name>PeerTableModel</name>
     <message>
         <source>User Agent</source>
-        <translation>Клієнт користувача</translation>
+        <translation>КлієнсEкорисE�увасE�</translation>
     </message>
     <message>
         <source>Node/Service</source>
-        <translation>Вузол/Сервіс</translation>
+        <translation>Вузол/СервісE/translation>
     </message>
     <message>
         <source>Ping</source>
@@ -1273,11 +1273,11 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>КількісE�сE/translation>
     </message>
     <message>
         <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Введіть адресу Litecoin (наприклад %1)</translation>
+        <translation>ВведітсEадресE�ELitecoin (наприклад %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1289,23 +1289,23 @@
     </message>
     <message>
         <source>%1 m</source>
-        <translation>%1 х</translation>
+        <translation>%1 сE/translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation>%1 с</translation>
+        <translation>%1 сE/translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Відсутні</translation>
+        <translation>ВідсE�тнсE/translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation>Н/Д</translation>
+        <translation>ЁEЁE/translation>
     </message>
     <message>
         <source>%1 ms</source>
-        <translation>%1 мс</translation>
+        <translation>%1 мсE/translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -1323,11 +1323,11 @@
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Зберегти зображення...</translation>
+        <translation>&amp;Зберегти зображеннсE..</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;Копіювати зображення</translation>
+        <translation>&amp;Копіювати зображеннсE/translation>
     </message>
     <message>
         <source>Save QR Code</source>
@@ -1335,26 +1335,26 @@
     </message>
     <message>
         <source>PNG Image (*.png)</source>
-        <translation>Зображення PNG (*.png)</translation>
+        <translation>ЗображеннсEPNG (*.png)</translation>
     </message>
 </context>
 <context>
     <name>RPCConsole</name>
     <message>
         <source>N/A</source>
-        <translation>Н/Д</translation>
+        <translation>ЁEЁE/translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation>Версія клієнту</translation>
+        <translation>ВерсE�сEклієнтсE/translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;Інформація</translation>
+        <translation>&amp;ЁE�сE�рмасE�сE/translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>Вікно зневадження</translation>
+        <translation>Вікно зневадженнсE/translation>
     </message>
     <message>
         <source>General</source>
@@ -1362,11 +1362,11 @@
     </message>
     <message>
         <source>Using BerkeleyDB version</source>
-        <translation>Використовується BerkeleyDB версії</translation>
+        <translation>ВикорисE�овуєтьсE�EBerkeleyDB версE�сE/translation>
     </message>
     <message>
         <source>Startup time</source>
-        <translation>Час запуску</translation>
+        <translation>ЧасEзапусE�сE/translation>
     </message>
     <message>
         <source>Network</source>
@@ -1374,31 +1374,31 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Ім’я</translation>
+        <translation>ЁE�’сE/translation>
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>Кількість підключень</translation>
+        <translation>КількісE�сEпідклюсE�нсE/translation>
     </message>
     <message>
         <source>Block chain</source>
-        <translation>Ланцюг блоків</translation>
+        <translation>ЛансE�г блоків</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>Поточне число блоків</translation>
+        <translation>ПотосE�е сE�сE�о блоків</translation>
     </message>
     <message>
         <source>Memory Pool</source>
-        <translation>Пул пам'яті</translation>
+        <translation>Пул пам'ятсE/translation>
     </message>
     <message>
         <source>Current number of transactions</source>
-        <translation>Поточне число транзакцій</translation>
+        <translation>ПотосE�е сE�сE�о транзаксE�й</translation>
     </message>
     <message>
         <source>Memory usage</source>
-        <translation>Використання пам'яті</translation>
+        <translation>ВикорисE�аннсEпам'ятсE/translation>
     </message>
     <message>
         <source>Received</source>
@@ -1410,19 +1410,19 @@
     </message>
     <message>
         <source>&amp;Peers</source>
-        <translation>&amp;Учасники</translation>
+        <translation>&amp;УсE�сE�ики</translation>
     </message>
     <message>
         <source>Banned peers</source>
-        <translation>Заблоковані вузли</translation>
+        <translation>ЗаблоковансEвузли</translation>
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>Виберіть учасника для перегляду детальнішої інформації</translation>
+        <translation>ВиберітсEусE�сE�ика длсEпереглядсEдетальнішосEінсE�рмасE�сE/translation>
     </message>
     <message>
         <source>Whitelisted</source>
-        <translation>В білому списку</translation>
+        <translation>ЁEбіломсEсE�исE�сE/translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1430,51 +1430,51 @@
     </message>
     <message>
         <source>Version</source>
-        <translation>Версія</translation>
+        <translation>ВерсE�сE/translation>
     </message>
     <message>
         <source>Starting Block</source>
-        <translation>Початковий Блок</translation>
+        <translation>ПосE�тковий Блок</translation>
     </message>
     <message>
         <source>Synced Headers</source>
-        <translation>Синхронізовані Заголовки</translation>
+        <translation>СинсE�онізовансEЗаголовки</translation>
     </message>
     <message>
         <source>Synced Blocks</source>
-        <translation>Синхронізовані Блоки</translation>
+        <translation>СинсE�онізовансEБлоки</translation>
     </message>
     <message>
         <source>User Agent</source>
-        <translation>Клієнт користувача</translation>
+        <translation>КлієнсEкорисE�увасE�</translation>
     </message>
     <message>
         <source>Decrease font size</source>
-        <translation>Зменшити розмір шрифту</translation>
+        <translation>Зменшити розмір шрисE�сE/translation>
     </message>
     <message>
         <source>Increase font size</source>
-        <translation>Збільшити розмір шрифту</translation>
+        <translation>Збільшити розмір шрисE�сE/translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>Сервіси</translation>
+        <translation>СервісE�</translation>
     </message>
     <message>
         <source>Ban Score</source>
-        <translation>Очки бану</translation>
+        <translation>ОсE�и бансE/translation>
     </message>
     <message>
         <source>Connection Time</source>
-        <translation>Час з'єднання</translation>
+        <translation>ЧасEз'єднаннсE/translation>
     </message>
     <message>
         <source>Last Send</source>
-        <translation>Востаннє відправлено</translation>
+        <translation>ВосE�аннсEвідправлено</translation>
     </message>
     <message>
         <source>Last Receive</source>
-        <translation>Востаннє отримано</translation>
+        <translation>ВосE�аннсEотримано</translation>
     </message>
     <message>
         <source>Ping Time</source>
@@ -1482,19 +1482,19 @@
     </message>
     <message>
         <source>The duration of a currently outstanding ping.</source>
-        <translation>Тривалість поточної затримки.</translation>
+        <translation>ТривалісE�сEпотосE�осEзатримки.</translation>
     </message>
     <message>
         <source>Ping Wait</source>
-        <translation>Поточна Затримка</translation>
+        <translation>ПотосE�а Затримка</translation>
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>Різниця часу</translation>
+        <translation>РізнисE�EсE�сE�E/translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Час останнього блоку</translation>
+        <translation>ЧасEосE�аннього блоксE/translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1502,47 +1502,47 @@
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>&amp;Консоль</translation>
+        <translation>&amp;КонсE�лсE/translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>&amp;Мережевий трафік</translation>
+        <translation>&amp;Мережевий трасE�к</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;Очистити</translation>
+        <translation>&amp;ОсE�сE�ити</translation>
     </message>
     <message>
         <source>Totals</source>
-        <translation>Всього</translation>
+        <translation>ВсE�ого</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation>Вхідних:</translation>
+        <translation>ВсE�днисE</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation>Вихідних:</translation>
+        <translation>ВисE�днисE</translation>
     </message>
     <message>
         <source>Debug log file</source>
-        <translation>Файл звіту зневадження</translation>
+        <translation>Файл звітсEзневадженнсE/translation>
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Очистити консоль</translation>
+        <translation>ОсE�сE�ити консE�лсE/translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1 &amp;годину</translation>
+        <translation>1 &amp;годинсE/translation>
     </message>
     <message>
         <source>1 &amp;day</source>
-        <translation>1 &amp;день</translation>
+        <translation>1 &amp;денсE/translation>
     </message>
     <message>
         <source>1 &amp;week</source>
-        <translation>1 &amp;тиждень</translation>
+        <translation>1 &amp;тижденсE/translation>
     </message>
     <message>
         <source>1 &amp;year</source>
@@ -1550,39 +1550,39 @@
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Використовуйте стрілки вгору вниз для навігації по історії, і &lt;b&gt;Ctrl-L&lt;/b&gt; для очищення екрана.</translation>
+        <translation>ВикорисE�овуйте сE�рілки вгорсEвниз длсEнавігасE�сEпо ісE�орісE сE&lt;b&gt;Ctrl-L&lt;/b&gt; длсEосE�щеннсEекрана.</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Наберіть &lt;b&gt;help&lt;/b&gt; для перегляду доступних команд.</translation>
+        <translation>НаберітсE&lt;b&gt;help&lt;/b&gt; длсEпереглядсEдосE�упнисEкоманд.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
-        <translation>Мережева активність вимкнена.</translation>
+        <translation>Мережева активнісE�сEвимкнена.</translation>
     </message>
     <message>
         <source>%1 B</source>
-        <translation>%1 Б</translation>
+        <translation>%1 ЁE/translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 КБ</translation>
+        <translation>%1 КЁE/translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 МБ</translation>
+        <translation>%1 МЁE/translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 ГБ</translation>
+        <translation>%1 ГЁE/translation>
     </message>
     <message>
         <source>(node id: %1)</source>
-        <translation>(ІД вузла: %1)</translation>
+        <translation>(ЁE�Eвузла: %1)</translation>
     </message>
     <message>
         <source>via %1</source>
-        <translation>через %1</translation>
+        <translation>сE�рез %1</translation>
     </message>
     <message>
         <source>never</source>
@@ -1590,11 +1590,11 @@
     </message>
     <message>
         <source>Inbound</source>
-        <translation>Вхідний</translation>
+        <translation>ВсE�дний</translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>Вихідний</translation>
+        <translation>ВисE�дний</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -1602,7 +1602,7 @@
     </message>
     <message>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation>НсE/translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1613,7 +1613,7 @@
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>&amp;Кількість:</translation>
+        <translation>&amp;КількісE�сE</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1621,51 +1621,51 @@
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;Повідомлення:</translation>
+        <translation>&amp;ПовідомленнсE</translation>
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>Повторно використати одну з адрес. Повторне використання адрес створює ризики безпеки та конфіденційності. Не використовуйте її, окрім як для створення повторного запиту платежу.</translation>
+        <translation>Повторно викорисE�ати однсEз адресE Повторне викорисE�аннсEадресEсE�ворюсEризики безпеки та консE�денсE�йносE�сE Не викорисE�овуйте їсE окрім як длсEсE�вореннсEповторного запитсEплатежсE</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>По&amp;вторно використати адресу для отримання (не рекомендується)</translation>
+        <translation>По&amp;вторно викорисE�ати адресE�EдлсEотриманнсE(не рекомендуєтьсE�E</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу Litecoin.</translation>
+        <translation>Необов'язкове повідомленнсEна додаток до запитсEплатежсE котре буде показане під сE�сEвідкриттсEзапитсE Примітка: Це повідомленнсEне буде відправлено з платежем сE�рез мережсELitecoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>Необов'язкове поле для мітки нової адреси отримувача.</translation>
+        <translation>Необов'язкове поле длсEмітки новосEадресE� отримувасE�.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Використовуйте цю форму, щоб отримати платежі. Всі поля є &lt;b&gt;необов'язковими&lt;/b&gt;.</translation>
+        <translation>ВикорисE�овуйте сE�EсE�рмсE щоб отримати платежсE ВсE�EполсEсE&lt;b&gt;необов'язковими&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Необов'язкове поле для суми запиту. Залиште це поле пустим або впишіть нуль, щоб не надсилати у запиті конкретної суми.</translation>
+        <translation>Необов'язкове поле длсEсE�ми запитсE Залиште сE� поле пусE�им або впишітсEнулсE щоб не надсE�лати сEзапитсEконкретносEсE�ми.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Очистити всі поля в формі</translation>
+        <translation>ОсE�сE�ити всE�EполсEв сE�рмсE/translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Очистити</translation>
+        <translation>ОсE�сE�ити</translation>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>Історія запитів платежу</translation>
+        <translation>ЁE�E�орісEзапитів платежсE/translation>
     </message>
     <message>
         <source>&amp;Request payment</source>
-        <translation>Н&amp;адіслати запит платежу</translation>
+        <translation>ЁEamp;адісE�ати записEплатежсE/translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>Показати вибраний запит (робить те ж саме, що й подвійний клік по запису)</translation>
+        <translation>Показати вибраний записE(робитсEте ж сE�ме, що й подвійний клік по записE�E</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1673,27 +1673,27 @@
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Вилучити вибрані записи зі списку</translation>
+        <translation>ВилусE�ти вибрансEзаписE� зсEсE�исE�сE/translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Вилучити</translation>
+        <translation>ВилусE�ти</translation>
     </message>
     <message>
         <source>Copy URI</source>
-        <translation>Скопіювати адресу</translation>
+        <translation>Скопіювати адресE�E/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Скопіювати мітку</translation>
+        <translation>Скопіювати мітксE/translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>Скопіювати повідомлення</translation>
+        <translation>Скопіювати повідомленнсE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Скопіювати суму</translation>
+        <translation>Скопіювати сE�мсE/translation>
     </message>
 </context>
 <context>
@@ -1708,23 +1708,23 @@
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Скопіювати &amp;адресу</translation>
+        <translation>Скопіювати &amp;адресE�E/translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Зберегти зображення...</translation>
+        <translation>&amp;Зберегти зображеннсE..</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>Інформація про платіж</translation>
+        <translation>ЁE�сE�рмасE�сEпро платіж</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адреса</translation>
+        <translation>АдресE�</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>КількісE�сE/translation>
     </message>
     <message>
         <source>Label</source>
@@ -1732,7 +1732,7 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>Повідомлення</translation>
+        <translation>ПовідомленнсE/translation>
     </message>
     </context>
 <context>
@@ -1747,19 +1747,19 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>Повідомлення</translation>
+        <translation>ПовідомленнсE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>немає мітки</translation>
+        <translation>немасEмітки</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>(без повідомлення)</translation>
+        <translation>(без повідомленнсE</translation>
     </message>
     <message>
         <source>(no amount requested)</source>
-        <translation>(без суми)</translation>
+        <translation>(без сE�ми)</translation>
     </message>
     <message>
         <source>Requested</source>
@@ -1774,23 +1774,23 @@
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Керування монетами</translation>
+        <translation>КеруваннсEмонетами</translation>
     </message>
     <message>
         <source>Inputs...</source>
-        <translation>Входи...</translation>
+        <translation>ВсE�ди...</translation>
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>вибираються автоматично</translation>
+        <translation>вибираютьсE�EавтоматисE�о</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Недостатньо коштів!</translation>
+        <translation>НедосE�атньо коштів!</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Кількість:</translation>
+        <translation>КількісE�сE</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -1802,11 +1802,11 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комісія:</translation>
+        <translation>КомісE�сE</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Після комісії:</translation>
+        <translation>ПісE�сEкомісE�сE</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -1814,47 +1814,47 @@
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Якщо це поле активовано, але адреса для решти відсутня або некоректна, то решта буде відправлена на новостворену адресу.</translation>
+        <translation>Якщо сE� поле активовано, але адресE� длсEрешти відсE�тнсEабо некоректна, то решта буде відправлена на новосE�воренсEадресE�E</translation>
     </message>
     <message>
         <source>Custom change address</source>
-        <translation>Вказати адресу для решти</translation>
+        <translation>Вказати адресE�EдлсEрешти</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>Комісія за передачу:</translation>
+        <translation>КомісE�сEза передасE�E</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>Виберіть...</translation>
+        <translation>ВиберітсE..</translation>
     </message>
     <message>
         <source>collapse fee-settings</source>
-        <translation>згорнути налаштування оплат</translation>
+        <translation>згорнути налаштуваннсEопласE/translation>
     </message>
     <message>
         <source>per kilobyte</source>
-        <translation>за кілобайт</translation>
+        <translation>за кілобайсE/translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then "per kilobyte" only pays 250 satoshis in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Якщо комісія встановлюється в 1000 сатоші і розмір транзакції лише 250 байтів, то опція "за кілобайт" встановлює комісію в 250 сатоші, в той час, як "всього щонайменше" - в 1000 сатоші. Для транзакцій більших за кілобайт в обох випадках буде знято комісію за кілобайт.</translation>
+        <translation>Якщо комісE�сEвсE�ановлюєтьсE�Eв 1000 сE�тошсEсEрозмір транзаксE�сEлише 250 байтів, то опсE�сE"за кілобайсE всE�ановлюсEкомісE�сEв 250 сE�тошсE в той сE�сE як "всE�ого щонайменше" - в 1000 сE�тошсE ДлсEтранзаксE�й більшисEза кілобайсEв обосEвипадкасEбуде знято комісE�сEза кілобайсE</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Приховати</translation>
+        <translation>ПрисE�вати</translation>
     </message>
     <message>
         <source>total at least</source>
-        <translation>всього щонайменше</translation>
+        <translation>всE�ого щонайменше</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>Оплата тільки мінімальної комісії є прийнятною, допоки обсяг транзакцій є меншим простору в блоках. Але майте на увазі, що це може анулювати транзакцію, якщо попит на Litecoin транзакції стане більшим, ніж мережа зможе обробити.</translation>
+        <translation>Оплата тільки мінімальносEкомісE�сEсEприйнятносE допоки обсE�г транзаксE�й сEменшим просE�орсEв блокасE Але майте на увазсE що сE� може анулювати транзаксE�сE якщо пописEна Litecoin транзаксE�сEсE�ане більшим, ніж мережа зможе обробити.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
-        <translation>(читати підказки)</translation>
+        <translation>(сE�тати підказки)</translation>
     </message>
     <message>
         <source>Recommended:</source>
@@ -1866,11 +1866,11 @@
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(Розумну оплату ще не ініціалізовано. Це, зазвичай, триває кілька блоків...)</translation>
+        <translation>(РозумнсEоплатсEще не інісE�алізовано. Це, зазвисE�й, тривасEкілька блоків...)</translation>
     </message>
     <message>
         <source>normal</source>
-        <translation>звичайний</translation>
+        <translation>звисE�йний</translation>
     </message>
     <message>
         <source>fast</source>
@@ -1878,15 +1878,15 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Відправити на декілька адрес</translation>
+        <translation>Відправити на декілька адресE/translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>Дод&amp;ати одержувача</translation>
+        <translation>Дод&amp;ати одержувасE�</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Очистити всі поля в формі</translation>
+        <translation>ОсE�сE�ити всE�EполсEв сE�рмсE/translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -1894,19 +1894,19 @@
     </message>
     <message>
         <source>Confirmation time target:</source>
-        <translation>Час підтвердження:</translation>
+        <translation>ЧасEпідтвердженнсE</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Очистити &amp;все</translation>
+        <translation>ОсE�сE�ити &amp;всE�</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>Баланс:</translation>
+        <translation>БалансE</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Підтвердити відправлення</translation>
+        <translation>Підтвердити відправленнсE/translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -1914,19 +1914,19 @@
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Скопіювати кількість</translation>
+        <translation>Скопіювати кількісE�сE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Скопіювати суму</translation>
+        <translation>Скопіювати сE�мсE/translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Скопіювати комісію</translation>
+        <translation>Скопіювати комісE�сE/translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Скопіювати після комісії</translation>
+        <translation>Скопіювати пісE�сEкомісE�сE/translation>
     </message>
     <message>
         <source>Copy bytes</source>
@@ -1938,22 +1938,22 @@
     </message>
     <message>
         <source>Copy change</source>
-        <translation>Скопіювати решту</translation>
+        <translation>Скопіювати рештсE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>немає мітки</translation>
+        <translation>немасEмітки</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>&amp;Кількість:</translation>
+        <translation>&amp;КількісE�сE</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>&amp;Отримувач:</translation>
+        <translation>&amp;ОтримувасE</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1961,15 +1961,15 @@
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Обрати ранiш використовувану адресу</translation>
+        <translation>Обрати ранiсEвикорисE�овувансEадресE�E/translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>Це звичайний платіж.</translation>
+        <translation>Це звисE�йний платіж.</translation>
     </message>
     <message>
         <source>The Litecoin address to send the payment to</source>
-        <translation>Адреса Litecoin для відправлення платежу</translation>
+        <translation>АдресE� Litecoin длсEвідправленнсEплатежсE/translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1977,7 +1977,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Вставити адресу</translation>
+        <translation>ВсE�авити адресE�E/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -1985,39 +1985,39 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>Видалити цей запис</translation>
+        <translation>Видалити сE�й записE/translation>
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Комісію буде знято зі вказаної суми. До отримувача надійде менше біткоінів, ніж було вказано в полі кількості. Якщо ж отримувачів декілька - комісію буде розподілено між ними.</translation>
+        <translation>КомісE�сEбуде знято зсEвказаносEсE�ми. До отримувасE� надійде менше біткоінів, ніж було вказано в полсEкількосE�сE Якщо ж отримувасE�в декілька - комісE�сEбуде розподілено між ними.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
-        <translation>В&amp;ідняти комісію від суми</translation>
+        <translation>ЁEamp;ідняти комісE�сEвід сE�ми</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>Повідомлення:</translation>
+        <translation>ПовідомленнсE</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
-        <translation>Цей запит платежу не є автентифікованим.</translation>
+        <translation>Цей записEплатежсEне сEавтентисE�кованим.</translation>
     </message>
     <message>
         <source>This is an authenticated payment request.</source>
-        <translation>Цей запит платежу є автентифікованим.</translation>
+        <translation>Цей записEплатежсEсEавтентисE�кованим.</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Введіть мітку для цієї адреси для додавання її в список використаних адрес</translation>
+        <translation>ВведітсEмітксEдлсEсE�єсEадресE� длсEдодаваннсEїсEв сE�исE�к викорисE�анисEадресE/translation>
     </message>
     <message>
         <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>Повідомлення, що було додане до litecoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу Litecoin.</translation>
+        <translation>ПовідомленнсE що було додане до litecoin:URI та буде збережено разом з транзаксE�єсEдлсEдовідки. Примітка: Це повідомленнсEне буде відправлено в мережсELitecoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Отримувач:</translation>
+        <translation>ОтримувасE</translation>
     </message>
     <message>
         <source>Memo:</source>
@@ -2025,7 +2025,7 @@
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Введіть мітку для цієї адреси для додавання її в адресну книгу</translation>
+        <translation>ВведітсEмітксEдлсEсE�єсEадресE� длсEдодаваннсEїсEв адресE�сEкнигсE/translation>
     </message>
 </context>
 <context>
@@ -2039,30 +2039,30 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>Не вимикайте комп’ютер до зникнення цього вікна.</translation>
+        <translation>Не вимикайте комп’ютер до зникненнсEсE�ого вікна.</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Підписи - Підпис / Перевірка повідомлення</translation>
+        <translation>ПідписE� - ПідписE/ Перевірка повідомленнсE/translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Підписати повідомлення</translation>
+        <translation>&amp;ПідписE�ти повідомленнсE/translation>
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Ви можете підписувати повідомлення/угоди своїми адресами, щоб довести можливість отримання біткоінів, що будуть надіслані на них. Остерігайтеся підписувати будь-що нечітке чи неочікуване, так як за допомогою фішинг-атаки вас можуть спробувати ввести в оману для отримання вашого підпису під чужими словами. Підписуйте лише чіткі твердження, з якими ви повністю згодні.</translation>
+        <translation>Ви можете підписE�вати повідомленнсEугоди сE�оїми адресE�ми, щоб довесE�и можливісE�сEотриманнсEбіткоінів, що будутсEнадісE�ансEна нисE ОсE�ерігайтесE�EпідписE�вати будсEщо несE�тке сE� неосE�куване, так як за допомогосEсE�шинг-атаки васEможутсEсE�робувати ввесE�и в омансEдлсEотриманнсEвашого підписE�Eпід сE�жими сE�овами. ПідписE�йте лише сE�тксEтвердженнсE з якими ви повнісE�сEзгоднсE</translation>
     </message>
     <message>
         <source>The Litecoin address to sign the message with</source>
-        <translation>Адреса Litecoin для підпису цього повідомлення</translation>
+        <translation>АдресE� Litecoin длсEпідписE�EсE�ого повідомленнсE/translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Обрати ранiш використовувану адресу</translation>
+        <translation>Обрати ранiсEвикорисE�овувансEадресE�E/translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2070,7 +2070,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Вставити адресу</translation>
+        <translation>ВсE�авити адресE�E/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2078,121 +2078,121 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Введіть повідомлення, яке ви хочете підписати тут</translation>
+        <translation>ВведітсEповідомленнсE яке ви сE�сE�те підписE�ти тусE/translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Підпис</translation>
+        <translation>ПідписE/translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Копіювати поточну сигнатуру до системного буферу обміну</translation>
+        <translation>Копіювати потосE�сEсE�гнатурсEдо сE�сE�емного бусE�рсEобмінсE/translation>
     </message>
     <message>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
+        <translation>ПідпишітсEповідомленнсEщоб довесE�и, що ви сEвласE�иком сE�єсEадресE�</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>&amp;Підписати повідомлення</translation>
+        <translation>&amp;ПідписE�ти повідомленнсE/translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Скинути всі поля підпису повідомлення</translation>
+        <translation>Скинути всE�EполсEпідписE�EповідомленнсE/translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Очистити &amp;все</translation>
+        <translation>ОсE�сE�ити &amp;всE�</translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>П&amp;еревірити повідомлення</translation>
+        <translation>ЁEamp;еревірити повідомленнсE/translation>
     </message>
     <message>
         <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-        <translation>Введіть нижче адресу отримувача, повідомлення (впевніться, що ви точно скопіювали символи завершення рядка, табуляцію, пробіли тощо) та підпис для перевірки повідомлення. Впевніться, що в підпис не було додано зайвих символів: це допоможе уникнути атак типу «людина посередині». Зауважте, що це лише засвідчує можливість отримання транзакцій підписувачем, але не в стані підтвердити джерело жодної транзакції!</translation>
+        <translation>ВведітсEнижсE� адресE�EотримувасE�, повідомленнсE(впевнітьсE�E що ви тосE�о сE�опіювали сE�мволи завершеннсEрядка, табулясE�сE пробіли тощо) та підписEдлсEперевірки повідомленнсE ВпевнітьсE�E що в підписEне було додано зайвисEсE�мволів: сE� допоможе уникнути атак типсE«людина посE�редині». Зауважте, що сE� лише засE�ідсE�сEможливісE�сEотриманнсEтранзаксE�й підписE�васE�м, але не в сE�ансEпідтвердити джерело жодносEтранзаксE�сE</translation>
     </message>
     <message>
         <source>The Litecoin address the message was signed with</source>
-        <translation>Адреса Litecoin, якою було підписано це повідомлення</translation>
+        <translation>АдресE� Litecoin, якосEбуло підписE�но сE� повідомленнсE/translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Litecoin-адресою</translation>
+        <translation>Перевірте повідомленнсEдлсEвпевненосE�сE що воно підписE�но вказаносELitecoin-адресE�сE/translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>Пере&amp;вірити повідомлення</translation>
+        <translation>Пере&amp;вірити повідомленнсE/translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Скинути всі поля перевірки повідомлення</translation>
+        <translation>Скинути всE�EполсEперевірки повідомленнсE/translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>Натисніть кнопку «Підписати повідомлення», для отримання підпису</translation>
+        <translation>НатисE�ітсEкнопксE«ПідписE�ти повідомлення», длсEотриманнсEпідписE�E/translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>Введена адреса не співпадає.</translation>
+        <translation>Введена адресE� не сE�івпадасE</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Будь ласка, перевірте адресу та спробуйте ще.</translation>
+        <translation>БудсEласE�а, перевірте адресE�Eта сE�робуйте ще.</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>Введена адреса не відноситься до ключа.</translation>
+        <translation>Введена адресE� не відносE�тьсE�Eдо клюсE�.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Розблокування гаманця було скасоване.</translation>
+        <translation>РозблокуваннсEгамансE�Eбуло сE�асE�ване.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>Приватний ключ для введеної адреси недоступний. </translation>
+        <translation>Приватний клюсEдлсEвведеносEадресE� недосE�упний. </translation>
     </message>
     <message>
         <source>Message signing failed.</source>
-        <translation>Не вдалося підписати повідомлення.</translation>
+        <translation>Не вдалосE�EпідписE�ти повідомленнсE</translation>
     </message>
     <message>
         <source>Message signed.</source>
-        <translation>Повідомлення підписано.</translation>
+        <translation>ПовідомленнсEпідписE�но.</translation>
     </message>
     <message>
         <source>The signature could not be decoded.</source>
-        <translation>Підпис не можливо декодувати.</translation>
+        <translation>ПідписEне можливо декодувати.</translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>Будь ласка, перевірте підпис та спробуйте ще.</translation>
+        <translation>БудсEласE�а, перевірте підписEта сE�робуйте ще.</translation>
     </message>
     <message>
         <source>The signature did not match the message digest.</source>
-        <translation>Підпис не збігається з хешем повідомлення.</translation>
+        <translation>ПідписEне збігаєтьсE�Eз сE�шем повідомленнсE</translation>
     </message>
     <message>
         <source>Message verification failed.</source>
-        <translation>Не вдалося перевірити повідомлення.</translation>
+        <translation>Не вдалосE�Eперевірити повідомленнсE</translation>
     </message>
     <message>
         <source>Message verified.</source>
-        <translation>Повідомлення перевірено.</translation>
+        <translation>ПовідомленнсEперевірено.</translation>
     </message>
 </context>
 <context>
     <name>SplashScreen</name>
     <message>
         <source>[testnet]</source>
-        <translation>[тестова мережа]</translation>
+        <translation>[тесE�ова мережа]</translation>
     </message>
 </context>
 <context>
     <name>TrafficGraphWidget</name>
     <message>
         <source>KB/s</source>
-        <translation>КБ/с</translation>
+        <translation>КЁEсE/translation>
     </message>
 </context>
 <context>
@@ -2203,7 +2203,7 @@
     </message>
     <message>
         <source>Status</source>
-        <translation>Статут</translation>
+        <translation>СтатусE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -2227,11 +2227,11 @@
     </message>
     <message>
         <source>To</source>
-        <translation>Отримувач</translation>
+        <translation>ОтримувасE/translation>
     </message>
     <message>
         <source>own address</source>
-        <translation>Власна адреса</translation>
+        <translation>ВласE�а адресE�</translation>
     </message>
     <message>
         <source>label</source>
@@ -2239,7 +2239,7 @@
     </message>
     <message>
         <source>Credit</source>
-        <translation>Кредит</translation>
+        <translation>КредисE/translation>
     </message>
     <message>
         <source>not accepted</source>
@@ -2247,27 +2247,27 @@
     </message>
     <message>
         <source>Debit</source>
-        <translation>Дебет</translation>
+        <translation>ДебесE/translation>
     </message>
     <message>
         <source>Total debit</source>
-        <translation>Загальний дебет</translation>
+        <translation>Загальний дебесE/translation>
     </message>
     <message>
         <source>Total credit</source>
-        <translation>Загальний кредит</translation>
+        <translation>Загальний кредисE/translation>
     </message>
     <message>
         <source>Transaction fee</source>
-        <translation>Комісія за транзакцію</translation>
+        <translation>КомісE�сEза транзаксE�сE/translation>
     </message>
     <message>
         <source>Net amount</source>
-        <translation>Загальна сума</translation>
+        <translation>Загальна сE�ма</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Повідомлення</translation>
+        <translation>ПовідомленнсE/translation>
     </message>
     <message>
         <source>Comment</source>
@@ -2275,27 +2275,27 @@
     </message>
     <message>
         <source>Transaction ID</source>
-        <translation>ID транзакції</translation>
+        <translation>ID транзаксE�сE/translation>
     </message>
     <message>
         <source>Transaction total size</source>
-        <translation>Розмір транзакції</translation>
+        <translation>Розмір транзаксE�сE/translation>
     </message>
     <message>
         <source>Merchant</source>
-        <translation>Продавець</translation>
+        <translation>ПродавесE�E/translation>
     </message>
     <message>
         <source>Transaction</source>
-        <translation>Транзакція</translation>
+        <translation>ТранзаксE�сE/translation>
     </message>
     <message>
         <source>Inputs</source>
-        <translation>Входи</translation>
+        <translation>ВсE�ди</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>КількісE�сE/translation>
     </message>
     <message>
         <source>true</source>
@@ -2303,18 +2303,18 @@
     </message>
     <message>
         <source>false</source>
-        <translation>хибний</translation>
+        <translation>сE�бний</translation>
     </message>
 </context>
 <context>
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Даний діалог показує детальну статистику по вибраній транзакції</translation>
+        <translation>Даний діалог показусEдетальнсEсE�атисE�иксEпо вибраній транзаксE�сE/translation>
     </message>
     <message>
         <source>Details for %1</source>
-        <translation>Інформація по %1</translation>
+        <translation>ЁE�сE�рмасE�сEпо %1</translation>
     </message>
 </context>
 <context>
@@ -2337,7 +2337,7 @@
     </message>
     <message>
         <source>Offline</source>
-        <translation>Поза мережею</translation>
+        <translation>Поза мережесE/translation>
     </message>
     <message>
         <source>Unconfirmed</source>
@@ -2345,27 +2345,27 @@
     </message>
     <message>
         <source>Abandoned</source>
-        <translation>Відкинуті</translation>
+        <translation>ВідкинутсE/translation>
     </message>
     <message>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Підтверджується (%1 з %2 рекомендованих підтверджень)</translation>
+        <translation>ПідтверджуєтьсE�E(%1 з %2 рекомендованисEпідтвердженсE</translation>
     </message>
     <message>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Підтверджено (%1 підтверджень)</translation>
+        <translation>Підтверджено (%1 підтвердженсE</translation>
     </message>
     <message>
         <source>Conflicted</source>
-        <translation>Суперечить</translation>
+        <translation>СупересE�тсE/translation>
     </message>
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Повністтю не підтверджено (%1 підтверджень, будуть доступні після %2)</translation>
+        <translation>ПовнісE�тсEне підтверджено (%1 підтвердженсE будутсEдосE�упнсEпісE�сE%2)</translation>
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Цей блок не був отриманий жодними іншими вузлами і, ймовірно, не буде прийнятий!</translation>
+        <translation>Цей блок не був отриманий жодними іншими вузлами сE ймовірно, не буде прийнятий!</translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
@@ -2381,66 +2381,66 @@
     </message>
     <message>
         <source>Sent to</source>
-        <translation>Відправлені на</translation>
+        <translation>ВідправленсEна</translation>
     </message>
     <message>
         <source>Payment to yourself</source>
-        <translation>Відправлено собі</translation>
+        <translation>Відправлено сE�бсE/translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Добуті</translation>
+        <translation>ДобутсE/translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>немає мітки</translation>
+        <translation>немасEмітки</translation>
     </message>
     <message>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Статус транзакції. Наведіть вказівник на це поле, щоб показати кількість підтверджень.</translation>
+        <translation>СтатусEтранзаксE�сE НаведітсEвказівник на сE� поле, щоб показати кількісE�сEпідтвердженсE</translation>
     </message>
     <message>
         <source>Date and time that the transaction was received.</source>
-        <translation>Дата і час, коли транзакцію було отримано.</translation>
+        <translation>Дата сEсE�сE коли транзаксE�сEбуло отримано.</translation>
     </message>
     <message>
         <source>Type of transaction.</source>
-        <translation>Тип транзакції.</translation>
+        <translation>Тип транзаксE�сE</translation>
     </message>
     <message>
         <source>User-defined intent/purpose of the transaction.</source>
-        <translation>Визначений користувачем намір чи мета транзакції.</translation>
+        <translation>ВизнасE�ний корисE�увасE�м намір сE� мета транзаксE�сE</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
-        <translation>Сума, додана чи знята з балансу.</translation>
+        <translation>Сума, додана сE� знята з балансE�E</translation>
     </message>
 </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>All</source>
-        <translation>Всі</translation>
+        <translation>ВсE�E/translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Сьогодні</translation>
+        <translation>СьогоднсE/translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>На цьому тижні</translation>
+        <translation>На сE�омсEтижнсE/translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Цього місяця</translation>
+        <translation>Цього місE�сE�E/translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Минулого місяця</translation>
+        <translation>Минулого місE�сE�E/translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>Цього року</translation>
+        <translation>Цього роксE/translation>
     </message>
     <message>
         <source>Range...</source>
@@ -2452,71 +2452,71 @@
     </message>
     <message>
         <source>Sent to</source>
-        <translation>Відправлені на</translation>
+        <translation>ВідправленсEна</translation>
     </message>
     <message>
         <source>To yourself</source>
-        <translation>Відправлені собі</translation>
+        <translation>ВідправленсEсE�бсE/translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Добуті</translation>
+        <translation>ДобутсE/translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Інше</translation>
+        <translation>ЁE�ше</translation>
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>Введіть адресу чи мітку для пошуку</translation>
+        <translation>ВведітсEадресE�EсE� мітксEдлсEпошуксE/translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>Мінімальна сума</translation>
+        <translation>Мінімальна сE�ма</translation>
     </message>
     <message>
         <source>Abandon transaction</source>
-        <translation>Відмовитися від транзакції</translation>
+        <translation>ВідмовитисE�Eвід транзаксE�сE/translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скопіювати адресу</translation>
+        <translation>Скопіювати адресE�E/translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Скопіювати мітку</translation>
+        <translation>Скопіювати мітксE/translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Скопіювати суму</translation>
+        <translation>Скопіювати сE�мсE/translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Скопіювати ID транзакції </translation>
+        <translation>Скопіювати ID транзаксE�сE</translation>
     </message>
     <message>
         <source>Copy raw transaction</source>
-        <translation>Скопіювати RAW транзакцію</translation>
+        <translation>Скопіювати RAW транзаксE�сE/translation>
     </message>
     <message>
         <source>Copy full transaction details</source>
-        <translation>Скопіювати повні деталі транзакції</translation>
+        <translation>Скопіювати повнсEдеталсEтранзаксE�сE/translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Редагувати мітку</translation>
+        <translation>Редагувати мітксE/translation>
     </message>
     <message>
         <source>Show transaction details</source>
-        <translation>Показати деталі транзакції</translation>
+        <translation>Показати деталсEтранзаксE�сE/translation>
     </message>
     <message>
         <source>Export Transaction History</source>
-        <translation>Експортувати історію транзакцій</translation>
+        <translation>ЕксE�ортувати ісE�орісEтранзаксE�й</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>Файли (*.csv) розділеі комами</translation>
+        <translation>Файли (*.csv) розділесEкомами</translation>
     </message>
     <message>
         <source>Confirmed</source>
@@ -2524,7 +2524,7 @@
     </message>
     <message>
         <source>Watch-only</source>
-        <translation>Тільки спостереження:</translation>
+        <translation>Тільки сE�осE�ереженнсE</translation>
     </message>
     <message>
         <source>Date</source>
@@ -2540,22 +2540,22 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>Адреса</translation>
+        <translation>АдресE�</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation>Ідентифікатор</translation>
+        <translation>ЁE�ентисE�катор</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Експортування пройшло не успішно</translation>
+        <translation>ЕксE�ортуваннсEпройшло не усE�ішно</translation>
     </message>
     </context>
 <context>
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>Одиниця виміру монет. Натисніть для вибору іншої.</translation>
+        <translation>ОдинисE�EвимірсEмонесE НатисE�ітсEдлсEвиборсEіншосE</translation>
     </message>
 </context>
 <context>
@@ -2568,31 +2568,31 @@
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Експорт</translation>
+        <translation>&amp;ЕксE�орсE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Експортувати дані з поточної вкладки в файл</translation>
+        <translation>ЕксE�ортувати дансEз потосE�осEвкладки в сE�йл</translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>Зробити резервне копіювання гаманця</translation>
+        <translation>Зробити резервне копіюваннсEгамансE�E/translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation>Данi гаманця (*.dat)</translation>
+        <translation>Данi гамансE�E(*.dat)</translation>
     </message>
     <message>
         <source>Backup Failed</source>
-        <translation>Помилка резервного копіювання</translation>
+        <translation>Помилка резервного копіюваннсE/translation>
     </message>
     <message>
         <source>Backup Successful</source>
-        <translation>Резервну копію створено успішно</translation>
+        <translation>РезервнсEкопісEсE�ворено усE�ішно</translation>
     </message>
     <message>
         <source>The wallet data was successfully saved to %1.</source>
-        <translation>Дані гаманця успішно збережено в %1.</translation>
+        <translation>ДансEгамансE�EусE�ішно збережено в %1.</translation>
     </message>
 </context>
 <context>
@@ -2603,15 +2603,15 @@
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Вкажіть робочий каталог</translation>
+        <translation>ВкажітсEробосE�й каталог</translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Підключитись до вузла, щоб отримати список адрес інших учасників та від'єднатись</translation>
+        <translation>ПідклюсE�тисE�Eдо вузла, щоб отримати сE�исE�к адресEіншисEусE�сE�иків та від'єднатисE�E/translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>Вкажіть вашу власну публічну адресу</translation>
+        <translation>ВкажітсEвашсEвласE�сEпублісE�сEадресE�E/translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
@@ -2619,39 +2619,39 @@
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied or if &lt;category&gt; = 1, output all debugging information.</source>
-        <translation>Якщо &lt;category&gt; не задано, або ж якщо &lt;category&gt; = 1, виводить всю налагоджувальну інформацію.</translation>
+        <translation>Якщо &lt;category&gt; не задано, або ж якщо &lt;category&gt; = 1, виводитсEвсE�EналагоджувальнсEінсE�рмасE�сE</translation>
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
-        <translation>Встановлений розмір ланцюжка блоків є замалим (меншим за %d МіБ). Будь ласка, виберіть більше число.</translation>
+        <translation>ВсE�ановлений розмір лансE�жка блоків сEзамалим (меншим за %d МіЁE. БудсEласE�а, виберітсEбільше сE�сE�о.</translation>
     </message>
     <message>
         <source>Prune: last wallet synchronisation goes beyond pruned data. You need to -reindex (download the whole blockchain again in case of pruned node)</source>
-        <translation>Операція відсікання: остання синхронізація вмісту гаманцю не обмежується діями над скороченими данними. Вам необхідно зробити переіндексацію -reindex (заново завантажити веcь ланцюжок блоків в разі появи скороченого ланцюга)</translation>
+        <translation>ОперасE�сEвідсE�каннсE осE�аннсEсE�нсE�онізасE�сEвмісE�сEгамансE�Eне обмежуєтьсE�Eдіями над сE�оросE�ними данними. Вам необсE�дно зробити переіндексE�сE�сE-reindex (заново завантажити веcсEлансE�жок блоків в разсEпояви сE�оросE�ного лансE�га)</translation>
     </message>
     <message>
         <source>Rescans are not possible in pruned mode. You will need to use -reindex which will download the whole blockchain again.</source>
-        <translation>Неможливо провести повторне сканування зі скороченим ланцюжком. Вам необхідно використати -reindex для завантаження повного ланцюжка блоків.</translation>
+        <translation>Неможливо провесE�и повторне сE�ануваннсEзсEсE�оросE�ним лансE�жком. Вам необсE�дно викорисE�ати -reindex длсEзавантаженнсEповного лансE�жка блоків.</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occurred, see debug.log for details</source>
-        <translation>Помилка: Сталася фатальна помилка (детальніший опис наведено в debug.log)</translation>
+        <translation>Помилка: СталасE�EсE�тальна помилка (детальніший описEнаведено в debug.log)</translation>
     </message>
     <message>
         <source>Fee (in %s/kB) to add to transactions you send (default: %s)</source>
-        <translation>Комісія (в %s/КБ), що додаватиметься до вихідних транзакцій (типово: %s)</translation>
+        <translation>КомісE�сE(в %s/КЁE, що додаватиметьсE�Eдо висE�днисEтранзаксE�й (типово: %s)</translation>
     </message>
     <message>
         <source>Pruning blockstore...</source>
-        <translation>Скорочення кількості блоків...</translation>
+        <translation>СкоросE�ннсEкількосE�сEблоків...</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Запустити в фоновому режимі (як демон) та приймати команди</translation>
+        <translation>ЗапусE�ити в сE�новомсEрежимсE(як демон) та приймати команди</translation>
     </message>
     <message>
         <source>Unable to start HTTP server. See debug log for details.</source>
-        <translation>Неможливо запустити HTTP-сервер. Детальніший опис наведено в журналі зневадження.</translation>
+        <translation>Неможливо запусE�ити HTTP-сE�рвер. Детальніший описEнаведено в журналсEзневадженнсE</translation>
     </message>
     <message>
         <source>Litecoin Core</source>
@@ -2659,31 +2659,31 @@
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Прив'язатися до даної адреси та прослуховувати її. Використовуйте запис виду [хост]:порт для IPv6</translation>
+        <translation>Прив'язатисE�Eдо даносEадресE� та просE�усE�вувати їсE ВикорисE�овуйте записEвидсE[сE�сE�E:порсEдлсEIPv6</translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>Видалити всі транзакції гаманця та відновити ті, що будуть знайдені під час запуску за допомогою -rescan</translation>
+        <translation>Видалити всE�EтранзаксE�сEгамансE�Eта відновити тсE що будутсEзнайденсEпід сE�сEзапусE�сEза допомогосE-rescan</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Виконати команду, коли транзакція гаманця зміниться (замість %s в команді буде підставлено ідентифікатор транзакції)</translation>
+        <translation>Виконати командсE коли транзаксE�сEгамансE�EзмінитьсE�E(замісE�сE%s в командсEбуде підсE�авлено ідентисE�катор транзаксE�сE</translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>Встановити кількість потоків скрипту перевірки (від %u до %d, 0 = автоматично, &lt;0 = вказує кількість вільних ядер, типово: %d)</translation>
+        <translation>ВсE�ановити кількісE�сEпотоків сE�риптсEперевірки (від %u до %d, 0 = автоматисE�о, &lt;0 = вказусEкількісE�сEвільнисEядер, типово: %d)</translation>
     </message>
     <message>
         <source>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</source>
-        <translation>Схоже, що база даних блоків містить блок з майбутнього. Це може статися із-за некоректно встановленої дати та/або часу. Перебудовуйте базу даних блоків лише тоді, коли ви переконані, що встановлено правильну дату і час</translation>
+        <translation>СсE�же, що база данисEблоків місE�итсEблок з майбутнього. Це може сE�атисE�Eіз-за некоректно всE�ановленосEдати та/або сE�сE�E Перебудовуйте базсEданисEблоків лише тодсE коли ви переконансE що всE�ановлено правильнсEдатсEсEсE�сE/translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
-        <translation>Використовувати UPnP для відображення порту, що прослуховується (типово: 1 при прослуховуванні та за відсутності -proxy)</translation>
+        <translation>ВикорисE�овувати UPnP длсEвідображеннсEпортсE що просE�усE�вуєтьсE�E(типово: 1 при просE�усE�вуваннсEта за відсE�тносE�сE-proxy)</translation>
     </message>
     <message>
         <source>-maxmempool must be at least %d MB</source>
-        <translation>-maxmempool має бути не менше %d МБ</translation>
+        <translation>-maxmempool масEбути не менше %d МЁE/translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
@@ -2691,147 +2691,147 @@
     </message>
     <message>
         <source>Block creation options:</source>
-        <translation>Опції створення блоку:</translation>
+        <translation>ОпсE�сEсE�вореннсEблоксE</translation>
     </message>
     <message>
         <source>Connection options:</source>
-        <translation>Параметри з'єднання:</translation>
+        <translation>Параметри з'єднаннсE</translation>
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>
-        <translation>Всі права збережено. %i-%i</translation>
+        <translation>ВсE�Eправа збережено. %i-%i</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
-        <translation>Виявлено пошкоджений блок бази даних</translation>
+        <translation>Виявлено пошкоджений блок бази данисE/translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
-        <translation>Параметри тестування/налагодження:</translation>
+        <translation>Параметри тесE�уваннсEналагодженнсE</translation>
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Не завантажувати гаманець та вимкнути звернення до нього через RPC</translation>
+        <translation>Не завантажувати гаманесE�Eта вимкнути зверненнсEдо нього сE�рез RPC</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Ви хочете перебудувати базу даних блоків зараз?</translation>
+        <translation>Ви сE�сE�те перебудувати базсEданисEблоків зараз?</translation>
     </message>
     <message>
         <source>Enable publish hash block in &lt;address&gt;</source>
-        <translation>Дозволено введення хеш блоку в рядок &lt;address&gt;</translation>
+        <translation>Дозволено введеннсEсE�сEблоксEв рядок &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish hash transaction in &lt;address&gt;</source>
-        <translation>Дозволено введення хеш транзакції в рядок &lt;address&gt;</translation>
+        <translation>Дозволено введеннсEсE�сEтранзаксE�сEв рядок &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw block in &lt;address&gt;</source>
-        <translation>Дозволено введення RAW блоку в рядок &lt;address&gt;</translation>
+        <translation>Дозволено введеннсERAW блоксEв рядок &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw transaction in &lt;address&gt;</source>
-        <translation>Дозволено введення RAW транзакції в рядок &lt;address&gt;</translation>
+        <translation>Дозволено введеннсERAW транзаксE�сEв рядок &lt;address&gt;</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Помилка ініціалізації бази даних блоків</translation>
+        <translation>Помилка інісE�алізасE�сEбази данисEблоків</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Помилка ініціалізації середовища бази даних гаманця %s!</translation>
+        <translation>Помилка інісE�алізасE�сEсE�редовища бази данисEгамансE�E%s!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>Помилка завантаження бази даних блоків</translation>
+        <translation>Помилка завантаженнсEбази данисEблоків</translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>Помилка відкриття блоку бази даних </translation>
+        <translation>Помилка відкриттсEблоксEбази данисE</translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>Помилка: Мало вільного місця на диску!</translation>
+        <translation>Помилка: Мало вільного місE�E�Eна дисE�сE</translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Не вдалося слухати на жодному порту. Використовуйте -listen=0, якщо ви хочете цього.</translation>
+        <translation>Не вдалосE�EсE�усE�ти на жодномсEпортсE ВикорисE�овуйте -listen=0, якщо ви сE�сE�те сE�ого.</translation>
     </message>
     <message>
         <source>Importing...</source>
-        <translation>Імпорт...</translation>
+        <translation>ЁE�порсE..</translation>
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Початковий блок некоректний/відсутній. Чи правильно вказано каталог даних для обраної мережі?</translation>
+        <translation>ПосE�тковий блок некоректний/відсE�тній. Чи правильно вказано каталог данисEдлсEобраносEмережсE</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
-        <translation>Помилка в адресі -onion: «%s»</translation>
+        <translation>Помилка в адресE�E-onion: «%s»</translation>
     </message>
     <message>
         <source>Keep the transaction memory pool below &lt;n&gt; megabytes (default: %u)</source>
-        <translation>Утримувати розмір пам'яті для пулу транзакцій меншим за &lt;n&gt; мегабайтів (типово: %u)</translation>
+        <translation>Утримувати розмір пам'ятсEдлсEпулсEтранзаксE�й меншим за &lt;n&gt; мегабайтів (типово: %u)</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>Бракує доступних дескрипторів файлів.</translation>
+        <translation>БракусEдосE�упнисEдесE�рипторів сE�йлів.</translation>
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>Підключатися тільки до вузлів в мережі &lt;net&gt; (ipv4, ipv6 або onion)</translation>
+        <translation>ПідклюсE�тисE�Eтільки до вузлів в мережсE&lt;net&gt; (ipv4, ipv6 або onion)</translation>
     </message>
     <message>
         <source>Print this help message and exit</source>
-        <translation>Надрукувати це довідкове повідомлення та вийти</translation>
+        <translation>Надрукувати сE� довідкове повідомленнсEта вийти</translation>
     </message>
     <message>
         <source>Print version and exit</source>
-        <translation>Версія для друку і виходу</translation>
+        <translation>ВерсE�сEдлсEдруксEсEвисE�дсE/translation>
     </message>
     <message>
         <source>Prune cannot be configured with a negative value.</source>
-        <translation>Розмір скороченого ланцюжка блоків не може бути від'ємним. </translation>
+        <translation>Розмір сE�оросE�ного лансE�жка блоків не може бути від'ємним. </translation>
     </message>
     <message>
         <source>Prune mode is incompatible with -txindex.</source>
-        <translation>Використання скороченого ланцюжка блоків несумісне з параметром -txindex.</translation>
+        <translation>ВикорисE�аннсEсE�оросE�ного лансE�жка блоків несE�місE�е з параметром -txindex.</translation>
     </message>
     <message>
         <source>Rewinding blocks...</source>
-        <translation>Відтворення блоків...</translation>
+        <translation>ВідтвореннсEблоків...</translation>
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>Встановити розмір кешу бази даних в мегабайтах (від %d до %d, типово: %d)</translation>
+        <translation>ВсE�ановити розмір кешсEбази данисEв мегабайтасE(від %d до %d, типово: %d)</translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>Встановити максимальний розмір блоку у байтах (типово: %d)</translation>
+        <translation>ВсE�ановити максE�мальний розмір блоксEсEбайтасE(типово: %d)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Вкажіть файл гаманця (в межах каталогу даних)</translation>
+        <translation>ВкажітсEсE�йл гамансE�E(в межасEкаталогсEданисE</translation>
     </message>
     <message>
         <source>Unsupported argument -benchmark ignored, use -debug=bench.</source>
-        <translation>Параметр -benchmark не підтримується та буде проігноровано; використовуйте -debug=bench.</translation>
+        <translation>Параметр -benchmark не підтримуєтьсE�Eта буде проігноровано; викорисE�овуйте -debug=bench.</translation>
     </message>
     <message>
         <source>Unsupported argument -debugnet ignored, use -debug=net.</source>
-        <translation>Параметр -debugnet не підтримується та буде проігноровано; використовуйте -debug=net.</translation>
+        <translation>Параметр -debugnet не підтримуєтьсE�Eта буде проігноровано; викорисE�овуйте -debug=net.</translation>
     </message>
     <message>
         <source>Unsupported argument -tor found, use -onion.</source>
-        <translation>Параметр -tor не підтримується; використовуйте -onion.</translation>
+        <translation>Параметр -tor не підтримуєтьсE�E викорисE�овуйте -onion.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
-        <translation>Використовувати UPnP для відображення порту, що прослуховується (типово: %u)</translation>
+        <translation>ВикорисE�овувати UPnP длсEвідображеннсEпортсE що просE�усE�вуєтьсE�E(типово: %u)</translation>
     </message>
     <message>
         <source>User Agent comment (%s) contains unsafe characters.</source>
-        <translation>Коментар до Клієнта Користувача (%s) містить небезпечні символи.</translation>
+        <translation>Коментар до Клієнта КорисE�увасE� (%s) місE�итсEнебезпесE�сEсE�мволи.</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2839,79 +2839,79 @@
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>Перевірка гаманця... </translation>
+        <translation>Перевірка гамансE�E.. </translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>Гаманець %s знаходиться поза каталогом даних %s</translation>
+        <translation>ГаманесE�E%s знасE�дитьсE�Eпоза каталогом данисE%s</translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Параметри гаманця:</translation>
+        <translation>Параметри гамансE�E</translation>
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-        <translation>Дозволити підключення по протоколу JSON-RPC зі вказаного джерела. Правильною для &lt;ip&gt; є окрема IP-адреса (наприклад, 1.2.3.4), IP-адреса та маска підмережі (наприклад, 1.2.3.4/255.255.255.0) або CIDR-адреса (наприклад, 1.2.3.4/24). Цей параметр можна вказувати декілька разів.</translation>
+        <translation>Дозволити підклюсE�ннсEпо протоколсEJSON-RPC зсEвказаного джерела. ПравильносEдлсE&lt;ip&gt; сEокрема IP-адресE� (наприклад, 1.2.3.4), IP-адресE� та масE�а підмережсE(наприклад, 1.2.3.4/255.255.255.0) або CIDR-адресE� (наприклад, 1.2.3.4/24). Цей параметр можна вказувати декілька разів.</translation>
     </message>
     <message>
         <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-        <translation>Прив'язатися до даної адреси та вносити до білого списку учасників, що під'єднуються до неї. Використовуйте запис виду [хост]:порт для IPv6</translation>
+        <translation>Прив'язатисE�Eдо даносEадресE� та вносE�ти до білого сE�исE�сEусE�сE�иків, що під'єднуютьсE�Eдо несE ВикорисE�овуйте записEвидсE[сE�сE�E:порсEдлсEIPv6</translation>
     </message>
     <message>
         <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
-        <translation>Прив'язатися до даної адреси для прослуховування JSON-RPC підключень. Використовуйте запис виду [хост]:порт для IPv6. Цей параметр можна вказувати декілька разів (типово: прив'язуватися до всіх інтерфейсів)</translation>
+        <translation>Прив'язатисE�Eдо даносEадресE� длсEпросE�усE�вуваннсEJSON-RPC підклюсE�нсE ВикорисE�овуйте записEвидсE[сE�сE�E:порсEдлсEIPv6. Цей параметр можна вказувати декілька разів (типово: прив'язуватисE�Eдо всE�сEінтерсE�йсE�в)</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-        <translation>Створювати нові файли з типовими для системи атрибутами доступу замість маски 077 (діє тільки при вимкненому гаманці)</translation>
+        <translation>Створювати новсEсE�йли з типовими длсEсE�сE�еми атрибутами досE�упсEзамісE�сEмасE�и 077 (дісEтільки при вимкненомсEгамансE�E</translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
-        <translation>Визначити власні IP-адреси (типово: 1 при прослуховуванні та за відсутності -externalip або -proxy)</translation>
+        <translation>ВизнасE�ти власE�сEIP-адресE� (типово: 1 при просE�усE�вуваннсEта за відсE�тносE�сE-externalip або -proxy)</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
-        <translation>Помилка: Не вдалося налаштувати прослуховування вхідних підключень (listen повернув помилку: %s)</translation>
+        <translation>Помилка: Не вдалосE�Eналаштувати просE�усE�вуваннсEвсE�днисEпідклюсE�нсE(listen повернув помилксE %s)</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Виконати команду при надходженні важливого сповіщення або при спостереженні тривалого розгалуження ланцюжка (замість %s буде підставлено повідомлення)</translation>
+        <translation>Виконати командсEпри надсE�дженнсEважливого сE�овіщеннсEабо при сE�осE�ереженнсEтривалого розгалуженнсEлансE�жка (замісE�сE%s буде підсE�авлено повідомленнсE</translation>
     </message>
     <message>
         <source>Fees (in %s/kB) smaller than this are considered zero fee for relaying, mining and transaction creation (default: %s)</source>
-        <translation>Комісії (в %s/kB), що менші за вказану, вважатимуться нульовими для зміни, аналізу та створення транзакцій (типово: %s)</translation>
+        <translation>КомісE�сE(в %s/kB), що меншсEза вказансE вважатимутьсE�Eнульовими длсEзміни, аналізсEта сE�вореннсEтранзаксE�й (типово: %s)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
-        <translation>Якщо параметр paytxfee не встановлено, включити комісію для отримання перших підтверджень транзакцій протягом n блоків (типово: %u)</translation>
+        <translation>Якщо параметр paytxfee не всE�ановлено, вклюсE�ти комісE�сEдлсEотриманнсEпершисEпідтвердженсEтранзаксE�й протягом n блоків (типово: %u)</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-        <translation>Неприпустима сума для -maxtxfee = &lt;amount&gt;: «%s» ( плата повинна бути, принаймні %s, щоб запобігти зависанню транзакцій)</translation>
+        <translation>НеприпусE�има сE�ма длсE-maxtxfee = &lt;amount&gt;: «%s» ( плата повинна бути, принаймнсE%s, щоб запобігти зависE�ннсEтранзаксE�й)</translation>
     </message>
     <message>
         <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
-        <translation>Максимальний розмір даних в транзакціях носіїв даних, що ми передаємо і добуваємо (за замовчуванням: %u)</translation>
+        <translation>МаксE�мальний розмір данисEв транзаксE�ясEносE�їв данисE що ми передаємо сEдобуваємо (за замовсE�ванням: %u)</translation>
     </message>
     <message>
         <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
-        <translation>Надавати випадкові дані доступу для кожного проксі-з'єднання. Це дозволяє ввімкнути ізоляцію потоків Tor'у (типово: %u)</translation>
+        <translation>Надавати випадковсEдансEдосE�упсEдлсEкожного проксE�Eз'єднаннсE Це дозволясEввімкнути ізолясE�сEпотоків Tor'сE(типово: %u)</translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>Встановити максимальний розмір транзакцій з високим пріоритетом та низькою комісією (в байтах) (типово: %d)</translation>
+        <translation>ВсE�ановити максE�мальний розмір транзаксE�й з висE�ким пріоритетом та низькосEкомісE�єсE(в байтасE (типово: %d)</translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>
-        <translation>Залишок від суми транзакції зі сплатою комісії занадто малий </translation>
+        <translation>Залишок від сE�ми транзаксE�сEзсEсE�латосEкомісE�сEзанадто малий </translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>Учасники, що знаходяться в білому списку, не можуть бути заблоковані за DoS та їхні транзакції завжди ретранслюватимуться (навіть якщо вони є в пам'яті), що може бути корисним, наприклад, для шлюзу</translation>
+        <translation>УсE�сE�ики, що знасE�дятьсE�Eв біломсEсE�исE�сE не можутсEбути заблоковансEза DoS та їсE�сEтранзаксE�сEзавжди ретрансE�юватимутьсE�E(навітсEякщо вони сEв пам'ятсE, що може бути корисE�им, наприклад, длсEшлюзсE/translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to go back to unpruned mode.  This will redownload the entire blockchain</source>
-        <translation>Вам необхідно перебудувати базу даних з використанням -reindex для завантаження повного ланцюжка блоків.</translation>
+        <translation>Вам необсE�дно перебудувати базсEданисEз викорисE�анням -reindex длсEзавантаженнсEповного лансE�жка блоків.</translation>
     </message>
     <message>
         <source>(default: %u)</source>
@@ -2919,203 +2919,203 @@
     </message>
     <message>
         <source>Accept public REST requests (default: %u)</source>
-        <translation>Приймати публічні REST-запити (типово: %u)</translation>
+        <translation>Приймати публісE�сEREST-запити (типово: %u)</translation>
     </message>
     <message>
         <source>Automatically create Tor hidden service (default: %d)</source>
-        <translation>Автоматичне з'єднання з прихованим сервісом Tor (типово: %d)</translation>
+        <translation>АвтоматисE�е з'єднаннсEз присE�ваним сE�рвісE�м Tor (типово: %d)</translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>
-        <translation>Підключитись через SOCKS5-проксі</translation>
+        <translation>ПідклюсE�тисE�EсE�рез SOCKS5-проксE�E/translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
-        <translation>Помилка читання бази даних, припиняю роботу.</translation>
+        <translation>Помилка сE�таннсEбази данисE припинясEроботсE</translation>
     </message>
     <message>
         <source>Imports blocks from external blk000??.dat file on startup</source>
-        <translation>Спочатку імпортує блоки з зовнішнього файлу blk000??.dat </translation>
+        <translation>СпосE�тксEімпортусEблоки з зовнішнього сE�йлсEblk000??.dat </translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Інформація</translation>
+        <translation>ЁE�сE�рмасE�сE/translation>
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>Вказано некоректну суму для параметру -paytxfee: «%s» (повинно бути щонайменше %s)</translation>
+        <translation>Вказано некоректнсEсE�мсEдлсEпараметрсE-paytxfee: «%s» (повинно бути щонайменше %s)</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>Вказано неправильну маску підмережі для -whitelist: «%s»</translation>
+        <translation>Вказано неправильнсEмасE�сEпідмережсEдлсE-whitelist: «%s»</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
-        <translation>Утримувати в пам'яті щонайбільше &lt;n&gt; транзакцій, що споживають невідомі входи (типово: %u)</translation>
+        <translation>Утримувати в пам'ятсEщонайбільше &lt;n&gt; транзаксE�й, що сE�оживаютсEневідомсEвсE�ди (типово: %u)</translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>Необхідно вказати порт для -whitebind: «%s»</translation>
+        <translation>НеобсE�дно вказати порсEдлсE-whitebind: «%s»</translation>
     </message>
     <message>
         <source>Node relay options:</source>
-        <translation>Параметри вузла ретрансляції:</translation>
+        <translation>Параметри вузла ретрансE�ясE�сE</translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>Параметри сервера RPC:</translation>
+        <translation>Параметри сE�рвера RPC:</translation>
     </message>
     <message>
         <source>Reducing -maxconnections from %d to %d, because of system limitations.</source>
-        <translation>Зменшення значення -maxconnections з %d до %d із-за обмежень системи.</translation>
+        <translation>ЗменшеннсEзнасE�ннсE-maxconnections з %d до %d із-за обмеженсEсE�сE�еми.</translation>
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions on startup</source>
-        <translation>Спочатку переглянте ланцюжок блоків на наявність втрачених транзакцій гаманця</translation>
+        <translation>СпосE�тксEпереглянте лансE�жок блоків на наявнісE�сEвтрасE�нисEтранзаксE�й гамансE�E/translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Відсилати налагоджувальну інформацію на консоль, а не у файл debug.log</translation>
+        <translation>ВідсE�лати налагоджувальнсEінсE�рмасE�сEна консE�лсE а не сEсE�йл debug.log</translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>Не сплачувати комісію за надсилання транзакцій, якщо це можливо (типово: %u)</translation>
+        <translation>Не сE�ласE�вати комісE�сEза надсE�ланнсEтранзаксE�й, якщо сE� можливо (типово: %u)</translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Показати всі налагоджувальні параметри (використання: --help -help-debug)</translation>
+        <translation>Показати всE�EналагоджувальнсEпараметри (викорисE�аннсE --help -help-debug)</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Стискати файл debug.log під час старту клієнта (типово: 1 коли відсутній параметр -debug)</translation>
+        <translation>СтисE�ати сE�йл debug.log під сE�сEсE�артсEклієнта (типово: 1 коли відсE�тній параметр -debug)</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>Підписання транзакції не вдалося</translation>
+        <translation>ПідписE�ннсEтранзаксE�сEне вдалосE�E/translation>
     </message>
     <message>
         <source>The transaction amount is too small to pay the fee</source>
-        <translation>Неможливо сплатити комісію із-за малої суми транзакції</translation>
+        <translation>Неможливо сE�латити комісE�сEіз-за малосEсE�ми транзаксE�сE/translation>
     </message>
     <message>
         <source>This is experimental software.</source>
-        <translation>Це програмне забезпечення є експериментальним.</translation>
+        <translation>Це програмне забезпесE�ннсEсEексE�ериментальним.</translation>
     </message>
     <message>
         <source>Tor control port password (default: empty)</source>
-        <translation>Пароль управління порт протоколом Tor (типово: empty)</translation>
+        <translation>ПаролсEуправліннсEпорсEпротоколом Tor (типово: empty)</translation>
     </message>
     <message>
         <source>Tor control port to use if onion listening enabled (default: %s)</source>
-        <translation>Скористайтесь управлінням порт протоколом Tor, в разі перехоплення обміну цибулевої маршрутизації (типово: %s)</translation>
+        <translation>СкорисE�айтесE�Eуправлінням порсEпротоколом Tor, в разсEпересE�пленнсEобмінсEсE�булевосEмаршрутизасE�сE(типово: %s)</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>Сума транзакції занадто мала</translation>
+        <translation>Сума транзаксE�сEзанадто мала</translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
-        <translation>Транзакція занадто велика для правил комісії</translation>
+        <translation>ТранзаксE�сEзанадто велика длсEправил комісE�сE/translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>Транзакція занадто велика</translation>
+        <translation>ТранзаксE�сEзанадто велика</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>Неможливо прив'язатися до %s на цьому комп'ютері (bind повернув помилку: %s)</translation>
+        <translation>Неможливо прив'язатисE�Eдо %s на сE�омсEкомп'ютерсE(bind повернув помилксE %s)</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format on startup</source>
-        <translation>Спочатку оновіть гаманець до останньої версії</translation>
+        <translation>СпосE�тксEоновітсEгаманесE�Eдо осE�анньосEверсE�сE/translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>Ім'я користувача для JSON-RPC-з'єднань</translation>
+        <translation>ЁE�'сEкорисE�увасE� длсEJSON-RPC-з'єднансE/translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Попередження</translation>
+        <translation>ПопередженнсE/translation>
     </message>
     <message>
         <source>Whether to operate in a blocks only mode (default: %u)</source>
-        <translation>Чи слід працювати в режимі тільки блоки (типово: %u)</translation>
+        <translation>Чи сE�ід прасE�вати в режимсEтільки блоки (типово: %u)</translation>
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
-        <translation>Видалення всіх транзакцій з гаманця...</translation>
+        <translation>ВидаленнсEвсE�сEтранзаксE�й з гамансE�E..</translation>
     </message>
     <message>
         <source>ZeroMQ notification options:</source>
-        <translation>Параметри сповіщень ZeroMQ:</translation>
+        <translation>Параметри сE�овіщенсEZeroMQ:</translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>Пароль для JSON-RPC-з'єднань</translation>
+        <translation>ПаролсEдлсEJSON-RPC-з'єднансE/translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Виконати команду, коли з'явиться новий блок (%s в команді змінюється на хеш блоку)</translation>
+        <translation>Виконати командсE коли з'явитьсE�Eновий блок (%s в командсEзмінюєтьсE�Eна сE�сEблоксE</translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Дозволити пошук в DNS для команд -addnode, -seednode та -connect</translation>
+        <translation>Дозволити пошук в DNS длсEкоманд -addnode, -seednode та -connect</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Завантаження адрес...</translation>
+        <translation>ЗавантаженнсEадресE..</translation>
     </message>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
-        <translation>(1 = утримувати метадані транзакцій (до яких відноситься інформація про власника рахунку та запити платежів), 2 - відкинути)</translation>
+        <translation>(1 = утримувати метадансEтранзаксE�й (до якисEвідносE�тьсE�EінсE�рмасE�сEпро власE�ика расE�нксEта запити платежів), 2 - відкинути)</translation>
     </message>
     <message>
         <source>-maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
-        <translation>Встановлено дуже велике значення -maxtxfee! Такі великі комісії можуть бути сплачені окремою транзакцією.</translation>
+        <translation>ВсE�ановлено дуже велике знасE�ннсE-maxtxfee! ТаксEвеликсEкомісE�сEможутсEбути сE�ласE�нсEокремосEтранзаксE�єсE</translation>
     </message>
     <message>
         <source>Do not keep transactions in the mempool longer than &lt;n&gt; hours (default: %u)</source>
-        <translation>Не тримати транзакції в пам'яті довше &lt;n&gt; годин (типово: %u)</translation>
+        <translation>Не тримати транзаксE�сEв пам'ятсEдовше &lt;n&gt; годин (типово: %u)</translation>
     </message>
     <message>
         <source>Fees (in %s/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Комісії (в %s/kB), що менші за вказану, вважатимуться нульовими для створення транзакцій (типово: %s)</translation>
+        <translation>КомісE�сE(в %s/kB), що меншсEза вказансE вважатимутьсE�Eнульовими длсEсE�вореннсEтранзаксE�й (типово: %s)</translation>
     </message>
     <message>
         <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-        <translation>Рівень ретельності перевірки блоків (0-4, типово: %u)</translation>
+        <translation>РівенсEретельносE�сEперевірки блоків (0-4, типово: %u)</translation>
     </message>
     <message>
         <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
-        <translation>Утримувати повний індекс транзакцій (використовується RPC-викликом getrawtransaction) (типово: %u)</translation>
+        <translation>Утримувати повний індексEтранзаксE�й (викорисE�овуєтьсE�ERPC-викликом getrawtransaction) (типово: %u)</translation>
     </message>
     <message>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-        <translation>Час в секундах, протягом якого відключені учасники з поганою поведінкою не зможуть підключитися (типово: %u)</translation>
+        <translation>ЧасEв сE�кундасE протягом якого відклюсE�нсEусE�сE�ики з поганосEповедінкосEне зможутсEпідклюсE�тисE�E(типово: %u)</translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>Виводити налагоджувальну інформацію (типово: %u, вказання &lt;category&gt; необов'язкове)</translation>
+        <translation>Виводити налагоджувальнсEінсE�рмасE�сE(типово: %u, вказаннсE&lt;category&gt; необов'язкове)</translation>
     </message>
     <message>
         <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>
-        <translation>Фільтрація блоків та транзакцій з допомогою фільтрів Блума (типово: %u)</translation>
+        <translation>ФільтрасE�сEблоків та транзаксE�й з допомогосEсE�льтрів Блума (типово: %u)</translation>
     </message>
     <message>
         <source>Total length of network version string (%i) exceeds maximum length (%i). Reduce the number or size of uacomments.</source>
-        <translation>Загальна довжина рядку мережевої версії (%i) перевищує максимально допустиму (%i). Зменшіть число чи розмір коментарів клієнта користувача.</translation>
+        <translation>Загальна довжина рядксEмережевосEверсE�сE(%i) перевищусEмаксE�мально допусE�имсE(%i). ЗменшітсEсE�сE�о сE� розмір коментарів клієнта корисE�увасE�.</translation>
     </message>
     <message>
         <source>Tries to keep outbound traffic under the given target (in MiB per 24h), 0 = no limit (default: %d)</source>
-        <translation>Намагається зберегти вихідний трафік відповідно до зданого значення (в MIB за 24 години), 0 = без обмежень (типово: %d)</translation>
+        <translation>НамагаєтьсE�Eзберегти висE�дний трасE�к відповідно до зданого знасE�ннсE(в MIB за 24 години), 0 = без обмеженсE(типово: %d)</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation>Параметр -socks не підтримується. Можливість вказувати версію SOCKS було видалено, так як підтримується лише SOCKS5.</translation>
+        <translation>Параметр -socks не підтримуєтьсE�E МожливісE�сEвказувати версE�сESOCKS було видалено, так як підтримуєтьсE�Eлише SOCKS5.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-        <translation>Використовувати окремий SOCKS5-проксі для з'єднання з учасниками через приховані сервіси Tor (типово: %s)</translation>
+        <translation>ВикорисE�овувати окремий SOCKS5-проксE�EдлсEз'єднаннсEз усE�сE�иками сE�рез присE�вансEсE�рвісE� Tor (типово: %s)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3123,119 +3123,119 @@
     </message>
     <message>
         <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-        <translation>Завжди дізнаватися адреси учасників через DNS (типово: %u)</translation>
+        <translation>Завжди дізнаватисE�EадресE� усE�сE�иків сE�рез DNS (типово: %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>Скільки блоків перевіряти під час запуску (типово: %u, 0 = всі)</translation>
+        <translation>Скільки блоків перевіряти під сE�сEзапусE�сE(типово: %u, 0 = всE�E</translation>
     </message>
     <message>
         <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>Включити IP-адреси до налагоджувального виводу (типово: %u)</translation>
+        <translation>ВклюсE�ти IP-адресE� до налагоджувального виводсE(типово: %u)</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>Помилка в адресі проксі-сервера: «%s»</translation>
+        <translation>Помилка в адресE�EпроксE�EсE�рвера: «%s»</translation>
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Прослуховувати &lt;port&gt; для JSON-RPC з'єднань (типово: %u, для тестової мережі: %u)</translation>
+        <translation>ПросE�усE�вувати &lt;port&gt; длсEJSON-RPC з'єднансE(типово: %u, длсEтесE�овосEмережсE %u)</translation>
     </message>
     <message>
         <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Чекати на з'єднання на &lt;port&gt; (типово: %u, для тестової мережі: %u)</translation>
+        <translation>Чекати на з'єднаннсEна &lt;port&gt; (типово: %u, длсEтесE�овосEмережсE %u)</translation>
     </message>
     <message>
         <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>Підтримувати щонайбільше &lt;n&gt; з'єднань з учасниками (типово: %u)</translation>
+        <translation>Підтримувати щонайбільше &lt;n&gt; з'єднансEз усE�сE�иками (типово: %u)</translation>
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
-        <translation>Дозволити гаманцю розповсюджувати транзакції</translation>
+        <translation>Дозволити гамансE�EрозповсE�джувати транзаксE�сE/translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Максимальний розмір вхідного буферу на одне з'єднання, &lt;n&gt;*1000 байтів (типово: %u)</translation>
+        <translation>МаксE�мальний розмір всE�дного бусE�рсEна одне з'єднаннсE &lt;n&gt;*1000 байтів (типово: %u)</translation>
     </message>
     <message>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Максимальний розмір вихідного буферу на одне з'єднання, &lt;n&gt;*1000 байтів (типово: %u)</translation>
+        <translation>МаксE�мальний розмір висE�дного бусE�рсEна одне з'єднаннсE &lt;n&gt;*1000 байтів (типово: %u)</translation>
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: %u)</source>
-        <translation>Доповнювати налагоджувальний вивід відміткою часу (типово: %u)</translation>
+        <translation>Доповнювати налагоджувальний вивід відміткосEсE�сE�E(типово: %u)</translation>
     </message>
     <message>
         <source>Relay and mine data carrier transactions (default: %u)</source>
-        <translation>Ретранслювати та створювати транзакції носіїв даних (типово: %u)</translation>
+        <translation>РетрансE�ювати та сE�ворювати транзаксE�сEносE�їв данисE(типово: %u)</translation>
     </message>
     <message>
         <source>Relay non-P2SH multisig (default: %u)</source>
-        <translation>Ретранслювати не-P2SH транзакції з мультипідписом (типово: %u)</translation>
+        <translation>РетрансE�ювати не-P2SH транзаксE�сEз мультипідписE�м (типово: %u)</translation>
     </message>
     <message>
         <source>Send transactions with full-RBF opt-in enabled (default: %u)</source>
-        <translation>Надіслати транзакції з увімкненням full-RBF opt-in (типово: %u)</translation>
+        <translation>НадісE�ати транзаксE�сEз увімкненням full-RBF opt-in (типово: %u)</translation>
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>Встановити розмір пулу ключів &lt;n&gt; (типово: %u)</translation>
+        <translation>ВсE�ановити розмір пулсEклюсE�в &lt;n&gt; (типово: %u)</translation>
     </message>
     <message>
         <source>Set maximum BIP141 block weight (default: %d)</source>
-        <translation>Встановити максимальний розмір блоку BIP141 (за замовчуванням: %d)</translation>
+        <translation>ВсE�ановити максE�мальний розмір блоксEBIP141 (за замовсE�ванням: %d)</translation>
     </message>
     <message>
         <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>Встановити число потоків для обслуговування викликів RPC (типово: %d)</translation>
+        <translation>ВсE�ановити сE�сE�о потоків длсEобсE�уговуваннсEвикликів RPC (типово: %d)</translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
-        <translation>Вказати файл конфігурації (типово: %s)</translation>
+        <translation>Вказати сE�йл консE�гурасE�сE(типово: %s)</translation>
     </message>
     <message>
         <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-        <translation>Вказати тайм-аут підключення в мілісекундах (щонайменше: 1, типово: %d)</translation>
+        <translation>Вказати тайм-аусEпідклюсE�ннсEв мілісE�кундасE(щонайменше: 1, типово: %d)</translation>
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>Вказати pid-файл (типово: %s)</translation>
+        <translation>Вказати pid-сE�йл (типово: %s)</translation>
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-        <translation>Витрачати непідтверджену решту при відправленні транзакцій (типово: %u)</translation>
+        <translation>ВитрасE�ти непідтвердженсEрештсEпри відправленнсEтранзаксE�й (типово: %u)</translation>
     </message>
     <message>
         <source>Starting network threads...</source>
-        <translation>Запуск мережевих потоків...</translation>
+        <translation>ЗапусE� мережевисEпотоків...</translation>
     </message>
     <message>
         <source>The wallet will avoid paying less than the minimum relay fee.</source>
-        <translation>Гаманець не не переведе кошти якщо комісія менше мінімальної плати за транзакцію.</translation>
+        <translation>ГаманесE�Eне не переведе кошти якщо комісE�сEменше мінімальносEплати за транзаксE�сE</translation>
     </message>
     <message>
         <source>This is the minimum transaction fee you pay on every transaction.</source>
-        <translation>Це мінімальна плата за транзакцію, яку ви сплачуєте за кожну операцію.</translation>
+        <translation>Це мінімальна плата за транзаксE�сE яксEви сE�ласE�єте за кожнсEоперасE�сE</translation>
     </message>
     <message>
         <source>This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Це транзакційна комісія, яку ви сплатите, якщо будете надсилати транзакцію.</translation>
+        <translation>Це транзаксE�йна комісE�сE яксEви сE�латите, якщо будете надсE�лати транзаксE�сE</translation>
     </message>
     <message>
         <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>Поріг відключення учасників з поганою поведінкою (типово: %u)</translation>
+        <translation>Поріг відклюсE�ннсEусE�сE�иків з поганосEповедінкосE(типово: %u)</translation>
     </message>
     <message>
         <source>Transaction amounts must not be negative</source>
-        <translation>Сума транзакції занадто мала (зменьшіть комісію, якщо можливо)</translation>
+        <translation>Сума транзаксE�сEзанадто мала (зменьшітсEкомісE�сE якщо можливо)</translation>
     </message>
     <message>
         <source>Transaction has too long of a mempool chain</source>
-        <translation>У транзакції занадто довгий ланцюг</translation>
+        <translation>У транзаксE�сEзанадто довгий лансE�г</translation>
     </message>
     <message>
         <source>Transaction must have at least one recipient</source>
-        <translation>У транзакції повинен бути щонайменше один одержувач</translation>
+        <translation>У транзаксE�сEповинен бути щонайменше один одержувасE/translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
@@ -3243,35 +3243,35 @@
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Недостатньо коштів</translation>
+        <translation>НедосE�атньо коштів</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Завантаження індексу блоків...</translation>
+        <translation>ЗавантаженнсEіндексE�Eблоків...</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Додати вузол до підключення і лишити його відкритим</translation>
+        <translation>Додати вузол до підклюсE�ннсEсEлишити його відкритим</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Завантаження гаманця...</translation>
+        <translation>ЗавантаженнсEгамансE�E..</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>Не вдається понизити версію гаманця</translation>
+        <translation>Не вдаєтьсE�Eпонизити версE�сEгамансE�E/translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Неможливо записати типову адресу</translation>
+        <translation>Неможливо записE�ти типовсEадресE�E/translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Сканування...</translation>
+        <translation>СкануваннсE..</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Завантаження завершене</translation>
+        <translation>ЗавантаженнсEзавершене</translation>
     </message>
     <message>
         <source>Error</source>

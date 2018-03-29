@@ -773,7 +773,7 @@ Thanks to everyone who directly contributed to this release:
 - Alex Morcos
 - Alexey Vesnin
 - Amir Abrams
-- Anders Øyvind Urke-Sætre
+- Anders ÁEvind Urke-Sætre
 - Anditto Heristyo
 - Andrew Chow
 - anduck

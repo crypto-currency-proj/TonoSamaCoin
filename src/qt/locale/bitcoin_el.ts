@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>Δημιουργία νέου λογαριασμού</translation>
+        <translation>ΔημιορE�γία νέορEλογαριασμορE/translation>
     </message>
     </context>
 <context>
@@ -13,15 +13,15 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Εισάγετε συνθηματικό</translation>
+        <translation>ΕισάγερE� σρE�θημαρE�κρE/translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Νέο συνθηματικό</translation>
+        <translation>Νέο σρE�θημαρE�κρE/translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Επαναλάβετε νέο συνθηματικό</translation>
+        <translation>ΕπαναλάβερE� νέο σρE�θημαρE�κρE/translation>
     </message>
     </context>
 <context>
@@ -31,15 +31,15 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Quit application</source>
-        <translation>Κλείσιμο εφαρμογής</translation>
+        <translation>Κλείσιμο ερE�ρμογήρE/translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Πορτοφόλι</translation>
+        <translation>ΠορE�E�ρE�λι</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Σφάλμα</translation>
+        <translation>ΣρE�λμα</translation>
     </message>
     </context>
 <context>
@@ -53,11 +53,11 @@
     <name>EditAddressDialog</name>
     <message>
         <source>&amp;Label</source>
-        <translation>Ετικέτα</translation>
+        <translation>ΕρE�κέρE�</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>Διεύθυνση</translation>
+        <translation>ΔιεύθρE�ση</translation>
     </message>
     </context>
 <context>
@@ -74,11 +74,11 @@
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Καλώς Ήλθατε</translation>
+        <translation>ΚαλώρEΉλθαρE�</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Σφάλμα</translation>
+        <translation>ΣρE�λμα</translation>
     </message>
     </context>
 <context>
@@ -91,7 +91,7 @@
     <name>OptionsDialog</name>
     <message>
         <source>W&amp;allet</source>
-        <translation>Πορτοφόλι</translation>
+        <translation>ΠορE�E�ρE�λι</translation>
     </message>
     </context>
 <context>
@@ -116,14 +116,14 @@
     <name>RPCConsole</name>
     <message>
         <source>Services</source>
-        <translation>Υπηρεσίες</translation>
+        <translation>ΥπηρεσίερE/translation>
     </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>Remove</source>
-        <translation>Αφαίρεση</translation>
+        <translation>ΑρE�ίρεση</translation>
     </message>
     </context>
 <context>
@@ -136,18 +136,18 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Κεφάλαια μη επαρκή</translation>
+        <translation>ΚερE�λαια μη επαρκή</translation>
     </message>
     <message>
         <source>Recommended:</source>
-        <translation>Συνίσταται:</translation>
+        <translation>ΣρE�ίσρE�ρE�ι:</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>Message:</source>
-        <translation>Μήνυμα:</translation>
+        <translation>ΜήνρE�α:</translation>
     </message>
     </context>
 <context>
@@ -193,23 +193,23 @@
     <name>bitcoin-core</name>
     <message>
         <source>Insufficient funds</source>
-        <translation>Κεφάλαια μη επαρκή</translation>
+        <translation>ΚερE�λαια μη επαρκή</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Φόρτωση πορτοφολιού...</translation>
+        <translation>ΦόρE�E�ση πορE�E�ρE�λιορE..</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Επανάληψη σάρωσης</translation>
+        <translation>Επανάληψη σάρE�σηρE/translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Η φόρτωση ολοκληρώθηκε</translation>
+        <translation>΁EρE�ρE�E�ση ολοκληρE�θηκε</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Σφάλμα</translation>
+        <translation>ΣρE�λμα</translation>
     </message>
 </context>
 </TS>

@@ -3,15 +3,15 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>නව ලිපිනයක් සාදන්න</translation>
+        <translation>නව ලිපිනයකශEශE��දන්න</translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>කාසි යැවිය යුතු ලිපිනය තෝරන්න</translation>
+        <translation>කාශE��Eයැවිය යුතශEලිපිනය තෝරන්න</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>කාසි ලැබිය යුතු ලිපිනය තෝරන්න</translation>
+        <translation>කාශE��Eලැබිය යුතශEලිපිනය තෝරන්න</translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ලේබලයක් නැත)</translation>
+        <translation>(ලේබලයකශEනැත)</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Warning</source>
-        <translation>අවවාදය</translation>
+        <translation>ඁE��වාදය</translation>
     </message>
     <message>
         <source>Information</source>
@@ -62,19 +62,19 @@
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>බයිට්ස්:</translation>
+        <translation>බයිට්ශE��E</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>අගය:</translation>
+        <translation>ඁE��ය:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>ගාස්තුව:</translation>
+        <translation>ගාශE��තුව:</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>අගය</translation>
+        <translation>ඁE��ය</translation>
     </message>
     <message>
         <source>Date</source>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>yes</source>
-        <translation>ඔව්</translation>
+        <translation>ඔවශE/translation>
     </message>
     <message>
         <source>no</source>
@@ -90,11 +90,11 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ලේබලයක් නැත)</translation>
+        <translation>(ලේබලයකශEනැත)</translation>
     </message>
     <message>
         <source>(change)</source>
-        <translation>(වෙනස)</translation>
+        <translation>(වෙනශE</translation>
     </message>
 </context>
 <context>
@@ -114,14 +114,14 @@
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>ආයුබෝවන්</translation>
+        <translation>ඁE��ුබෝවනශE/translation>
     </message>
     </context>
 <context>
     <name>ModalOverlay</name>
     <message>
         <source>calculating...</source>
-        <translation>ගණනනය කරමින්...</translation>
+        <translation>ගණනනය කරමිනශE..</translation>
     </message>
     </context>
 <context>
@@ -163,7 +163,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>අගය</translation>
+        <translation>ඁE��ය</translation>
     </message>
     </context>
 <context>
@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>අගය</translation>
+        <translation>ඁE��ය</translation>
     </message>
     <message>
         <source>Label</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ලේබලයක් නැත)</translation>
+        <translation>(ලේබලයකශEනැත)</translation>
     </message>
     </context>
 <context>
@@ -216,19 +216,19 @@
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>බයිට්ස්:</translation>
+        <translation>බයිට්ශE��E</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>අගය:</translation>
+        <translation>ඁE��ය:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>ගාස්තුව:</translation>
+        <translation>ගාශE��තුව:</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ලේබලයක් නැත)</translation>
+        <translation>(ලේබලයකශEනැත)</translation>
     </message>
 </context>
 <context>
@@ -257,7 +257,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>අගය</translation>
+        <translation>ඁE��ය</translation>
     </message>
     </context>
 <context>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ලේබලයක් නැත)</translation>
+        <translation>(ලේබලයකශEනැත)</translation>
     </message>
     </context>
 <context>
@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>අවවාදය</translation>
+        <translation>ඁE��වාදය</translation>
     </message>
     </context>
 </TS>

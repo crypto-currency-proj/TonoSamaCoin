@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>ঠিকানা কিংবা লেভেল সম্পাদনার জন্য রাইট-ক্লিক করুন</translation>
+        <translation>ঠিকানা কিংবা লুE��ুE�� সম্পাদনার জন্য রাঁE��Eক্লিঁEকরুন</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -104,11 +104,11 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>প্রবেশকৃত ঠিকানাটি শুদ্ধ নয়।</translation>
+        <translation>প্রবুE��কুE�� ঠিকানাটি শুদ্ধ নয়।</translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>অনুগ্রহ করে স্বাক্ষরটি পুনরায় পরীক্ষা করে আবারও চেষ্টা করুন।</translation>
+        <translation>ঁE��ুগ্রহ করুEস্বাক্ষরটি পুনরাুEপরীক্ষা করুEঁE��ারঁEচুE��্টা করুন।</translation>
     </message>
     </context>
 <context>
@@ -149,31 +149,31 @@
     <name>bitcoin-core</name>
     <message>
         <source>Block creation options:</source>
-        <translation>ব্লক তৈরির অপশনগুলো:</translation>
+        <translation>ব্লঁEতৈরির ঁE��শনগুলুE</translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
-        <translation>ডিবাগিং/টেস্টিং অপশন:</translation>
+        <translation>ডিবাগিঁEটুE��্টিঁEঁE��শন:</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>আপনি কি পুনরায় ব্লক ডাটাবেইজ এখনই তৈরি করতে চান?</translation>
+        <translation>ঁE��নি কি পুনরাুEব্লঁEডাটাবুE��E��EএখনঁEতৈরি করতুEচান?</translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>আরপিসি সার্ভার অপশন:</translation>
+        <translation>ঁE��পিসি সার্ভার ঁE��শন:</translation>
     </message>
     <message>
         <source>This is experimental software.</source>
-        <translation>এটি পরীক্ষামূলক সফটওয়্যার।</translation>
+        <translation>এটি পরীক্ষামূলঁEসফটওয়্যার।</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>লেনদেনের পরিমান অনেক ছোট</translation>
+        <translation>লুE��দুE��ুE�� পরিমান ঁE��ুE��EছোঁE/translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>লেনদেনর অংক অনেক বড়</translation>
+        <translation>লুE��দুE��র ঁE��ঁEঁE��ুE��EবুE/translation>
     </message>
     <message>
         <source>Warning</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>ঠিকানাগুলো লোডিং হচ্ছে...</translation>
+        <translation>ঠিকানাগুলুEলোডিঁEহচ্ছুE..</translation>
     </message>
     </context>
 </TS>

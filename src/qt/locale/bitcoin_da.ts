@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>&amp;Åbn URI…</translation>
+        <translation>&amp;ÁEn URI…</translation>
     </message>
     <message>
         <source>Click to disable network activity.</source>
@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Åbn fejlsøgnings- og diagnosticeringskonsollen</translation>
+        <translation>ÁEn fejlsøgnings- og diagnosticeringskonsollen</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -415,7 +415,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Anmod om betalinger (genererer QR-koder og “litecoin:”-URI'er)</translation>
+        <translation>Anmod om betalinger (genererer QR-koder og “litecoin: EURI'er)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Åbn en “litecoin:”-URI eller betalingsanmodning</translation>
+        <translation>ÁEn en “litecoin: EURI eller betalingsanmodning</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -743,11 +743,11 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Den indtastede adresse “%1” er ikke en gyldig Litecoin-adresse.</translation>
+        <translation>Den indtastede adresse  E1 Eer ikke en gyldig Litecoin-adresse.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>Den indtastede adresse “%1” er allerede i adressebogen.</translation>
+        <translation>Den indtastede adresse  E1 Eer allerede i adressebogen.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -817,7 +817,7 @@
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Vælg sprog; fx “da_DK” (standard: systemsprog)</translation>
+        <translation>Vælg sprog; fx “da_DK E(standard: systemsprog)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -864,7 +864,7 @@
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>Fejl: Angivet datamappe “%1” kan ikke oprettes.</translation>
+        <translation>Fejl: Angivet datamappe  E1 Ekan ikke oprettes.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -934,11 +934,11 @@
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Åbn URI</translation>
+        <translation>ÁEn URI</translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>Åbn betalingsanmodning fra URI eller fil</translation>
+        <translation>ÁEn betalingsanmodning fra URI eller fil</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -1049,7 +1049,7 @@
     </message>
     <message>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn automatisk Litecoin-klientens port på routeren. Dette virker kun, når din router understøtter UPnP, og UPnP er aktiveret.</translation>
+        <translation>ÁEn automatisk Litecoin-klientens port på routeren. Dette virker kun, når din router understøtter UPnP, og UPnP er aktiveret.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1448,7 +1448,7 @@
     <name>QObject::QObject</name>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
-        <translation>Fejl: Angivet datamappe “%1” eksisterer ikke.</translation>
+        <translation>Fejl: Angivet datamappe  E1 Eeksisterer ikke.</translation>
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1. Only use key=value syntax.</source>
@@ -1594,7 +1594,7 @@
     </message>
     <message>
         <source>Open the %1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn %1s fejlsøgningslogfil fra den aktuelle datamappe. Dette kan tage nogle få sekunder for store logfiler.</translation>
+        <translation>ÁEn %1s fejlsøgningslogfil fra den aktuelle datamappe. Dette kan tage nogle få sekunder for store logfiler.</translation>
     </message>
     <message>
         <source>Decrease font size</source>
@@ -1650,7 +1650,7 @@
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Åbn</translation>
+        <translation>&amp;ÁEn</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2026,7 +2026,7 @@
     </message>
     <message>
         <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then "per kilobyte" only pays 250 satoshis in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis det brugertilpassede gebyr er sat til 1000 satoshis, og transaktionen kun fylder 250 byte, betaler “pr. kilobyte” kun 250 satoshis i gebyr, mens “total mindst” betaler 1000 satoshis. For transaktioner større end en kilobyte betaler begge pr. kilobyte.</translation>
+        <translation>Hvis det brugertilpassede gebyr er sat til 1000 satoshis, og transaktionen kun fylder 250 byte, betaler “pr. kilobyte Ekun 250 satoshis i gebyr, mens “total mindst Ebetaler 1000 satoshis. For transaktioner større end en kilobyte betaler begge pr. kilobyte.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -2289,7 +2289,7 @@
     </message>
     <message>
         <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>En besked, som blev føjet til “bitcon:”-URI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over Litecoin-netværket.</translation>
+        <translation>En besked, som blev føjet til “bitcon: EURI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over Litecoin-netværket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2326,7 +2326,7 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Signaturer – Underskriv/verificér en besked</translation>
+        <translation>Signaturer  EUnderskriv/verificér en besked</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
@@ -2378,7 +2378,7 @@
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Nulstil alle “signér besked”-felter</translation>
+        <translation>Nulstil alle “signér besked Efelter</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -2406,11 +2406,11 @@
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Nulstil alle “verificér besked”-felter</translation>
+        <translation>Nulstil alle “verificér besked Efelter</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>Klik “Signér besked” for at generere underskriften</translation>
+        <translation>Klik “Signér besked Efor at generere underskriften</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2479,11 +2479,11 @@
     <name>TransactionDesc</name>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Åben i %n yderligere blok</numerusform><numerusform>Åben i %n yderligere blokke</numerusform></translation>
+        <translation><numerusform>ÁEen i %n yderligere blok</numerusform><numerusform>ÁEen i %n yderligere blokke</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Åben indtil %1</translation>
+        <translation>ÁEen indtil %1</translation>
     </message>
     <message>
         <source>conflicted with a transaction with %1 confirmations</source>
@@ -2623,7 +2623,7 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Minede litecoins skal modne %1 blokke, før de kan bruges. Da du genererede denne blok, blev den transmitteret til netværket for at blive føjet til blokkæden. Hvis det ikke lykkes at få den i kæden, vil dens tilstand ændres til “ikke accepteret”, og den vil ikke kunne bruges. Dette kan ske nu og da, hvis en anden knude udvinder en blok inden for nogle få sekunder fra din.</translation>
+        <translation>Minede litecoins skal modne %1 blokke, før de kan bruges. Da du genererede denne blok, blev den transmitteret til netværket for at blive føjet til blokkæden. Hvis det ikke lykkes at få den i kæden, vil dens tilstand ændres til “ikke accepteret E og den vil ikke kunne bruges. Dette kan ske nu og da, hvis en anden knude udvinder en blok inden for nogle få sekunder fra din.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2677,11 +2677,11 @@
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Åben i %n yderligere blok</numerusform><numerusform>Åben i %n yderligere blokke</numerusform></translation>
+        <translation><numerusform>ÁEen i %n yderligere blok</numerusform><numerusform>ÁEen i %n yderligere blokke</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Åben indtil %1</translation>
+        <translation>ÁEen indtil %1</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -3123,7 +3123,7 @@
     </message>
     <message>
         <source>Reduce storage requirements by enabling pruning (deleting) of old blocks. This allows the pruneblockchain RPC to be called to delete specific blocks, and enables automatic pruning of old blocks if a target size in MiB is provided. This mode is incompatible with -txindex and -rescan. Warning: Reverting this setting requires re-downloading the entire blockchain. (default: 0 = disable pruning blocks, 1 = allow manual pruning via RPC, &gt;%u = automatically prune block files to stay under the specified target size in MiB)</source>
-        <translation>Reducér pladskravene ved at beskære (slette, “prune”) gamle blokke. Dette tillader pruneblockchain-RPC'en at blive kaldt for at slette specifikke blokke, og det aktiverer automatisk beskæring af gamle blokke, hvis en målstørrelse i MiB er angivet. Denne tilstand er ikke kompatibel med -txindex og -rescan. Advarsel: Fortrydelse af denne indstilling kræver download af hele blokkæden igen. (standard: 0 = slå beskæring af blokke fra, 1 = tillad manuel beskæring via RPC, &gt;%u = beskær automatisk blokfiler for at bliver under den angivne målstørrelse i MiB)</translation>
+        <translation>Reducér pladskravene ved at beskære (slette, “prune E gamle blokke. Dette tillader pruneblockchain-RPC'en at blive kaldt for at slette specifikke blokke, og det aktiverer automatisk beskæring af gamle blokke, hvis en målstørrelse i MiB er angivet. Denne tilstand er ikke kompatibel med -txindex og -rescan. Advarsel: Fortrydelse af denne indstilling kræver download af hele blokkæden igen. (standard: 0 = slå beskæring af blokke fra, 1 = tillad manuel beskæring via RPC, &gt;%u = beskær automatisk blokfiler for at bliver under den angivne målstørrelse i MiB)</translation>
     </message>
     <message>
         <source>Set lowest fee rate (in %s/kB) for transactions to be included in block creation. (default: %s)</source>
@@ -3139,7 +3139,7 @@
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Dette er en foreløbig testudgivelse – brug på eget ansvar – brug ikke til mining eller handelsprogrammer</translation>
+        <translation>Dette er en foreløbig testudgivelse  Ebrug på eget ansvar  Ebrug ikke til mining eller handelsprogrammer</translation>
     </message>
     <message>
         <source>Unable to rewind the database to a pre-fork state. You will need to redownload the blockchain</source>
@@ -3195,7 +3195,7 @@
     </message>
     <message>
         <source>Cannot resolve -%s address: '%s'</source>
-        <translation>Kan ikke finde -%s-adressen: “%s”</translation>
+        <translation>Kan ikke finde -%s-adressen:  Es E/translation>
     </message>
     <message>
         <source>Chain selection options:</source>
@@ -3203,7 +3203,7 @@
     </message>
     <message>
         <source>Change index out of range</source>
-        <translation>Ændr indeks uden for interval</translation>
+        <translation>ÁEdr indeks uden for interval</translation>
     </message>
     <message>
         <source>Connection options:</source>
@@ -3279,7 +3279,7 @@
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>Åbning af blokdatabase mislykkedes</translation>
+        <translation>ÁEning af blokdatabase mislykkedes</translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
@@ -3303,15 +3303,15 @@
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
-        <translation>Ugyldig -onion adresse: “%s”</translation>
+        <translation>Ugyldig -onion adresse:  Es E/translation>
     </message>
     <message>
         <source>Invalid amount for -%s=&lt;amount&gt;: '%s'</source>
-        <translation>Ugyldigt beløb for -%s=&lt;beløb&gt;: “%s”</translation>
+        <translation>Ugyldigt beløb for -%s=&lt;beløb&gt;:  Es E/translation>
     </message>
     <message>
         <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
-        <translation>Ugyldigt beløb for -fallbackfee=&lt;beløb&gt;: “%s”</translation>
+        <translation>Ugyldigt beløb for -fallbackfee=&lt;beløb&gt;:  Es E/translation>
     </message>
     <message>
         <source>Keep the transaction memory pool below &lt;n&gt; megabytes (default: %u)</source>
@@ -3467,7 +3467,7 @@
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-        <translation>Ugyldigt beløb for -maxtxfee=&lt;beløb&gt;: “%s” (skal være på mindst minrelay-gebyret på %s for at undgå hængende transaktioner)</translation>
+        <translation>Ugyldigt beløb for -maxtxfee=&lt;beløb&gt;:  Es E(skal være på mindst minrelay-gebyret på %s for at undgå hængende transaktioner)</translation>
     </message>
     <message>
         <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
@@ -3527,11 +3527,11 @@
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>Ugyldigt beløb for -paytxfee=&lt;beløb&gt;: “%s” (skal være mindst %s)</translation>
+        <translation>Ugyldigt beløb for -paytxfee=&lt;beløb&gt;:  Es E(skal være mindst %s)</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>Ugyldig netmaske angivet i -whitelist: “%s”</translation>
+        <translation>Ugyldig netmaske angivet i -whitelist:  Es E/translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
@@ -3539,7 +3539,7 @@
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>Nødt til at angive en port med -whitebinde: “%s”</translation>
+        <translation>Nødt til at angive en port med -whitebinde:  Es E/translation>
     </message>
     <message>
         <source>Node relay options:</source>
@@ -3767,7 +3767,7 @@
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>Ugyldig -proxy adresse: “%s”</translation>
+        <translation>Ugyldig -proxy adresse:  Es E/translation>
     </message>
     <message>
         <source>Keypool ran out, please call keypoolrefill first</source>
@@ -3876,7 +3876,7 @@
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Ukendt netværk anført i -onlynet: “%s”</translation>
+        <translation>Ukendt netværk anført i -onlynet:  Es E/translation>
     </message>
     <message>
         <source>Insufficient funds</source>

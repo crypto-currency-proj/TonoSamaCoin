@@ -3,39 +3,39 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>Шинэ хаяг нээх</translation>
+        <translation>ШинсEсE�яг нээсE/translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;Шинэ</translation>
+        <translation>&amp;ШинсE/translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Одоогоор сонгогдсон байгаа хаягуудыг сануулах</translation>
+        <translation>Одоогоор сE�нгогдсE�н байгаа сE�ягуудыг сE�нууласE/translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Хуулах</translation>
+        <translation>&amp;ХууласE/translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>&amp;Хаах</translation>
+        <translation>&amp;ХаасE/translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Одоо сонгогдсон байгаа хаягуудыг жагсаалтаас устгах</translation>
+        <translation>Одоо сE�нгогдсE�н байгаа сE�ягуудыг жагсE�алтаасEусE�гасE/translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Сонгогдсон таб дээрхи дата-г экспортлох</translation>
+        <translation>СонгогдсE�н таб дээрсE� дата-г эксE�ортлосE/translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Экспортдлох</translation>
+        <translation>&amp;ЭксE�ортдлосE/translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Устгах</translation>
+        <translation>&amp;УсE�гасE/translation>
     </message>
     </context>
 <context>
@@ -45,15 +45,15 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Нууц үгийг оруул</translation>
+        <translation>НуусEүгийг оруул</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Шинэ нууц үг</translation>
+        <translation>ШинсEнуусEүг</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Шинэ нууц үгийг давтана уу</translation>
+        <translation>ШинсEнуусEүгийг давтана усE/translation>
     </message>
     </context>
 <context>
@@ -63,7 +63,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>&amp;Зурвас хавсаргах...</translation>
+        <translation>&amp;ЗурвасEсE�всE�ргасE..</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -79,23 +79,23 @@
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Гүйлгээнүүдийн түүхийг харах</translation>
+        <translation>Гүйлгээнүүдийн түүсE�йг сE�расE/translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>Гарах</translation>
+        <translation>ГарасE/translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Програмаас Гарах</translation>
+        <translation>ПрограмаасEГарасE/translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>&amp;Клиентийн тухай</translation>
+        <translation>&amp;Клиентийн тусE�й</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Клиентийн тухай мэдээллийг харуул</translation>
+        <translation>Клиентийн тусE�й мэдээллийг сE�руул</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -103,27 +103,27 @@
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Түрүйвчийг цоожлох...</translation>
+        <translation>&amp;ТүрүйвсE�йг сE�ожлосE..</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Түрүйвчийг Жоорлох...</translation>
+        <translation>&amp;ТүрүйвсE�йг ЖоорлосE..</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Нууц Үгийг Солих...</translation>
+        <translation>&amp;НуусEҮгийг СолисE..</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Хүлээн авах хаяг</translation>
+        <translation>Хүлээн авасEсE�яг</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Түрүйвчийг цоожлох нууц үгийг солих</translation>
+        <translation>ТүрүйвсE�йг сE�ожлосEнуусEүгийг сE�лисE/translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
+        <translation>Оношилгоо ба засE�арын консE�лыг онгойлго</translation>
     </message>
     <message>
         <source>Litecoin</source>
@@ -131,11 +131,11 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Түрүйвч</translation>
+        <translation>ТүрүйвсE/translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Харуул / Нуу</translation>
+        <translation>&amp;Харуул / НусE/translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -143,11 +143,11 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Тохиргоо</translation>
+        <translation>&amp;ТосE�ргоо</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Тусламж</translation>
+        <translation>&amp;ТусE�амж</translation>
     </message>
     <message>
         <source>Error</source>
@@ -159,30 +159,30 @@
     </message>
     <message>
         <source>Up to date</source>
-        <translation>Шинэчлэгдсэн</translation>
+        <translation>ШинэсE�эгдсE�н</translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Гадагшаа гүйлгээ</translation>
+        <translation>Гадагшаа гүйлгэсE/translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Дотогшоо гүйлгээ</translation>
+        <translation>Дотогшоо гүйлгэсE/translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Түрүйвч &lt;b&gt;цоожтой&lt;/b&gt; ба одоогоор цоож &lt;b&gt;онгорхой&lt;/b&gt; байна</translation>
+        <translation>ТүрүйвсE&lt;b&gt;сE�ожтой&lt;/b&gt; ба одоогоор сE�ож &lt;b&gt;онгорсE�й&lt;/b&gt; байна</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Түрүйвч &lt;b&gt;цоожтой&lt;/b&gt; ба одоогоор цоож &lt;b&gt;хаалттай&lt;/b&gt; байна</translation>
+        <translation>ТүрүйвсE&lt;b&gt;сE�ожтой&lt;/b&gt; ба одоогоор сE�ож &lt;b&gt;сE�алттай&lt;/b&gt; байна</translation>
     </message>
     </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Amount:</source>
-        <translation>Хэмжээ:</translation>
+        <translation>ХэмжэсE</translation>
     </message>
     <message>
         <source>Fee:</source>
@@ -190,7 +190,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>Хэмжээ</translation>
+        <translation>ХэмжэсE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -205,7 +205,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Хаягийг ѳѳрчлѳх</translation>
+        <translation>Хаягийг ѳѳрсE�ѳсE/translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -223,11 +223,11 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>хувилбар</translation>
+        <translation>сE�вилбар</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>Хэрэглээ:</translation>
+        <translation>ХэрэглэсE</translation>
     </message>
     </context>
 <context>
@@ -241,7 +241,7 @@
     <name>ModalOverlay</name>
     <message>
         <source>Last block time</source>
-        <translation>Сүүлийн блокийн хугацаа</translation>
+        <translation>Сүүлийн блокийн сE�гасE�а</translation>
     </message>
     </context>
 <context>
@@ -255,34 +255,34 @@
     </message>
     <message>
         <source>MB</source>
-        <translation>МБ</translation>
+        <translation>МЁE/translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>проксигийн IP хаяг (жишээ нь: IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>проксE�гийн IP сE�яг (жишэсEнсE IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>Сүлжээ</translation>
+        <translation>СүлжэсE/translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>Түрүйвч</translation>
+        <translation>ТүрүйвсE/translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Ѳѳрчлѳлтүүдийг идэвхижүүлхийн тулд клиентийг ахин эхлүүлэх шаардлагтай</translation>
+        <translation>ѲѳрсE�ѳлтүүдийг идэвсE�жүүлсE�йн тулд клиентийг асE�н эсE�үүлэсEшаардлагтай</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Энэ ѳѳрчлѳлтийг оруулахын тулд кли1нт програмыг ахин эхлүүлэх шаардлагтай</translation>
+        <translation>ЭнсEѳѳрсE�ѳлтийг орууласE�н тулд кли1нсEпрограмыг асE�н эсE�үүлэсEшаардлагтай</translation>
     </message>
     </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Available:</source>
-        <translation>Хэрэглэж болох хэмжээ:</translation>
+        <translation>Хэрэглэж болосEсE�мжэсE</translation>
     </message>
     </context>
 <context>
@@ -295,7 +295,7 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Хэмжээ</translation>
+        <translation>ХэмжэсE/translation>
     </message>
     <message>
         <source>N/A</source>
@@ -316,7 +316,7 @@
     </message>
     <message>
         <source>Client version</source>
-        <translation>Клиентийн хувилбар</translation>
+        <translation>Клиентийн сE�вилбар</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -324,11 +324,11 @@
     </message>
     <message>
         <source>General</source>
-        <translation>Ерѳнхий</translation>
+        <translation>ЕрѳнсE�й</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>Сүлжээ</translation>
+        <translation>СүлжэсE/translation>
     </message>
     <message>
         <source>Name</source>
@@ -340,7 +340,7 @@
     </message>
     <message>
         <source>Block chain</source>
-        <translation>Блокийн цуваа</translation>
+        <translation>Блокийн сE�ваа</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
@@ -348,26 +348,26 @@
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Сүүлийн блокийн хугацаа</translation>
+        <translation>Сүүлийн блокийн сE�гасE�а</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Нээх</translation>
+        <translation>&amp;НээсE/translation>
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>&amp;Консол</translation>
+        <translation>&amp;КонсE�л</translation>
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Консолыг цэвэрлэх</translation>
+        <translation>КонсE�лыг сE�вэрлэсE/translation>
     </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>Хэмжээ:</translation>
+        <translation>ХэмжэсE</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -375,7 +375,7 @@
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>Зурвас:</translation>
+        <translation>ЗурвасE</translation>
     </message>
     <message>
         <source>Show</source>
@@ -383,18 +383,18 @@
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Сонгогдсон ѳгѳгдлүүдийг устгах</translation>
+        <translation>СонгогдсE�н ѳгѳгдлүүдийг усE�гасE/translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Устгах</translation>
+        <translation>УсE�гасE/translation>
     </message>
     </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Хаягийг &amp;Хуулбарлах</translation>
+        <translation>Хаягийг &amp;ХуулбарласE/translation>
     </message>
     </context>
 <context>
@@ -404,19 +404,19 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Зоос явуулах</translation>
+        <translation>ЗоосEявууласE/translation>
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>автоматаар сонгогдсон</translation>
+        <translation>автоматаар сE�нгогдсE�н</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Таны дансны үлдэгдэл хүрэлцэхгүй байна!</translation>
+        <translation>ТансEдансE�сEүлдэгдэл сE�рэлсE�сE�үй байна!</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Хэмжээ:</translation>
+        <translation>ХэмжэсE</translation>
     </message>
     <message>
         <source>Fee:</source>
@@ -424,23 +424,23 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Нэгэн зэрэг олон хүлээн авагчруу явуулах</translation>
+        <translation>Нэгэн зэрэг олон сE�лээн авагсE�усEявууласE/translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>&amp;Хүлээн авагчийг Нэмэх</translation>
+        <translation>&amp;Хүлээн авагсE�йг НэмэсE/translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>&amp;Бүгдийг Цэвэрлэ</translation>
+        <translation>&amp;Бүгдийг ЦэвэрлсE/translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>Баланс:</translation>
+        <translation>БалансE</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Явуулах үйлдлийг баталгаажуулна уу</translation>
+        <translation>ЯвууласEүйлдлийг баталгаажуулна усE/translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -455,7 +455,7 @@
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>Тѳлѳх &amp;хаяг:</translation>
+        <translation>ТѳлѳсE&amp;сE�яг:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -467,7 +467,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Копидсон хаягийг буулгах</translation>
+        <translation>КопидсE�н сE�ягийг буулгасE/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -475,11 +475,11 @@
     </message>
     <message>
         <source>Message:</source>
-        <translation>Зурвас:</translation>
+        <translation>ЗурвасE</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Тѳлѳх хаяг:</translation>
+        <translation>ТѳлѳсEсE�яг:</translation>
     </message>
     </context>
 <context>
@@ -489,7 +489,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>Энэ цонхыг хаагдтал компьютерээ бүү унтраагаарай</translation>
+        <translation>ЭнсEсE�нсE�г сE�агдтал компьютерэсEбүү унтраагаарай</translation>
     </message>
 </context>
 <context>
@@ -500,7 +500,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Копидсон хаягийг буулгах</translation>
+        <translation>КопидсE�н сE�ягийг буулгасE/translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -508,7 +508,7 @@
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>&amp;Бүгдийг Цэвэрлэ</translation>
+        <translation>&amp;Бүгдийг ЦэвэрлсE/translation>
     </message>
     </context>
 <context>
@@ -524,7 +524,7 @@
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Гүйлгээний дэлгэрэнгүйг энэ бичил цонх харуулж байна</translation>
+        <translation>Гүйлгээний дэлгэрэнгүйг энсEбисE�л сE�нсEсE�руулж байна</translation>
     </message>
     </context>
 <context>
@@ -553,7 +553,7 @@
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Түрүйвчийн сонголтууд:</translation>
+        <translation>ТүрүйвсE�йн сE�нголтууд:</translation>
     </message>
     <message>
         <source>Information</source>
@@ -561,35 +561,35 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Хаягуудыг ачааллаж байна...</translation>
+        <translation>Хаягуудыг асE�аллаж байна...</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>Эдгээр прокси хаягнууд буруу байна: '%s'</translation>
+        <translation>Эдгээр проксE� сE�ягнууд бурусEбайна: '%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Таны дансны үлдэгдэл хүрэлцэхгүй байна</translation>
+        <translation>ТансEдансE�сEүлдэгдэл сE�рэлсE�сE�үй байна</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Блокийн индексүүдийг ачааллаж байна...</translation>
+        <translation>Блокийн индексE�үдийг асE�аллаж байна...</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Холболт хийхийн тулд мѳн холболтой онгорхой хадгалхын тулд шинэ нод нэм</translation>
+        <translation>ХолболсEсE�йсE�йн тулд мѳн сE�лболтой онгорсE�й сE�дгалсE�н тулд шинсEнод нэм</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Түрүйвчийг ачааллаж байна...</translation>
+        <translation>ТүрүйвсE�йг асE�аллаж байна...</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Ахин уншиж байна...</translation>
+        <translation>АсE�н уншиж байна...</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Ачааллаж дууслаа</translation>
+        <translation>АсE�аллаж дуусE�аа</translation>
     </message>
     <message>
         <source>Error</source>

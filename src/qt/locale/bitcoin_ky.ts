@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Create a new address</source>
-        <translation>Жаң даректи жасоо</translation>
+        <translation>Жаң даректи жасE�о</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Ө&amp;чүрүү</translation>
+        <translation>Ө&amp;сE�рүү</translation>
     </message>
     </context>
 <context>
@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(аты жок)</translation>
+        <translation>(атсEжок)</translation>
     </message>
 </context>
 <context>
@@ -31,7 +31,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Транзакциялар</translation>
+        <translation>&amp;ТранзаксE�ялар</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Капчык</translation>
+        <translation>КапсE�к</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -59,11 +59,11 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>Эскертүү</translation>
+        <translation>ЭсE�ертүү</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Маалымат</translation>
+        <translation>МаалымасE/translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(аты жок)</translation>
+        <translation>(атсEжок)</translation>
     </message>
     </context>
 <context>
@@ -95,7 +95,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>версия</translation>
+        <translation>версE�сE/translation>
     </message>
     </context>
 <context>
@@ -115,7 +115,7 @@
     <name>OptionsDialog</name>
     <message>
         <source>MB</source>
-        <translation>МБ</translation>
+        <translation>МЁE/translation>
     </message>
     <message>
         <source>&amp;Network</source>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>Капчык</translation>
+        <translation>КапсE�к</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;Порт:</translation>
+        <translation>&amp;ПорсE</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -135,11 +135,11 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Жарайт</translation>
+        <translation>&amp;ЖарайсE/translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Жокко чыгаруу</translation>
+        <translation>&amp;Жокко сE�гарусE/translation>
     </message>
     <message>
         <source>default</source>
@@ -172,11 +172,11 @@
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>Маалымат</translation>
+        <translation>МаалымасE/translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Жалпы</translation>
+        <translation>ЖалпсE/translation>
     </message>
     <message>
         <source>Network</source>
@@ -184,19 +184,19 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Аты</translation>
+        <translation>АтсE/translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Ачуу</translation>
+        <translation>&amp;АсE�сE/translation>
     </message>
     <message>
         <source>&amp;Console</source>
-        <translation>&amp;Консоль</translation>
+        <translation>&amp;КонсE�лсE/translation>
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Консолду тазалоо</translation>
+        <translation>КонсE�лдсEтазалоо</translation>
     </message>
     </context>
 <context>
@@ -229,7 +229,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(аты жок)</translation>
+        <translation>(атсEжок)</translation>
     </message>
     </context>
 <context>
@@ -244,14 +244,14 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(аты жок)</translation>
+        <translation>(атсEжок)</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Даректи алмашуу буферинен коюу</translation>
+        <translation>Даректи алмашусEбусE�ринен коюсE/translation>
     </message>
     <message>
         <source>Message:</source>
@@ -268,7 +268,7 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Даректи алмашуу буферинен коюу</translation>
+        <translation>Даректи алмашусEбусE�ринен коюсE/translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -285,7 +285,7 @@
     <name>TransactionDesc</name>
     <message>
         <source>%1/offline</source>
-        <translation>%1/тармакта эмес</translation>
+        <translation>%1/тармакта эмесE/translation>
     </message>
     <message>
         <source>Date</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(аты жок)</translation>
+        <translation>(атсEжок)</translation>
     </message>
     </context>
 <context>
@@ -337,11 +337,11 @@
     <name>bitcoin-core</name>
     <message>
         <source>Information</source>
-        <translation>Маалымат</translation>
+        <translation>МаалымасE/translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Эскертүү</translation>
+        <translation>ЭсE�ертүү</translation>
     </message>
     <message>
         <source>Error</source>

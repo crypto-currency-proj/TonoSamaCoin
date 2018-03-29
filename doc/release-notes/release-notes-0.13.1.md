@@ -365,7 +365,7 @@ Thanks to everyone who directly contributed to this release:
 
 - adlawren
 - Alexey Vesnin
-- Anders Øyvind Urke-Sætre
+- Anders ÁEvind Urke-Sætre
 - Andrew Chow
 - Anthony Towns
 - BtcDrak
